@@ -2569,16 +2569,19 @@ tags = [
     "Video-sharing",
     "Format-bms62",
     "Use-BGI",
+    "Use-ogg",
+    "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月11日 02:04"
 comment = """
+(2026年10月11日 02:04 更新)
 「星のカービィ トリプルデラックス」よりクイン・セクトニアとの戦いの時に流れるBGM
 「狂花水月」(Moonstruck Blossom)のメタルアレンジになります。
 原曲は儚さと切なさ、妖艶で美しい様が前面に出た曲で、この曲に出会った時はかなり衝撃的でした。
 クイン・セクトニアの狂いがこの曲にマッチしすぎていてアレンジで大きく崩さないようにしたいと考え、
 曲尺やメロディはほぼそのままにしつつ少しだけリハモ・編曲して整えました。
 あとDjentフレーズもお試しで入れてみました。
-ジャンルはヘヴィーメタルというよりプログレッシブメタル寄りですね。表記上はカービィメタルにしていますが。
 ギターがメインのジャンルを今まで何回か手掛けてきましたがこの曲に限ってはニュアンスを大事にしたかったので
 ピアノ然りギターの音数が非常に多くなりました。結果、定義数が36進数では足りませんでした。許してください。
 メロディに対してレイヤーしてるシンセとかもありますが楽器の種類自体はそんな多くないんですけどね。"""
@@ -2613,8 +2616,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/shadows-gm/5oft-nebula"]
-comment_updated = "2026年10月09日 17:38"
+comment_updated = "2026年10月10日 23:06"
 comment = """
+(2026年10月10日 23:06 更新)
 (2026年10月09日 17:38 更新)
 (2026年10月02日 22:47 更新)
 (2026年10月02日 01:30 更新)
@@ -3514,8 +3518,9 @@ tags = [
     "-----",
 ]
 production = "非公開"
-comment_updated = "2026年10月01日 23:16"
+comment_updated = "2026年10月10日 23:05"
 comment = """
+(2026年10月10日 23:05 更新)
 (2026年10月01日 23:16 更新)
 [BOF22] 帰墟一葉
 For LR2 users:
@@ -3530,7 +3535,8 @@ BGA: X-chalk
 BMS Charts: KNYORG, aut_hina, Z6W2A, R054
 SPB, SPN, SPH, SPA, SPL
 DPA
-URL: https://manbow.nothing.sh/event/event_teamprofile.cgi?event=152&team=46"""
+URL: https://manbow.nothing.sh/event/event_teamprofile.cgi?event=152&team=46
+10/10: 譜面内のノートについては一切変更を行っておらず、新規譜面の追加もありません、[SPL]譜面のBGAのみ追加しております。"""
 
 [[details.revisions]]
 ver = "1"
@@ -7820,6 +7826,153 @@ SP INSANE ☆25(st6)
 6K SHD ☆24
 (FULL.ver)
 ☆23(sn5?)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "193"
+artist = "SimoFo   URL"
+genre = "Rock"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x10)"
+bpm = "191"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-ogg",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/simofrost/chiruhana"]
+comment = """
+こんにちは、SimoFrostからSimoFoに名称を変更したSimoFOです。 その間、お元気でいらっしゃいましたでしょうか。私は2年の間、軍隊に行ってきました。 北朝鮮の国境で元気に過ごしてきました。 これまで経験したさまざまなことや、私が訪れたさまざまな場所を曲にしています。 今回のBGAは、韓国の江陵に関する映像です。 BMSも面白く作ったと思いますが、やはり評価は皆さんにお任せします。
+今回も何卒よろしくお願い申し上げます‼"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "194"
+artist = "Sauxyr  (movie : illust: あかさた) URL"
+genre = "ANOMALOUS Hi-TECH"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Unit"
+charts = "CHART_3 (★x1～★x12)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/huemrpi/miasma-sauxyr-bof22"]
+comment_updated = "2026年10月10日 23:22"
+comment = """
+(2026年10月10日 23:22 更新)
+(2026年10月10日 23:04 更新)
+── 𝑠𝑜𝑙𝑎 𝑑𝑜𝑠𝑖𝑠 𝑓𝑎𝑐𝑖𝑡 𝑣𝑒𝑛𝑒𝑛𝑢𝑚
+チャタイ！ Sauxyrです。
+私がデス一揆の名付け親です。
+今回はANOMALOUS Hi-TECHというジャンルにしました。
+例外的な高い技術!!ということですね（？）
+一体何が例外というのか、ジャンルにおける例外ってなんだ...？
+テーマは毒です。毒。
+映像を初めて作ったので試行錯誤しまくってました。BGA師ってやっぱすげぇよ。
+今回は、イラストとしてあかさたさん、サポートとしてKanasaさんを呼びました。
+実はコメントもらおうとしていたんですけど、双方なんか忙しそうだったんでもらえませんでした（）
+それでは、お楽しみください！
+(7k_SP)
+BEGINNER: ☆x1
+NORMAL: ☆x5
+HYPER: ☆x8
+ANOTHER: ☆x12"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "195"
+artist = "YtzkA  (movie : YtzkA) URL"
+genre = "メロディック・サラダ"
+genre_sub = "Remix・Self"
+source = "(from BOF:TT)"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "119"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Gimmick-LongNote",
+]
+production = "非公開"
+comment = """
+こんにちは、YtzkAです。
+今回は「Caffeine Salad」のリミックスを持ってきました。
+Caffeine SaladはBOF：TTでLalioさんが出した曲でして、その年のGdbGにも収録された作品です。
+私はもともとLalioさんと知り合いでして、Caffeine Saladを聞いた途端‘これはBMSにしないと犯罪’だと言い、
+Lalioさんをチームに入れて登録しました覚えがあります。
+原曲はとてもシックで渋いカットアップ系のテクノです。
+ジャンル名も「Sample Salad」で、まさにサンプルでサラダを作っているような無秩序な雰囲気が魅力的な作品です。
+私が普段作る音楽とは別次元にあるみたいな曲ですね。
+でもそれでこそか、私はCaffeine Saladが本当に好きでして、いつかこの曲を自分のスタイルでリミックスしてみたいと思っていました。
+原曲のリズムと無秩序さを保ちながらもYtzkAらしい優しくてエモいメロディーとサウンドを作ろうと工夫しました。
+このバージョンをLalioさんに聞かせてみたら、「面白いね！」と言ってくれてとても励みになりました。
+（彼は創作の「面白い」の基準が大変厳しい人です）
+それで今年のBOFに、Lalioさんと一緒にチームを組んでますし出してもいい？と訊いてみたらそっちもOKがでました。
+ということで、Caffeine SaladのYtzkAリミックス、「カフェイン・サラダ」です。
+個人的に本当に気に入ったサウンドと構成ですが、ちょっと不自然というか気持ち悪さが漂う作品だと思います。
+そのグロテスクさもまた原曲をちゃんとリスペクトしての結果だと思ってくだされば幸いです。
+BGAは曲名通りカフェインとサラダです。全部直接撮った実写です。
+撮影後サラダは味わってみましたが、あまりおすすめはできません。
+Lalioさん、サラダにコーヒーをかけると不味いですよ。
+それではこれからもよろしくお願いします。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "196"
+artist = "Verit45   URL"
+genre = "hypersleep"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_2 (★x12～★x12)"
+bpm = "90 ～ 265"
+tags = [
+    "7Keys",
+    "Gimmick-Soflan",
+]
+production = "비공개"
+comment = "이거보다 더 잘"
 
 [[details.revisions]]
 ver = "1"

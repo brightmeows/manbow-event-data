@@ -1008,7 +1008,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:09"
-update = "2026/10/01 23:09"
+update = "2026/10/11 02:04"
 
 [[entries]]
 no = "59"
@@ -1017,8 +1017,11 @@ team = "胎動"
 title = "5OFT☆NEBULA"
 size = "51412 KB"
 addr = [
-    "bgi ver:",
+    "URL1:",
     "https://drive.google.com/file/d/1Om9Xtui832LuWhK9C7vQwNpBQKPYSZUB/view?usp=sharing",
+    "URL2:",
+    "https://wwasi.lanzoub.com/iMDym4bhd9vg",
+    "password:0000",
 ]
 genre = "Nebulacore"
 impr = "0"
@@ -1027,7 +1030,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:09"
-update = "2026/10/09 17:38"
+update = "2026/10/10 23:06"
 
 [[entries]]
 no = "60"
@@ -1367,7 +1370,14 @@ name = "KNYORG"
 team = "絶 狂乱木曜日のスーパーブラスト ~霸道上校が私に恋した! ~極大往生~"
 title = "帰墟一葉"
 size = "600000 KB"
-addr = ["https://drive.google.com/file/d/1gWCFYXCnL8OA6-XVtAcqaQyIpuzn2BE_/view?usp=sharing"]
+addr = [
+    "10/10 BGA fix/SPL chart BGA fix link:",
+    "https://drive.google.com/file/d/1_J3Omo3x2YwSJ59n003LtT-pJgkHZ62o/view?usp=sharing",
+    "(not recommended)10/02 original link:",
+    "https://drive.google.com/file/d/1gWCFYXCnL8OA6-XVtAcqaQyIpuzn2BE_/view?usp=sharing",
+    "(for 10/02 pack)BGA fix/SPL BGA patch:",
+    "https://drive.google.com/drive/folders/1l4KoGz67tk-8kja47QV9C0MO1GALp1TG?usp=drive_link",
+]
 genre = "OrientStep"
 impr = "0"
 total = "0"
@@ -1375,7 +1385,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:11"
-update = "2026/10/01 23:16"
+update = "2026/10/10 23:05"
 
 [[entries]]
 no = "79"
@@ -3350,6 +3360,77 @@ avg = "0"
 regist = "2026/10/10 16:35"
 update = "2026/10/10 16:35"
 
+[[entries]]
+no = "193"
+name = "SimoFo"
+team = "家に帰りたい"
+title = "チルハナ"
+size = "34764 KB"
+addr = ["https://drive.google.com/file/d/1oNehpm7HHxwrkqAI-CFKsn0OmiA7_7-d/view"]
+genre = "Rock"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/10 22:01"
+update = "2026/10/10 22:01"
+
+[[entries]]
+no = "194"
+name = "Sauxyr"
+team = "デス一揆"
+title = "MIASMA"
+size = "289493 KB"
+addr = [
+    "ogg",
+    "GoogleDrive:",
+    "https://drive.google.com/uc?export=download&id=1hgUTua9kGb8bZHEwbdgBHQH_c7f_zX2N",
+    "wav",
+    "GoogleDrive:",
+    "https://drive.google.com/uc?export=download&id=1Cd--YGvz9ABpcg2SRIFraIrZRV86XBZP",
+]
+genre = "ANOMALOUS Hi-TECH"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/10 23:02"
+update = "2026/10/10 23:22"
+
+[[entries]]
+no = "195"
+name = "YtzkA"
+team = "二十四節気四六時中"
+title = "カフェイン・サラダ"
+size = "40407 KB"
+addr = ["https://drive.google.com/file/d/1yeEhAceKgC88LyhE9VYZxP9-CsrEOuzA/view?usp=sharing"]
+genre = "メロディック・サラダ"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/10 23:57"
+update = "2026/10/10 23:57"
+
+[[entries]]
+no = "196"
+name = "Verit45"
+team = "chipi chipi chapa chapa {'w'}"
+title = "sysy"
+size = "446000 KB"
+addr = ["https://drive.google.com/file/d/1LqlY-ixnZWR2gFzjs4uFteHRtbGceCm8/view?usp=sharing"]
+genre = "hypersleep"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/11 02:20"
+update = "2026/10/11 02:20"
+
 [[teams]]
 no = "175"
 team = "ULTIMACY OF BOF22"
@@ -3641,7 +3722,7 @@ no = "149"
 team = "デス一揆"
 leader = "AraiYozuki"
 member = "8人"
-works = "0 / 4作品"
+works = "1 / 4作品"
 regist = "2026/09/04 06:02:45"
 update = "2026/09/08 03:32:09"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520149_20260908033209.png"
@@ -3773,7 +3854,7 @@ no = "137"
 team = "chipi chipi chapa chapa {'w'}"
 leader = "Verit45"
 member = "3人"
-works = "0 / 3作品"
+works = "1 / 3作品"
 regist = "2026/08/30 03:15:14"
 update = "2026/08/30 03:15:14"
 banner = "https://manbow.nothing.sh/event/images/teambanner_noimage.png"
@@ -3916,7 +3997,7 @@ no = "124"
 team = "二十四節気四六時中"
 leader = "YtzkA"
 member = "6人"
-works = "0 / 4作品"
+works = "1 / 4作品"
 regist = "2026/08/19 22:37:32"
 update = "2026/09/14 19:04:35"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520124_20260825161451.png"
@@ -4147,7 +4228,7 @@ no = "103"
 team = "家に帰りたい"
 leader = "みをつくし"
 member = "6人"
-works = "0 / 3作品"
+works = "1 / 3作品"
 regist = "2026/08/01 23:22:51"
 update = "2026/09/08 12:42:56"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520103_20260801233443.jpg"
@@ -4171,7 +4252,7 @@ leader = "Zelqh"
 member = "4±人"
 works = "0 / 3作品"
 regist = "2026/07/31 22:57:23"
-update = "2026/09/05 22:38:39"
+update = "2026/10/11 00:15:00"
 banner = "https://manbow.nothing.sh/event/images/teambanner_noimage.png"
 members = "Zelqh (bms/作曲/映像/イラスト) Kamanggoose (bms/作曲) Ravy (bms/作曲/イラスト) Dori (bms/サポート)"
 

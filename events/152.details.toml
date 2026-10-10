@@ -7978,3 +7978,34 @@ comment = "이거보다 더 잘"
 ver = "1"
 date = ""
 note = "初版公開"
+
+[[details]]
+num = "198"
+artist = "Peydarg & Seinagi寂甫  (movie : 纯新纯 & 未了) URL"
+genre = "Drumstep"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x11)"
+bpm = "150"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-SCN",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Difficulty-intermediate",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/peydargmusic/arcane_type4-feat"]
+comment = """
+Thanks for checking out our track & playing our BMS chart!
+This is pure Drumstep/EDM Psy/Hardstyle（Cantonese Vocaloid）by young creators from CN.
+Our visuals inspired by the Beijing-Tianjin-Hebei metro region — hope it slaps. Love from mainland CN.^ _ ^"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"

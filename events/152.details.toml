@@ -1473,6 +1473,7 @@ charts = "CHART_3 (★x3～★x12)"
 bpm = "168"
 tags = [
     "7Keys",
+    "Lang-JP",
     "Lang-US",
     "Lang-SCN",
     "Audition-Sound",
@@ -1489,8 +1490,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/blue-light-901644974/eternal-echo"]
-comment_updated = "2026年10月10日 16:26"
+comment_updated = "2026年10月12日 01:17"
 comment = """
+(2026年10月12日 01:17 更新)
 (2026年10月10日 16:26 更新)
 （初始的background.ogg漏了subbass，当前版本已更正，仅更改ogg未更改bms）
 于短暂生命中留下永恒的回响，贯穿时空证明曾热烈地活过。
@@ -1729,8 +1731,9 @@ tags = [
     "-----",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 15:53"
+comment_updated = "2026年10月11日 23:59"
 comment = """
+(2026年10月11日 23:59 更新)
 (2026年10月09日 15:53 更新)
 (2026年10月04日 15:00 更新)
 (2026年10月01日 23:28 更新)
@@ -6657,8 +6660,9 @@ tags = [
 ]
 production = "My own bedroom."
 audition = ["https://soundcloud.com/sonephglimpse-421659601/tropixies?si=f8f0a992442a491e9d58cce4eecf4cb4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月07日 14:06"
+comment_updated = "2026年10月12日 03:10"
 comment = """
+(2026年10月12日 03:10 更新)
 (2026年10月07日 14:06 更新)
 Tropixies是我本人初次独立完成的BMS作品，除了插图以外，谱面、作编曲、BGA均由本人完成。同时，它也是各种意义上颇为复古的一作，希望它能以视听内容展现这点——尤其推荐大家使用Beatmania IIDX的皮肤来游玩及预览谱面。
 我一共制作了四种不同难度的谱面——很难想象，这竟然会是一个没玩过几次IIDX的音游玩家的杰作吧。实际上，写谱时，我的确一边考虑乐器演奏采音的连贯性，一边用手模拟键型在桌面上敲空气，制谱工作就是这样进行的。
@@ -6668,6 +6672,11 @@ Tropixies这个名字也颇有讲究，它是Tropical与Galaxies的结合——T
 BGA嘛，就随意多了。故事与基调基本奠定的情况下，我的脑海中已经产生了草稿，于是我使用了剪映自带的素材库完成全部剪辑，自己也对于这个BGA的创作相当满意。当然，在细节上，我也下了些功夫，比如使用滤镜做旧、试图复刻千禧年以及早期beatmania BGA比较富有特色的排版风格——我希望能够以此致敬beatmania。
 如果您能够一路阅读到这里，无论是通过翻译器，还是您也是中文母语者，我都将不胜感激。我的梦想即是成功提交作品到会场、参赛成功，仅此而已。我会羡慕能够提交更优质作品的BMS作者，但我依旧感谢愿意坚持梦想的自己。
 可以的话，我还希望能够特别鸣谢Rigël Theatre先生。在我对于编曲非常迷茫与困顿的一个阶段，他曾提供过一些堪比救命稻草的建议，使我真正能够不放弃作编曲这个爱好。"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/07 14:06"
+note = "Self comment was slightly edited."
 
 [[details.revisions]]
 ver = "2"
@@ -6680,9 +6689,9 @@ date = "2026/10/05 23:30"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "Self comment was slightly edited."
+note = "After careful checks, several keynotes were not working well due to some technical problems. After repairing them, a new URL was generated. URL for Chinese users were added as well."
 
 [[details]]
 num = "163"
@@ -8147,8 +8156,12 @@ tags = [
     "Player-beatoraja",
 ]
 production = "尖沙咀海防道近九龍公園南門"
-audition = ["https://soundcloud.com/dcwh/mobile-softee/s-Gy5kyDVPZB8"]
+audition = ["https://soundcloud.com/dcwh/mobilesoftee"]
+comment_updated = "2026年10月12日 00:40"
 comment = """
+(2026年10月12日 00:40 更新)
+(2026年10月12日 00:16 更新)
+(2026年10月11日 23:44 更新)
 DCWH
 https://link.dcwh.me/
 Ice
@@ -8158,7 +8171,232 @@ Twitter: https://x.com/lunulil
 Trina Lydia
 Twitter: https://x.com/trina_lydia
 Transendium
-https://x.com/ardentminus"""
+https://x.com/ardentminus
+(7 key)
+SPB [SP Soft Ice Cream] ☆☆☆ [3]
+SPN [SP Nutty Drumstick] ☆☆☆☆☆☆☆ [7]
+SPH [SP Lotus Cups] ☆☆☆☆☆☆☆☆☆☆☆☆ [10]
+SPA [SP Jumbo Orange] ☆☆☆☆☆☆☆☆☆☆☆ [11]
+SPI [SP Strawberry Soft Serve] ☆☆☆☆☆☆☆☆☆☆☆☆ [12]
+(14 key)
+DPN [DP Nutty Drumstick] ☆☆☆☆☆☆☆ [7]
+DPH [DP Lotus Cups] ☆☆☆☆☆☆☆☆☆☆ [10]
+DPA [DP Jumbo Orange]☆☆☆☆☆☆☆☆☆☆☆☆[12]
+DPI  [DP Strawberry Soft Serve] ☆☆☆☆☆☆☆☆☆☆☆☆ [12]"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/11 23:12"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品のアップデート"
+
+[[details]]
+num = "204"
+artist = "NOVASTAR-T  (movie : Xuan9iu) URL"
+genre = "Progressive"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_2 (★x12～★x12)"
+bpm = "96"
+tags = [
+    "7Keys",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "progrissive"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "205"
+artist = "xeninsect vs. Shigure 01  (movie : xeninsect) URL"
+genre = "BAD PIANO CORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "85"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-SCN",
+]
+production = "非公開"
+comment = """
+你好，我是xeninsect
+其实我想说的话有很多，但是我的电脑快没电了（笑
+总之都在readme里了，请务必看一下！
+对了，我不会画画，所以曲绘看上去会粗糙且难看，我很抱歉（
+祝您天天开心！
+（AI翻訳を使用しています。礼儀や表現に不備がありましたら、大変申し訳ありませんがご指摘いただけますと幸いです！）
+こんにちは、xeninsectです。
+実はお伝えしたいことがたくさんあるのですが、パソコンのバッテリーが残りわずかになってしまいまして（笑）
+とりあえず、言いたいことは全部READMEに書きましたので、ぜひ読んでみてください！
+あと、私は絵が描けないので、ジャケット絵（曲绘）が少し荒くて見苦しいかもしれませんが、どうかご容赦ください（＞＜）
+それでは、あなたが毎日楽しく過ごせますように！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "206"
+artist = "Shimomura (arr. Reanisz)  (movie : ko_nyaku / kelvin_kombinat) URL"
+genre = "Paralyzed time"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x15)"
+bpm = "96"
+tags = [
+    "7Keys",
+    "14Keys",
+    "9Keys",
+    "Lang-JP",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment_updated = "2026年10月12日 02:00"
+comment = """
+(2026年10月12日 02:00 更新)
+(2026年10月12日 00:54 更新)
+=== 譜面情報 ===
+7key BEGINNER: ☆3 (obj: Reanisz)
+7key NORMAL: ☆5 (obj: Reanisz)
+7key HYPER: ☆9 (obj: reme)
+7key ANOTHER: ☆11 (obj: ya_ti_n)
+7key Insane: ★15 (obj: Favslater)
+14key BEGINNER: ☆2 (obj: ya_ti_n)
+14key NORMAL: ☆5 (obj: ya_ti_n)
+14key HYPER: ☆8 (obj: ya_ti_n)
+14key ANOTHER: ☆11 (obj: ya_ti_n)
+9Key Beginner: ☆4 (obj: reme)
+9Key Normal: ☆13 (obj: reme)
+9Key Hyper: ☆40 (obj: reme)
+9Key EX: ☆46 (obj: reme)
+9Key Insane: ☆48 (obj: reme)
+=== コメント ===
+お久しぶりです。今年は急遽、Shimomuraが途中まで作った楽曲を僕の方でアレンジするという方法で制作することになりました。
+Shimomuraが作り出すオリエンタルな旋律を美しく届けるために尽力しつつ、個人的な趣味もたくさんねじ込みました。どうぞお楽しみください！
+(Reanisz (編曲/bms/譜面))
+お久しぶりです。今回はひどい帯状疱疹で顔面を始め色んなところに麻痺が残り、作業はおろか連絡まで麻痺させてしまいましたがなんとかバトンタッチ致しました。病室でほとんど動けず無為に時間を過ごし、かと言って痺れや痛みで眠れなかったりと不安だったのを覚えています。
+そしたら帯状疱疹の痕のように毒を残しそうなクラゲと、病臥の無重力のごとく煌びやか且つ寂しげなサウンドを添えていただきました。こんな偶然の連鎖ってあるもんなんですね。ありがたい限りです。恵まれ過ぎている。
+帯状疱疹は神経を冒しながら進行する病気で、帯状の発疹はあくまで結果のひとつに過ぎないのです。皆様もお気をつけて。
+(Shimomura (作曲))
+今作はShimomuraに代わって絵コンテとグラフィック制作を担当しつつ、BGAの全体監修という形で携わりました。
+kelvin_kombinatとの共同制作は初めての試みでしたが、うまいことやってくれて感謝です。
+作編曲のふたりが織りなす独特な世界観に、BGAとともに浸ってもらえると嬉しいです！
+(ko_nyaku (BGA))
+ko_nyakuさんの指揮下で微力ながらお手伝いさせていただきました！
+ShimomuraとReaniszの海のように深みのある楽曲とともにBGAもお楽しみいただけると幸いです
+(kelvin_kombinat (BGA))
+作曲者の方がLNを入れて欲しそうだったので、大盛りにしてみました。
+海の天気ぐらいコロコロ変わるパターンとともにお楽しみください。
+(ya_ti_n (譜面))
+そりゃもう腕を痙攣させるつもりで押しましょう！！
+(Favslater (譜面))
+ロングノーツをしこたま入れようと決めていたのですが、9Keyとロングノーツは実は相性が悪く、
+理不尽を感じさせないよう配置を調整するのに苦戦しました。
+水族館のクラゲ展示コーナーのような浮遊感も残しつつ、やりごたえのある譜面に仕上がったと思います。
+今回は深海まで潜らなくても大丈夫そうなので、お気軽に遊びに来てください。
+また、こちらの楽曲は9Keyに加えて7Key(H)も担当させていただきました。味変にどうぞ。
+(reme (譜面))"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "208"
+artist = "Frevis  (movie : ko_nyaku) URL"
+genre = "Drum'n'Bass"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x25)"
+bpm = "176"
+tags = [
+    "7Keys",
+    "14Keys",
+    "9Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-kusofumen",
+]
+production = "非公開"
+comment_updated = "2026年10月12日 02:09"
+comment = """
+(2026年10月12日 02:09 更新)
+(2026年10月12日 02:06 更新)
+(2026年10月12日 01:07 更新)
+(2026年10月12日 01:05 更新)
+=== 譜面情報 ===
+7key BEGINNER: ☆2 (obj: ya_ti_n)
+7Key NORMAL: ☆6 (obj: Rfiv)
+7key HYPER: ☆9 (obj: ya_ti_n)
+7key ANOTHER: ☆11 (obj: ya_ti_n)
+7Key INSANE (Rare:6h30m): ★25 (obj: Favslater)
+14key BEGINNER: ☆2 (obj: ya_ti_n)
+14key NORMAL: ☆5 (obj: ya_ti_n)
+14key HYPER: ☆9 (obj: ya_ti_n)
+14key ANOTHER: ☆11 (obj: ya_ti_n)
+9Key Beginner: ☆10 (obj: reme)
+9Key Normal: ☆19 (obj: reme)
+9Key Hyper: ☆41 (obj: reme)
+9Key EX: ☆47 (obj: reme)
+9Key INSANE: ☆49 (obj: reme)
+9Key SUPERINSANE: ☆50 (obj: reme)
+=== コメント ===
+人生初作曲です！
+reaniszさんに手取り足取り手伝ってもらいながら頑張りました！
+タイトルの通り某ソシャゲの赤目の黒ド………をイメージした楽曲なので、音色から感じ取ってもらえると嬉しいかもしれません。
+Rare譜面の方は自分ではギリギリクリアできそうにない譜面を作るか～ってつもりで作っております
+クリアできそうな人は頑張ってください……！
+(Favslater (作編曲/bms/譜面))
+お久しぶりです。DTM初挑戦のFavslaterをフレーズ作りからミックスまで全面的にサポートした結果、サポートと言うより濃ゆい合作のようなものに仕上がりました。DONBRA CO.LTD.に吹く新たな風をお楽しみください！
+(Reanisz (作編曲))
+Favslater初作曲！ということで、BGAもこれまでのDONBRA CO.LTD.にはない雰囲気になりました。
+最初こそ方針に悩みましたが、ストレートにボス曲っぽいBGAにしてやろうと決めてからはうまくハマった気がします。
+激しくもやかましい映像とともにたくさんスクラッチしてください♪
+(ko_nyaku (BGA))
+こんなに皿があるなら回さな損ということでいっぱい入れてみました。
+(ya_ti_n (譜面))
+スクラッチが荒ぶる曲の譜面制作は知見が少なく、かなり頭を悩ませました。
+基本的に譜面の構造が浮かぶまで曲をリピートするのですが、こちらは1週間で5,60回ぐらい聴いた気がします。
+地を這うような重低音とスクラッチのｷｭﾙｷｭﾙ感両方が楽しめるよう試行錯誤を重ねたので、たくさん遊んでください！
+ちなみに個人的なオススメはHyper譜面です。
+(reme (譜面))
+みんな、BOF楽しんでるな……俺も鼻が高いよ
+(Rfiv (譜面))"""
 
 [[details.revisions]]
 ver = "1"

@@ -555,7 +555,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:07"
-update = "2026/10/10 16:26"
+update = "2026/10/12 01:17"
 
 [[entries]]
 no = "33"
@@ -643,7 +643,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:08"
-update = "2026/10/09 15:53"
+update = "2026/10/11 23:59"
 
 [[entries]]
 no = "38"
@@ -2847,7 +2847,15 @@ name = "SonephGlimpse"
 team = "QuArtum Can'tus"
 title = "Tropixies"
 size = "63781 KB"
-addr = ["https://drive.google.com/file/d/1IKgBPzcvib1JaJNAG5qkPrdoxEeXVJ5W/view?usp=sharing"]
+addr = [
+    "Please choose one of the followings:",
+    "Google Drive:",
+    "https://drive.google.com/file/d/1b-LVILBhSDqLQ-CM3ZeOT2G6DeZN2rmL/view?usp=sharing",
+    "Baidu Netdisk:",
+    "https://pan.baidu.com/s/17jbZUkl2_8pnDH8L5R7WqQ?pwd=tpxs",
+    "The URL below is the version with errors, yet was first uploaded when registered. We promise the amount of keynotes and the length of the charts stay the same. Please ignore:",
+    "https://drive.google.com/file/d/1IKgBPzcvib1JaJNAG5qkPrdoxEeXVJ5W/view?usp=drive_link",
+]
 genre = "Latin Jazz Trance"
 impr = "0"
 total = "0"
@@ -2855,7 +2863,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/05 23:30"
-update = "2026/10/07 14:06"
+update = "2026/10/12 03:10"
 
 [[entries]]
 no = "163"
@@ -3500,7 +3508,7 @@ no = "201"
 name = "DCWH, Ice, lunul, Trina Lydia"
 team = "成為音樂源頭關注組"
 title = "Mobile Softee"
-size = "79646 KB"
+size = "7778 KB"
 addr = [
     "https://www.mediafire.com/file/n4ljx5h68cz0u0s/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D_Mobile_Softee_%5Bogg%5D.zip/file",
     "https://drive.google.com/file/d/1cj-1240Hh9MfDxvNyA5I9DXcCUHW25AM/view?usp=sharing",
@@ -3512,7 +3520,135 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/11 23:12"
-update = "2026/10/11 23:12"
+update = "2026/10/12 00:40"
+
+[[entries]]
+no = "202"
+name = "Titan Chaos × Spyro Kong"
+team = "成為音樂源頭關注組"
+title = "--------"
+size = "---- KB"
+addr = ["--------"]
+genre = "HYPERBIGBANDBAILE"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/11 23:24"
+update = "2026/10/11 23:27"
+
+[[entries]]
+no = "203"
+name = "あさり"
+team = "Ford Forest Foreigner"
+title = "--------"
+size = "---- KB"
+addr = ["--------"]
+genre = "テクノポップ"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/12 00:19"
+update = "2026/10/12 00:19"
+
+[[entries]]
+no = "204"
+name = "NOVASTAR-T"
+team = "壹式"
+title = "The Unreturning Trail"
+size = "173056 KB"
+addr = ["https://drive.google.com/file/d/1BMSwuPdH9LsJJ6ryQqVbIVb1DWdo9AHn/view?usp=sharing"]
+genre = "Progressive"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/12 00:23"
+update = "2026/10/12 00:23"
+
+[[entries]]
+no = "205"
+name = "xeninsect vs. Shigure 01"
+team = "胎動"
+title = "Lost in the Colorless Abyss"
+size = "59453 KB"
+addr = ["https://www.mediafire.com/file/b5fy3tunysmy7hd/Lost_in_the_Colorless_Abyss.zip/file"]
+genre = "BAD PIANO CORE"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/12 00:45"
+update = "2026/10/12 00:45"
+
+[[entries]]
+no = "206"
+name = "Shimomura (arr. Reanisz)"
+team = "DONBRA CO.LTD."
+title = "海月時間"
+size = "131786 KB"
+addr = [
+    "初公開バージョンです。",
+    "[BGA全部入り]",
+    "https://bms.donbra-co.ltd/blob/bof2026/%5BDONBRA_CO.LTD%5Djellyfish_time_both_ver1.0.7.zip",
+    "[beatoraja向け高画質BGA付属]",
+    "https://bms.donbra-co.ltd/blob/bof2026/%5BDONBRA_CO.LTD%5Djellyfish_time_mp4_ver1.0.7.zip",
+    "[LR2向け低画質BGA付属]",
+    "https://bms.donbra-co.ltd/blob/bof2026/%5BDONBRA_CO.LTD%5Djellyfish_time_mpeg_ver1.0.7.zip",
+]
+genre = "Paralyzed time"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/12 00:52"
+update = "2026/10/12 02:00"
+
+[[entries]]
+no = "207"
+name = "aigasa"
+team = "胎動"
+title = "--------"
+size = "---- KB"
+addr = ["--------"]
+genre = "17+"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/12 00:59"
+update = "2026/10/12 00:59"
+
+[[entries]]
+no = "208"
+name = "Frevis"
+team = "DONBRA CO.LTD."
+title = "Nox"
+size = "108087 KB"
+addr = [
+    "初公開バージョンです。",
+    "[BGA全部入り]",
+    "https://bms.donbra-co.ltd/blob/bof2026/%5BDONBRA_CO.LTD%5Dnox_both_ver1.0.1.zip",
+    "[beatoraja向け高画質BGA付属]",
+    "https://bms.donbra-co.ltd/blob/bof2026/%5BDONBRA_CO.LTD%5Dnox_mp4_ver1.0.1.zip",
+    "[LR2向け低画質BGA付属]",
+    "https://bms.donbra-co.ltd/blob/bof2026/%5BDONBRA_CO.LTD%5Dnox_mpeg_ver1.0.1.zip",
+]
+genre = "Drum'n'Bass"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/12 01:03"
+update = "2026/10/12 02:09"
 
 [[teams]]
 no = "175"
@@ -3816,9 +3952,9 @@ no = "148"
 team = "DONBRA CO.LTD."
 leader = "Reanisz"
 member = "8人"
-works = "0 / 3作品"
+works = "2 / 3作品"
 regist = "2026/09/04 04:38:06"
-update = "2026/09/20 03:20:10"
+update = "2026/10/12 01:31:02"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520148_20260920032010.png"
 members = "Reanisz (bms/作曲/編曲/譜面/作詞/サポート) Favslater (bms/作曲/編曲/譜面) Shimomura (作曲/編曲/イラスト) ko_nyaku (映像/イラスト) kelvin_kombinat (映像) ya_ti_n (譜面) Rfiv (譜面) reme (譜面)"
 
@@ -3948,7 +4084,7 @@ no = "136"
 team = "壹式"
 leader = "A.C.L.shenmang"
 member = "6人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/08/28 22:11:30"
 update = "2026/10/07 01:15:26"
 banner = "https://manbow.nothing.sh/event/images/teambanner_noimage.png"
@@ -4949,7 +5085,7 @@ no = "45"
 team = "成為音樂源頭關注組"
 leader = "紫"
 member = "13±人"
-works = "2 / 3作品"
+works = "3 / 3作品"
 regist = "2026/07/04 22:38:29"
 update = "2026/09/22 23:56:32"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520045_20260705190823.gif"
@@ -5004,7 +5140,7 @@ no = "40"
 team = "胎動"
 leader = "xeninsect"
 member = "11±人"
-works = "2 / 4作品"
+works = "4 / 4作品"
 regist = "2026/07/04 02:03:37"
 update = "2026/09/22 17:57:48"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520040_20260704024758.png"
@@ -5136,7 +5272,7 @@ no = "28"
 team = "Ford Forest Foreigner"
 leader = "あさり"
 member = "6人"
-works = "3 / 4作品"
+works = "4 / 4作品"
 regist = "2026/07/02 21:12:21"
 update = "2026/07/07 16:57:24"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520028_20260702211221.png"

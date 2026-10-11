@@ -787,7 +787,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:09"
-update = "2026/10/02 01:20"
+update = "2026/10/11 22:51"
 
 [[entries]]
 no = "47"
@@ -989,7 +989,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:09"
-update = "2026/10/01 23:48"
+update = "2026/10/11 22:50"
 
 [[entries]]
 no = "58"
@@ -2186,7 +2186,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:32"
-update = "2026/10/11 15:33"
+update = "2026/10/11 16:39"
 
 [[entries]]
 no = "126"
@@ -2234,7 +2234,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:39"
-update = "2026/10/03 10:56"
+update = "2026/10/11 16:51"
 
 [[entries]]
 no = "129"
@@ -2415,7 +2415,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/02 02:02"
-update = "2026/10/02 02:02"
+update = "2026/10/11 16:55"
 
 [[entries]]
 no = "139"
@@ -2919,7 +2919,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/07 23:29"
-update = "2026/10/09 19:23"
+update = "2026/10/11 22:34"
 
 [[entries]]
 no = "167"
@@ -3123,7 +3123,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/09 01:21"
-update = "2026/10/09 01:21"
+update = "2026/10/11 18:16"
 
 [[entries]]
 no = "179"
@@ -3209,7 +3209,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/09 15:03"
-update = "2026/10/10 10:19"
+update = "2026/10/11 21:58"
 
 [[entries]]
 no = "184"
@@ -3366,7 +3366,7 @@ name = "SimoFo"
 team = "家に帰りたい"
 title = "チルハナ"
 size = "34764 KB"
-addr = ["https://drive.google.com/file/d/1oNehpm7HHxwrkqAI-CFKsn0OmiA7_7-d/view"]
+addr = ["https://drive.google.com/file/d/1v4Rd0gHrHJM7eiwPPALCU3Xov-4q4V7h/view?usp=drive_link"]
 genre = "Rock"
 impr = "0"
 total = "0"
@@ -3374,7 +3374,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/10 22:01"
-update = "2026/10/10 22:01"
+update = "2026/10/11 16:45"
 
 [[entries]]
 no = "194"
@@ -3478,6 +3478,41 @@ median = "0"
 avg = "0"
 regist = "2026/10/11 10:45"
 update = "2026/10/11 10:51"
+
+[[entries]]
+no = "200"
+name = "Re:gats&"
+team = "KUROSHIRO"
+title = "Bridge Light 18:42"
+size = "101816 KB"
+addr = ["https://www.dropbox.com/scl/fi/477jgploswz7yxbmzs0oq/Regats_and-Bridge-Light-1842.zip?rlkey=x8oehz9od3uo52x0l1mqv8doh&st=ho5q575w&dl=1"]
+genre = "Melodic Progressive House"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/11 21:00"
+update = "2026/10/11 21:00"
+
+[[entries]]
+no = "201"
+name = "DCWH, Ice, lunul, Trina Lydia"
+team = "成為音樂源頭關注組"
+title = "Mobile Softee"
+size = "79646 KB"
+addr = [
+    "https://www.mediafire.com/file/n4ljx5h68cz0u0s/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D_Mobile_Softee_%5Bogg%5D.zip/file",
+    "https://drive.google.com/file/d/1cj-1240Hh9MfDxvNyA5I9DXcCUHW25AM/view?usp=sharing",
+]
+genre = "Hypertrance"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/11 23:12"
+update = "2026/10/11 23:12"
 
 [[teams]]
 no = "175"
@@ -4452,7 +4487,7 @@ no = "87"
 team = "KUROSHIRO"
 leader = "Nego_tiator"
 member = "5人"
-works = "0 / 4作品"
+works = "1 / 4作品"
 regist = "2026/07/22 23:30:56"
 update = "2026/07/22 23:30:56"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520087_20260722233056.png"
@@ -4914,7 +4949,7 @@ no = "45"
 team = "成為音樂源頭關注組"
 leader = "紫"
 member = "13±人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/07/04 22:38:29"
 update = "2026/09/22 23:56:32"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520045_20260705190823.gif"

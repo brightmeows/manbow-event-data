@@ -6572,11 +6572,17 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月10日 17:03"
+comment_updated = "2026年10月11日 10:00"
 comment = """
+(2026年10月11日 10:00 更新)
 (2026年10月10日 17:03 更新)
 (2026年10月08日 21:02 更新)
 これは私の2回目のBOF参加です。 すべてのBMS・音楽・BGAは私が制作しました。 よろしくお願いします～"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/10 17:03"
+note = "Stage Fileと楽曲プレビューを更新しました。新しいGoogle Driveのリンクをご確認ください。"
 
 [[details.revisions]]
 ver = "2"
@@ -6589,9 +6595,9 @@ date = "2026/10/05 15:50"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "Stage Fileと楽曲プレビューを更新しました。新しいGoogle Driveのリンクをご確認ください。"
+note = "Site Address"
 
 [[details]]
 num = "161"

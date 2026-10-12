@@ -642,8 +642,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/umeboz/bof22-36-8"]
-comment_updated = "2026年10月07日 12:45"
+comment_updated = "2026年10月12日 21:39"
 comment = """
+(2026年10月12日 21:39 更新)
 (2026年10月07日 12:45 更新)
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 魂を動かす 温度に触れた
@@ -664,8 +665,9 @@ comment = """
 今君にこの言葉を伝えられたら
 「ずっと そばにいて」
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-正直に申し上げますと、こういったメロディ、こういったテンポの楽曲が、最も気持ちよく自分を載せて作れます。
+こういったメロディ、こういったテンポの楽曲が、最も自然に自分を乗せて作れる気がしています。
 また、どこにでもあるような、でも大切な、そんな物語を愛おしく思います。
+ここ最近は、自分なりにかなり挑戦的な作品を作ることが多かったですが、
 今回、あえてこのBOFという場で、もう一度自分の作風の原点に立ち戻りたく思い、この作品を制作しました。
 しかしながら、ここ数年いろいろな作風を制作してきた経験と、3人の新しいアーティストの力により、
 自分らしさと同時に、新しさも感じられる、そんな作品になったと思います。
@@ -1007,7 +1009,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
+comment_updated = "2026年10月12日 22:27"
 comment = """
+(2026年10月12日 22:27 更新)
 「この聲を棄ててでも」
 どうも ろわいさんです
 今回仄か姫閑言楽団さんに呼ばれちゃいました すごいね
@@ -1027,6 +1031,7 @@ comment = """
 ろわいさん史上最強のハードルネッサンスをつくりました
 というわけで よろしくお願いいたします
 Roise
+10月12日追記 beatorajaでBGAが映らない問題を修正いたしました！ お手数をおかけしますが、再DL or bga.mp4の定義を削除してくださると幸いです。
 以下、Blackさんコメント
 初めての方は初めまして、知っている方はどうもです…ということでろわいさんのBGAを担当させていただきました！
 歌ものの映像は個人的にも慣れたい…というのもあり、今回は細かい部分にも少しこだわってみました（
@@ -1048,8 +1053,13 @@ Pixabay"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:05"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を修正"
 
 [[details]]
 num = "24"
@@ -5042,8 +5052,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/kakusandtm/bof22-chaigidel?si=9ae6478cbf944fd2b3e4801d679011b2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月12日 09:13"
+comment_updated = "2026年10月12日 22:45"
 comment = """
+(2026年10月12日 22:45 更新)
 (2026年10月12日 09:13 更新)
 (2026年10月12日 08:58 更新)
 BGAが追加されました。
@@ -5051,6 +5062,11 @@ Music // kakusan.
 立ちはだかる者「Chaigidel」――あなたの平穏、あなたの安定、そしてあなたの喜びさえも。
 BGA&BGI // Merong
 怠惰の悪魔"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/12 08:58"
+note = "BGAを追加"
 
 [[details.revisions]]
 ver = "2"
@@ -5063,9 +5079,9 @@ date = "2026/10/01 23:19"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "BGAを追加"
+note = "作品を修正"
 
 [[details]]
 num = "120"
@@ -7143,7 +7159,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月12日 22:31"
 comment = """
+(2026年10月12日 22:31 更新)
 初めてのBOF参加です。
 今までBMSはもっぱらプレー専でして、飲み会でNOiSさんに誘われたのを二つ返事でOKしたものの、こんな大変だと思いませんでした。
 作曲も、あんまり作品を世に出してないので、自分なんかでいいのかなという気持ちもあり、
@@ -7393,8 +7411,9 @@ tags = [
 ]
 production = "Blenderこねこね"
 audition = ["https://soundcloud.com/kl8nb/crlbgjkg1cov?si=26442b0f2c264418a4e516977ef829f3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月11日 18:16"
+comment_updated = "2026年10月12日 20:28"
 comment = """
+(2026年10月12日 20:28 更新)
 (2026年10月11日 18:16 更新)
 readmeより引用
 Title:アクセルファンク
@@ -7413,8 +7432,8 @@ SP ハイパーネオン :★24想定 obj:Lian
 [DP]
 DP NORMAL :5 obj:フォルティッシモ
 DP HYPER :9 obj:フォルティッシモ
-DP ANOTHER :11 obj:フォルティッシモ
-DP INSNANE :10 ★10想定 obj:plum
+DP ANOTHER :12 ★4-5想定 obj:フォルティッシモ
+DP INSANE :10 ★10想定 obj:plum
 [PMS]
 PMS
 N:追加予定
@@ -7898,7 +7917,7 @@ note = "初版公開"
 [[details]]
 num = "193"
 artist = "SimoFo   URL"
-genre = "Rock"
+genre = "ROCK"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Self"
@@ -7913,11 +7932,17 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/simofrost/chiruhana"]
-comment_updated = "2026年10月11日 16:45"
+comment_updated = "2026年10月12日 22:09"
 comment = """
-(2026年10月11日 16:45 更新)
+(2026年10月12日 22:09 更新)
+(2026년 10월 11일 16:45 업데이트 완료)
 안녕하세요, 저는 SimoFO입니다. 이름이 SimoFrost에서 SimoFo로 변경되었습니다. 그 기간 동안 잘 지내고 계셨길 바랍니다. 저는 군 복무를 2년째 해왔습니다. 북한 국경에서 잘 지내고 있습니다. 저는 그 노래들을 지금까지 경험한 다양한 경험과 방문한 여러 장소에 관한 노래로 바꾸죠. 이 BGA는 한국의 강릉에 관한 영상입니다. BMS도 흥미로웠던 것 같은데, 평가는 여러분께 맡기겠습니다.
 이번에도 계속해서 응원해 주셔서 진심으로 감사드립니다!!"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/11 16:45"
+note = "ASCII type Update"
 
 [[details.revisions]]
 ver = "1"
@@ -7925,9 +7950,9 @@ date = "2026/10/10 22:01"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "ASCII type Update"
+note = "V3 Update: Edit ASCII type final.final"
 
 [[details]]
 num = "194"
@@ -8633,11 +8658,16 @@ tags = [
     "Use-ogg",
     "Gimmick-LongNote",
     "Difficulty-intermediate",
+    "Player-LR2",
+    "Player-beatoraja",
 ]
-production = "BMSMaker3, Mid2BMS, プナイプナイえんそう<br>https://rykseb.com/bmpbgatool/"
+production = "BMSMaker3, Mid2BMS, プナイプナイえんそう<br>https://rykseb.com/bmpbgatool/Beatoraja / Kaleid Beat / mBMPlay"
 audition = ["https://soundcloud.com/rykseb/ukien"]
+comment_updated = "2026年10月12日 22:16"
 comment = """
+(2026年10月12日 22:16 更新)
 Ukishima Enrai (浮島遠雷)
+26/10/12 21:16~21:25(JST)の9分間のみ、BMSファイルのヘッダ情報を変えたZIPを配布しておりました。IRが分裂してしまうので、申し訳ありませんが、該当時間帯にDLされた方は改めてダウンロードをお願いいたします。
 概要 / About
 昔からBMSには、商業シーンとは異なる、ダウナーで抒情的な雰囲気を持つ作品がありました。
 そうした世界観を、今の私が出来る範囲内で再解釈したのがこの曲です。
@@ -8656,9 +8686,19 @@ ANOTHER7☆11 - npnd氏と共作。回復が多いのでTOTALを削りました�
 14KEYS☆8 -  オーソドックスなDP譜面ですが、配置はやや複雑です。"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/12 21:07"
+note = "LR2で正常に再生されない事象が確認されたため、注記を追加"
+
+[[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/12 17:09"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "3"
+date = ""
+note = "LR2での再生互換性確保のため、OGGファイルのエンコード方式を変更しました。BMSファイルは変更していないため、LR2を使用しない方は再ダウンロードの必要はありません。"
 
 [[details]]
 num = "216"
@@ -8757,6 +8797,51 @@ tags = [
 ]
 production = "非公開"
 comment = "one, two, three... one-"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "219"
+artist = "LnZ  (movie : LASTMOMENT-XZK) URL"
+genre = "Classic Trance"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "138"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-SCN",
+    "Lang-TCN",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月13日 03:29"
+comment = """
+(2026年10月13日 03:29 更新)
+BGA Preview
+https://www.bilibili.com/video/BV16RbL6QE8H
+INFO
+Title: Never Mind
+Genre: Classic Trance
+BPM: 138
+Music & BMS: LnZ
+Assistant: Nameless
+BGA: LASTMOMENT-XZK
+COMMENT
+Never Mind,意为“不必在意”
+采用了复古风格的音乐与bga，新人上路诸多不足，还是感谢支持的朋友们，祝大家看得开心"""
 
 [[details.revisions]]
 ver = "1"

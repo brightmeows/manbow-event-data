@@ -2077,8 +2077,13 @@ no = "119"
 name = "kakusan."
 team = "Cherish the Moments"
 title = "Chaigidel"
-size = "20426 KB"
-addr = ["https://drive.google.com/file/d/1MxEG2E2ECmnXfRPVtU4AgwIwU0rphmeV/view?usp=sharing"]
+size = "50148 KB"
+addr = [
+    "OGG:",
+    "https://drive.google.com/file/d/1MxEG2E2ECmnXfRPVtU4AgwIwU0rphmeV/view?usp=sharing",
+    "MP4 BGA:",
+    "https://drive.google.com/file/d/1kk_ptvh90PEBlScdRKupbAuRi_jZwiT5/view?usp=sharing",
+]
 genre = "Gothic Full-Flavor"
 impr = "0"
 total = "0"
@@ -2086,7 +2091,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:19"
-update = "2026/10/09 18:40"
+update = "2026/10/12 09:13"
 
 [[entries]]
 no = "120"
@@ -2807,7 +2812,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/04 23:47"
-update = "2026/10/09 21:32"
+update = "2026/10/12 10:19"
 
 [[entries]]
 no = "160"
@@ -3568,7 +3573,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/12 00:23"
-update = "2026/10/12 00:23"
+update = "2026/10/12 08:37"
 
 [[entries]]
 no = "205"

@@ -6584,12 +6584,9 @@ tags = [
     "7Keys",
     "Lang-JP",
     "Lang-US",
-    "Lang-KR",
     "Lang-SCN",
     "Lang-TCN",
     "Audition-Sound",
-    "Video-sharing",
-    "Use-BGA",
     "Use-BGI",
     "Use-ogg",
     "Use-avi_movie",
@@ -6600,12 +6597,21 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月11日 10:00"
+audition = ["https://soundcloud.com/huntuner/alabaster-skyline"]
+comment_updated = "2026年10月12日 19:13"
 comment = """
-(2026年10月11日 10:00 更新)
-(2026年10月10日 17:03 更新)
-(2026年10月08日 21:02 更新)
+(2026年10月12日 19:13 更新)
 これは私の2回目のBOF参加です。 すべてのBMS・音楽・BGAは私が制作しました。 よろしくお願いします～"""
+
+[[details.revisions]]
+ver = "5"
+date = "2026/10/12 19:03"
+note = "以前、SoundCloudのリンクを追加しましたが、なぜか試聴が表示されなかったので、もう一度追加し直しました。"
+
+[[details.revisions]]
+ver = "4"
+date = "2026/10/11 10:00"
+note = "Site Address"
 
 [[details.revisions]]
 ver = "3"
@@ -6623,9 +6629,9 @@ date = "2026/10/05 15:50"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "6"
 date = ""
-note = "Site Address"
+note = "先ほど確認したところ、リンクがまだ&#x8868;示されておりませんでした。今回改めて更新いたしました。"
 
 [[details]]
 num = "161"
@@ -7035,8 +7041,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/chaozbreaker/retrieve-the-fragments"]
-comment_updated = "2026年10月09日 15:31"
+comment_updated = "2026年10月12日 11:59"
 comment = """
+(2026年10月12日 11:59 更新)
 (2026年10月09日 15:31 更新)
 Compose & BMS & Chart // ChaozBreaker!
 こんにちは！はじめまして。
@@ -7049,14 +7056,19 @@ Illustration & BGA // laetzit
 初めてBGAを製作してみました！ よろしくお願いします！"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/09 15:31"
+note = "Revised Youtube link (revised LUFS version) and 作者情報, Added Soundcloud Link"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/08 01:57"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "Revised Youtube link (revised LUFS version) and 作者情報, Added Soundcloud Link"
+note = "Revised the wrong measure of the file size."
 
 [[details]]
 num = "170"
@@ -7251,9 +7263,10 @@ tags = [
     "Difficulty-senior",
 ]
 production = "Studio one 5"
-audition = ["https://soundcloud.com/56xw1vbjyxhe"]
-comment_updated = "2026年10月09日 19:16"
+audition = ["https://soundcloud.com/56xw1vbjyxhe/bof22-bipolux?si=119396de19314429beda8570fb6a3e9c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月12日 14:46"
 comment = """
+(2026年10月12日 14:46 更新)
 (2026年10月09日 19:16 更新)
 (2026年10月08日 22:49 更新)
 おはようございます。NanaSakuです。
@@ -8081,6 +8094,7 @@ tags = [
     "5Keys",
     "Lang-US",
     "File-Modify",
+    "Use-BGA",
     "Use-ogg",
     "Gimmick-LongNote",
     "Gimmick-Soflan",
@@ -8090,8 +8104,12 @@ tags = [
     "Difficulty-gimmick",
 ]
 production = "fl studio, initially ubmsc and sayaslicer, moved to befriend later."
-comment_updated = "2026年10月11日 10:51"
+comment_updated = "2026年10月12日 19:54"
 comment = """
+(2026年10月12日 19:54 更新)
+(2026年10月12日 19:12 更新)
+(2026年10月12日 19:05 更新)
+(2026年10月12日 18:59 更新)
 (2026年10月11日 10:51 更新)
 so this sounded sort of techno but obviously had harcore elements, and i was stuck on a name for this, but i was like 'hey, THERE'S A FACTOID AROUND WHERE THE INTERENT WEIGHT AS MUCH AS A 'LARGE STRAWBERRY!' so i was like hmm yessss, my bga artist made something matrix like, as of now its still WIP regarding the BGA but its really awesome!.
 for beginner, i wanted to think about what my little brother would be comfortable with, since he's 10.
@@ -8099,14 +8117,34 @@ for normal, i was thinking what would a grown casual would think, well, i wanted
 for the edit... well... the talented charter (1/8) really went wild with the soflans, huh."""
 
 [[details.revisions]]
+ver = "5"
+date = "2026/10/12 19:12"
+note = "just fixing play levels"
+
+[[details.revisions]]
+ver = "4"
+date = "2026/10/12 19:05"
+note = "okay i noticed they're supposed to be in a zip file, my bad!"
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/12 18:59"
+note = "i added a google drive mirror just in case, sorry about the borked link, the keysounds should be uploaded right now."
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/11 10:51"
+note = "had to correct some tags and the work name."
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/11 10:45"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "6"
 date = ""
-note = "had to correct some tags and the work name."
+note = "its still a work in progress but yeah."
 
 [[details]]
 num = "200"
@@ -8172,11 +8210,13 @@ tags = [
 ]
 production = "尖沙咀海防道近九龍公園南門"
 audition = ["https://soundcloud.com/dcwh/mobilesoftee"]
-comment_updated = "2026年10月12日 00:40"
+comment_updated = "2026年10月12日 13:04"
 comment = """
+(2026年10月12日 13:04 更新)
 (2026年10月12日 00:40 更新)
 (2026年10月12日 00:16 更新)
 (2026年10月11日 23:44 更新)
+"三倍ICE CREAM!!! 🍦🍦🍦"
 DCWH
 https://link.dcwh.me/
 Ice
@@ -8193,6 +8233,7 @@ SPN [SP Nutty Drumstick] ☆☆☆☆☆☆☆ [7]
 SPH [SP Lotus Cups] ☆☆☆☆☆☆☆☆☆☆☆☆ [10]
 SPA [SP Jumbo Orange] ☆☆☆☆☆☆☆☆☆☆☆ [11]
 SPI [SP Strawberry Soft Serve] ☆☆☆☆☆☆☆☆☆☆☆☆ [12]
+SP Extra [SP Scratch Flavoured] ☆? [12]
 (14 key)
 DPN [DP Nutty Drumstick] ☆☆☆☆☆☆☆ [7]
 DPH [DP Lotus Cups] ☆☆☆☆☆☆☆☆☆☆ [10]
@@ -8416,6 +8457,306 @@ Favslater初作曲！ということで、BGAもこれまでのDONBRA CO.LTD.に
 (reme (譜面))
 みんな、BOF楽しんでるな……俺も鼻が高いよ
 (Rfiv (譜面))"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "209"
+artist = "空読無 白眼   URL"
+genre = "__________"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x10)"
+bpm = "96"
+tags = [
+    "7Keys",
+    "5Keys",
+    "-----",
+]
+production = "非公開"
+comment = "家でデキゴコロ"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "211"
+artist = "numuto feat.初音ミク  (movie : sorasiro) URL"
+genre = "Electropop"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "138"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "FL studio"
+audition = ["https://soundcloud.com/kgisjhy3c6t6/priere"]
+comment = """
+初めまして？おはようございます！こんにちは！こんばんは！numutoと申します！！
+折角VOCALOIDを入手したので、使ってみました！！
+よろしくお願いします！！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "212"
+artist = "numuto  (movie : あぃら) URL"
+genre = "Hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "200"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "FL studio"
+audition = ["https://soundcloud.com/kgisjhy3c6t6/the-seventh-executioner"]
+comment = """
+初めまして？おはようございます！こんにちは！こんばんは！numutoと申します！
+気が付いたらHardcoreを作っていました！
+Another結構難しいです！！わぁお。
+よろしくお願いします！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "213"
+artist = "numuto feat. 宮舞モカ  (movie : che) URL"
+genre = "True Story"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "FL studio"
+audition = ["https://soundcloud.com/kgisjhy3c6t6/re-esperanza"]
+comment = """
+初めまして？こんにちは！おはようございます！こんばんは！numutoと申します！！
+良い感じにemotionalな作品になったと思います。
+何卒よろしくお願いします！！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "214"
+artist = "numuto  (movie : 三笠える) URL"
+genre = "TECHNO"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "165"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "FL studio"
+audition = ["https://soundcloud.com/kgisjhy3c6t6/ouranos"]
+comment = """
+初めまして？こんにちは！おはようございます！こんばんは！numutoと申します！
+明るい雰囲気のテクノを作ってみました！
+結構癖の強い譜面です！
+よろしくお願いします！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "215"
+artist = "RykSeb   URL"
+genre = "Downtempo"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x5～★x41)"
+bpm = "117"
+tags = [
+    "7Keys",
+    "14Keys",
+    "5Keys",
+    "9Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+]
+production = "BMSMaker3, Mid2BMS, プナイプナイえんそう<br>https://rykseb.com/bmpbgatool/"
+audition = ["https://soundcloud.com/rykseb/ukien"]
+comment = """
+Ukishima Enrai (浮島遠雷)
+概要 / About
+昔からBMSには、商業シーンとは異なる、ダウナーで抒情的な雰囲気を持つ作品がありました。
+そうした世界観を、今の私が出来る範囲内で再解釈したのがこの曲です。
+オールドスタイルなBMPBGAと併せてお楽しみいただければ幸甚です。
+Ever since its early days, BMS has featured works with a melancholic atmosphere distinct from the commercial scene.
+This track is my reinterpretation of that atmosphere, within the limits of my current skills.
+I hope you enjoy it along with the old-school BMPBGA.
+譜面について / About the charts
+7種類用意しています。難易度以外に大きなコンセプト差はありませんが、プレイモード毎に若干異なる音を取っており、やけに手間がかかっています。
+LIGHT7☆5 -  後半には16分やそれより細かい階段が数か所あり、難所になっています。
+7KEYS☆9 -  全体的に階段譜面ですが、若干皿複合や時間差CN要素もあります。
+ANOTHER7☆11 - npnd氏と共作。回復が多いのでTOTALを削りました。スコア難の譜面です。
+5KEYS☆7 -  混フレ・歯抜けを減らした比較的シンプルな譜面です。
+9KEYS NORMAL ☆31 -  LIGHT7をベースに少し難しくしたPMS版です。
+9KEYS HYPER  ☆41 - 7KEYSに近い譜面ですが、PMSの特性上局所難要素が強くなっています。
+14KEYS☆8 -  オーソドックスなDP譜面ですが、配置はやや複雑です。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "216"
+artist = "Yoshida Mahiro ft. 宮舞モカ  (movie : in private) URL"
+genre = "Showa Hyper Kayou"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x7～★x11)"
+bpm = "232"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "Studio One(Fenderにはまだしていません。次のセールでしたいなぁ)"
+audition = ["https://soundcloud.com/qo8laixx5adj/hefqx4azjipb?si=64971077987a44a1a88d26b7b5efc7e6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment = """
+---------Music Info--------
+Genre:
+Showa Hyper Kayou
+Title:
+未解決抒情歌
+Artist:
+Yoshida Mahiro ft.宮舞モカ
+Lyrics:
+摺り硝子越しに
+擦れる燐寸の音
+広間の洋燈が影を揺らす
+静かな廊下を歩く
+足跡から逃げるように
+私は息を殺している
+蓄音機が回る
+同じところで跳ねる
+繰り返される古い流行り歌
+最後の歌詞を繰り返し
+時計の針だけ進んでく
+こんなに夜の空気は甘いのに
+口の中は錆びた味
+これがあなたとの物語ならば
+いつまでも続いてほしいわ
+そうよ悪いのは私
+でも誰が裁けましょうか
+あなたは何も知らないもの
+この気持ちを胸の中に閉じ込めておくのを
+あなたは許してくれなかった
+被害者は私だけでいいわ
+孤独を埋めるだけの愛ならば
+無自覚な微笑みに染まる私の頬に
+いつかあなたが気づくまで
+--------BMS Info--------
+Charts(Only 7Keys):
+N: ☆7
+H: ☆10
+A: ☆11
+Comment:
+DLしていただきありがとうございます、Yoshida Mahiroと申します。
+BMSでは割と珍しい(?)、高BPMのハネリズム曲を作ってみました。
+リンゴと蜂蜜とかウソツキ横丁は雨模様みたいな曲が好きで、自分でも作ってみたいなーと思い不慣れながら頑張って作ってみました。
+生楽器が中心の曲だとBMS化も大変ですね。バスコンプかけられないのつらたん。。。
+レガートかどうかで音が変わるし、セクションでまとめないと定義数足りなくなるしで、セクションをまとめて書き出すことで何とか出来た。。。という感じです。
+でも一番大変だったのは歌詞でした。自分が音楽を聴くとは歌詞はあまり気にしませんが、いざ作るとなると違和感ないレベルで作るだけでも一苦労でした。内容としては片思いソングになるのかなぁ。。。お相手は誰なんでしょうね？
+譜面は結構癖強めですが、この曲の一番の特徴であるハネリズムを存分に味わえると思います。
+Notes数のわりにLVが低めですが、リズム難・配置難が多めなので、これは個人差結構でるな~とか思いながら作っていました。
+Randomかけての攻略が楽かも？
+気に入ったら是非インプレ、コメントお願いします!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "217"
+artist = "14.14   URL"
+genre = "HOUSE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x1～★x3)"
+bpm = "124"
+tags = [
+    "7Keys",
+    "5Keys",
+    "Lang-US",
+    "Use-BGA",
+    "Difficulty-beginner",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "one, two, three... one-"
 
 [[details.revisions]]
 ver = "1"

@@ -3687,7 +3687,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/12 15:47"
-update = "2026/10/12 15:49"
+update = "2026/10/14 04:36"
 
 [[entries]]
 no = "211"
@@ -3944,6 +3944,43 @@ median = "0"
 avg = "0"
 regist = "2026/10/14 02:28"
 update = "2026/10/14 02:28"
+
+[[entries]]
+no = "226"
+name = "めんとす"
+team = "元気もりもりティーンズ"
+title = "わんこそばを食べる日"
+size = "73000 KB"
+addr = [
+    "ogg :",
+    "https://drive.google.com/file/d/1MNdZJfdb3K_Ry5DXNYVKWmBaWufwLGOj/view?usp=sharing",
+    "wav :",
+    "https://drive.google.com/file/d/1V_Ln7SfUDm8f2Cr-ksd1VwwHwlBl3mMa/view?usp=sharing",
+]
+genre = "Kawaii UK"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/14 03:03"
+update = "2026/10/14 03:03"
+
+[[entries]]
+no = "227"
+name = "DJ ARASHI & Yo×3 feat.重音テト"
+team = "元気もりもりティーンズ"
+title = "--------"
+size = "---- KB"
+addr = ["--------"]
+genre = "RECKLESS CROSSOVER"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/14 03:14"
+update = "2026/10/14 03:14"
 
 [[teams]]
 no = "175"
@@ -5017,7 +5054,7 @@ no = "78"
 team = "元気もりもりティーンズ  チームメンバー募集中！"
 leader = "DJ ARASHI"
 member = "7人"
-works = "2 / 4作品"
+works = "4 / 4作品"
 regist = "2026/07/17 22:39:13"
 update = "2026/09/22 18:03:07"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520078_20260728181541.png"
@@ -5635,7 +5672,7 @@ leader = "Liáo理青 ✽"
 member = "10人"
 works = "0 / 4作品"
 regist = "2026/07/02 04:19:28"
-update = "2026/10/01 20:41:12"
+update = "2026/10/14 02:51:44"
 banner = "https://manbow.nothing.sh/event/images/teambanner_noimage.png"
 members = "Liáo理青 ✽ (bms/作曲) aamreu (tri) (映像) Agethacore (作曲) avery (作曲) nearocker (作曲) nuuk (bms) Syuenn (作曲) sam (bms) verlexin (作曲) sega73 (作曲)"
 

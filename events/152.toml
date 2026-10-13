@@ -3005,7 +3005,7 @@ no = "171"
 name = "HCGR:2nd"
 team = "Quintuple Cheese Burgers"
 title = "Paradise Shift"
-size = "74800 KB"
+size = "63796 KB"
 addr = ["https://www.dropbox.com/scl/fi/zo4b12pq608qy0wvrkjea/ParadiseShift.zip?rlkey=2unse8ucvrvaav2ingrwcwk5k&st=86ixnov2&dl=0"]
 genre = "Techdance"
 impr = "0"
@@ -3014,7 +3014,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/08 14:41"
-update = "2026/10/12 22:31"
+update = "2026/10/13 15:16"
 
 [[entries]]
 no = "172"
@@ -3217,7 +3217,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/09 15:03"
-update = "2026/10/11 21:58"
+update = "2026/10/13 11:49"
 
 [[entries]]
 no = "184"
@@ -3832,6 +3832,22 @@ median = "0"
 avg = "0"
 regist = "2026/10/13 03:16"
 update = "2026/10/13 03:29"
+
+[[entries]]
+no = "220"
+name = "Nameless"
+team = "鏡田宇少年の石鏡簿R"
+title = "Yonder Moon Flyer #262"
+size = "74000 KB"
+addr = ["https://drive.google.com/file/d/1papoAwwjdKgY9EFs0iJKiqJL8oSysOeg/view?usp=drive_link"]
+genre = "Dual Moon"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/13 14:25"
+update = "2026/10/13 15:24"
 
 [[teams]]
 no = "175"
@@ -5015,7 +5031,7 @@ no = "68"
 team = "鏡田宇少年の石鏡簿R"
 leader = "Nameless"
 member = "5人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/07/13 16:49:16"
 update = "2026/07/16 12:28:25"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520068_20260714124007.png"
@@ -5463,12 +5479,12 @@ members = "あさり (bms) 毛布竜 (映像) Rner (bms) momo★yama (bms) も�
 
 [[teams]]
 no = "27"
-team = "Till the Last Day of Summer"
+team = "Till the Last Day of Summer  チーム辞退"
 leader = "xflu"
 member = "7人"
 works = "0 / 3作品"
 regist = "2026/07/02 20:54:09"
-update = "2026/09/05 21:04:24"
+update = "2026/10/13 15:26:43"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520027_20260704224512.png"
 members = "xflu (bms/譜面) Loel. (bms/作曲) M1n_t0 (作曲) キリト (作曲) ilar (イラスト) 小白 (イラスト) 406jinn (譜面)"
 

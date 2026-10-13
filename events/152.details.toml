@@ -9166,3 +9166,29 @@ beatoraja,LR2での動作に対応しています。
 ver = "1"
 date = ""
 note = "初版公開"
+
+[[details]]
+num = "226"
+artist = "めんとす   URL"
+genre = "Kawaii UK"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x11～★x12)"
+bpm = "173"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "めんとすです．今年で多分最後になります．っていっても"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"

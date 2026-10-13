@@ -627,7 +627,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:08"
-update = "2026/10/02 03:09"
+update = "2026/10/13 23:17"
 
 [[entries]]
 no = "37"
@@ -3473,7 +3473,7 @@ update = "2026/10/11 04:05"
 
 [[entries]]
 no = "199"
-name = "LoveNcoloured"
+name = "LoveNColoured"
 team = "HardCrashOnNervousSystem"
 title = "journey through the equivalent of a large strawberry (about 50g)"
 size = "86416 KB"
@@ -3492,7 +3492,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/11 10:45"
-update = "2026/10/12 19:54"
+update = "2026/10/13 20:28"
 
 [[entries]]
 no = "200"
@@ -3848,6 +3848,102 @@ median = "0"
 avg = "0"
 regist = "2026/10/13 14:25"
 update = "2026/10/13 15:24"
+
+[[entries]]
+no = "221"
+name = "HMAJ"
+team = "HardCrashOnNervousSystem"
+title = "CoolANTIRegionLocking"
+size = "17300 KB"
+addr = [
+    "gdrive",
+    "https://drive.google.com/file/d/1kiSvw7imtk13jaqDP4bQKs3DRbSpT2Wv/view?usp=sharing",
+    "mega:",
+    "https://mega.nz/file/XupnkLTY#jgma5ufYbJg2DVVy-9ebEx3DcUtoEbEE8X_lh1iwpQE",
+]
+genre = "hard-speed-trance"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/13 20:50"
+update = "2026/10/13 20:50"
+
+[[entries]]
+no = "222"
+name = "LandRoot"
+team = "二十四節気四六時中"
+title = "Be Like Thunder"
+size = "36319 KB"
+addr = ["https://drive.google.com/drive/folders/1Iqlgz5F0szB4g0OToJR2jXCd30ZX07GQ?usp=drive_link"]
+genre = "Rainy Day 2"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/13 22:31"
+update = "2026/10/13 22:31"
+
+[[entries]]
+no = "223"
+name = "Pooh5821"
+team = "StoryTeller"
+title = "XVII - Star // Across The GalaXia"
+size = "94300 KB"
+addr = ["https://mega.nz/file/KlZVXSbY#Rl8FM9XW1xwiiYs001SOCIJdNcC64Hnb75Df3rX5dNo"]
+genre = "Galactic Renaissance"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/14 00:04"
+update = "2026/10/14 00:04"
+
+[[entries]]
+no = "224"
+name = "Notorious(Nota & TRIAL)"
+team = "ハピコアだいすきクラブ"
+title = "RACE"
+size = "250004 KB"
+addr = [
+    "HQ[wav]",
+    "https://drive.google.com/file/d/1hdAf8rhS_O46F_iKyDQltS70QY7lhVbq/view?usp=sharing",
+    "LQ[ogg]",
+    "https://drive.google.com/file/d/1ex0QuPlbmGKoWyEnwg8lQVf2_7lSSJPl/view?usp=sharing",
+    "※どちらにも高画質BGA(mp4)が同梱されています。不要な場合は削除して下さい。",
+]
+genre = "SUSPENSEFUL"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/14 01:31"
+update = "2026/10/14 01:31"
+
+[[entries]]
+no = "225"
+name = "Mizu"
+team = "元気もりもりティーンズ"
+title = "定義"
+size = "101478 KB"
+addr = [
+    "[wav]",
+    "https://drive.google.com/file/d/1z8FHkgvc1uiA32MY7naQJTPkh5WM5vGx/view?usp=sharing",
+    "[ogg]",
+    "https://drive.google.com/file/d/1_CO8i68Tkqb-1EElGDcVm1CuEWcr64Ab/view?usp=sharing",
+]
+genre = "Translation"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/14 02:28"
+update = "2026/10/14 02:28"
 
 [[teams]]
 no = "175"
@@ -4261,7 +4357,7 @@ no = "138"
 team = "HardCrashOnNervousSystem  チームメンバー募集中！"
 leader = "Holdmyapplejuice"
 member = "4人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/08/31 03:28:27"
 update = "2026/10/09 10:00:49"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520138_20261009100049.jpg"
@@ -4338,7 +4434,7 @@ no = "131"
 team = "ハピコアだいすきクラブ"
 leader = "TRIAL"
 member = "16人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/08/22 22:32:33"
 update = "2026/09/22 23:33:25"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520131_20260822223233.png"
@@ -4415,7 +4511,7 @@ no = "124"
 team = "二十四節気四六時中"
 leader = "YtzkA"
 member = "6人"
-works = "1 / 4作品"
+works = "2 / 4作品"
 regist = "2026/08/19 22:37:32"
 update = "2026/09/14 19:04:35"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520124_20260825161451.png"
@@ -4921,7 +5017,7 @@ no = "78"
 team = "元気もりもりティーンズ  チームメンバー募集中！"
 leader = "DJ ARASHI"
 member = "7人"
-works = "1 / 4作品"
+works = "2 / 4作品"
 regist = "2026/07/17 22:39:13"
 update = "2026/09/22 18:03:07"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520078_20260728181541.png"
@@ -5086,7 +5182,7 @@ no = "63"
 team = "StoryTeller"
 leader = "Pooh5821"
 member = "7人"
-works = "1 / 4作品"
+works = "2 / 4作品"
 regist = "2026/07/11 23:40:23"
 update = "2026/09/18 00:00:21"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520063_20260918000021.png"

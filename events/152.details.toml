@@ -7850,14 +7850,21 @@ tags = [
     "Player-beatoraja",
 ]
 production = "FL STUDIO 2026"
+comment_updated = "2026年10月14日 20:42"
 comment = """
+(2026年10月14日 20:42 更新)
 激アツなメカでGOOOOOOOO！！！って感じの曲です！！
 勢いのままプレイしてみてください！"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/10 03:28"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Youtube視聴用リンクを追加しました"
 
 [[details]]
 num = "191"

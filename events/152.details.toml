@@ -9224,3 +9224,36 @@ comment = """
 ver = "1"
 date = ""
 note = "初版公開"
+
+[[details]]
+num = "231"
+artist = "クレオパトラ7世   URL"
+genre = "Cho Khaos Pulseflip"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x0～★x12)"
+bpm = "213"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+]
+production = "非公開"
+comment = """
+初めまして、クレオパトラ7世です。
+今回は世界の美人であるクレオパトラがどうして生まれたのか、その起源、過程についての
+プライマリーを、
+曲に、
+表して、
+いません。
+とりあえず超カオスなフリップをつくりました！！！！！！
+曲も映像も暴れてみましたので、ぜひ楽しんでいただければ幸いです。どうぞクレオパトラをよろしくお願いいたします。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"

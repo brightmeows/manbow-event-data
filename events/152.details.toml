@@ -113,8 +113,13 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月01日 23:39"
+comment_updated = "2026年10月16日 01:50"
 comment = """
+(2026年10月16日 01:50 更新)
+譏斐�蜿倶ｺｺ縺悟ヵ縺碁浹讌ｽ豢ｻ蜍輔ｒ縺励※縺�ｋ縺薙→繧堤衍縺｣縺溘ｈ縺�〒縲√％縺ｮ譏�蜒上→髻ｳ螢ｰ繧剃ｽｿ縺｣縺ｦ縺ｻ縺励＞縺ｨ遯∫┯縺ｮ騾｣邨｡縲�
+逅�罰繧定◇縺�※繧よｿ√＠縺ｦ縺�∪縺励◆縺後√←縺�＠縺ｦ繧ゅ→謚ｼ縺怜�繧峨ｌ縲∽ｻ雁屓縺ｮ蜍慕判縺ｨ縺ｪ繧翫∪縺励◆縲�
+荳ｭ霄ｫ繧定ｦ九◆莉翫↑繧我ｼ上○繧峨ｌ縺溽炊逕ｱ縺後ｏ縺九ｊ縺ｾ縺吶�
+雍�→隕句★縺輔ｌ繧九→縲∫ｧｻ縺輔↑縺代ｌ縺ｰ縺ｪ繧峨↑縺�°繧峨〒縺吶�
 (2026年10月01日 23:39 更新)
 ご協力ありがとうござい縺ｾす。
 SP BEGINNER:1
@@ -2392,9 +2397,9 @@ tags = [
 ]
 production = "FL STUDIOAfter Effects"
 audition = ["https://soundcloud.com/inaharu8888/fortune"]
-comment_updated = "2026年10月15日 23:43"
+comment_updated = "2026年10月16日 01:58"
 comment = """
-(2026年10月15日 23:43 更新)
+(2026年10月16日 01:58 更新)
 Bemuseで遊べるようになりました！
 初参加です！
 2021年頃からSoundCloudで流行したサウンドと、音ゲーコア的な曲調の融合を目指しました！
@@ -2929,10 +2934,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/yossshy/bof22-spaceship"]
-comment_updated = "2026年10月11日 22:50"
+comment_updated = "2026年10月16日 01:55"
 comment = """
-(2026年10月11日 22:50 更新)
-(2026年10月01日 23:48 更新)
+(2026年10月16日 01:55 更新)
 Bemuseで遊べるようになりました！
 フットワークで浮遊感のある、宇宙な曲を作りました。よろしくお願いいたします。"""
 
@@ -7964,9 +7968,9 @@ tags = [
 ]
 production = "天ぷら"
 audition = ["https://soundcloud.com/ebideath/lastsong"]
-comment_updated = "2026年10月16日 00:34"
+comment_updated = "2026年10月16日 01:53"
 comment = """
-(2026年10月16日 00:34 更新)
+(2026年10月16日 01:53 更新)
 Bemuseで遊べるようになりました！
 [ebideath]
 大変でした。遺書を書くような気持ちで作り上げました。
@@ -11383,8 +11387,10 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 00:04"
+audition = ["https://soundcloud.com/leo-sailko/kfosy0tes2ob"]
+comment_updated = "2026年10月16日 02:07"
 comment = """
+(2026年10月16日 02:07 更新)
 (2026年10月16日 00:04 更新)
 揺蕩う水影をなぞって
 私。
@@ -11605,10 +11611,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/n_koh00/neon-satellite"]
-comment_updated = "2026年10月16日 00:26"
+comment_updated = "2026年10月16日 01:51"
 comment = """
-(2026年10月16日 00:26 更新)
-(2026年10月16日 00:11 更新)
+(2026年10月16日 01:51 更新)
 [こふ]
 サイバーチックにクールでポップな曲に仕上がりました。
 お誘いのご縁あってBMSに初挑戦！
@@ -12474,7 +12479,82 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/myu-788197020/"]
-comment = "ふふっ……見たか ? すべて、跡形もなく消し去ってあげる……！"
+comment_updated = "2026年10月16日 02:15"
+comment = """
+(2026年10月16日 02:15 更新)
+ふふっ……見たか ? すべて、跡形もなく消し去ってあげる……！"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/16 01:09"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
+
+[[details]]
+num = "263"
+artist = "k-u3k   URL"
+genre = "Arcadecore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "172"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "FL Studio, AviUtl, μBMSC, Mid2BMS, mBMplay"
+audition = ["https://soundcloud.com/k-u3k-music/bof22-m-n-g-arcadecore"]
+comment = """
+Metcha Nanka God
+初参加で色々大変でしたが、完成して本当に良かったです。
+チームメンバーのみんなにも感謝しています。
+テーマは最強のエナドリです。
+ぜひそのパワーを感じて、お楽しみいただければ幸いです。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "264"
+artist = "atiryc   URL"
+genre = "Rawstyle"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x1～★x10)"
+bpm = "155"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Gimmick-Stop",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-gimmick",
+]
+production = "非公開"
+comment = "Hello, I'm atiryc. This is my first time doing this kind of work, so I don't really know what I should be doing. Honestly, it took me a really long time to work on this (sorry to everyone who helped me out so much, I won’t forget it) and I feel like my song isn’t good enough yet and there are still a lot of things I need to fix. Anyway, sorry about that and I hope you enjoy it!"
 
 [[details.revisions]]
 ver = "1"

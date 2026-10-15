@@ -2840,6 +2840,7 @@ bpm = "205"
 tags = [
     "7Keys",
     "14Keys",
+    "5Keys",
     "9Keys",
     "Lang-US",
     "Audition-Sound",
@@ -2855,8 +2856,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/official-az3/the-world-of-viridian"]
-comment_updated = "2026年10月09日 14:29"
+comment_updated = "2026年10月15日 15:21"
 comment = """
+(2026年10月15日 15:21 更新)
 (2026年10月09日 14:29 更新)
 (2026年10月03日 00:05 更新)
 (Updated October 1, 2026, 23:16)
@@ -2906,13 +2908,18 @@ sp beginner - ☆☆☆ (3)
 sp normal - ☆☆☆☆☆☆☆ (7)
 sp hyper - ☆☆☆☆☆☆☆☆☆☆ (10)
 sp another - ☆☆☆☆☆☆☆☆☆☆☆☆ (12)
-gardenweonce_had (obj: R054) - ☆☆☆☆☆☆☆☆☆☆☆☆ (12)
+garden_we_once_had (obj: R054) - ☆☆☆☆☆☆☆☆☆☆☆☆ (12)
 (14key)
 DP #40826D (obj: Z6W2A) - ☆☆☆☆☆☆☆☆☆☆ (10)
 (9key)
 9KEYS EX (obj: Z6W2A) - Lv50
 (5key)
 5K hard - ☆☆☆☆☆☆☆☆☆ (9)"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/09 14:29"
+note = "DPA and PMS had a missing BGA note. So, this update fixes the said issue at a cost of changing the download link to a new one. All the BMS remains unchanged. Thank you for your understanding ^^"
 
 [[details.revisions]]
 ver = "2"
@@ -2925,9 +2932,9 @@ date = "2026/10/01 23:10"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "DPA and PMS had a missing BGA note. So, this update fixes the said issue at a cost of changing the download link to a new one. All the BMS remains unchanged. Thank you for your understanding ^^"
+note = "Added 5K Tag and fixed markdown error"
 
 [[details]]
 num = "63"

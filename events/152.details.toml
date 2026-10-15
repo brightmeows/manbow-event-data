@@ -1781,9 +1781,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "神奈川県"
-comment_updated = "2026年10月01日 23:28"
+audition = ["https://soundcloud.com/xxxcreme7/no891"]
+comment_updated = "2026年10月16日 04:40"
 comment = """
-(2026年10月01日 23:28 更新)
+(2026年10月16日 04:40 更新)
 何色でもある色は孤独である
 遍く極彩色がこちらを覗いている"""
 
@@ -2333,6 +2334,7 @@ tags = [
     "14Keys",
     "9Keys",
     "Lang-JP",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -2344,8 +2346,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月01日 23:24"
+comment_updated = "2026年10月16日 02:56"
 comment = """
+(2026年10月16日 02:56 更新)
 (2026年10月01日 23:24 更新)
 「翼を信じて…！」
 -DIFFICULTY-
@@ -4515,8 +4518,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 00:52"
+audition = ["https://soundcloud.com/tendoncutter/bof22"]
+comment_updated = "2026年10月16日 02:43"
 comment = """
+(2026年10月16日 02:43 更新)
 (2026年10月16日 00:52 更新)
 [music]
 TendonCutter - https://x.com/TendonCutter0
@@ -6769,8 +6774,10 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 19:55"
+audition = ["https://soundcloud.com/rny-606848354/sunlit-scenery"]
+comment_updated = "2026年10月16日 03:53"
 comment = """
+(2026年10月16日 03:53 更新)
 (2026年10月09日 19:55 更新)
 (2026年10月02日 07:35 更新)
 よろしくお願いします。"""
@@ -8756,6 +8763,7 @@ tags = [
     "Lang-JP",
     "Lang-US",
     "Use-BGA",
+    "Use-BGI",
     "Use-ogg",
     "Use-wmv_movie",
     "Use-mp4_movie",
@@ -8767,9 +8775,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 15:45"
+comment_updated = "2026年10月16日 03:19"
 comment = """
-(2026年10月09日 15:45 更新)
+(2026年10月16日 03:19 更新)
 [Information]
 Genre: 微分音+人工言語 (5D Music)
 Title: Yxeni [BMS Edit]
@@ -8812,14 +8820,19 @@ Echa:
 As said in 'Caftaphata' by LΛMPLIGHT: 'Chnylui schpärtia kyfclavacholamy.'""""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/09 15:45"
+note = "Added markdown support for comments."
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/09 12:55"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "Added markdown support for comments."
+note = "Added compact version (BGI+ogg)."
 
 [[details]]
 num = "183"
@@ -9561,8 +9574,9 @@ tags = [
     "Difficulty-gimmick",
 ]
 production = "fl studio, initially ubmsc and sayaslicer, moved to befriend later."
-comment_updated = "2026年10月13日 20:28"
+comment_updated = "2026年10月16日 05:07"
 comment = """
+(2026年10月16日 05:07 更新)
 (2026年10月13日 20:28 更新)
 (2026年10月12日 19:54 更新)
 (2026年10月12日 19:12 更新)
@@ -9573,6 +9587,11 @@ so this sounded sort of techno but obviously had harcore elements, and i was stu
 for beginner, i wanted to think about what my little brother would be comfortable with, since he's 10.
 for normal, i was thinking what would a grown casual would think, well, i wanted to make it normal enough so that you had some skill to play it of course, once you have a grasp on BMS.
 for the edit... well... the talented charter (1/8) really went wild with the soflans, huh."""
+
+[[details.revisions]]
+ver = "7"
+date = "2026/10/13 20:28"
+note = "just some formmating corrections"
 
 [[details.revisions]]
 ver = "6"
@@ -9605,9 +9624,9 @@ date = "2026/10/11 10:45"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "7"
+ver = "8"
 date = ""
-note = "just some formmating corrections"
+note = "Added soundcloud link."
 
 [[details]]
 num = "200"
@@ -9744,8 +9763,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "九龍城東頭村道和東正道交界"
-comment_updated = "2026年10月15日 18:56"
+audition = ["https://soundcloud.com/spyro-kong/kwt"]
+comment_updated = "2026年10月16日 03:40"
 comment = """
+(2026年10月16日 03:40 更新)
 (2026年10月15日 18:56 更新)
 (2026年10月11日 23:27 更新)
 Spyro Kong:
@@ -10112,9 +10133,11 @@ charts = "CHART_3 (★x1～★x12)"
 bpm = "228"
 tags = [
     "7Keys",
+    "Lang-JP",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
+    "Use-mp4_movie",
     "Gimmick-LongNote",
     "Difficulty-beginner",
     "Difficulty-intermediate",
@@ -10126,9 +10149,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月14日 04:36"
+comment_updated = "2026年10月16日 03:10"
 comment = """
-(2026年10月14日 04:36 更新)
+(2026年10月16日 03:10 更新)
 君は、崩壊した世界の、その先が見たいかい？
 Team「デス一揆」 FINAL STRIKER WORK 「極滅」
 〈Charts〉
@@ -10165,7 +10188,7 @@ NORMAL譜面をスクロール8倍のまま提出し、ご迷惑をおかけし�
 とても重要な存在の楽曲に携わらせていただけたことを光栄に思います。やったー！
 よろしくお願いします。
 〈Story〉
-小説『極滅～黒翼の向こう側～』 by Lalot.
+小説『黒翼の向こう側』
 「永遠」って言葉は、いつだって「終わり」を知らない者が作る。
 そんなものあるはずないのに。
 この世界にはもう先がない。
@@ -10259,8 +10282,13 @@ Fin."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/12 15:47"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "音量のバランスを調整しました。また、142小節目4拍目V9及びVAについて、意図しないタイミングで音が鳴っていたため、全差分のノート位置の修正を行いました。A・I譜面は該当箇所の叩くタイミングに調整が加わってあります。この変更による演奏時間とノーツ数の変更はありません。"
 
 [[details]]
 num = "211"
@@ -10710,7 +10738,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "fl studio, initially ubmsc and sayaslicer, moved to befriend later."
+comment_updated = "2026年10月16日 04:56"
 comment = """
+(2026年10月16日 04:56 更新)
 who hates region locking! i do! i hate it when cough cough... doesn't include my favourite voca-denpa tracks or i can't offically play an intresing arcade rhythm game because i live in 'awfulingtonshire- england', it's unfair! but my music is for all! for all to enjoy!
 I themed my entry around the frustration, some people understand it! wrong console or bluray region!
 media shouldn't be restricted to one place, let us love no matter where we live.
@@ -10719,8 +10749,13 @@ the bgi is a place holder, we might bet a bga soon hopefully."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/13 20:50"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Added soundcloud link."
 
 [[details]]
 num = "222"
@@ -12299,8 +12334,9 @@ tags = [
     "Difficulty-gimmick",
 ]
 production = "befriend (completely used befriend for this, but i made the song in fl studio)"
-comment_updated = "2026年10月16日 00:59"
+comment_updated = "2026年10月16日 04:45"
 comment = """
+(2026年10月16日 04:45 更新)
 (2026年10月16日 00:59 更新)
 so... new alias huh...
 what do i mean by melancholic hardcore?
@@ -12313,14 +12349,19 @@ the stop motion edit truly is a work of art, thanks 1/8!
 TBN727"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/16 00:59"
+note = "Had to change the link hope that's fine"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/16 00:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "Had to change the link hope that's fine"
+note = "Added soundcloud link."
 
 [[details]]
 num = "260"
@@ -12555,6 +12596,127 @@ tags = [
 ]
 production = "非公開"
 comment = "Hello, I'm atiryc. This is my first time doing this kind of work, so I don't really know what I should be doing. Honestly, it took me a really long time to work on this (sorry to everyone who helped me out so much, I won’t forget it) and I feel like my song isn’t good enough yet and there are still a lot of things I need to fix. Anyway, sorry about that and I hope you enjoy it!"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "265"
+artist = "baka3b  (movie : 雨瞳Ⅸ) URL"
+genre = "Fantasy/Cinematic"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・none"
+charts = "CHART_3 (★x12～★x12)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "Lang-TCN",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = """
+雨瞳：white这个作品简直太优雅了，由请3b老师发表一下参赛感言
+baka3b：第一次参加BOF，不知道说点什么www，有没有什么参考？另外，做BMS化可真累啊！
+雨瞳：www主要是老师的乐曲创作简直太复杂了，可以分享一下创作思路或背景小故事什么的。
+Instere：需要更多空间去欣赏作品而不是描述，所以不用想太多，就像队伍介绍也只有一句话。
+雨瞳：这么美的作品不配上BGA简直太可惜了，现在小故事不能也没有!
+——————————————————————————
+White 自出生起便双目失明，从未见过这个世界。
+她以指尖触摸花瓣的脉络，以耳畔聆听风穿过林间的声音，以心感受每一段旋律中蕴藏的情感。对她而言，世界始终是一片无法描摹的空白。她不知道天空究竟有多辽阔，也不明白阳光为何能让人露出笑容。可她从未停止想象，并将那些从未亲眼见过的景色，一点一点写进自己的音乐。
+终于有一天，她完成了《Prelude in White》。
+她将乐谱带至圣坛，在寂静中奏响了这首献给世界的序曲。琴声如清泉般流淌，承载着她对未知的好奇、对美好的憧憬，以及一个从未向任何人说出口的愿望——
+她想看看这个世界。哪怕只有一次。
+悠扬的旋律回荡在神圣的殿堂。传说中从不回应凡俗祈愿的神明，竟在这一刻动容。祂垂下目光，将一丝神性的力量赐予了这位虔诚的精灵。
+于是，奇迹发生了。
+White 感到眼前的黑暗开始消融。起初只是一点微弱的光，而后，光芒逐渐铺展开来，勾勒出她从未想象过的轮廓。她看见了圣坛高耸的穹顶，看见了阳光穿过彩绘玻璃，在地面投下斑斓的色彩。她看见了花朵的洁白、天空的湛蓝，以及那些曾经只能存在于她想象中的万千景象。
+原来，世界是这样的。
+她怔怔地望着眼前的一切，泪水无声地滑落。那是她生命中第一次，也是唯一一次，真正看见这个世界。
+然而，神明的恩赐并非凡躯所能承受。
+那一丝力量终究太过沉重。光芒越发耀眼，她的意识却开始一点点远去。她想伸手触摸眼前的光景，想将这一切深深铭刻于心，却连抬起手指都变得困难。
+琴声渐渐微弱。
+在意识彻底消散之前，她终于明白了阳光的温度从何而来，也终于看清了自己一直以来所追寻的世界。
+「原来……世界，真的这么美啊。」
+话音落下，琴弦归于寂静。
+White 永远地睡去了。
+圣坛重新恢复了平静，只有那份未曾散尽的神圣余韵，仍在空气中缓缓流转。《Prelude in White》的最后一个音符，仿佛被时间永远留在了那里。
+没有人知道，沉睡的精灵是否仍能听见世界的声音，也没有人知道，那短暂的光明是否已足以让她在梦中拥有一个完整的世界。
+但她留下的旋律并未终结。
+她成为了后来者踏上旅途的序章，带领无数怀揣梦想的人走向未知，走向各自心中的 Wonderland。
+因为对 White 而言，即使一生只能看见一次，世界也值得她用尽全部去爱。
+而她所奏响的序曲，将替她继续前行。
+——————————————————————————
+rom the moment she was born, White had been blind. She had never seen the world with her own eyes.
+She traced the delicate veins of flower petals with her fingertips, listened to the wind whispering through the forest, and felt the emotions woven into every melody with her heart. To her, the world had always been a blank canvas, vast and unknowable, beyond the reach of sight. She did not know how boundless the sky might be, nor why the warmth of sunlight could bring a smile to someone's face.
+Yet she never stopped imagining.
+Little by little, she poured the landscapes she had never witnessed into her music, giving shape to a world that had existed only within her dreams.
+And at last, one day, she completed Prelude in White.
+Carrying her sheet music to the sacred altar, she began to play her offering to the world. In the stillness of the sanctuary, her melody flowed like a crystal-clear stream, carrying her curiosity for the unknown, her longing for beauty, and a wish she had never dared to speak aloud—
+She wanted to see the world.
+Even if only once.
+Her gentle melody echoed through the hallowed halls. And the gods, who, according to legend, had never answered the humble prayers of mortals, were moved at last. The divine gaze descended upon her, and a fragment of celestial power was bestowed upon the devoted elf.
+And so, a miracle came to pass.
+White felt the darkness before her begin to dissolve. At first, there was only a faint glimmer of light. Then, little by little, it spread, tracing the outlines of a world she had never even dared to imagine.
+She saw the towering dome of the sanctuary. She saw sunlight filtering through stained-glass windows, scattering a thousand colors across the floor. She saw the pure white of flowers, the boundless blue of the sky, and the countless wonders that had once existed only in the depths of her imagination.
+So this is what the world looks like.
+She gazed at the scene before her, utterly spellbound, as tears silently slipped down her cheeks.
+It was the first time in her life—
+And the only time—
+That she truly saw the world.
+Yet the gift of the divine was more than her mortal body could bear.
+The power she had been granted was too great, too heavy for her fragile vessel. The light grew ever brighter, while her consciousness began to drift away, little by little. She longed to reach out and touch the wonders before her, to etch every detail forever into her heart. But even the simple act of lifting a finger had become an impossible task.
+The music began to fade.
+As her consciousness slipped toward oblivion, she finally understood the warmth of sunlight. At last, she beheld the world she had spent her entire life searching for.
+“So… the world really is this beautiful.”
+With those words, the strings fell silent.
+White closed her eyes forever.
+The sanctuary returned to stillness. Only the lingering afterglow of the sacred moment remained, drifting softly through the air. The final note of Prelude in White seemed to have been suspended in time, never to fade away.
+No one knew whether the sleeping elf could still hear the sounds of the world. No one knew whether that fleeting glimpse of light had been enough to grant her a complete world within her dreams.
+But the melody she left behind did not end.
+It became the prelude to the journeys of those who came after her, guiding countless dreamers toward the unknown, toward the Wonderland that awaited within each of their hearts.
+For White, even if she could see the world only once in her entire life, it was still a world worth loving with everything she had.
+And the prelude she had once played would carry her dream forward—
+Long after she was gone.
+Prelude in White — A fleeting glimpse of eternity.
+「纵使光明只有一瞬，我也终于见过了世界。」
+————————————————————————————
+其实所有内容都是来自队长的臆想www
+In truth, the All was nothing more than 雨瞳 own imagination."""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "266"
+artist = "0es+Rucrea+E × YiMeng.emo  (movie : YiMeng.emo) URL"
+genre = "Lost & Alive"
+genre_sub = "Remix・Unit"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+]
+production = "非公開"
+comment = "This part of the work will be updated later."
 
 [[details.revisions]]
 ver = "1"

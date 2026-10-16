@@ -203,8 +203,10 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
-comment_updated = "2026年10月15日 19:16"
+audition = ["https://soundcloud.com/lan-ait/xwlwpcfge7x7?si=b5c27c4c98274c7ab40a09846037873b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月16日 22:02"
 comment = """
+(2026年10月16日 22:02 更新)
 (2026年10月15日 19:16 更新)
 (2026年10月01日 23:20 更新)
 ‐―‐―‐―‐―
@@ -1504,7 +1506,7 @@ genre = "MELODIC GAMING HARDCORE"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Self"
-charts = "CHART_3 (★x12～★x49)"
+charts = "CHART_3 (★x3～★x49)"
 bpm = "202"
 tags = [
     "7Keys",
@@ -1520,9 +1522,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "Cubase他"
-comment_updated = "2026年10月02日 02:29"
+comment_updated = "2026年10月17日 01:54"
 comment = """
-(2026年10月02日 02:29 更新)
+(2026年10月17日 01:54 更新)
 こんにちは、JURUMAと申します。突然ですが、皆さんは頭の中で知らない曲が流れる経験をしたことはありますか？
 本楽曲「DECISIVE[×]BREAKER」は、10年以上前からぼくの頭の中で流れ続けている曲を形にしたものです。
 ざっと人生の半分近くを共に過ごしてきたので、ぼくにとっては第二の家族のような存在ですね(大げさすぎ？)。
@@ -3647,9 +3649,11 @@ tags = [
     "Lang-SCN",
 ]
 production = "非公開"
+comment_updated = "2026年10月17日 00:06"
 comment = """
-晚站着，他收到消息; 他冲过突如其来的雨，听到灯光，举起孤独的伞朝月亮望去。
-此刻充满空虚——谁站在伞下？"""
+(2026年10月17日 00:06 更新)
+夜站得信，伊冒骤雨疾趋；灯口闻息，遂擎孤伞向月。
+空满一瞬，伞下待谁？"""
 
 [[details.revisions]]
 ver = "1"
@@ -3856,11 +3860,10 @@ tags = [
     "Difficulty-intermediate",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 00:18"
+audition = ["https://soundcloud.com/user-94439940/bof22-ppt"]
+comment_updated = "2026年10月16日 19:26"
 comment = """
-(2026年10月16日 00:18 更新)
-(2026年10月16日 00:11 更新)
-(2026年10月01日 23:26 更新)
+(2026年10月16日 19:26 更新)
 ——————————————————————————
 [Comments From LiGaYb]Hi, I'm LiGaYb!
 This is a song about PPT slides... I’ve seen lots of awful PPT slides in university, which was really annoying. I remember once there was a presentation class of College English course, where 6 of 7 groups are making really awful PPT slides, while the one by me was the only one that is able to watch...
@@ -5401,12 +5404,20 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment = "未完の哀歌――それは、私の身近で死の瀬戸際に立った者たち、そしてすでにこの世を去った者たちへ、そして彼らの愛した人々へ捧ぐ。"
+comment_updated = "2026年10月17日 02:10"
+comment = """
+(2026年10月17日 02:10 更新)
+未完の哀歌――それは、私の身近で死の瀬戸際に立った者たち、そしてすでにこの世を去った者たちへ、そして彼らの愛した人々へ捧ぐ。"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:14"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
 
 [[details]]
 num = "107"
@@ -5422,6 +5433,8 @@ tags = [
     "14Keys",
     "Lang-JP",
     "File-Modify",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -5435,9 +5448,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "Lalot.のPCとナナシさんのPCとれぷしすさんのPCとすもーく（あかさた）のiPad"
-comment_updated = "2026年10月16日 14:06"
+audition = ["https://soundcloud.com/lalotofficial/crypticsaga"]
+comment_updated = "2026年10月16日 22:55"
 comment = """
-(2026年10月16日 14:06 更新)
+(2026年10月16日 22:55 更新)
 【 誰にも解読できない、『暗号戦記』 】
 Team "We are cosmic."   FINAL STRIKER "Cryptic Saga""""
 
@@ -5479,7 +5493,9 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "▼Sound・Studio One Pro 7・色々なプラグイン▼BMS・BMS Maker 3・μBMSC▼Movie・blender・SAI 2・Aviutl"
+comment_updated = "2026年10月16日 22:49"
 comment = """
+(2026年10月16日 22:49 更新)
 こんばんわいだぼ！
 いつも通り好み全開のトランスです。珍しく、はちぷろは無しです。
 よろしくお願いいたします。"""
@@ -7702,9 +7718,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "MK88 · 香港九龍旺角彌敦道601號創興廣場"
-audition = ["https://soundcloud.com/trainer-lolxd/mk"]
-comment_updated = "2026年10月12日 10:19"
+audition = ["https://soundcloud.com/trainer-lolxd/mk88"]
+comment_updated = "2026年10月16日 22:33"
 comment = """
+(2026年10月16日 22:33 更新)
 (2026年10月12日 10:19 更新)
 (2026年10月09日 21:32 更新)
 (2026年10月09日 19:07 更新)
@@ -9141,12 +9158,13 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-833663297/gqc4nmn9xxyd?si=84b5d142a7a347e4a0f6aaf8878ca25f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月10日 00:06"
+comment_updated = "2026年10月17日 01:08"
 comment = """
-(2026年10月10日 00:06 更新)
-同じ出来事を何度も思い出している内に、いつの間にかきらきらした部分だけが濾過されて残っていく…みたいな曲…なんでしょうか？(弱腰)
-当初はジャンル名をリコルドにするつもりでしたが、なかなかシュッとハマるワードが来なかったためスライドした結果こうなりました。
-ビートロックよろしくストレートで分かりやすい安直な曲になったと思いますので、普段触らなさそうな人も是非Normal譜面からやってみてください。
+(2026年10月17日 01:08 更新)
+(2026年10月17日 01:07 更新)
+何度も思い返されるうちにちょっとずつ濾過されている記憶のように、繰り返されるテーマが少しずつ変容していく様をお楽しみください。
+…というストーリーは曲ができた後に出てきた内容なので、それとは関係なくまっすぐ8ビート直球ピアノスピードポップをシンプルにどうぞ。
+Normal譜面にちょっとだけ仕掛けがあるので、普段触らない方も是非やってみてください。
 それは、またいつかどこかで…
 譜面情報：
 7k:N☆4 H☆9 A☆11 L☆12
@@ -9488,8 +9506,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/alex-turell-martinez/time-immemorial"]
-comment_updated = "2026年10月16日 01:09"
+comment_updated = "2026年10月16日 22:19"
 comment = """
+(2026年10月16日 22:19 更新)
 (2026年10月16日 01:09 更新)
 (PROTIP: PLEASE SET YOUR HI-SPEED MODIFIER TO 0.50 IN YOUR BMS PLAYER OF CHOICE FOR THE MOST OPTIMUM EXPERIENCE.)
 (アドバイス：最適な体験を得るために、お使いのBMSプレイヤーでHI-SPEED修正値を0.50に設定してください。)
@@ -9557,8 +9576,13 @@ Newgrounds: https://cocoloco3412.newgrounds.com/"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/11 03:43"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Added youtube link."
 
 [[details]]
 num = "198"
@@ -11020,7 +11044,14 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment = "めんとすです．今年で多分最後になります．っていっても"
+comment_updated = "2026年10月17日 01:16"
+comment = """
+(2026年10月17日 01:16 更新)
+めんとすです．今年でBMSつくるのは多分最後になります．
+曲は作るとおもう．
+HYPER:☆11
+ANOTHER:☆12
+✞LEGGENDARIA:☆12"""
 
 [[details.revisions]]
 ver = "1"
@@ -11355,7 +11386,9 @@ tags = [
     "Difficulty-beginner",
 ]
 production = "非公開"
+comment_updated = "2026年10月17日 00:40"
 comment = """
+(2026年10月17日 00:40 更新)
 いつもお世話になっております、"みをつくし"です(昨年はお騒がせしました)。
 今年は問題ないはずです、今後ともよろしくお願いします。"""
 
@@ -12015,11 +12048,15 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 01:11"
+comment_updated = "2026年10月16日 23:30"
 comment = """
-(2026年10月16日 01:11 更新)
+(2026年10月16日 23:30 更新)
 [music]
 Connexio - https://x.com/connexio_c
+***
+私は皆みたいに「普通」じゃない
+私は「美しい」ものがわからない
+私の夏は、みんなとは違う。
 [BGA]
 AiLANE - https://x.com/ailane_x
 [obj]
@@ -12303,7 +12340,7 @@ genre = "Still burning, still brilliant."
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_3 (★x4～★x12)"
+charts = "CHART_3 (★x9～★x12)"
 bpm = "220"
 tags = [
     "7Keys",
@@ -12312,8 +12349,12 @@ tags = [
     "Lang-SCN",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 10:17"
+comment_updated = "2026年10月17日 00:05"
 comment = """
+(2026年10月17日 00:05 更新)
+初心者に優しいSPb譜面は、譜面修正／追加期間に更新されます。
+对新手友好的SPb谱面将在谱面修正/追加期更新。
+Beginner-friendly SPb charts will be updated during the chart revision/addition period.
 (2026年10月16日 10:17 更新)
 さらさらと鳴る夜風が、故郷の黄砂を巻き上げ、荒野の上空をさまよっている。灯りが点々と瞬く避難所の外では、民衆で編成された哨戒班が、また交代の番を巡らせた。
 深い空には、百年前からこの砂漠の上空を旋回し続けている巡航ミサイル群がある。
@@ -12572,10 +12613,13 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/myu-788197020/"]
-comment_updated = "2026年10月16日 02:15"
+comment_updated = "2026年10月16日 19:33"
 comment = """
+(2026年10月16日 19:33 更新)
 (2026年10月16日 02:15 更新)
-ふふっ……見たか ? すべて、跡形もなく消し去ってあげる……！"""
+ふふっ……見たか ? すべて、跡形もなく消し去ってあげる……！
+Epiphany(4k BGA)
+https://drive.google.com/file/d/1DYJjkP-PNy8_MXs7aT-5CkBKrItJppSq/view?usp=sharing"""
 
 [[details.revisions]]
 ver = "1"
@@ -12754,7 +12798,7 @@ num = "266"
 artist = "0es+Rucrea+E × YiMeng.emo  (movie : YiMeng.emo) URL"
 genre = "Lost & Alive"
 genre_sub = "Remix・Unit"
-source = "-----"
+source = "この雪が解けるまで"
 bga = "BGA include・Self"
 charts = "CHART_3 (★x2～★x11)"
 bpm = "140"
@@ -12768,12 +12812,20 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
-comment = "This part of the work will be updated later."
+comment_updated = "2026年10月16日 22:56"
+comment = """
+(2026年10月16日 22:56 更新)
+This part of the work will be updated later."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 04:47"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Original artist and source were added to the credit list."
 
 [[details]]
 num = "267"
@@ -12839,6 +12891,531 @@ comment = """
 譜面は EASY(★3) / NORMAL(★7) / ANOTHER(★11) の3種類。
 同じ音源・同じBGAで難易度だけ違うので、まずはEASYからどうぞ。
 「これ、ただの一塊じゃん」と思ったら、遠慮なく狠狠に殴ってください。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "269"
+artist = "Irona / いろな  (movie : QyUra (CuraRmx)) URL"
+genre = "Artcore / J-Core"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "188"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "FL Studio / BMS Maker 3"
+audition = ["https://soundcloud.com/squid_chan/bof22"]
+comment_updated = "2026年10月16日 19:46"
+comment = """
+(2026年10月16日 19:46 更新)
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+これは、とある少女の物語。
+終わりゆく世界で、ひとりの少女と出会った。
+いつか消えてしまうと知りながら、
+それでも共に過ごした日々は、確かにそこにあった。
+忘れたくない記憶。
+伝えられなかった言葉。
+たとえその姿が光に溶けてしまっても、
+あの日の温もりだけは、きっと消えない。
+君がいたことを、覚えている。
+これは、終わりの先に残された、小さな奇跡の物語。
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+■Music - Irona / いろな
+https://x.com/n1_axis_
+https://soundcloud.com/squid_chan
+- - - - - - - - - - - - - - - - - - - - - - - - - - -"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "270"
+artist = "dj Toast  (movie : MORII) URL"
+genre = "NEO HYPERTRANCE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x8～★x12)"
+bpm = "164"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/dj_t0ast/ambivalence"]
+comment = """
+BOF初参加です！
+今回は初めてNeotranceを作ってみました。
+普段よく聴いているJesus Clubの要素もちょっと混ぜてます。
+楽しんでもらえたら嬉しいです！
+よろしくお願いします！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "271"
+artist = "SilverYbladeS  (movie : Natsu_matsuri) URL"
+genre = "J-core"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "170"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-SCN",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment_updated = "2026年10月16日 23:48"
+comment = """
+(2026年10月16日 23:48 更新)
+(2026年10月16日 21:26 更新)
+Thank you for playing this work!
+Looking back at the shortcomings and inexperience of the past, those feelings of regret and remorse, wrapped in stinging pain, are deeply engraved in my heart, constantly reminding me to do better. Looking at the present and the future, the road beneath my feet still stretches on, and the collapsed house awaits being rebuilt into glory by my own hands, constantly encouraging me not to give up. Returning once again to the BOF arena, I accept the past and embrace the future. This time I will do my best and present everyone with a work into which I have truly poured my emotions and effort. Whether it is doubt or criticism, as long as I can happily collaborate with like-minded people, help each other, exchange ideas, and present our own results, all of it is worthwhile. Along the way I have met many new friends and experienced many new things. I am grateful to the friends who have walked alongside me; it is you who have rekindled my passion for creation!
+After continuous planning, I want to take the emotions of this summer as the keynote, use a J-core melody, and through a girl's hands, paint a scene full of energy to bring to everyone!
+過去の未熟さや不足を振り返ると、悔しさや後悔が刺すような痛みを伴って、骨身に染みる。そして常に、もっと良くしなければと私に思い出させる。現在と未来に目を向ければ、足元の道はまだ続いていて、崩れた家は自分の手で再び輝きを築き直すのを待っている。それは私に、諦めてはいけないと絶えず励ましてくれる。再びBOFの舞台に戻る。過去を受け入れ、未来を抱きしめる。今度こそ全力を尽くし、本当に感情と努力を注いだ作品を皆さんにお見せしたい。疑問でも批判でも、気の合う仲間と楽しく協力し、互いに助け合い、語り合い、自分の成果を出せるなら、それらはすべて価値がある。その過程でたくさんの新しい友達ができ、たくさんの新しいことを経験した。共に歩んでくれた仲間に感謝したい。あなたたちが私の創作への情熱を再び燃やしてくれた！
+構想を重ねた末に、私はこの夏の感情を基調に、一曲のJ-coreの調べに乗せ、一人の少女の両手を借りて、元気いっぱいの情景を描き、皆さんに届けたい！
+回首过去的不足与生疏，那些懊恼与悔恨裹挟着刺痛，经历刻骨铭心，时刻提醒我要去做的更好；放眼现在与未来，脚下的路仍在延伸，倒塌的房屋正待自己亲手重建辉煌，不断激励我不能放弃。再次回到BOF的赛场，接纳过去，拥抱未来，这一次我会尽力而为，将一份真正投入情感与努力的作品呈现给大家。质疑也好，批判也罢，只要和志趣相投的人一起快乐的合作，大家互帮互助，一起交流，拿出自己的成果，这些都是值得的。在这过程中我认识了很多新朋友，也经历了很多新事情，感谢那些与我一起同行的朋友，是你们让我继续燃起创作的热情！
+在不断规划后，我想以这个夏日的情感为基调，凭一首J-core的曲调，借一双少女的双手，描绘出一副元气满满的景象带给大家！"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/16 20:34"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "[SPH]/[SPA]のGIMMICK部分を修正した，譜面内のノートについては一切変更を行っておらず、新規譜面の追加もありません"
+
+[[details]]
+num = "272"
+artist = "Kamisys   URL"
+genre = "ORGANIC HARDCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "168"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "FL Studio 2026"
+audition = ["https://soundcloud.com/kamisys/scenery-at-an-exhibition"]
+comment = """
+展賢会の風景 (Scenery at an Exhibition)
+何かに心から没入することが難しくなった今だからこそ、同じ熱量で語り合える場所のありがたさを、より一層愛おしく感じます。
+そんな想いを、今回の作品にそっと込めました。
+SPN / SPI 譜面は sound piercer 様に担当していただきました。
+今年もよろしくお願いいたします!
+【譜面】
+SPN (☆3)
+SPH (☆8)
+SPA (☆10)
+SPI (☆12, ★1?)
+【BGA】
+※ 映像素材の制作過程において Google Omni 1.1 を使用し、DaVinci Resolve にて編集・制作いたしました。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "273"
+artist = "Runk  (movie : h.) URL"
+genre = "Dariacore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "160 ～ 180"
+tags = [
+    "7Keys",
+    "Lang-US",
+]
+production = "Bitwig + Jonnah Slicer"
+audition = ["https://soundcloud.com/bigrunky/my-song-67"]
+comment = "my song 67"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "274"
+artist = "OfficialAz3 feat. Hodong (VOXFactory)  (movie : Senali) URL"
+genre = "Misdirection"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "130"
+tags = [
+    "7Keys",
+    "14Keys",
+    "5Keys",
+    "Lang-US",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+NOTE: Hodong is a character from VOXFactory and is a vocal synthesizer.
+-------------------- Information ---------------------
+Genre: Misdirection
+Title: Your Left, My Right
+Artist: OfficialAz3 feat. Hodong (VOXFactory)
+BPM: 130
+BGA: Senali
+Illust: LiGaYb
+BMS: OfficialAz3
+obj: LiGaYb (SPH)
+---------------------- lang=en -----------------------
+Hello! Az3 here ^^
+This was written in a way to make you confusing.
+The concept of this work started with my conversation with my family.
+As my mom was driving her car with us back home, and when the app Waze told her to turn left, she accidentally turned right.
+This ended up being the talk of my family for a week.
+In short, the concept of the work relies on the perspective of what's left and right.
+I had the directions set from the singer's perspective, hence why when you hear "Your Left", the patterns and the mixing puts her to right.
+I also did explore more of songwriting by doing a gimmick as well, to the point where I used "left" and "right" in a different context other than directions.
+Hence, the genre is named "Misdirection".
+And also, it's an excuse to name a genre I cannot recognize.
+I wrote this in the Discord server,
+"there's subtle panning on the vocals on the verses of <--> (referring to the work)
+there are instances where the vocals are panned left even tho the lyrics says 'your right'
+and that will confuse the heck out of anybody
+"my left" is panned left whilst "your left" is panned right, coz its panned from the singer's perspective"
+This was a really fun experiment.
+I hope you enjoy ^^
+<- ->
+----------------------- lyrics -----------------------
+[intro]
+Left, right, left, right, left, right, left
+Left, right, left, right, left, right, left
+Your left, My right,
+My left, Your right,
+Your left, Your right,
+Center, Center, Center
+My left, Your right,
+Your left, My right,
+My left, My right,
+Center, Center, Center
+[verse1]
+Your left, My right,
+His left, My right,
+My left, Am I right?
+Center, Center, Center
+He left, She's right...
+She left the right-
+to turn left, Then right,
+Then center, Center, Center
+[buildup]
+Leave them to left,
+Put me to right,
+Make us the center,
+And do the dance!
+[drop 1]
+Is your left my right?
+Is my left your right?
+If left is now right,
+Which way is my (groan, Hey!)
+Look back to the (what)
+You left on my right,
+Nothing left, that's-
+Why is left my... (let's try another style!)
+[verse 2]
+Right,
+ひだり, みぎ,
+Kaliwa, Kanan,
+왼쪽, 오른쪽,
+Yeah right...
+左, 右,
+Ma gauche, Ma droite,
+Kressi, Labi.
+[buildup]
+Left, right, left, right,
+My left, Your right.
+Your left, My right.
+[drop 2]
+-left, that is complicated right?
+And you went into the left, when I told you to go right!
+I have good remarks, but then nothing's right!
+Cause no one's left, that's nonsense... (What the heck?)
+What's left? What's right?
+When you took the left, but you went to right!
+Step towards left, then you go to the right,
+So then which was which? Your left, My right!
+--------------------- Difficulty ---------------------
+(7key)
+SP BEGINNER - ☆☆☆ (3)
+SP NORMAL - ☆☆☆☆☆☆ (6)
+SP HYPER - ☆☆☆☆☆☆☆☆☆ (9) obj: LiGaYb
+SP ANOTHER - ☆☆☆☆☆☆☆☆☆☆ (10)
+(14key)
+DP DIRECTION - ☆☆ (2)
+DP ANOTHER - ☆☆☆☆☆☆☆☆☆☆☆ (11)
+(5key)
+5K HARD - ☆☆☆☆☆☆ (6)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "275"
+artist = 'BMS Sound Team "Mister.Himi" feat. DJ ANDREA JP  (movie : YAN*TS) URL'
+genre = "AMAZING BIG BEAT"
+genre_sub = "Remix・Self"
+source = "Cheer Train"
+bga = "BGA include・Unit"
+charts = "CHART_3 (★x1～★x50)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "14Keys",
+    "9Keys",
+    "24Keys",
+    "24Keysdb",
+    "Other",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-kusofumen",
+    "Difficulty-gorilla",
+    "Difficulty-gimmick",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/mister-himi/cheer-train-revolutinary-himix"]
+comment = """
+【注意】譜面の中で9KEYSのレベル47 (華麗なるアンドレアビート)譜面のみLR2では正常に再生できません。
+あらかじめご注意ください。beatoraja等では問題なく再生できます
+ダウンロードありがとうございます。Mister.Himiです。
+憧れの舞台であるBOFの参加もこれで3年目。
+尊敬するDJ ANDREA JPさんのワンマンチームだと言われ続けて3年、
+俺も俺なりにチームとして何か新しい事が出来ないかを考え続けていました。
+3年も続くと、色々変わってくる事があります。
+まず今までは主力のANDREAさんが当たり前のようにリーダーを務めておりましたが、
+今年は趣向を変えて映像方面でも力を付けているYAN*TSさんがリーダーを務めております。
+そして実は去年から、毎年FINAL STRIKERを3人でループするという方向性を決めており、
+今年は俺ことMister.HimiがFSを務める番となりました。
+3人で走り続けてきたからこそ色々と変わってきた事がありますが、
+チームを結成した当初から実は変わっていなかったと思う事があります。
+それは、ANDREAさんとYAN*TSさんは、BOF結成した当初からIIDXをリスペクトした
+BMS作品を作っていた、という事！
+それに対して俺は一昨年去年とIIDXではなく、BMS楽曲のリミックスを作っていました。
+俺は今になってやっとこの事実に気づき、お二方とのBOFに対しての志の強さの差を痛感しました。
+そんな事もあり、今年はFSという大きな枠が回ってきた事を踏まえて、
+俺は初めてBMSではなくIIDXをリスペクトしたリミックス作品を作ろうと決意しました。
+ただ安易にIIDXのリミックスを作るだけではリスペクトとは言えません。
+言葉の都合が良いだけとも捉えられます。なので俺はチームでの仲良しの証として、
+IIDXを愛してやまないDJ ANDREA JPさんをボーカルに起用する事を決めました。
+ネタ重視で行くのなら、例えばThe Sampling Paradiseをリミックスして
+声ネタを全部ANDREAさんに録ってもらえば恐らくウケ狙い、
+ネタ曲としては大成功すると思います。
+でも、単なるネタ曲ではなく、ANDREAさんの陽気で明るい声質、
+ネイティブゆえのしっかりした発音を生かせる楽曲をチョイスする必要があると考えました。
+単なるウケ狙いではなく、ANDREAさんが歌っているという一見ネタのように
+見えつつも、実は声質がとても合ってて『ガチ』曲であるという方向性を目指したかった。
+なので、選曲は考えた末にラッキーセブンが好きなANDREAさんに合わせて、
+またDPが真の姿という裏の顔もあるというリスペクトを込めて、
+7th Styleの名曲Cheer Trainをリミックスさせて頂いたという訳です。
+歌唱をお願いした後のボーカルのやりとりや意見交換は難航するかと思いきや、
+俺が最初に作成途中の曲データを見せて、『ANDREAさんにこの曲の声ネタをやってほしい、
+後で詳しい内容をまとめて送りますね』と書いて準備してたら、数日後にはANDREAさんの方から
+自主的にもう声を録音してデータを送ってくれていました。後は足りない部分を提示して、
+すぐ追加でその音声を録音してくれて後は編集するのみの状態でした。
+折角声を録ってもらえるのであまり良くないと思う出来だったとしても何度もリテイクは出しにくいよな…
+とか内心思っていましたが、そんな心配は全くなくて驚きました。
+あまりにもスムーズなやりとりかつしっかりした音声データを頂けたので、
+ANDREAさんこういった依頼を受けてデータを用意する事は慣れていらっしゃるのかな、
+流石iTunes Musicなど音楽配信サイトで最前線で活躍されているアーティストだなと思いましたね。
+最初は、原曲が明るめの女性ボーカルなので、男性ボーカルの音声は違和感を感じる
+かもしれません。でも何度か聴いていると、元の女性ボーカルでは物足りないように感じてくる
+かなとも思っています！というか俺がそうだったので^-^;
+そんな、ANDREAさんの魅力のボーカル楽曲を是非聞いてみてください！
+改めて、素晴らしいボーカル音声を提供して頂いたDJ ANDREA JPさん、本当に有難う御座いました！
+そして更に、BGAに関しては今年もYAN*TSさんに手掛けて頂きました！
+FS枠の自分の作品にANDREAさんがボーカルで歌ってもらうという話になってから、
+YAN*TSさんにも何らかの形で作品に協力して頂く事はできないかなと考えていました。
+BOF登録期間が始まってもYAN*TSさん側の作品もまだ完成していなかったのですが、
+そんな中でも無理を言って自分側のBGAもお願いさせて頂きました。
+定期的に進捗を見せて貰ったり、途中ANDREAさんにイラストを描いてもらうように協力していて、
+スムーズに作業して頂き気付けば短期間でしっかりとした物を仕上げていただきました。
+もしこの曲にBGA、BGIを付けるのなら、普段のANDREAさんの貫禄のある、堂々としたイメージを
+覆すようなコミカル、ユーモアな感じの雰囲気を出せればなと思っていたのですが、
+YAN*TSさんの作ったBGAはまさに自分が考えていた雰囲気ドンピシャで。
+最初に出来上がったBGAを見せて貰った時は再生中にニヤニヤが止まらず、
+また再生が終わった後には鳥肌が止まりませんでしたね…ｗ
+改めまして、素晴らしいBGAを作ってくださったYAN*TSさんも本当に有難う御座いました！
+そんなわけで、いざ作品が完成してみれば、俺がFSという大きな枠を借りて、
+チームメイトのお二方に協力をお願いして大きな作品が出来たと自負しています。
+また、今大会のANDREAさんの曲の作品の登録コメントを見て頂いた方はお分かりの通り、
+今後はこのチームとしてはBOFシリーズへの参加がないかもしれません。
+でも今思えば、3回参加して、3回とも先鋒、次鋒、FS担当が毎回バラバラなのは
+なかなか面白いと思いますし、最後(？)にこのタイプで各自分担して合作をしたのは
+なかなかないのではないかと思ってます。
+ANDREAさんだけのワンマンチームと言われようが、
+裏で問題児チーム(？)とか陰口を叩かれている可能性があろうが、
+俺はこのチームでここまでやれた事を誇りに思うよ。
+そんなわけで、俺達のFSのBMSをよろしくお願いします。
+Mister.Himi
+(以下はYAN*TSさんのコメントです)
+はいどうも、今年もBGA担当しました～YAN*TSです。
+まさかアンドレアの3Dモデル作って動かすなんて誰も思ってもないでしょう笑
+原曲のBGAを極力再現しつつお茶目なとこもあるアンドレアのキュートさを全面に引き出してみました。
+実はFS一斉公開の1週間前あたりから急ピッチで作り始めててその最中、
+アンドレア本人の絵も挟めたらいいな～ってアイデアが突然思い浮かんできて流石に厳しいかなって
+思いつつ頼んだらジェバンニならぬアンドレアが一晩でやってくれました。(神絵感謝)
+よりアンドレアワールドなユーモア溢れるBGAに仕上がったと思います^^
+ではでは～
+(以下はDJ ANDREA JPさんのコメントです)
+こんにちは。アンドレアことDJ ANDREA JPです
+俺の良い友人であるヒミさんがIIDXのCheer Trainをリミックスしているから、
+「Stand by to win, Wow!」とかの声ネタを俺の声で録音したり、
+それのBGAにおいてやんたすさんが作っているので
+俺もKritaを使ったイラストアプリで一晩だけで頼まれたイラスト達も描いたりなどのお手伝いをしました
+俺のデフォルメ版がこの楽曲のBGAにて登場しているので、
+「令和版Cheer Train」みたいな感じで楽しんでくれれば嬉しいです
+今後もよろしくお願いします
+Enjoy.
+2代目 BMS Sound Team"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "276"
+artist = "moenoq/NoKANY  (movie : moenoq) URL"
+genre = "Nu Jazz"
+genre_sub = "Original・Unit"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/nokany/bof22-alternate-moenoq-nokany?si=05f45a342d2049c383247961910e24bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月17日 01:06"
+comment = """
+(2026年10月17日 01:06 更新)
+SP BEGINNER ☆3
+SP NORMAL ☆6
+SP HYPER ☆10
+SP ANOTHER ☆12
+SP INSANE ★3程度
+差分制作用のキー音のみの bms を _keysound フォルダに同梱しています。曲フォルダ直下にコピーしてご利用ください。
+動作確認：beatoraja"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "277"
+artist = "T-Project   URL"
+genre = "T-PROCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "175"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "Cubase"
+comment = "100円バーガーと、75％の愛情を君に。"
 
 [[details.revisions]]
 ver = "1"

@@ -171,7 +171,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:03"
-update = "2026/10/11 05:24"
+update = "2026/10/16 12:23"
 
 [[entries]]
 no = "10"
@@ -364,7 +364,7 @@ no = "21"
 name = "angeljerry"
 team = "FUN Fighter"
 title = "Cuz I Need U Now"
-size = "33485 KB"
+size = "33500 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQAR1JEQUEgiR67s9V9BE83gATksLJKFL6sdE0rVwQPxwpY?e=OdaoBV"]
 genre = "Dancefloor Drum'n'Bass"
 impr = "0"
@@ -373,7 +373,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:05"
-update = "2026/10/02 01:07"
+update = "2026/10/16 12:05"
 
 [[entries]]
 no = "22"
@@ -849,7 +849,7 @@ no = "49"
 name = "NonNam"
 team = "FUN Fighter"
 title = "I:O:IX"
-size = "1 KB"
+size = "25000 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQA0N5b3KMhBQpuPJGdOyIXTAejwNJKw_kS6pEIgvsOFz90?e=9GUCX7"]
 genre = "Giltch Hop/Neuro Hop/Speedcore"
 impr = "0"
@@ -858,7 +858,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:09"
-update = "2026/10/01 23:09"
+update = "2026/10/16 12:03"
 
 [[entries]]
 no = "50"
@@ -913,7 +913,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:09"
-update = "2026/10/01 23:42"
+update = "2026/10/16 10:34"
 
 [[entries]]
 no = "53"
@@ -1588,7 +1588,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:11"
-update = "2026/10/02 00:17"
+update = "2026/10/16 11:53"
 
 [[entries]]
 no = "89"
@@ -1760,7 +1760,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:13"
-update = "2026/10/01 23:52"
+update = "2026/10/16 11:32"
 
 [[entries]]
 no = "99"
@@ -1911,8 +1911,13 @@ no = "107"
 name = "Lalot. vs ナナシのゴシック！"
 team = "We are cosmic."
 title = "Cryptic Saga"
-size = "91066 KB"
-addr = ["https://drive.google.com/uc?export=download&id=1gc6wOv4zpt8u08dP29omTpM11orXXHoJ"]
+size = "92446 KB"
+addr = [
+    "ver.3",
+    "https://drive.google.com/uc?export=download&id=1HsJL1pRI7V-V-OMJ6SVX0K1Fiiah4iLr",
+    "ver.3 追加パッチ（既存フォルダーに上書きしてください）",
+    "https://drive.google.com/uc?export=download&id=1NLOVVpuNlxMX6wDyvF0-Ru4dkS5OhJsc",
+]
 genre = "GOTHIC MYTHOS"
 impr = "0"
 total = "0"
@@ -1920,7 +1925,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:14"
-update = "2026/10/16 00:06"
+update = "2026/10/16 14:06"
 
 [[entries]]
 no = "108"
@@ -1984,7 +1989,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/01 23:15"
-update = "2026/10/09 23:08"
+update = "2026/10/16 11:39"
 
 [[entries]]
 no = "112"
@@ -3756,7 +3761,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/12 15:47"
-update = "2026/10/16 03:10"
+update = "2026/10/16 16:19"
 
 [[entries]]
 no = "211"
@@ -4574,7 +4579,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/16 00:20"
-update = "2026/10/16 00:20"
+update = "2026/10/16 15:45"
 
 [[entries]]
 no = "258"
@@ -4733,7 +4738,7 @@ name = "RPeGio"
 team = "Micore_D"
 title = "Into the HIVE"
 size = "38613 KB"
-addr = ["https://drive.google.com/file/d/1pcXEEpOfLJ1wdodoRWoT6cM775gOu-L8"]
+addr = ["https://drive.google.com/file/d/1uRGvkGNCw5mKjRC89nPhotmdT4JQJZvS/"]
 genre = "HiTECH"
 impr = "0"
 total = "0"
@@ -4741,7 +4746,23 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/16 09:22"
-update = "2026/10/16 09:22"
+update = "2026/10/16 12:32"
+
+[[entries]]
+no = "268"
+name = "Hurobe"
+team = "AmeWave"
+title = "Rupture: Retake"
+size = "106372 KB"
+addr = ["https://1drv.ms/u/c/21e1cdd09eaf9f04/IQCByfKIUPVhR6fiQa1A0gt6AQVGBJJorQLgQy1a_fYJBvM?e=dsBETd"]
+genre = "Techno&Hardstyle"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/16 15:16"
+update = "2026/10/16 15:20"
 
 [[teams]]
 no = "175"
@@ -5518,7 +5539,7 @@ no = "105"
 team = "AmeWave  チームメンバー募集中！"
 leader = "Hurobe"
 member = "5人"
-works = "0 / 3作品"
+works = "1 / 3作品"
 regist = "2026/08/03 20:36:46"
 update = "2026/09/06 22:44:20"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520105_20260803230414.png"

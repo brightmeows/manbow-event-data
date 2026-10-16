@@ -426,15 +426,26 @@ genre = "Future ArtCore"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_3 (★x5～★x11)"
+charts = "CHART_3 (★x3～★x12)"
 bpm = "180"
 tags = [
     "7Keys",
+    "14Keys",
+    "9Keys",
     "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月01日 23:55"
+comment_updated = "2026年10月16日 12:23"
 comment = """
+(2026年10月16日 12:23 更新)
 (2026年10月01日 23:55 更新)
 Summer Endless
 For LR2 users:
@@ -1035,13 +1046,15 @@ tags = [
     "7Keys",
     "14Keys",
     "9Keys",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
+    "Use-wmv_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月02日 01:07"
+comment_updated = "2026年10月16日 12:05"
 comment = """
-(2026年10月02日 01:07 更新)
+(2026年10月16日 12:05 更新)
 [BOF:22] Cuz I Need U Now - angeljerry
 我只是在做自己的音乐。
 I'm just making my own music.
@@ -1049,9 +1062,7 @@ Title: Cuz I Need U Now
 Genre: Dancefloor Drum'n'Bass
 Music: angeljerry
 BGA: 太行猫
-Team: Fun Fighter
-Event: [THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -]
-URL: https://manbow.nothing.sh/event/event_teamprofile.cgi?event=152&team=7"""
+Team: Fun Fighter"""
 
 [[details.revisions]]
 ver = "1"
@@ -2519,14 +2530,20 @@ genre = "Giltch Hop/Neuro Hop/Speedcore"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_3 (★x1～★x1)"
-bpm = "1 ～ 12"
+charts = "CHART_3 (★x1～★x12)"
+bpm = "109"
 tags = [
     "7Keys",
-    "-----",
+    "14Keys",
+    "9Keys",
+    "Use-BGA",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
 ]
 production = "非公開"
+comment_updated = "2026年10月16日 12:03"
 comment = """
+(2026年10月16日 12:03 更新)
 [BOF:22] I:O:IX - NonNam
 参加BOF活动连续两年获得No.109序号是什么曲师.jpg
 What artist is the one who has consecutively won the No.109 serial number for participating in BOF activities for two years in a row.jpg
@@ -2534,9 +2551,7 @@ Title: I:O:IX
 Genre: Giltch Hop/Neuro Hop/Speedcore
 Music: NonNam
 BGA: X-chalk
-Team: FUN Fighter
-Event: [THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -]
-URL: https://manbow.nothing.sh/event/event_teamprofile.cgi?event=152&team=7"""
+Team: FUN Fighter"""
 
 [[details.revisions]]
 ver = "1"
@@ -4700,15 +4715,27 @@ charts = "CHART_3 (★x3～★x12)"
 bpm = "200"
 tags = [
     "7Keys",
+    "14Keys",
+    "9Keys",
     "Lang-SCN",
     "Format-bms62",
+    "Use-BGA",
     "Difficulty-beginner",
 ]
 production = "非公開"
-comment_updated = "2026年10月02日 00:17"
+comment_updated = "2026年10月16日 11:53"
 comment = """
-(2026年10月02日 00:17 更新)
-1"""
+(2026年10月16日 11:53 更新)
+Team: "FUN Fighters"
+Title: 春痕 - Floral Crepuscle
+Event: BOF:22 -G2R-
+Genre: "Bloomcore"
+Music: Chikanya vs. 米虾Fomiki
+BMS: Chikanya
+illust: Co2
+BGA: Z6W2A
+BMS Charts: Chikanya, Kurocat, Z6W2A
+请注意：这是62base bms"""
 
 [[details.revisions]]
 ver = "1"
@@ -5031,16 +5058,20 @@ genre = "Hybrid Art"
 genre_sub = "Arrange・Other"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_3 (★x6～★x12)"
+charts = "CHART_3 (★x3～★x12)"
 bpm = "161"
 tags = [
     "7Keys",
+    "14Keys",
     "9Keys",
-    "-----",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
 ]
 production = "Studio Pro 8"
-comment_updated = "2026年10月01日 23:52"
+comment_updated = "2026年10月16日 11:32"
 comment = """
+(2026年10月16日 11:32 更新)
 (2026年10月01日 23:52 更新)
 ORIGINAL  Only My Black Score（科学超黑乐谱）
 SOURCE  https://www.bilibili.com/video/BV1hx41167ko/"""
@@ -5390,6 +5421,7 @@ tags = [
     "7Keys",
     "14Keys",
     "Lang-JP",
+    "File-Modify",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -5403,11 +5435,16 @@ tags = [
     "Player-beatoraja",
 ]
 production = "Lalot.のPCとナナシさんのPCとれぷしすさんのPCとすもーく（あかさた）のiPad"
-comment_updated = "2026年10月16日 00:06"
+comment_updated = "2026年10月16日 14:06"
 comment = """
-(2026年10月16日 00:06 更新)
+(2026年10月16日 14:06 更新)
 【 誰にも解読できない、『暗号戦記』 】
 Team "We are cosmic."   FINAL STRIKER "Cryptic Saga""""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/16 00:04"
+note = "BGAを追加しました。すぐに、StagefileやBannerを追加したものにリンクを変更いたしますが、いったんこれで。"
 
 [[details.revisions]]
 ver = "1"
@@ -5415,9 +5452,9 @@ date = "2026/10/01 23:14"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを追加しました。すぐに、StagefileやBannerを追加したものにリンクを変更いたしますが、いったんこれで。"
+note = "①Stagefileとbannerを追加しました。②readmeを更新のうえ、pdf版をアップロードしました。③BGAアーティストの欄から「あかさた」氏の名前が全差分抜けていたので（大変&#x7533;し訳ございませんでした）、修正しました。ダウンロードリンクを更新のうえ、差分パッチのリンクを追加しました。"
 
 [[details]]
 num = "108"
@@ -5539,11 +5576,17 @@ tags = [
     "7Keys",
     "14Keys",
     "9Keys",
-    "-----",
+    "Lang-SCN",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 23:08"
+comment_updated = "2026年10月16日 11:39"
 comment = """
+(2026年10月16日 11:39 更新)
 (2026年10月09日 23:08 更新)
 (2026年10月01日 23:29 更新)
 原作   東方Project
@@ -10147,10 +10190,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 03:10"
+comment_updated = "2026年10月16日 16:19"
 comment = """
-(2026年10月16日 03:10 更新)
-君は、崩壊した世界の、その先が見たいかい？
+(2026年10月16日 16:19 更新)
+「君は、崩壊した世界の、その先の姿が見たいかい？」
 Team「デス一揆」 FINAL STRIKER WORK 「極滅」
 〈Charts〉
 〈SP/7K〉
@@ -12235,14 +12278,23 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/kakusandtm/bof22-icho-garden?si=68a89c866d564f67bd437b621e52d245&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月16日 15:45"
 comment = """
+(2026年10月16日 15:45 更新)
 Music // kakusan.
-「イチョウ撤去協会」から来ました、kakusan.です。イチョウを見ると、オリエンタルコアが思い浮かぶんだよね！"""
+「イチョウ撤去協会」から来ました、kakusan.です。イチョウを見ると、オリエンタルコアが思い浮かぶんだよね！
+BGI // Croca
+가을의 단풍에 흩날리는 잎에 따라 서로 장난치며 춤추는 두 소녀를 생각하며 그렸습니다. 다들 잘 부탁드립니다."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 00:20"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を追加修正"
 
 [[details]]
 num = "258"
@@ -12744,12 +12796,49 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月16日 12:32"
 comment = """
+(2026年10月16日 12:32 更新)
 第一次来BOF玩!
 其实从23年就开始有了参加BOF的想法，只可借当时实在苦于凑不够人数以及找不到画师和会做动画的。但今年多亏了hxd Gmy人脉大手子的发力，我们得以组成如今的
 Micore_D,有着Mediocre(中庸)+core(核类音乐)+Dreams的含义
 关于这首曲子，其实在两年前就有了曲子的灵感，但碍于学业原因，一直到今年借BOF的机会写成了这首曲子。——这首曲子是Hitech吗？——我觉得我是。总之在写的时候我是按Hitech的思路写的，但最终听感上和一般的Hitech又有不小的区别——就当是一些个人特色吧（
 尽力给自己的和团队里两个作品写了谱子，希望玩得开心！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "268"
+artist = "Hurobe  (movie : Hurobe & Mah1ro) URL"
+genre = "Techno&Hardstyle"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Unit"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "115.8 ～ 170"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月16日 15:20"
+comment = """
+(2026年10月16日 15:20 更新)
+低音の効いたテクノ～ハードスタイル。
+54小節から58小節にかけて、130 -> 140 -> 150 -> 160 -> 170 と
+段階的にBPMが上がっていく展開を仕込んでいます。ラストは元のBPMに戻って締めます。
+譜面は EASY(★3) / NORMAL(★7) / ANOTHER(★11) の3種類。
+同じ音源・同じBGAで難易度だけ違うので、まずはEASYからどうぞ。
+「これ、ただの一塊じゃん」と思ったら、遠慮なく狠狠に殴ってください。"""
 
 [[details.revisions]]
 ver = "1"

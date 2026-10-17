@@ -3753,13 +3753,14 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月04日 04:01"
+comment_updated = "2026年10月18日 05:24"
 comment = """
+(2026年10月18日 05:24 更新)
 (2026年10月04日 04:01 更新)
 (2026年10月04日 03:58 更新)
 --游玩提醒：作品音量较小，可将音量调大后游玩--
 Xxjun: 这是我第一次尝试制作短时长Uplifting Trance。
-作品风格借鉴了Lime早期的Trance风格，想给人以夏天清爽的意境，因为我本人真的很喜欢他的Trance。
+作品风格借鉴了Lime早期的Trance风格，想给人以夏日的回忆感，因为我本人真的很喜欢他的Trance。
 感谢给本作品贡献的队伍成员。"""
 
 [[details.revisions]]
@@ -14347,6 +14348,42 @@ comment = """
 こんにちは！初めましての方は初めまして。OctPです。
 今回も例によって物語を作っています。
 ぜひreadmeもあわせてお楽しみください。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "296"
+artist = "イベライ/Emelia ft. 闇音レンリ   URL"
+genre = "夜の隙間"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "Renoise 3.5.2Synthesizer V Studio Pro 1.11.2"
+audition = ["https://soundcloud.com/emelia-kaylee/oboromaboro"]
+comment = """
+絡んでは譲れない
+☆2 ... BEGINNER
+☆5 ... NORMAL
+☆9 ... HYPER
+☆11 .. ANOTHER"""
 
 [[details.revisions]]
 ver = "1"

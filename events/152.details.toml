@@ -6733,6 +6733,7 @@ bpm = "190"
 tags = [
     "7Keys",
     "Lang-US",
+    "Lang-SCN",
     "Audition-Sound",
     "Video-sharing",
     "Use-BGI",
@@ -6741,11 +6742,16 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/crash-909/keloenozvi"]
-comment_updated = "2026年10月17日 18:29"
+comment_updated = "2026年10月17日 18:38"
 comment = """
-(2026年10月17日 18:29 更新)
-(2026年10月09日 19:44 更新)
-Original"""
+(2026年10月17日 18:38 更新)
+布罗特（ブロアト）帝国的北方土地几乎全部被毁。为了帝国的延续，帝国下令全国进入常态化的战时状态。国家要求人们在破败的土地上继续生存、服从、繁衍，并将个人生命纳入帝国的延续之中。
+一部分人逐渐选择离开社会，向已经被黑极夜毁坏的北方故乡前进。他们后来被称为：
+“Keloenozvi”（カロエノズヴィ）
+这个词原本只是“向北行走的一类人”，在遥远的后来逐渐获得一层淡淡的“殉道者”的含义。
+多数“北行者”在离开南部聚落后即失去可追踪记录，推测其最终进入北部冻海及高纬冰原区域，并未返回。该群体未形成稳定组织结构，但在后世文学与思想体系中，被反复转述与重构，并逐渐演化为一种象征性存在，用以指代对既定世界秩序的拒绝及对极限环境的主动趋近，而这一境界则被他们称为——
+“自由深冬”。（Midwinter of Unbound）
+“灰色的尽头，此刻我即是冬天。此刻我无限自由，我拥有着这里所有的冻海、冰原与雪花，我心潮澎湃，在逐渐冻结的身体里完成最后一次跳动。”"""
 
 [[details.revisions]]
 ver = "3"
@@ -7537,7 +7543,7 @@ artist = "MUSIC: D.J.jkoiuy / BMS: Constellation vs CalendarV  (movie : Constell
 genre = "Doujin Trance"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Self"
+bga = "BGA separate・Self"
 charts = "CHART_3 (★x4～★x12)"
 bpm = "155"
 tags = [
@@ -7545,6 +7551,9 @@ tags = [
     "14Keys",
     "Lang-US",
     "Lang-SCN",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
     "Use-BGI",
     "Use-wmv_movie",
     "Gimmick-LongNote",
@@ -7554,7 +7563,16 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月17日 19:35"
 comment = """
+(2026年10月17日 19:35 更新)
+VIDEO
+MOVIE
+https://www.youtube.com/watch?v=JmqfGOxFt28
+https://www.bilibili.com/video/BV11uJU6FEpu/
+CHART PREVIEW
+https://www.youtube.com/watch?v=tae3jmFYHlc
+https://www.bilibili.com/video/BV1cjJq6dEov/
 ABSTRACT
 EVENT: THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
 GENRE: Doujin Trance
@@ -7583,8 +7601,13 @@ Constellation, CalendarV, gsgaiq Charts Testing"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/04 18:04"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "add MOVIE and CHART PREVIEW URL in COMMENT, add BGA only DOWNLOAD link, add new TAGS of works, no change on charts"
 
 [[details]]
 num = "156"
@@ -9974,8 +9997,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月12日 08:37"
+comment_updated = "2026年10月17日 19:44"
 comment = """
+(2026年10月17日 19:44 更新)
 (2026年10月12日 08:37 更新)
 (2026年10月12日 08:35 更新)
 progrissive"""
@@ -11204,8 +11228,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/taffyz/parallel_summer"]
-comment_updated = "2026年10月15日 00:31"
+comment_updated = "2026年10月17日 21:09"
 comment = """
+(2026年10月17日 21:09 更新)
+(2026年10月17日 20:35 更新)
 (2026年10月15日 00:31 更新)
 ふふっ……私たちの本気、見せちゃいましょう……！"""
 
@@ -11949,7 +11975,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月17日 19:43"
 comment = """
+(2026年10月17日 19:43 更新)
 The beauty of nature lies in silence,erupts in an instant.
 自然的美丽蕴藏于不语，爆发于刹那"""
 
@@ -13773,6 +13801,289 @@ comment = """
 展開のまとまりとか知らなそうなADHD楽曲作ったからやってくれな笑
 AV1コーデック採用のため、古い環境では再生に難がある可能性がありますヨ
 楽しいBOFライフを！じゃあな"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "286"
+artist = "竹雀   URL"
+genre = "TECHNO"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_2 (★x6～★x9)"
+bpm = "130"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "FL Studio"
+audition = ["https://soundcloud.com/takesuzume/the-rotten-noble"]
+comment = """
+其の零落した貴人だけが、棄てられた地の病み人たちに手を差し伸べることを厭わなかった。
+心は勁く、志は貴く、詞藻は清らかに、眼差しは涼しく凛乎として、
+しかし其の身は常人と等しく濁った水と大気に蝕まれ、日一日と腐敗していった。
+今はの際の容貌はそれは醜く、朽ち果てて塵芥となって生温い風に攫われる頃には、盛時の姿を憶えている者は誰一人として居なかった。
+ただあの澄んで美しい声色だけを、誰もが爛れた耳の奥底に留めているのだった。
+そうして病み人のうちの何者かが、あの腐敗した貴人のよすがを遺さんとて此の調べを創った。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "287"
+artist = "watch / Aletta   URL"
+genre = "PIANO CORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "162"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = """
+很高兴和可可老师合作！ 歌好听钢琴写得牛！ 感谢可可老师带飞！ 同为 wmc 能合作这首曲子真的很开心 （！？ 玩魔裁？！ ）
+watch
+第一次作为曲师参加 BOF！ 试着把自己心目中音乐游戏的魅力所在写进了歌词， 感谢 watch 老师编混带飞 /拜谢
+想到取这个标题大概是因为， 每一次出分的时候都会想着 “还好刚才再开了一把” 所以曲名直译过来是下把有了 （？）
+Aletta
+ONE MORE TRY / PIANO CORE / watch / Aletta
+BMS & music by watch
+lyrics & vocal by Aletta
+note chart info
+SP NORMAL by watch
+SP HYPER by AZVW_2
+SP ANOTHER by AZVW_2
+DP ANOTHER by 椿雛ユキ"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "288"
+artist = "TSound associated with Cryo-Myosotis & system [Σ]   URL"
+genre = "COREFLAME UPLIFTING TRANCE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-Random",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/l-winter/bof22-scar-interlude-first"]
+comment_updated = "2026年10月17日 22:10"
+comment = """
+(2026年10月17日 22:10 更新)
+1 — First Iteration
+A promise, made where it all began.
+はじまりの場所で、交わした約束。
+在一切開始的地方，許下的約定。
+1 < n < 33550336 — [1 - 33550336] refrain
+Carrying it all, alone, once more.
+ひとりで、すべてを背負って、もう一度。
+獨自背負一切，再一次燃燒自己。
+33550336 — Last Chance
+This time, someone came from beyond the stars.
+So I entrust them with everything, and burn.
+Can anyone find my words?
+今度は、星の彼方から誰かが来た。
+だから、すべてを託し、この身を燃やす。
+誰か、僕の言葉を見つけてくれないか。
+這一次，有人從星海彼岸而來。
+所以，我托付一切，燃盡自己。
+有誰，能找到我的話語嗎？
+■ 注意事項
+beatoraja 推奨 (BGA は mp4 形式です)。
+すべての輪廻《プレイ》が、同じとは限らない。
+あなたは、何度目の輪廻《プレイ》？
+■  注意事項
+推薦使用 beatoraja (BGA 為 mp4 格式)。
+並非每一次輪迴 (選曲) 都相同。
+你目前在第幾次輪迴之中？
+■ Notes
+beatoraja recommended (BGA is mp4).
+Not every loop (play) will be the same.
+Which loop are you on?
+Scar / COREFLAME UPLIFTING TRANCE / TSound associated with Cryo-Myosotis & system [Σ]
+Music by TSound & Cryo-Myosotis & system [Σ]
+BMS by system [Σ]
+BG image & video by TSound
+note chart info
+SP NORMAL by system [Σ]
+SP HYPER by AZVW_2
+SP ANOTHER by AZVW_2
+website
+system [Σ] / https://www.twitter.com/sonictv_bms
+TSound / https://twitter.com/DYTSOUND
+Cryo-Myosotis / https://twitter.com/yoyupond
+AZVW_2 / https://twitter.com/AZVW_2"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "289"
+artist = "Lime + ああああ  (movie : わっふゑ) URL"
+genre = "Happy Hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "200"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
+]
+production = "ハピコアだいすきクラブ"
+comment = """
+================================
+A Paper Plane - 紙飛行機
+紙飛行機は、誰しもが一度はトライした事があるであろう創作という行為の入口であり、
+自分がいつか「創作に対する歓び」をテーマに作品を作る時にモチーフにしようと温めていた題材となります。
+自分のスタイルの集大成と言ってもいいようなポップでエモーショナルな楽曲に仕上がったと思いますし、
+何より自分とああああさんがBMSで積み上げてきた軌跡の面影を感じて頂けるような、合作らしい作品になったと思います。
+わっふゑさんの美麗でノスタルジーな映像と共に、お楽しみ頂ければ幸いです！
+(Lime)
+================================
+作曲部分の大体をああああ、編曲部分の大体をLimeさんが担当して、
+それぞれの足りない部分を相互に補い合うような形で自然と完成までこぎつけました。
+Limeさんから紡がれる１つ１つの音がキラキラしていて、
+自分もそれに呼応するように自然と音を返していくような、本当に楽しい制作期間でした…！
+BGAについては、自分からの強い要望でわっふゑさんにお願いさせて頂きましたっ。
+今回の作品のパワーに全力でお応え頂けそうな方として、これ以上ないチョイスだったと自負しております…！
+（わっふゑさん、素敵なBGAをありがとう。。。）
+(ああああ)
+================================
+在りし日々を辿って─────
+(わっふゑ)
+================================
+■MUSIC - Lime
+http://kanki2.net/
+http://x.com/_kanki2
+■MUSIC - ああああ
+https://aiueoeiua.wixsite.com/aaaaofficial
+https://x.com/q07a_
+■MOVIE - わっふゑ
+https://x.com/ks_wafflev0v
+https://www.youtube.com/user/wafflev0v
+================================
+Team: ハピコアだいすきクラブ
+[CHRONICLE] Ultravelers!!! - otoshi.b & kooridori (movie : ShakeJ)
+https://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=152
+[SUSPENSEFUL] RACE - Notorious(Nota & TRIAL) (movie : ShakeJ)
+https://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=152
+================================"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "290"
+artist = "NoKANY feat. 花見くくる  (movie : SEED) URL"
+genre = "Hyper Intelligent"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "34 ～ 136"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+    "Use-BGA",
+    "Gimmick-Stop",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/nokany/bof22-nokany-feat?si=553b7238d4bb40c4943b8f3519fef650&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment = """
+Title: 人々、歩き、考え、寒さに沈んでいく
+Genre: Hyper Intelligent
+BPM: 136
+Music: NoKANY feat. 花見くくる
+Movie: SEED
+Cover: 0tter$
+Photography: 駒越凌久
+Illustration: 阿初AC_omo
+BMS:
+SP - NoKANY
+去年の初冬、私はひとりで街を歩いていた。冷たい風が顔に吹きつけ、まわりではさまざまな人たちがすれ違っていく。
+私は彼らと同じようでいて、似ているところはひとつも見つからなかった。
+私たちはそれぞれ違う方向へ、違う目的のために、違う場所へと向かっていく。
+それぞれの頭の中にあるのも、同じ世界ではない。
+それでも、私たちはともにこの社会を形づくっている。ひとりひとりがかけがえのない個でありながら、ひとつに溶け合っている。
+私たちは冷たい風の中を、歩き、考え、少しずつこの社会の中へと沈んでいく。
+けれど、たとえ同じ人波となっても、私たちは鮮やかな「自分」のままだ。
+どんな肩書きも、ひとりの人間をすべて言い表すことはできない。
+私たちは同じ世界で生きているのに、自分の世界から、誰かの世界を想像してみることしかできない。
+この世界には、面白い人、退屈な人、優しい人、冷たい人、
+そして、私たちの知らないたくさんの人がいる。
+だから
+もう一度
+あなたのことを
+ちゃんと
+知りたい"""
 
 [[details.revisions]]
 ver = "1"

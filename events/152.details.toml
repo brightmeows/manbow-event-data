@@ -28,9 +28,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/nymphaquer/bof22-alya"]
-comment_updated = "2026年10月09日 19:25"
+comment_updated = "2026年10月18日 00:53"
 comment = """
-(2026年10月09日 19:25 更新)
+(2026年10月18日 00:53 更新)
 [Metadata]
 song: ALYA
 artist: Aquer
@@ -61,6 +61,11 @@ https://vgen.co/Minato28507
 https://x.com/echa_omega"""
 
 [[details.revisions]]
+ver = "6"
+date = "2026/10/09 19:25"
+note = "Removed stream link which was dead."
+
+[[details.revisions]]
 ver = "5"
 date = "2026/10/02 21:45"
 note = "Fixed difficulty names."
@@ -86,9 +91,9 @@ date = "2026/10/01 23:01"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "6"
+ver = "7"
 date = ""
-note = "Removed stream link which was dead."
+note = "Added Bemuse support."
 
 [[details]]
 num = "2"
@@ -5371,7 +5376,9 @@ tags = [
     "-----",
 ]
 production = "非公開"
+comment_updated = "2026年10月17日 22:53"
 comment = """
+(2026年10月17日 22:53 更新)
 お久しぶりです、kanoryoです。
 年一でこのイベントが開催されるから、今でも自分は音楽を続けられているんだなと
 しみじみ感じる今日この頃でございます。
@@ -8052,12 +8059,20 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
-comment = "This part of the work will be updated later."
+comment_updated = "2026年10月18日 01:24"
+comment = """
+(2026年10月18日 01:24 更新)
+This part of the work will be updated later."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/07 13:49"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "YouTube URL added."
 
 [[details]]
 num = "166"
@@ -10290,8 +10305,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 16:19"
+audition = ["https://soundcloud.com/lalotofficial/gokumetsu"]
+comment_updated = "2026年10月18日 02:09"
 comment = """
+(2026年10月18日 02:09 更新)
 (2026年10月16日 16:19 更新)
 「君は、崩壊した世界の、その先の姿が見たいかい？」
 Team「デス一揆」 FINAL STRIKER WORK 「極滅」
@@ -11946,9 +11963,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/qfdyh54mdzgv/bof22-trytrytrytry-lamanya"]
-comment_updated = "2026年10月16日 00:44"
+comment_updated = "2026年10月17日 23:59"
 comment = """
-(2026年10月16日 00:44 更新)
+(2026年10月17日 23:59 更新)
 Lamanyaです。
 最近、結構UK Garageを聴くようになり、自分も作ってみたいなぁ...と思ったのがきっかけでした。
 大人な感じ...夜の運転...おしゃれ...そんな感じの曲です。"""
@@ -12892,10 +12909,22 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 22:56"
+comment_updated = "2026年10月18日 01:19"
 comment = """
+(2026年10月18日 01:19 更新)
+(2026年10月18日 01:17 更新)
 (2026年10月16日 22:56 更新)
 This part of the work will be updated later."""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/18 01:17"
+note = "YouTube URL added."
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/16 22:56"
+note = "Original artist and source were added to the credit list."
 
 [[details.revisions]]
 ver = "1"
@@ -12903,9 +12932,9 @@ date = "2026/10/16 04:47"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "4"
 date = ""
-note = "Original artist and source were added to the credit list."
+note = "In last edition, the YouTube URL was somehow pasted wrong."
 
 [[details]]
 num = "267"
@@ -14084,6 +14113,152 @@ SP - NoKANY
 あなたのことを
 ちゃんと
 知りたい"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "291"
+artist = "彩奏   URL"
+genre = "EPILOGUE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x6～★x20)"
+bpm = "256"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
+]
+production = "非公開"
+comment = """
+"you must be ready to burn yourself in your own flame;
+how could you rise anew if you have not first become ashes?"
+Friedrich Nietzsche, Thus Spoke Zarathustra
+"Whenever I was asked what I wanted my first impulse was to answer
+'Nothing.' The thought went through my mind that it didn't make any
+difference, that nothing was going to make me happy."
+Osamu Dazai, No Longer Human
+Thank you everyone! For listening to my song!
+I will keep making better song for not just me but for all of you
+who is my listener because you are all the person whom I tressure the most!
+彩奏"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "292"
+artist = "168  (movie : Luckcx) URL"
+genre = "future bounce"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x9)"
+bpm = "128"
+tags = [
+    "7Keys",
+    "Lang-SCN",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-avi_movie",
+    "Difficulty-beginner",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/daze-hepeor/just-one-trip?si=1b80c5fe33a345d291dbff45d9c9e3fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment = """
+本bga由bga制作人的学校要求去甘肃采风而拍摄（
+草！草！草！
+操！操！操！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "293"
+artist = "Catonieca  (movie : カエ龍) URL"
+genre = "a new home for me"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Unit"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "185"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Format-bms62",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月18日 01:06"
+comment = """
+(2026年10月18日 01:06 更新)
+Hello! Catonieca here! This is my second time participating in BOF after making Universal Traveser and Venture (as CXTXNXEXA), and I bring to you only one entry this time, that being my song about a cats new home.
+what a strange world
+This story in this song is about a cat who had gotten lost in a forest only to be brought in an alien planet through means which... are currently unknown, there is a language barrier and just absolute fear initially but through bodily movements and trust, this cat will find that the place isn't as bad... and rather beautiful. This is why the genre is what it is, I hope you like the song and the amazing BGA that is made by Kaeryu.
+The difficulties are:
+7SP:
+Beginner - 3 (by NoteCat [me])
+Normal - 5 (by NoteCat [me])
+Hyper - 9 (by LiGaYb)
+Another - 11 (by LiGaYb)
+There will be an Insane chart when the period to add new charts come, so good luck :)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "294"
+artist = "げうげうｒ   URL"
+genre = "M i n d   E x e r c i s e"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x0～★x12)"
+bpm = "86.6 ～ 212.61"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Video-sharing",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "Studio One Artist"
+audition = ["https://soundcloud.com/user-615945876/bof22"]
+comment = """
+「最上級亜空体験お届けする！今すぐレろ！」
+げうげうｒです。
+今回は毎小節BPMが変わる曲はさぞ押しづらいだろうなぁと思い、そういう曲にしました。
+BMSでやることに、意味がある、そういうコンセプトなんですよ、はい。
+ナレーションに音楽的同位体 星界を使用しています。"""
 
 [[details.revisions]]
 ver = "1"

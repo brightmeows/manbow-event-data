@@ -2100,8 +2100,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "Odin IIIはいいぞ"
-comment_updated = "2026年10月02日 03:55"
+comment_updated = "2026年10月17日 18:17"
 comment = """
+(2026年10月17日 18:17 更新)
 (2026年10月02日 03:55 更新)
 どうしようもない世界で叫ぶ僕たちの為だけのウタ。
 詳しくは_readme.txtをご覧ください。"""
@@ -6351,31 +6352,47 @@ note = "BGAを追加"
 
 [[details]]
 num = "129"
-artist = "Do Minh Quan GWDS   URL"
+artist = "Do Minh Quan GWDS  (movie : YiMeng.emo) URL"
 genre = "Orential Hardcore"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "none・none"
+bga = "BGA include・Other"
 charts = "CHART_3 (★x1～★x12)"
 bpm = "190"
 tags = [
     "7Keys",
     "Lang-US",
     "File-Modify",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
     "Difficulty-beginner",
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月05日 23:58"
+comment_updated = "2026年10月17日 14:37"
 comment = """
+(2026年10月17日 14:37 更新)
 (2026年10月05日 23:58 更新)
 (2026年10月05日 23:56 更新)
 SP Beginner 1
 SP Another 11
 SP Insane 12
 BMS/Music:Do Minh Quan GWDS
-obj:YiMeng.emo
-Background and the other charts is been preparing."""
+obj/BGA(editing):YiMeng.emo
+Some free materials were used to make BGA:
+①https://vimeo.com/194459206
+②https://www.youtube.com/watch?v=trEYf3XQWaA
+③https://vimeo.com/190963110
+④https://vimeo.com/219052498
+⑤https://www.youtube.com/channel/UCyQwZ_ko5MOBo-ItPnhPILA
+⑥https://youtu.be/tTLWiPAt5WQ
+⑦https://video-ac.com/video/17645
+The other charts is been preparing."""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/05 23:56"
+note = "作品を修正"
 
 [[details.revisions]]
 ver = "1"
@@ -6383,9 +6400,9 @@ date = "2026/10/01 23:43"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "作品を修正"
+note = "BGAを追加"
 
 [[details]]
 num = "130"
@@ -6706,20 +6723,27 @@ note = "Added YouTube."
 
 [[details]]
 num = "137"
-artist = "crash909☆  (movie : Isuzaki, 星野明羽) URL"
+artist = "crash909☆  (movie : 星野明羽) URL"
 genre = "Full Flavor"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Other"
+bga = "BGI only・Other"
 charts = "CHART_3 (★x1～★x12)"
 bpm = "190"
 tags = [
     "7Keys",
-    "-----",
+    "Lang-US",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGI",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 19:44"
+audition = ["https://soundcloud.com/crash-909/keloenozvi"]
+comment_updated = "2026年10月17日 18:29"
 comment = """
+(2026年10月17日 18:29 更新)
 (2026年10月09日 19:44 更新)
 Original"""
 
@@ -12902,6 +12926,7 @@ bpm = "115.8 ～ 170"
 tags = [
     "7Keys",
     "Lang-US",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-mp4_movie",
@@ -12910,8 +12935,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 15:20"
+comment_updated = "2026年10月17日 18:15"
 comment = """
+(2026年10月17日 18:15 更新)
 (2026年10月16日 15:20 更新)
 低音の効いたテクノ～ハードスタイル。
 54小節から58小節にかけて、130 -> 140 -> 150 -> 160 -> 170 と
@@ -12922,8 +12948,13 @@ comment = """
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 15:16"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
 
 [[details]]
 num = "269"
@@ -13512,7 +13543,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/rareguy/introduce"]
+comment_updated = "2026年10月17日 15:52"
 comment = """
+(2026年10月17日 15:52 更新)
 Description
 frog and crab music
 school assignment, A+ please
@@ -13543,7 +13576,10 @@ tags = [
     "Use-BGA",
 ]
 production = "非公開"
+audition = ["https://soundcloud.com/au-dee-oh-to-pee-uh/theshootingstaraftertheovercast"]
+comment_updated = "2026年10月17日 15:50"
 comment = """
+(2026年10月17日 15:50 更新)
 Description
 A tied-up 引きこもり wishes for shooting stars.
 Charts
@@ -13579,6 +13615,164 @@ ANOTHER - ☆12
 BLISSIA - ☆12
 All charts created by Integer
 BGA by 42SoL"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "282"
+artist = "audioTopia ft. Timothy Alv & Karasu Yuutsukoe   URL"
+genre = "POST-HARDCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_2 (★x12～★x13)"
+bpm = "184.5"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Use-BGA",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/au-dee-oh-to-pee-uh/dieasidrown"]
+comment_updated = "2026年10月17日 15:51"
+comment = """
+(2026年10月17日 15:51 更新)
+Description
+「布団の中で、時間だけが腐っていく」
+Charts
+Another Lv12
+Insane Lv13"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "283"
+artist = "ReLU vs pimatT  (movie : togu87) URL"
+genre = "Drum and Bass"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-KR",
+    "Use-BGI",
+]
+production = "非公開"
+comment = """
+안녕하세요, team 곡이안만들어져요!!! 입니다!
+이번 곡은 Final Striker답게 무려 저희 팀원 5명이 모두 참여하여 내놓은 합작 작품입니다!
+먼저 작곡의 경우 ReLU와 pimatT가 공동으로 담당했습니다.
+자세히 들어보시면 저희 팀의 다른 작품인 Rectified와 Chronic dream의 요소와 작곡 스타일이 곳곳에 녹아 있음을 발견하실 수 있습니다. 두 곡을 이미 들어보신 분이라면 어떤 부분을 누가 담당했는지 주목해서 들어주시면 더욱 재미있을 것 같습니다.
+마감 직전까지 두 작곡가가 스튜디오 룸에 모여 함께 작업했습니다. (사실 한 명이 작업하는 동안 다른 한 명은 노는 식이였지만요. ㅋㅋ) 한참 토론하고, 아무도 알아채지 못할 법한 사소한 부분을 어떻게 고칠지까지 끊임없이 고민하며 이 곡을 완성했습니다. 사실 마감 기한이 없었으면 아직까지도 토론하고 있었을지도 모릅니다. 결국 최종본은 finalrealfinalfinalfinal_21에서 마무리되었는데, 무엇이 진짜 최종본인지조차 알기 어려웠습니다. ㅋㅋ
+채보 작업의 경우,
+ANOTHER는 john0716과 Fnel이 각각 앞부분과 뒷부분을 맡았으며, 합치는 과정에서 서로 피드백을 주고받으며 다듬어 완성한 채보입니다.
+HYPER와 NORMAL은 작곡가인 ReLU가 담당했습니다. 작곡하면서 '이 부분은 채보로 꼭 살리고 싶다!'고 생각했던 부분들을 최대한 반영하여 작업했습니다.
+일러스트의 경우 togu87님께서 멋진 작업물을 만들어 주셨습니다! (작곡가의 취향이 약간 반영되기도 하면서) 건반과 폐허라는 곡의 컨셉을 멋지게 시각화해주셨습니다.
+전원 BOF 첫 출전으로서, 부족한 부분들이 많았지만, 저희 팀의 최종 작품까지 끝까지 달려주신 팀원분들께, 정말 감사하게 생각하고 있습니다.
+저희 팀이 작업하면서 느꼈던 창작의 고통과 열정이 플레이하시는 여러분께도 조금이나마 전해졌으면 좋겠습니다.
+감사합니다!
+こんにちは！チーム「曲が作れません！！！」です！
+今回はFinal Strikerにふさわしく、なんとチームメンバー5人全員が参加した合作です！
+まず、作曲はReLUとpimatTの2人で担当しました。
+じっくり聴いていただくと、同じく私たちのチームから参加している「Rectified」と「Chronic dream」の要素や、それぞれの作風が随所に感じられると思います。すでにこの2曲を聴いた方は、「ここはどっちが作ったんだろう？」と想像しながら聴いてみると、より楽しめるかもしれません。
+締め切り直前まで、作曲担当の2人でスタジオに集まって制作していました。
+（実際は、片方が作業している間、もう片方は遊んでいたりしましたが……ｗ）
+あれこれ議論を重ね、誰も気づかないような細かい部分まで「どう直そうか」と悩み続けながら、ようやく完成にたどり着きました。締め切りがなかったら、今でもまだ議論していたかもしれません。
+結局、最終版は「finalrealfinalfinalfinal_21」に落ち着いたのですが、もはやどれが本当の最終版なのか、自分たちでも分からなくなっていましたｗ
+続いて、譜面について。
+ANOTHERは前半をjohn0716、後半をFnelが担当しました。2人の譜面をつなぎ合わせる際にも、お互いに意見を出し合いながら調整を重ねて仕上げています。
+HYPERとNORMALは、作曲も担当したReLUが制作しました。曲を作りながら「ここはぜひ叩いてほしい！」と思った部分を、できる限り譜面に盛り込んでいます。
+イラストはtogu87さんに素敵な一枚を描いていただきました！
+作曲担当の趣味もちょっぴり反映されつつ、「鍵盤と廃墟」という楽曲のコンセプトを見事に描き出してくださいました。
+メンバー全員がBOF初参加ということもあり、至らない点も多々ありましたが、チーム最後の作品まで一緒に走り抜けてくれたメンバーのみんなには、本当に感謝しています。
+制作を通して私たちが味わった産みの苦しみや、作品に込めた情熱が、プレイしてくださる皆さんにも少しでも伝われば嬉しいです。
+ありがとうございます！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "284"
+artist = "LevUpVD  (movie : 魚鉤 & δ) URL"
+genre = "Psytrance"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x1～★x11)"
+bpm = "100"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "Lang-TCN",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = """
+Music：
+LevUpVD
+BMS：
+LevUpVD
+llustration：
+魚鉤 & δ
+Chart：
+Selinki
+Baiicat
+CalendarV
+LevUpVD
+Team:Bridegrooms of Fridge
+SP BEGINNER ✩2  by VDLevUP
+SP NORMAL ✩6 by CalendarV
+SP HYPER ✩9 by Selinki
+SP ANOTHER ✩11 by Baiicat"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "285"
+artist = "Nakaiankow   URL"
+genre = "Hard Dance"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "150"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "早くオレにBwoking Dead: Reanimatedをやらせろ"
+comment = """
+みんなおつかれ✌️
+展開のまとまりとか知らなそうなADHD楽曲作ったからやってくれな笑
+AV1コーデック採用のため、古い環境では再生に難がある可能性がありますヨ
+楽しいBOFライフを！じゃあな"""
 
 [[details.revisions]]
 ver = "1"

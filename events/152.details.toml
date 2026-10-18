@@ -2528,8 +2528,11 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/eaxppnbaiaru/bof22-ride-on"]
-comment_updated = "2026年10月09日 01:23"
+comment_updated = "2026年10月18日 23:59"
 comment = """
+(2026年10月18日 23:59 更新)
+(2026年10月18日 23:56 更新)
+(2026年10月18日 23:54 更新)
 (2026年10月09日 01:23 更新)
 (2026年10月02日 01:48 更新)
 (2026年10月02日 01:44 更新)
@@ -2824,8 +2827,10 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 20:19"
+comment_updated = "2026年10月19日 01:32"
 comment = """
+(2026年10月19日 01:32 更新)
+(2026年10月19日 01:30 更新)
 (2026年10月09日 20:19 更新)
 Wraith.
 My invisible partner, that make me hard to see the real world.
@@ -8486,7 +8491,7 @@ artist = "NEKO18  (movie : usan1wa) URL"
 genre = "Mirror Abyss"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Other"
+bga = "BGA include・Other"
 charts = "CHART_3 (★x2～★x12)"
 bpm = "176"
 tags = [
@@ -8495,15 +8500,22 @@ tags = [
     "Lang-SCN",
 ]
 production = "非公開"
+comment_updated = "2026年10月19日 01:06"
 comment = """
+(2026年10月19日 01:06 更新)
 曲名「SAKOZIMIEV」は「鏡の深淵」を意味します。
 向かい合わせに置かれた二枚の鏡を想像してください。そこには果てのない深淵が映し出されます。
 観測者は深淵の縁から見下ろすと、自身の姿も深淵の中に散らばっているのを目にすることになる。"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/08 17:22"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
 
 [[details]]
 num = "173"
@@ -13610,12 +13622,21 @@ tags = [
     "Difficulty-senior",
 ]
 production = "Cubase"
-comment = "100円バーガーと、75％の愛情を君に。"
+comment_updated = "2026年10月19日 00:48"
+comment = """
+(2026年10月19日 00:48 更新)
+(2026年10月19日 00:43 更新)
+100円バーガーと、75％の愛情を君に。"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/17 01:14"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "soundcloudのリンクを追加しました"
 
 [[details]]
 num = "278"
@@ -13700,11 +13721,17 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/au-dee-oh-to-pee-uh/theshootingstaraftertheovercast"]
-comment_updated = "2026年10月17日 15:50"
+comment_updated = "2026年10月19日 00:21"
 comment = """
+(2026年10月19日 00:21 更新)
 (2026年10月17日 15:50 更新)
 Description
 A tied-up 引きこもり wishes for shooting stars.
+Comments from authors
+audioTopia
+"Rainbow After The Storm", "Door Duisternis Tot Licht", "曇り空の後のShooting Star". The song centers on the well-known premise about hope; the premise being a promise that hope will come after difficult times. Embodying the wish of a shut-in confined by isolation, wanting to believe that they will be freed and "cured" of their ways.
+rareguy
+I don't know man, I just got here. When audioTopia displayed this song, I felt like that there was a problem with the instruments because it relied heavily on a very fast drum. So I just like "Hey, would you mind if I changed one single instrument", and so it changed the vibe of the entire song, instead of brash, rough drum, it became more electric and helped the other instruments breath more. Oh yeah I also added some bits at the end just because it sounded like my childhood song.
 Charts
 Another Lv12
 Insane Lv14"""
@@ -13761,11 +13788,15 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/au-dee-oh-to-pee-uh/dieasidrown"]
-comment_updated = "2026年10月17日 15:51"
+comment_updated = "2026年10月19日 00:17"
 comment = """
+(2026年10月19日 00:17 更新)
 (2026年10月17日 15:51 更新)
 Description
 「布団の中で、時間だけが腐っていく」
+Comment from authors
+audioTopia
+A more elaborate take on the same shut-in's struggle from "曇り空の後のShooting Star ★." It expresses a grimmer outlook, with more vivid imagery of the room they are isolated in during the darker times when the chances of their recovery grow slimmer.
 Charts
 Another Lv12
 Insane Lv13"""
@@ -14825,7 +14856,10 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "昼休みの30分"
+audition = ["https://soundcloud.com/newtown_tama/bof22-metroangel"]
+comment_updated = "2026年10月19日 00:58"
 comment = """
+(2026年10月19日 00:58 更新)
 ****
 【GENRE】 Kinetics
 【TITLE】 metroAngel
@@ -14833,11 +14867,11 @@ comment = """
 【BGA】  KeiuO + サワダモコ
 【Event】 THE BMS OF FIGHTERS 22 -GO 2 YOUR EVOLUTION-
 [SINGLE PLAY]
-BEGINNER   Lv.3
-NORMALLv.6
-HYPERLv.10
-ANOTHER   Lv.12(sl2前後)
-INSANE   Lv.12(sl9前後)
+[C} (BEGINNER)   Lv.3
+[T] (NORMAL) Lv.6
+[G] (HYPER) Lv.10
+[M] (ANOTHER)   Lv.12(sl2前後)
+[Z] (INSANE)   Lv.12(sl9前後)
 ****
 極東の心臓と、
 それを司る地下の“天使(system)”。
@@ -14856,7 +14890,10 @@ metroAngel -
 表現としてのdatamoshをフィーチャーしようと思い、
 人力でdatamoshを描ける超人、サワダモコさんをお呼びしました。
 チームテーマの象徴として好きに作りました。楽しかったです。
-(KeiuO)"""
+(KeiuO)
+■Special Thanks
+ゆぐどらしる
+クレオパトラ7世"""
 
 [[details.revisions]]
 ver = "1"
@@ -15064,7 +15101,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
+comment_updated = "2026年10月18日 23:49"
 comment = """
+(2026年10月18日 23:49 更新)
 音ゲーコアだーーー！！！
 結構ひさしぶりかも！Nuekawaです。
 昔作ってたOTOGAME MUSICシリーズの新曲を作ってみました。
@@ -15108,6 +15147,437 @@ comment = """
 ■曲を作った人:クエーバー
 https://x.com/mistmofmof
 https://soundcloud.com/mistmofmof"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "316"
+artist = "OYinFengO  (movie : 棱狸Lengli) URL"
+genre = "Dream?"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・none"
+charts = "CHART_3 (★x2～★x6)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-SCN",
+    "Lang-TCN",
+    "Audition-Sound",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "非公開"
+comment = """
+吹着舒适的风，站立在太阳下，一切如往常一样，一切又珍贵难得，这一切如同蒲公英版脆弱，一旦那舒适的风变得暴戾，这一切的美好都会烟消云散，但幸好，那样的事没有发生。。。——————真的吗？
+Special Thanks：
+GolDenSiR
+雨瞳Ⅸ
+baka3b
+棱狸Lengli"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "317"
+artist = "穐山 綾目  (movie : 穐山 恋歌) URL"
+genre = "TRANCECORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x1～★x15)"
+bpm = "175"
+tags = [
+    "7Keys",
+    "5Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 00:10"
+comment = """
+(2026年10月19日 00:10 更新)
+Let me show you....
+My hope.... My dream.... My brilliance....
+さあ、お見せしましょう....
+私の願い.... 私の夢.... 私の輝き...."""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "318"
+artist = "arenji   URL"
+genre = "HALLOWEEN HARDCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x8～★x15)"
+bpm = "240"
+tags = [
+    "7Keys",
+    "Use-BGA",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/au-dee-oh-to-pee-uh/devilsadvocate"]
+comment_updated = "2026年10月19日 00:24"
+comment = """
+(2026年10月19日 00:24 更新)
+Description
+Advocatus diaboli in the most literal sense. Not the cheap roleplay most take me for. I AM the devil's OWN advocate.
+Comments from authors
+rareguy
+Wait what? Joko is innocent? You sure about that? Against Pearson-Spectre?
+Song comment
+Jokes aside, do you feel weird listening to this? Well, you should. Even I felt that. Some guy said he likes the number 38, so he did. It's unsettling, right? Anyway, the song was a long time draft that was supposed to be a forever draft. When arenji revived, we intended to just use whatever in our armory, without using external libraries. Default plugins for FL Studio apparently is pretty good (if you buy it) and I realized that as much money that I can pour into plugins and effects, if I didn't know the basics of producing, it will still sound like a big ol' rainbow trout splapping on the floor. Image-Line, please endorse us.
+audioTopia
+This is literally our first-ever song using only Fruity Loops Studio plugins, and I couldn't be more proud of us. I remember being very strict about it when I proposed the idea to rareguy because I really couldn't be bothered exchanging samples or using plugins we don't both have. It's just a hassle and a half every time we do that. So I was really glad when rareguy was on board with the idea and actually went SO HARD with the sound design, mixing, and everything else on this. All I needed to do was further develop the story of the song from the short riff rareguy had made (the intro of the song) and translate it into fitting harmony and arrangement. I was the happiest man alive when this song was finished, because we actually made a proper rhythm game-esque song. Image-Line, please endorse us.
+Charts
+Insane Lv15
+Another Lv12
+Hyper Lv11
+Normal Lv8"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "319"
+artist = "sopranotrom   URL"
+genre = "TECHNO"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_2 (★x7～★x7)"
+bpm = "165"
+tags = [
+    "7Keys",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+]
+production = "非公開"
+comment = "古い音ゲーテクノを作りたかったので作りました。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "320"
+artist = "円湯(Maroyu)   URL"
+genre = "French House"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x4～★x10)"
+bpm = "128"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bmson",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/maroyu/morning-pattern"]
+comment_updated = "2026年10月19日 00:47"
+comment = """
+(2026年10月19日 00:47 更新)
+よろしやす！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "321"
+artist = "4983  (movie : Apostrophe) URL"
+genre = "MacGuffin"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x8)"
+bpm = "134"
+tags = [
+    "5Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-wmv_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/macguffin4983/macguffin-26-2"]
+comment_updated = "2026年10月19日 01:18"
+comment = """
+(2026年10月19日 01:18 更新)
+(2026年10月19日 01:15 更新)
+【4983】
+コメントは後日掲載いたします。
+私の作品の2次創作に関するガイドラインを私のツイッターのメインツイートに設定しましたので、ぜひご参考ください！
+この曲のリファレンス一覧は以下の通りです：
+Control Your Mind (Original Mix) - Roger Lavelle & Innervoix
+The Rave - Innervoix
+WFT - Subtrax
+【SmiGoon】
+コメントは後日掲載いたします。
+【Apostrophe】
+MacGuffin #26-2 BGAに参加したApostropheです。
+何か暗めの雰囲気をご希望のようなので、できる限りそうしました 暗くてどんよりした場面のことをです。
+本来は「K」で始まる曲のように真似をしようとしたのですが、失敗に終わりました。
+とにかく快く引き受けてくださり、素晴らしい曲を担当させていただいた4983さん、ありがとうございます
+また機会があればいいなと思います。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "322"
+artist = "7371 (feat. Nea SV2)   URL"
+genre = "Y2K K-Techno"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x9)"
+bpm = "145"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-KR",
+    "Use-wmv_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "非公開"
+comment = """
+いつもありがとうございます
+7371と申します。
+今回はいよいよ一番近くの所へ来ました。
+ソウルです。
+Y2K、韓国ではテクノがものすごく流行りました。
+そんな時の一面をなるべく持って来たいと思って、ソウルにしました。
+でも困りますね
+もう、近場がないんです…
+次のスケッチはどこへ向かうべきなんでしょう"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "323"
+artist = "Sumiki / Hurobe  (movie : Hurobe) URL"
+genre = "J-core"
+genre_sub = "Original・Unit"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "192"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+エレクトロ主体のJ-coreで、もしかすると曲調はhappy hardcoreに近いかも？
+ピアノとリードが主役で、途中からぐっと感情が動く展開になっています。
+「Clear(ish) World」というタイトル通り、どこか曖昧で、でも確かに晴れていく
+そんな感覚を音にしてみました。
+譜面は NORMAL(★4) / HYPER(★9) / ANOTHER(★12) の3種類。
+同じ音源・同じBGAで、難易度だけが違うので、まずはNORMALからどうぞ。
+[Hurobe] 喜歡sumiki的音樂（和本人）～
+[Sumiki] 寫的時候完全不想睡....平時我很愛睡覺。對了，玩得開心哦。
+[Xinsuanxiangzi] 大家辛苦了。
+[Limitsc] 軽舟已過"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "324"
+artist = "tbz1  (movie : Croca) URL"
+genre = "Renaissance Hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x5～★x13)"
+bpm = "195"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-KR",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/tbz1_music/bof22-afterglow-aflame"]
+comment_updated = "2026年10月19日 01:56"
+comment = """
+(2026年10月19日 01:56 更新)
+안녕하세요, tbz1입니다.
+BMS 플레이는 꽤 해봤지만 BOF 참가는 처음이네요.
+여러가지로 도움주신 팀장 Ju_E 님과 팀원분들께 감사드립니다.
+부족한 점이 많지만 잘 부탁드립니다."""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "325"
+artist = "DJKurara VS Takuya Namba  (movie : DJKurara) URL"
+genre = "BLACKENED DIGITAL HARDCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x5～★x25)"
+bpm = "215"
+tags = [
+    "7Keys",
+    "5Keys",
+    "Format-bms62",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 02:22"
+comment = """
+(2026年10月19日 02:22 更新)
+62進数BMSです。対応本体でプレイしてください。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "326"
+artist = "Spehs  (movie : sharpbin) URL"
+genre = "BOARDING PASS"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x20)"
+bpm = "222"
+tags = [
+    "7Keys",
+    "Other",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "Logic Pro<br><br>uBMSC<br>https://github.com/NS-Kazuki/iBMSC/releases<br><br>bmhelper (2xxbin)<br>https://github.com/2xxbin/bmhelper/releases<br><br>Volt (+LR2 for keysound mixing)<br>http://inamons.com/files/volt151.zip<br>https://inamons.com/software/volt/howtouse.html<br><br>Qwilight (#4K, #6K)<br>https://store.steampowered.com/app/1910130/Qwilight/<br><br>beatoraja<br>https://mocha-repository.info/download.php<br><br>Java 17 JDK FX (for beatoraja 0.8.8 ModernChic Skin)<br>https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jdk-fx#zulu"
+audition = ["https://soundcloud.com/r4m3n50up/azure-adventure"]
+comment = """
+Music, BMS, Chart // Spehs
+旅に出ざるを得ない事情により、今年は雲の上（Starlink経由）からご挨拶いたします。Spehsと申します。
+Azure Adventureは旅行のときめきを込めた曲となります。シートベルトを締めて、一緒に飛びましょう。
+今回はSP BNHAだけではなく（SPIは準備中です！）4Kと6Kの譜面も4難易度ずつ（EZ NM HD SHD）用意していますので、#4Kと#6Kの拡張命令に対応しているSteamのQwilightもぜひお試しください！
+beatorajaやLR2でも5鍵と7鍵として遊べますが、Qwilightには空いている真ん中のレーンを表示しない専用のスキンが用意されています。来年は会場に4KEYSと6KEYSのタグをお願いします。
+今年もどうぞよろしくお願いいたします。
+BGA // sharpbin
+짧은 기간에 완성했지만 이번에도 참가할 수 있는 기회가 생겨서 너무 즐거웠어요~!
+短い期間で完成させましたが、今回も参加できる機会ができてとても嬉しかったです〜！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "327"
+artist = "Rain_Light & Geowyns  (movie : 秋夢観鶴) URL"
+genre = "AdventBass/Artcore/Hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x1～★x12)"
+bpm = "195"
+tags = [
+    "7Keys",
+    "Use-BGI",
+    "Difficulty-beginner",
+    "Difficulty-gimmick",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 02:24"
+comment = """
+(2026年10月19日 02:24 更新)
+感谢您能查看我的留言！
+继去年的“静かな夜、星明かりの夜”后，第二次参加bof，请多多关照！！
+想说的有很多..本作品大概是给之前的自己一个回应吧。
+这首曲子融入了很多早期曲目的段落安排甚至旋律（如本曲的结尾方式），承载着许多之前的愿望、回忆和痛苦。而同时也融入了一些我个人认为比较有个人特色的曲风和段落——比如本曲第一段高潮，通过比较灵活的音色，空间穿越感强的音色组成，我自称为“AdventBass”（其实也只是随便取的（）请不必在意）恰好很合适“冒险”的主题
+关于“Go Foward。With Yourself”，其实也算是为之前比较独来独往的自己的肯定与安慰吧…借鉴了去年bof21某首参赛曲用“。”进行命名。因为有了最近的经历，我越发觉得事情变得不可控起来，而我能做的，只有改变自己。只有自己努力才能接近想要的东西吧。所以..希望大家也能在即使只有自己的时候，不要忘记，带着自己的那一份积极地走下去！
+关于本首曲目，我最想写的曲子，是能入心的音乐，让听众能有所回味的音乐。而后再是值得被咀嚼的音乐，劲爆的音乐，有人听的音乐。我不知道我是否能做到哪怕一点，但我仍然认为我在接近吧。
+这次除了负责音乐，也同样作为“初心者”完成了spb lv.2的制作和切音的工作（-三天切音实在太累了-）也非常感谢sparkline的曲绘，yuri、zaphic、Molybdenum_S2、队长秋梦观鹤的谱面和同样来自队长的bga！
+再次感谢您的阅读！但愿明年再见！！！
+Rain_Light 2026.10.19"""
 
 [[details.revisions]]
 ver = "1"

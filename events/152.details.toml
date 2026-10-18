@@ -14389,3 +14389,35 @@ comment = """
 ver = "1"
 date = ""
 note = "初版公開"
+
+[[details]]
+num = "297"
+artist = "u20xx  (movie : u20xx (Illust: sam)) URL"
+genre = "ORIENTAL CORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Unit"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "120"
+tags = [
+    "7Keys",
+    "Lang-SCN",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-kusofumen",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/u20xx/bof22"]
+comment = "Hi! This is my second time participating in BOF! Enjoy!"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"

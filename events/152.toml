@@ -32,13 +32,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/l8p13xrd9uylvpysqiexq/_ALYA_-_compact_.zip?rlkey=gmbn01213cl7th45a48efcr79&st=sumj9dyg&dl=1",
 ]
 genre = "Botanical Hi-Tech"
-impr = "13"
-total = "13897.2"
-total_n = "11581"
-median = "900"
-avg = "890.84"
+impr = "14"
+total = "15025.2"
+total_n = "12521"
+median = "911"
+avg = "894.35"
 regist = "2026/10/01 23:01"
-update = "2026/10/18 13:32"
+update = "2026/10/19 03:04"
 
 [[entries]]
 no = "2"
@@ -64,13 +64,13 @@ title = "ムーンライズ・バニーガール"
 size = "65600 KB"
 addr = ["https://drive.google.com/file/d/1vZREc0IFtwMLG77MlNGPVW-cqGmV7CdJ/view?usp=drive_link"]
 genre = "アーバンナイトスラップ"
-impr = "12"
-total = "12730.77"
-total_n = "10881"
-median = "915"
-avg = "906.75"
+impr = "13"
+total = "13865.67"
+total_n = "11851"
+median = "920"
+avg = "911.61"
 regist = "2026/10/01 23:02"
-update = "2026/10/18 13:35"
+update = "2026/10/19 03:12"
 
 [[entries]]
 no = "4"
@@ -96,13 +96,13 @@ title = "moso smoke"
 size = "43923 KB"
 addr = ["https://drive.google.com/uc?export=download&id=1yQM-Uw2coNhDHJDuPqMBeERYqkPuvlZA"]
 genre = "IDM"
-impr = "14"
-total = "13976.01"
-total_n = "12591"
-median = "920"
-avg = "899.35"
+impr = "15"
+total = "15052.71"
+total_n = "13561"
+median = "925"
+avg = "904.06"
 regist = "2026/10/01 23:02"
-update = "2026/10/18 13:36"
+update = "2026/10/19 03:15"
 
 [[entries]]
 no = "6"
@@ -118,7 +118,7 @@ total_n = "9747"
 median = "890"
 avg = "886.09"
 regist = "2026/10/01 23:03"
-update = "2026/10/18 13:37"
+update = "2026/10/19 02:52"
 
 [[entries]]
 no = "7"
@@ -144,13 +144,13 @@ title = "クレオメ"
 size = "100123 KB"
 addr = ["https://drive.google.com/file/d/13w8ZBHwd8cNgQjrAu-DdslOY1mDw2YKZ/view?usp=sharing"]
 genre = "objet a"
-impr = "21"
-total = "23525.19"
-total_n = "20107"
+impr = "22"
+total = "24601.59"
+total_n = "21027"
 median = "980"
-avg = "957.47"
+avg = "955.77"
 regist = "2026/10/01 23:03"
-update = "2026/10/18 17:56"
+update = "2026/10/19 02:55"
 
 [[entries]]
 no = "9"
@@ -248,13 +248,13 @@ title = "Planet Rave"
 size = "80600 KB"
 addr = ["https://drive.google.com/file/d/1o0eCkYLnvC4xDjPJe5mezdQUzRk7hzlK/view?usp=sharing"]
 genre = "MEGA MIX"
-impr = "10"
-total = "11030.76"
-total_n = "9428"
-median = "952.5"
-avg = "942.8"
+impr = "11"
+total = "12130.56"
+total_n = "10368"
+median = "945"
+avg = "942.54"
 regist = "2026/10/01 23:04"
-update = "2026/10/18 20:38"
+update = "2026/10/19 03:01"
 
 [[entries]]
 no = "15"
@@ -373,7 +373,7 @@ total_n = "7238"
 median = "947"
 avg = "904.75"
 regist = "2026/10/01 23:05"
-update = "2026/10/18 21:02"
+update = "2026/10/19 02:48"
 
 [[entries]]
 no = "22"
@@ -852,13 +852,13 @@ title = "I:O:IX"
 size = "25000 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQA0N5b3KMhBQpuPJGdOyIXTAejwNJKw_kS6pEIgvsOFz90?e=9GUCX7"]
 genre = "Giltch Hop/Neuro Hop/Speedcore"
-impr = "11"
-total = "12084.2"
-total_n = "10508"
-median = "960"
-avg = "955.27"
+impr = "12"
+total = "13199.7"
+total_n = "11478"
+median = "965"
+avg = "956.5"
 regist = "2026/10/01 23:09"
-update = "2026/10/18 21:04"
+update = "2026/10/19 02:59"
 
 [[entries]]
 no = "50"
@@ -941,7 +941,7 @@ total_n = "7887"
 median = "900"
 avg = "876.33"
 regist = "2026/10/01 23:09"
-update = "2026/10/18 14:51"
+update = "2026/10/19 02:50"
 
 [[entries]]
 no = "54"
@@ -1063,13 +1063,13 @@ title = "Breather"
 size = "132198 KB"
 addr = ["https://drive.google.com/file/d/1BJleehPQ_fgiJD8qnyn3Bsb8nbR6nMFi/view?usp=sharing"]
 genre = "Bota-House"
-impr = "7"
-total = "7755.6"
-total_n = "6744"
-median = "970"
-avg = "963.42"
+impr = "8"
+total = "8882.6"
+total_n = "7724"
+median = "975"
+avg = "965.5"
 regist = "2026/10/01 23:10"
-update = "2026/10/18 14:59"
+update = "2026/10/19 02:56"
 
 [[entries]]
 no = "61"
@@ -1338,7 +1338,7 @@ total_n = "5593"
 median = "937.5"
 avg = "932.16"
 regist = "2026/10/01 23:10"
-update = "2026/10/18 23:29"
+update = "2026/10/19 02:48"
 
 [[entries]]
 no = "75"
@@ -1391,13 +1391,13 @@ title = "/*digit_realm."
 size = "82196 KB"
 addr = ["https://drive.google.com/file/d/1IZLPru6fHml-E147AgURLEa2KZIJbQXH/view?usp=sharing"]
 genre = ".U3O_+rance/"
-impr = "8"
-total = "8428.35"
-total_n = "7329"
-median = "957"
-avg = "916.12"
+impr = "9"
+total = "9532.35"
+total_n = "8289"
+median = "960"
+avg = "921"
 regist = "2026/10/01 23:11"
-update = "2026/10/18 23:46"
+update = "2026/10/19 02:51"
 
 [[entries]]
 no = "78"
@@ -1576,7 +1576,7 @@ team = "FUN Fighter"
 title = "春痕 - Floral Crepuscle"
 size = "80000 KB"
 addr = [
-    "[URL-1LQ]",
+    "[URL1-LQ]",
     "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQDnaiiQOvVmRrM5tMHx3NjaAXHT_EkPRrlD9SnudEgQclk?e=UJeCSW",
     "[URL2-HQ]",
     "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQDN3sC_F_URQ5PTdzszjolYASmkKHpM-hQqkQ1zSjOKsMM?e=eY1Nio",
@@ -1588,7 +1588,7 @@ total_n = "10560"
 median = "977"
 avg = "960"
 regist = "2026/10/01 23:11"
-update = "2026/10/19 00:33"
+update = "2026/10/19 02:37"
 
 [[entries]]
 no = "89"
@@ -1629,10 +1629,12 @@ team = "MAYhem"
 title = "sky hike"
 size = "120000 KB"
 addr = [
+    "* SP ANOTHER チャートに深刻な問題があったため、修正が行われました。 ご不便をおかけして申し訳ございません。 改訂された新しいリンクからファイルをダウンロードしてください。 ありがとうございます。",
+    "There was a serious problem in the SP ANOTHER chart, so  there was a fix. I apologize for the inconvinience. Please download the file in the new link that's revised. Thank you.",
     "ogg :",
-    "https://drive.google.com/file/d/1QqL-ZLpvxePWa3QZQzTeOi4QicRMeFbn/view?usp=sharing",
+    "https://drive.google.com/file/d/1Ntkrs64x8M9E3iz2vy80EDmCL3ziIAKH/view?usp=sharing",
     "wav :",
-    "https://drive.google.com/file/d/1T-K2RuQPVSVygTjMjHqq-dTYtmzOCRdk/view?usp=sharing",
+    "https://drive.google.com/file/d/1idsFKk-3ROwVW9ashqJifiH2tS8zqji0/view?usp=sharing",
 ]
 genre = "Hitech Combined"
 impr = "1"
@@ -1641,7 +1643,7 @@ total_n = "680"
 median = "680"
 avg = "680"
 regist = "2026/10/01 23:12"
-update = "2026/10/17 02:27"
+update = "2026/10/19 02:59"
 
 [[entries]]
 no = "92"
@@ -1712,7 +1714,7 @@ total_n = "2730"
 median = "900"
 avg = "910"
 regist = "2026/10/01 23:12"
-update = "2026/10/17 22:08"
+update = "2026/10/19 02:45"
 
 [[entries]]
 no = "96"
@@ -1834,13 +1836,13 @@ title = "「魂再」（たまさい)"
 size = "58000 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQDrD4ppbeG8QZoObBP8DA_kAf_94n7N5IwZAQEwtYRoWZs?e=tpbHVb"]
 genre = "Soulrevoir"
-impr = "13"
-total = "22633.2"
-total_n = "12574"
-median = "1000"
-avg = "967.23"
+impr = "14"
+total = "24424.2"
+total_n = "13569"
+median = "997.5"
+avg = "969.21"
 regist = "2026/10/01 23:14"
-update = "2026/10/19 01:35"
+update = "2026/10/19 02:32"
 
 [[entries]]
 no = "103"
@@ -2094,7 +2096,7 @@ total_n = "4459"
 median = "950"
 avg = "891.8"
 regist = "2026/10/01 23:18"
-update = "2026/10/17 20:43"
+update = "2026/10/19 02:51"
 
 [[entries]]
 no = "118"
@@ -2120,13 +2122,13 @@ title = "Chaigidel"
 size = "130507 KB"
 addr = ["https://drive.google.com/file/d/1MxEG2E2ECmnXfRPVtU4AgwIwU0rphmeV/view?usp=sharing"]
 genre = "Gothic Full-Flavor"
-impr = "2"
-total = "1657.64"
-total_n = "1429"
-median = "714.5"
-avg = "714.5"
+impr = "3"
+total = "2748.04"
+total_n = "2369"
+median = "730"
+avg = "789.66"
 regist = "2026/10/01 23:19"
-update = "2026/10/17 13:20"
+update = "2026/10/19 03:22"
 
 [[entries]]
 no = "120"
@@ -2220,13 +2222,13 @@ title = "Fluid"
 size = "412000 KB"
 addr = ["https://drive.google.com/file/d/1a2w8yGIu2QPF2yjMUnCUdsLseeEfMkgM/view?usp=sharing"]
 genre = "melodic dubstep/psy trance"
-impr = "6"
-total = "5889.24"
-total_n = "5166"
-median = "878"
-avg = "861"
+impr = "7"
+total = "7012.14"
+total_n = "6151"
+median = "906"
+avg = "878.71"
 regist = "2026/10/01 23:32"
-update = "2026/10/18 23:58"
+update = "2026/10/19 04:13"
 
 [[entries]]
 no = "126"
@@ -2281,8 +2283,8 @@ no = "129"
 name = "Do Minh Quan GWDS"
 team = "H1TOPIA"
 title = "Mischievous Memories"
-size = "77694 KB"
-addr = ["https://drive.google.com/file/d/1Q_fxAbDbJEvj0ulHyHIpsxmCHSdffKEk/view?usp=sharing"]
+size = "488520 KB"
+addr = ["https://drive.google.com/file/d/1amiqx9mUr5zrWWorvmuG-4rzOYrA5T2e/view?usp=sharing"]
 genre = "Orential Hardcore"
 impr = "1"
 total = "1360"
@@ -2290,7 +2292,7 @@ total_n = "850"
 median = "850"
 avg = "850"
 regist = "2026/10/01 23:43"
-update = "2026/10/17 14:37"
+update = "2026/10/19 03:07"
 
 [[entries]]
 no = "130"
@@ -2433,13 +2435,13 @@ title = "KÉLOENOZVI"
 size = "20582 KB"
 addr = ["https://drive.google.com/file/d/1Cl_slvPd2r564RSf0WQWpxd-hs_y2ZJv/view?usp=sharing"]
 genre = "Full Flavor"
-impr = "3"
-total = "3062.4"
-total_n = "2640"
-median = "850"
-avg = "880"
+impr = "4"
+total = "4187.6"
+total_n = "3610"
+median = "910"
+avg = "902.5"
 regist = "2026/10/02 01:56"
-update = "2026/10/18 22:51"
+update = "2026/10/19 03:26"
 
 [[entries]]
 no = "138"
@@ -2454,13 +2456,13 @@ addr = [
     "https://pan.baidu.com/s/1CEVkDGTdh38a6ndowdIQjA?pwd=xdhf",
 ]
 genre = "Lofi & riddim"
-impr = "2"
-total = "2093"
-total_n = "1820"
-median = "910"
-avg = "910"
+impr = "3"
+total = "3205.05"
+total_n = "2787"
+median = "920"
+avg = "929"
 regist = "2026/10/02 02:02"
-update = "2026/10/19 00:00"
+update = "2026/10/19 04:16"
 
 [[entries]]
 no = "139"
@@ -2852,13 +2854,13 @@ addr = [
     "https://www.mediafire.com/file/8geom3qobm7mj9w/%255B%25E6%2588%2590%25E9%259F%25B3%25E6%25BA%2590%255D_%25E5%25B7%25A7%25E7%2585%25A9%25E7%2589%2599%2521%2521_%255Bogg%255D.zip/file",
 ]
 genre = "+;![].MK.＊ ČORE﹍×°°°×．﹏"
-impr = "3"
-total = "3391.84"
-total_n = "2924"
-median = "984"
-avg = "974.66"
+impr = "4"
+total = "4493.84"
+total_n = "3874"
+median = "967"
+avg = "968.5"
 regist = "2026/10/04 23:47"
-update = "2026/10/17 16:59"
+update = "2026/10/19 02:48"
 
 [[entries]]
 no = "160"
@@ -4011,13 +4013,13 @@ addr = [
     "※どちらにも高画質BGA(mp4)が同梱されています。不要な場合は削除して下さい。",
 ]
 genre = "SUSPENSEFUL"
-impr = "2"
-total = "2265.48"
-total_n = "1953"
-median = "976.5"
-avg = "976.5"
+impr = "3"
+total = "3406.92"
+total_n = "2937"
+median = "984"
+avg = "979"
 regist = "2026/10/14 01:31"
-update = "2026/10/17 01:25"
+update = "2026/10/19 02:45"
 
 [[entries]]
 no = "225"
@@ -4244,13 +4246,13 @@ addr = [
     "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQAfqBwwgA3bQZoHj5H_qfZvAfmjtMU1WJBiRsBW-ey5bhI?e=doqw1C",
 ]
 genre = "Artcore"
-impr = "1"
-total = "1092.5"
-total_n = "950"
-median = "950"
-avg = "950"
+impr = "2"
+total = "2224.1"
+total_n = "1934"
+median = "967"
+avg = "967"
 regist = "2026/10/15 21:47"
-update = "2026/10/17 01:28"
+update = "2026/10/19 02:47"
 
 [[entries]]
 no = "238"
@@ -4432,7 +4434,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/15 23:37"
-update = "2026/10/16 01:21"
+update = "2026/10/19 02:42"
 
 [[entries]]
 no = "248"
@@ -4826,13 +4828,13 @@ title = "眩しさのシンクロ"
 size = "94600 KB"
 addr = ["https://drive.google.com/file/d/1YuU-w2JjL1b6Sn4p7IQWYinyV-hRWpY0/view?usp=sharing"]
 genre = "J-core"
-impr = "4"
-total = "6721.2"
-total_n = "3734"
-median = "967"
-avg = "933.5"
+impr = "5"
+total = "8521.2"
+total_n = "4734"
+median = "984"
+avg = "946.8"
 regist = "2026/10/16 20:34"
-update = "2026/10/18 22:26"
+update = "2026/10/19 04:26"
 
 [[entries]]
 no = "272"
@@ -5402,7 +5404,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/18 18:04"
-update = "2026/10/18 20:28"
+update = "2026/10/19 04:19"
 
 [[entries]]
 no = "304"
@@ -5818,6 +5820,127 @@ avg = "0"
 regist = "2026/10/19 02:20"
 update = "2026/10/19 02:24"
 
+[[entries]]
+no = "328"
+name = "chiiyuri"
+team = "Unisoncode"
+title = "Departure into Possibility"
+size = "99800 KB"
+addr = ["https://drive.google.com/file/d/15o2-JhT3TKkywjLo2wrKvsA7LL0kzGpZ/view?usp=sharing"]
+genre = "ARTCORE"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 02:53"
+update = "2026/10/19 03:16"
+
+[[entries]]
+no = "329"
+name = "C.miler"
+team = "骨伝導式Jアラート"
+title = "Trigintet Force"
+size = "166000 KB"
+addr = ["https://drive.google.com/file/d/1Lx7S0V4eg6jFVIqh23AJJfY82pYMArCt/view?usp=sharing"]
+genre = 'Full Flavor "MEGAMIX"'
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 02:58"
+update = "2026/10/19 02:58"
+
+[[entries]]
+no = "330"
+name = "corok-Bb"
+team = "よきよきサウナ～冷たい方が盛り上がる！～"
+title = "The Berserker"
+size = "14760 KB"
+addr = ["https://drive.google.com/drive/folders/1BqWeV5oowAP6mksJVUTn9Siutp4d0CD_?usp=sharing"]
+genre = "SYMPHONIC FRENCHCORE"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 03:07"
+update = "2026/10/19 03:07"
+
+[[entries]]
+no = "331"
+name = "ネプティー長谷川"
+team = "祭union"
+title = "Fading Lights"
+size = "5603 KB"
+addr = ["https://www.dropbox.com/scl/fi/au3j377v13i74n1xesg7u/nepu_fading_lights_ogg.zip?rlkey=e4a58rlgzv7fga0iyxd4p6auv&st=zhzfsazv&dl=1"]
+genre = "Memory Liquid"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 03:49"
+update = "2026/10/19 03:49"
+
+[[entries]]
+no = "332"
+name = "noyrfa feat. tanp"
+team = "喜八八喜"
+title = "Opaque Lives"
+size = "102400 KB"
+addr = [
+    "OGG",
+    "https://drive.google.com/file/d/1r3RSZg4M7b5yDigIgh16ZNzf6GydiwOb/view?usp=sharing",
+]
+genre = "ART CORE"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 04:10"
+update = "2026/10/19 04:10"
+
+[[entries]]
+no = "333"
+name = "Kusua & ABEREXX"
+team = "操操操。！"
+title = "It's a Vibe"
+size = "102400 KB"
+addr = [
+    "OGG",
+    "https://drive.google.com/file/d/1LxD8IrlT12jiKaklE1XNSuRkfPdhMzVc/view?usp=sharing",
+]
+genre = "DANCEFLOOR DRUM 'N' BASS"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 04:10"
+update = "2026/10/19 04:10"
+
+[[entries]]
+no = "334"
+name = "Maho5x / Vocal: 冬野霧中"
+team = "操操操。！"
+title = "makingspringouttathistape"
+size = "102400 KB"
+addr = [
+    "OGG",
+    "https://drive.google.com/file/d/1f6ajlgLuqpaBpcO2Y8GVZ5zqLWhI7DlK/view?usp=sharing",
+]
+genre = "DENKI FOLK"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 04:10"
+update = "2026/10/19 04:10"
+
 [[teams]]
 no = "175"
 team = "ULTIMACY OF BOF22"
@@ -5867,7 +5990,7 @@ no = "171"
 team = "祭union  チームメンバー募集中！"
 leader = "SOMON"
 member = "3人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/09/07 22:10:05"
 update = "2026/09/07 22:10:05"
 banner = "https://manbow.nothing.sh/event/images/teambanner_noimage.png"
@@ -6403,12 +6526,12 @@ members = "げうげうｒ (bms/作曲/編曲/譜面/映像/イラスト) Tiv (b
 
 [[teams]]
 no = "122"
-team = "AKG70111  チームメンバー募集中！"
+team = "AKG70111"
 leader = "GUDUCK"
 member = "8人"
 works = "0 / 3作品"
 regist = "2026/08/19 22:33:48"
-update = "2026/08/29 23:58:05"
+update = "2026/10/19 03:11:33"
 banner = "https://manbow.nothing.sh/event/images/teambanner_noimage.png"
 members = "GUDUCK (bms/作曲/編曲) Anti- (bms/作曲/編曲) KEKiitte (bms/作曲/編曲/譜面) KIRAzhl (映像) Vrel'Ann (イラスト) 寰宇SaMa (イラスト) Senson Riraku (bms) xiayin200 (イラスト)"
 
@@ -6439,7 +6562,7 @@ no = "119"
 team = "Unisoncode"
 leader = "どんべい"
 member = "5人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/08/17 20:38:40"
 update = "2026/10/04 18:21:32"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520119_20260817203840.png"
@@ -6505,7 +6628,7 @@ no = "113"
 team = "よきよきサウナ～冷たい方が盛り上がる！～"
 leader = "音辻つつじ"
 member = "4人"
-works = "2 / 3作品"
+works = "3 / 3作品"
 regist = "2026/08/08 22:23:19"
 update = "2026/09/09 14:31:01"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520113_20260831111239.gif"
@@ -6527,7 +6650,7 @@ no = "111"
 team = "操操操。！"
 leader = "Kusua"
 member = "14人"
-works = "0 / 3作品"
+works = "2 / 3作品"
 regist = "2026/08/06 23:52:44"
 update = "2026/09/20 01:30:37"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520111_20260807184633.gif"
@@ -6672,9 +6795,9 @@ leader = "ㄘくわ。"
 member = "7人"
 works = "0 / 3作品"
 regist = "2026/07/30 00:29:42"
-update = "2026/10/07 01:41:20"
+update = "2026/10/19 02:50:28"
 banner = "https://manbow.nothing.sh/event/images/teambanner_noimage.png"
-members = "ㄘくわ。 (bms/作曲/編曲/譜面) もたふ (bms/譜面/イラスト) がらくす (bms/譜面/映像) 鑠琵 (作曲/編曲/ボーカル) らふむ (作曲/編曲) sugiru (映像/イラスト) 朧烏 (イラスト)"
+members = "ㄘくわ。 (bms/作曲/編曲/譜面) もたふ (bms/譜面/イラスト) がらくす (bms/譜面/映像) 鑠琵 (作曲/編曲/ボーカル) らふむ (作曲/編曲) sugiru (映像/イラスト) 朧烏 (映像/イラスト)"
 
 [[teams]]
 no = "97"
@@ -6780,7 +6903,7 @@ no = "88"
 team = "喜八八喜"
 leader = "RepenX"
 member = "13人"
-works = "2 / 3作品"
+works = "3 / 3作品"
 regist = "2026/07/22 23:48:06"
 update = "2026/09/22 21:39:02"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520088_20260725013128.png"
@@ -7429,7 +7552,7 @@ no = "29"
 team = "骨伝導式Jアラート"
 leader = "C.miler"
 member = "4人"
-works = "1 / 3作品"
+works = "2 / 3作品"
 regist = "2026/07/02 22:37:38"
 update = "2026/08/22 14:26:55"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520029_20260702223738.png"

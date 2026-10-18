@@ -296,8 +296,9 @@ tags = [
     "Use-wmv_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 21:51"
+comment_updated = "2026年10月19日 02:52"
 comment = """
+(2026年10月19日 02:52 更新)
 (2026年10月09日 21:51 更新)
 thaIassophobla
 0phldlan
@@ -311,14 +312,19 @@ The structure of the track might be a bit long, and it may not sound very suitab
 But in any case, enjoy the music and have fun playing!"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/09 21:51"
+note = "譜面内のノートについては一切変更を行っておらず、新規譜面の追加もありません、[SPA]譜面のBGAのみ追加しております。"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/01 23:03"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "譜面内のノートについては一切変更を行っておらず、新規譜面の追加もありません、[SPA]譜面のBGAのみ追加しております。"
+note = "記載漏れだったBGAのYouTubeリンクを追加しました"
 
 [[details]]
 num = "7"
@@ -1076,8 +1082,9 @@ tags = [
     "Difficulty-beginner",
 ]
 production = "非公開"
-comment_updated = "2026年10月17日 12:32"
+comment_updated = "2026年10月19日 02:48"
 comment = """
+(2026年10月19日 02:48 更新)
 (2026年10月17日 12:32 更新)
 这是我的第一个BMS作品，感谢大家喜欢。
 (2026年10月16日 12:05 更新)
@@ -2777,11 +2784,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-94439940/bof22-c"]
-comment_updated = "2026年10月09日 22:15"
+comment_updated = "2026年10月19日 02:50"
 comment = """
-(2026年10月09日 22:15 更新)
-(2026年10月09日 21:42 更新)
-(2026年10月01日 23:29 更新)
+(2026年10月19日 02:50 更新)
 ——————————————————————————
 [Comments From LiGaYb]Hi, I'm LiGaYb!
 This song also has some relationship with Rolling Sky, some of the melody comes from the abandoned version of the bgm for Blazing Tracks, it was rejected for too festive lol.
@@ -3889,6 +3894,8 @@ tags = [
     "7Keys",
     "Lang-US",
     "Lang-SCN",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -3899,9 +3906,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-94439940/bof22-ppt"]
-comment_updated = "2026年10月16日 19:26"
+comment_updated = "2026年10月19日 02:48"
 comment = """
-(2026年10月16日 19:26 更新)
+(2026年10月19日 02:48 更新)
 ——————————————————————————
 [Comments From LiGaYb]Hi, I'm LiGaYb!
 This is a song about PPT slides... I’ve seen lots of awful PPT slides in university, which was really annoying. I remember once there was a presentation class of College English course, where 6 of 7 groups are making really awful PPT slides, while the one by me was the only one that is able to watch...
@@ -3938,7 +3945,7 @@ Stop abusing my optic nerve
 Or tomorrow I’ll sue you for committing—
 Retinal harassment
 一号选手来袭
-给大伙测测试力
+给大伙测测视力
 全文的字号不超过11
 还用了居中对齐
 行距用0.1挤一挤
@@ -4764,8 +4771,9 @@ tags = [
     "Difficulty-beginner",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 11:53"
+comment_updated = "2026年10月19日 02:37"
 comment = """
+(2026年10月19日 02:37 更新)
 (2026年10月16日 11:53 更新)
 Team: "FUN Fighters"
 Title: 春痕 - Floral Crepuscle
@@ -4870,7 +4878,11 @@ tags = [
     "-----",
 ]
 production = "非公開"
+comment_updated = "2026年10月19日 02:59"
 comment = """
+(2026年10月19日 02:59 更新)
+There was a serious problem in the SP ANOTHER chart, so  there was a fix. I apologize for the inconvinience. /
+SP ANOTHER チャートに深刻な問題があったため、修正が行われました。 ご不便をおかけして申し訳ございません。
 Someone hikes the sky to find the utopia;
 But does utopia exist?
 Included Charts
@@ -4881,8 +4893,13 @@ SP ANOTHER ★12 (obj.nagi_io & Pafa)"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:12"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "There was a serious problem in the SP ANOTHER chart, so  there was a fix. I apologize for the inconvinience. / SP ANOTHER チャートに深刻な問題があったため、修正が行われました。 ご不便をおかけして&#x7533;し訳ございません。"
 
 [[details]]
 num = "92"
@@ -4991,11 +5008,12 @@ genre = "Floating Upon Nonstop Kinetic Ocean Tide"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGI(BGA) under construction・Self"
-charts = "CHART_ (★x3～★x99)"
+charts = "CHART_3 (★x3～★x99)"
 bpm = "185"
 tags = [
     "7Keys",
     "Lang-US",
+    "Audition-Sound",
     "Use-BGI",
     "Use-ogg",
     "Use-wmv_movie",
@@ -5007,8 +5025,10 @@ tags = [
     "Difficulty-gimmick",
 ]
 production = "非公開"
-comment_updated = "2026年10月01日 23:32"
+audition = ["https://soundcloud.com/user-94439940/bof22-byd-ogg"]
+comment_updated = "2026年10月19日 02:45"
 comment = """
+(2026年10月19日 02:45 更新)
 (2026年10月01日 23:32 更新)
 ——————————————————————————
 [Comments From LiGaYb]Hi, I'm LiGaYb!
@@ -5932,8 +5952,9 @@ tags = [
     "Use-wmv_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月01日 23:49"
+comment_updated = "2026年10月19日 02:51"
 comment = """
+(2026年10月19日 02:51 更新)
 (2026年10月01日 23:49 更新)
 (2026年10月01日 23:36 更新)
 The advent of my new self, just like phoenix rising from ashes
@@ -6399,31 +6420,46 @@ tags = [
     "7Keys",
     "Lang-US",
     "File-Modify",
+    "Use-BGA",
     "Use-wmv_movie",
     "Use-mp4_movie",
     "Difficulty-beginner",
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月17日 14:37"
+comment_updated = "2026年10月19日 03:07"
 comment = """
+(2026年10月19日 03:07 更新)
 (2026年10月17日 14:37 更新)
 (2026年10月05日 23:58 更新)
 (2026年10月05日 23:56 更新)
 SP Beginner 1
 SP Another 11
 SP Insane 12
-BMS/Music:Do Minh Quan GWDS
-obj/BGA(editing):YiMeng.emo
+BMS/Music: Do Minh Quan GWDS
+obj/BGA(editing): YiMeng.emo
 Some free materials were used to make BGA:
-①https://vimeo.com/194459206
-②https://www.youtube.com/watch?v=trEYf3XQWaA
-③https://vimeo.com/190963110
-④https://vimeo.com/219052498
-⑤https://www.youtube.com/channel/UCyQwZ_ko5MOBo-ItPnhPILA
-⑥https://youtu.be/tTLWiPAt5WQ
-⑦https://video-ac.com/video/17645
+1. https://vimeo.com/194459206
+2. https://www.youtube.com/watch?v=trEYf3XQWaA
+3. https://vimeo.com/190963110
+4. https://vimeo.com/219052498
+5. https://www.youtube.com/channel/UCyQwZ_ko5MOBo-ItPnhPILA
+6. https://youtu.be/tTLWiPAt5WQ
+7. https://video-ac.com/video/17645
+8. https://pixabay.com/videos/to-paint-art-colour-fluid-4024/
+9. https://pixabay.com/videos/vj-loop-tunnel-abstract-live-337038/
+10. https://pixabay.com/videos/petals-flowers-cherry-sakura-111977/
+11. https://www.pexels.com/vi-vn/video/l-h-i-neon-k-thu-t-o-18526841/
+12. https://www.pexels.com/vi-vn/video/ho-t-hinh-d-ng-h-m-hinh-h-c-3d-tr-u-t-ng-30345903/
+13. https://www.pexels.com/vi-vn/video/ho-t-hinh-tr-u-t-ng-tr-c-tr-c-d-ng-v-i-hi-u-ng-3d-34786196/
+14. https://www.pexels.com/vi-vn/video/neon-k-thu-t-o-k-thu-t-s-17486429/
+15. https://pixabay.com/videos/number-glitch-optical-digital-44361/
 The other charts is been preparing."""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/17 14:37"
+note = "BGAを追加"
 
 [[details.revisions]]
 ver = "2"
@@ -6436,9 +6472,9 @@ date = "2026/10/01 23:43"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "BGAを追加"
+note = "作品を追加修正"
 
 [[details]]
 num = "130"
@@ -12088,8 +12124,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 01:21"
+comment_updated = "2026年10月19日 02:42"
 comment = """
+(2026年10月19日 02:42 更新)
 (2026年10月16日 01:21 更新)
 (2026年10月16日 01:20 更新)
 [music, bms]
@@ -14687,7 +14724,7 @@ genre = "Progressive House"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Self"
-charts = "CHART_3 (★x4～★x12)"
+charts = "CHART_3 (★x5～★x12)"
 bpm = "144"
 tags = [
     "7Keys",
@@ -14703,16 +14740,22 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
-comment_updated = "2026年10月18日 20:28"
+comment_updated = "2026年10月19日 04:19"
 comment = """
+(2026年10月19日 04:19 更新)
 (2026年10月18日 20:28 更新)
 (2026年10月18日 18:52 更新)
 モチくんのキャラクター ウサヒーローの可愛さを Progressive House で表現した曲〜〜"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/18 18:04"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "難易度を上方修正しました"
 
 [[details]]
 num = "304"
@@ -15578,6 +15621,271 @@ comment = """
 这次除了负责音乐，也同样作为“初心者”完成了spb lv.2的制作和切音的工作（-三天切音实在太累了-）也非常感谢sparkline的曲绘，yuri、zaphic、Molybdenum_S2、队长秋梦观鹤的谱面和同样来自队长的bga！
 再次感谢您的阅读！但愿明年再见！！！
 Rain_Light 2026.10.19"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "328"
+artist = "chiiyuri  (movie : ツジ) URL"
+genre = "ARTCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 03:16"
+comment = """
+(2026年10月19日 03:16 更新)
+【BMS】chiiyuri
+【BGA】ツジ
+【譜面(chart)】どんべい
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+え～どうも2時間前に発狂十段に合格したどんべいです。
+初めましての方しかいないと思うので初めまして
+一応リーダーということになってるので登録作業をしてるんですけどついでにコメント残したろと思いまして。
+自供するとBOF:TTだったりBた作26とかに出没歴がありまして、部員、というかほとんどchiiyuri君の曲を音切りしてイベントに出していました。
+そんな感じで基本曲を作るだけのchiiyuri君だったわけです。
+したがってBMSイベントに出すにあたって私に完全依存している形で、「なんだかなぁ、凄い曲作るんだけどなぁ、自由に動けたらもっと良いのに」って思っていた最中、なんと当人が今回のBOFで音切りとそれに伴った譜面にチャレンジするとのことでした。
+おお
+やっとこんな私の手元から離れて一人で自由にBMS作者として旅立てるんだなぁという感激のもと、”未知への出発”ということで「Departure into Possibility」をタイトルとして推しました。私の発案ですまない。
+譜面に関して、彼はAnother譜面を作りまして、しかも初めての譜面制作。第一作目の譜面ですよ第一作。
+見てみたら自分が初めて作った譜面の4倍くらい良い譜面でびっくりしたのなんの
+Beginner☆2 譜面:どんべい
+Normal☆7 譜面：どんべい
+Hyper☆11 譜面:どんべい
+Another☆12 譜面：chiyuri
+INSANE★11 譜面：どんべい
+ただ時間が無かったのでこんな具合に、本楽曲では彼の作ったのは一譜面だけ。なのでそれ以外は私の譜面で我慢して下さい。
+ーーーーーー
+chiiyuriです。
+おおじゃないが
+今回の曲もマジで難産でした。予定より遅くの完成になってしまったけれど、時間のない中、バリエグい映像を作ってくれたツジさん、ガチヤバい譜面を作ってくれたどんべいくんには本当に感謝でおっぱおです。
+どんべいくんのコメントの通り、初めて音切りしたり譜面作ったりしたので粗はあるかと思いますが、楽しんでいただけたら幸いです。
+これから曲作りはもちろん、BMS制作も頑張っていくので、よろしくお願いします。
+どんべいくんにはこれからも譜面手伝ってもらうわよ？
+なぜなら......
+chiiyuri"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "329"
+artist = "C.miler   URL"
+genre = 'Full Flavor "MEGAMIX"'
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "190"
+tags = [
+    "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+]
+production = "Bitwig"
+comment = """
+※本BMSは62進数定義BMSです。必ず推奨環境下でのプレイをお願いします。
+初めましての方は初めまして、C.miler(キマイラ)と申します。
+去年のBOFでは直前でPCがぶっ壊れたせいで不完全燃焼に終わりましたが、その怨念により特殊召喚されたのがこの曲です。
+様々なジャンルの要素をこれでもかと詰め込み、最終的に30ジャンルを乗せた曲となりました。
+このゴチャゴチャ感を楽しんでいただけたら嬉しいです。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "330"
+artist = "corok-Bb   URL"
+genre = "SYMPHONIC FRENCHCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "204"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = """
+どうもcorok-Bbです。
+SYMPHONIC FRENCHCOREです。
+超表拍ミュージックです。
+なんか強そうな曲です。
+大音量で遊んでね！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "331"
+artist = "ネプティー長谷川   URL"
+genre = "Memory Liquid"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x4～★x10)"
+bpm = "170"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "前回に引き続きLiquid系を作りました。BGAは作れずすみません。よろしくお願いします。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "332"
+artist = "noyrfa feat. tanp  (movie : 柴瀬 紀谷) URL"
+genre = "ART CORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "45 ～ 180"
+tags = [
+    "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = """
+Opaque Lives / ART CORE / noyrfa feat. tanp
+BMS & music by noyrfa
+lyrics & vocal by tanp
+note chart info
+SP NORMAL by noyrfa
+SP HYPER by AZVW_2
+SP ANOTHER by AZVW_2
+SP STYLISH COLOUR by AZVW_2"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "333"
+artist = "Kusua & ABEREXX   URL"
+genre = "DANCEFLOOR DRUM 'N' BASS"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "87 ～ 348"
+tags = [
+    "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = """
+It's a Vibe / DANCEFLOOR DRUM 'N' BASS / Kusua & ABEREXX
+Music by Kusua & ABEREXX
+BMS by Kusua
+note chart info
+SP NORMAL by Kusua
+SP HYPER by MKR
+SP ANOTHER by MKR
+SP LEGGENDARIA by MKR"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "334"
+artist = "Maho5x / Vocal: 冬野霧中  (movie : Maho5x) URL"
+genre = "DENKI FOLK"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "117 ～ 234"
+tags = [
+    "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = """
+makingspringouttathistape / DENKI FOLK / Maho5x / Vocal: 冬野霧中
+BMS & music by Maho5x
+lyrics & vocal by 冬野霧中
+BG video by Maho5x
+note chart info
+SP NORMAL by Maho5x
+SP HYPER by Lithiumion
+SP ANOTHER by Lithiumion"""
 
 [[details.revisions]]
 ver = "1"

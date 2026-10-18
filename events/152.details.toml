@@ -7219,6 +7219,7 @@ tags = [
     "Lang-JP",
     "Lang-US",
     "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -7230,8 +7231,11 @@ tags = [
     "Difficulty-gimmick",
 ]
 production = "非公開"
-comment_updated = "2026年10月10日 18:58"
+audition = ["https://soundcloud.com/mediumkuro/infectious-brain-damage"]
+comment_updated = "2026年10月18日 17:37"
 comment = """
+(2026年10月18日 17:37 更新)
+(2026年10月18日 17:26 更新)
 (2026年10月10日 18:58 更新)
 (2026年10月03日 00:40 更新)
 A mini story of a person stuck in a hivemind of idiots.
@@ -11025,6 +11029,7 @@ bpm = "197"
 tags = [
     "7Keys",
     "Lang-US",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -11035,7 +11040,10 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
+comment_updated = "2026年10月18日 17:35"
 comment = """
+(2026年10月18日 17:35 更新)
+(2026年10月18日 17:33 更新)
 The Star - A representation of hopes and dreams
 Two years ago, a star was born in the vast empty space. It stood amongst billions of other stars, each with their own colorful radiance. However... A few months ago, the new star shined brighter with blinding rays of light. That was a call. A call to me. The star called to its creator, to realize its purpose and achieve what's higher than it used to.
 I have found the star. I have reached the star.
@@ -11296,6 +11304,7 @@ tags = [
     "Lang-US",
     "Lang-SCN",
     "Lang-TCN",
+    "Format-bms62",
     "Use-BGA",
     "Use-mp4_movie",
     "Difficulty-intermediate",
@@ -11304,8 +11313,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 01:02"
+comment_updated = "2026年10月18日 15:53"
 comment = """
+(2026年10月18日 15:53 更新)
 (2026年10月16日 01:02 更新)
 (2026年10月15日 19:42 更新)
 简体中文 [zh-cn]
@@ -12280,8 +12290,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 00:25"
+audition = ["https://soundcloud.com/billiummoto/lookatme?si=a266600fdef748f7a7239e275bd4b5fe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月18日 17:11"
 comment = """
+(2026年10月18日 17:11 更新)
 (2026年10月16日 00:25 更新)
 BOF22
 THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
@@ -14189,6 +14201,7 @@ tags = [
     "7Keys",
     "Lang-JP",
     "Lang-US",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -14199,7 +14212,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
+comment_updated = "2026年10月18日 17:39"
 comment = """
+(2026年10月18日 17:39 更新)
 "you must be ready to burn yourself in your own flame;
 how could you rise anew if you have not first become ashes?"
 Friedrich Nietzsche, Thus Spoke Zarathustra
@@ -14416,6 +14431,344 @@ tags = [
 production = "非公開"
 audition = ["https://soundcloud.com/u20xx/bof22"]
 comment = "Hi! This is my second time participating in BOF! Enjoy!"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "298"
+artist = "Yumul Onishi feat.知声   URL"
+genre = "TRESILLO POP"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x4～★x11)"
+bpm = "138"
+tags = [
+    "7Keys",
+    "14Keys",
+    "5Keys",
+    "10Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "GarageBand"
+comment_updated = "2026年10月18日 15:49"
+comment = """
+(2026年10月18日 15:49 更新)
+SINGLE
+SPN (5keys)Lv4  454notes
+SPH (7keys)Lv9  940notes
+SPA (7keys)Lv11 1256notes
+DOUBLE
+DPN (10keys)Lv6 621notes
+DPH (14keys)Lv10 1113notes
+昔、仕事でかなり大変だったとき
+休みの日も仕事から連絡がかかってくる可能性があって
+休みの日も休んだ気分になれず
+スマホをもたずに電車に乗ってあてもなく丹波、福知山方面へ行って
+日帰りでぐるっとまわったことがありました。
+また、今は、スマホやＰＣで知らない色々な人と簡単に繋がれますが
+それでもＭ３とかＢＭＳやる会とか、ＯＦＦイベントに人がたくさんくるのは
+通信経由ではない何かのつながりを求めてるからなんだと思います。
+そんなＯＦＦのひとときを曲にしています。
+歌詞
+ゲーム配信眺め スパチャ投げて
+AI相手 愚痴と悩み事
+流れる写真飛ばし いいね押して
+画面伏せて すぐにまた見てる
+誰かと誰か 繋いでるのに
+身近な人とは 離れてる
+見たい景色や 会える誰かに
+何も持たず 向かってく
+スマホ置いたまま 部屋から飛び出した
+通知見ないまま 空を見上げてる
+スマホ置いたまま 部屋から飛び出した
+予定過ぎたまま 空を見上げてる
+スマホ置いたから 聞こえた音がある
+知らない場所から 空を見つめてる"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "299"
+artist = "れおん   URL"
+genre = "labortune"
+genre_sub = "Arrange・Self"
+source = "ホワイトオフィス行進曲"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x1～★x12)"
+bpm = "172"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "／￣￣|＝＝＝＝＝＝＝＝＝＝＝＝|￣￣｀X'¨7　.|　 ／￣　　　　　　　　　　　　　　　　　　￣｀X´|_ノ＿＿__　.|＿|　　ハルトマンワークスカンパニー　／-─二＝、　　＼　　||　　　　　　　　社員募集　　　　　　　/／￣　　　　 ｀フ=､　＼　｡oi￣￣7　　||　　　　　　　　　　　　　　　　　　　　／　 　 　 　 　 ,X　　 i｡o≦　..| 　　/　　||　　パイオニアスタッフ　 ,r=､　　 .i　　　　　 ＿,／ _ |／ .|　　　　| 　 /　　||　　・月給86万ハルトマi'　　 i　　|　|｀t¨ヾ¨　　 ／:ヽ|　　|　 ／i￣￣　　||　　 ※固定残業代86時)　　 .i　 .|　|　|::::::i　　 /::::::::::|　　|／ヽ |　　||　　・週休2日制 　 　   (＿_ノ-=,,,|　| 弋ツ　　弋;;;;ツ|　　| ＼ !　｀＝==ｧ　　||　　　　　　　　　　　　　　　　　＼ 　.| .|＼　　　　　　＿|　 |=-‐'　　　　／　　||　　学歴不問！未経験歓迎！＼.|/　_ノヽ¨i¨ア´ ／| ./　　　　　／　.|￣|　若手が活躍するアットホームな職＼＿ﾞi´　 i´　 |/＿＿＿／　.|　 ＼＿　　　　　　　　　　　　　　　　　　＿／ ノ　　　＞''''''｀ヾi　 ＼＿＿|＝＝＝＝＝＝＝＝＝＝＝＝|＿＿｀i､/＼__|　　　ノ |　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 !､:::::::::::i｀─´-''　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ::::::ヽ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾉ:::i|:::::ﾉ　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ￣ .￣"
+comment = """
+あの ピンクのゲンジュウ民の おかげで
+今日も ザンギョウだ・・・
+☆★☆
+「ロボプラはいいぞ」と言い続けて早10年、今回はピンクの原住民の対応に追われるハルトマンワークスカンパニーの社員にスポットを当てて、
+星のカービィロボボプラネットで最も良い曲のひとつである「ホワイトオフィス行進曲」のアレンジBMSを作りました。
+チップチューン風の音色を使ったバリバリなアレンジと、ちょこちょこ動くドット絵のBGA、そしてSP譜面にはビジネス用語の名前が付いた作品となっております。
+日々の労働のことを思い出してちょっぴり憂鬱になりながらお楽しみください！ちょうど明日は月曜日ですね！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "300"
+artist = "Bitplane  (movie : 一部Grok) URL"
+genre = "-"
+genre_sub = "Original・Self"
+source = "ありがとう、たくさんの中世の絵たち"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x5～★x11)"
+bpm = "40 ～ 160"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-kusofumen",
+]
+production = "Reaper, EastWest Composer Cloud, Sylenth 1, Addictive Drums"
+comment = """
+チョウの標本、というか古のBMSみたいなやつを、現代の科学力で作りました。
+老害のみなさまには現場に戻って応援いただきたいし、若者にも応援されたいです。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "301"
+artist = "Bitplane  (movie : Harrison Houde (Vesperia Films)) URL"
+genre = "Acid Jazz"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x11)"
+bpm = "50 ～ 120"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+]
+production = "Reaper, EastWest Composer Cloud, Sylenth 1, Addictive Drums, ACE Studio"
+comment = """
+初代IIdxみたいな、あのころの青春の１ページを、現代の科学力で作りました。
+老害のみなさまにはあの頃の青春に戻って応援いただきたいし、若者にも応援されたいです。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "302"
+artist = "snowsphere   URL"
+genre = "SOUNDTRACK"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x3～★x9)"
+bpm = "98"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/snowsphere_sc/flee"]
+comment_updated = "2026年10月18日 16:48"
+comment = """
+(2026年10月18日 16:48 更新)
+ありがとうございます"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "303"
+artist = "kitsunet   URL"
+genre = "Progressive House"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "144"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment_updated = "2026年10月18日 18:52"
+comment = """
+(2026年10月18日 18:52 更新)
+モチくんのキャラクター ウサヒーローの可愛さを Progressive House で表現した曲〜〜"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "304"
+artist = "tanacoro   URL"
+genre = "PARAMETRICISM"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x4～★x11)"
+bpm = "158"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+]
+production = "非公開"
+comment = """
+BOFは3年ぶりだと思います。
+ぜひ遊んでみて、お楽しみください！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "305"
+artist = "桐野ナナ  (movie : 桐野ナナ) URL"
+genre = "NaM:Not a Music"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_2 (★x2～★x11)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "Lang-SCN",
+    "Video-sharing",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment_updated = "2026年10月18日 18:55"
+comment = """
+(2026年10月18日 18:55 更新)
+(2026年10月18日 18:49 更新)
+SP Beginner 2
+SP Another 11
+BMS/BGI:桐野ナナ
+obj:YiMeng.emo
+2026.10.18  桐野ナナ
+こんにちは、桐野七奈(桐野ナナ)です。初めてBOFに来たとき、私は間違いなく複雑な気持ちでした。私はBOFイベントで多くの曲を聞いたことがありますし、リズムゲームでも見たことがあります。今回の作品は私の初めての創作で、風格が比較的変で、聴感にも不自然なところがあります。また、皆さんが自分の評価をけちにしないことを願っています。皆さんの批評やアドバイスは大歓迎です!辛抱強く遊んでくれてありがとう!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "306"
+artist = "devthefox  (movie : sam) URL"
+genre = "kiffcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x5～★x11)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "Lang-FR",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+devthefoxです。
+第2のBMSです。
+今年のBOFとても楽しかった！
+14neheeさんの楽曲「il faut que je le fasse」の歌唱を使用させていただき、ありがとうございました。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "307"
+artist = "DJ ONYT   URL"
+genre = "OLD HARDCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-wmv_movie",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/dj-onyt/birththemusic"]
+comment_updated = "2026年10月18日 18:38"
+comment = """
+(2026年10月18日 18:38 更新)
+BOF:22 [THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -]に参加させていただきました、DJ ONYT(おのよつ)こと余接Rさんと申します。
+今回は譜面がレトロチックな癖譜面！楽しんでいただけたらと思います。"""
 
 [[details.revisions]]
 ver = "1"

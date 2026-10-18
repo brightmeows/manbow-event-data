@@ -476,13 +476,13 @@ title = "Prismagenic"
 size = "102000 KB"
 addr = ["https://drive.google.com/file/d/1v_48XXr_N9QpjfTcxB3WO4iH-jxUXeqa/view?usp=sharing"]
 genre = "Hyper Tech Trance"
-impr = "7"
-total = "7472.7"
-total_n = "6498"
-median = "940"
-avg = "928.28"
+impr = "8"
+total = "8618.1"
+total_n = "7494"
+median = "942.5"
+avg = "936.75"
 regist = "2026/10/01 23:06"
-update = "2026/10/18 14:24"
+update = "2026/10/19 04:53"
 
 [[entries]]
 no = "28"
@@ -4425,7 +4425,7 @@ no = "247"
 name = "Drazically"
 team = "音ゲーで腱断裂！"
 title = "TEMPUS EXiliUM"
-size = "2751 KB"
+size = "122492 KB"
 addr = ["https://drive.google.com/file/d/15n8hKZi4p1KbmSXXRuhuZN97Rkrr4N3G/view?usp=sharing"]
 genre = "Symphonic Time Flavor"
 impr = "0"
@@ -4434,7 +4434,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/15 23:37"
-update = "2026/10/19 02:42"
+update = "2026/10/19 04:50"
 
 [[entries]]
 no = "248"
@@ -5222,7 +5222,7 @@ no = "293"
 name = "Catonieca"
 team = "First Azimuth: Lithospheric Cataclysm"
 title = "what a strange world"
-size = "23498 KB"
+size = "24381 KB"
 addr = ["https://drive.google.com/file/d/14s7qqJIe5CQOp5zSHJmEMBNX6eNbR-kz/view?usp=drive_link"]
 genre = "a new home for me"
 impr = "0"
@@ -5231,7 +5231,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/18 01:03"
-update = "2026/10/18 01:06"
+update = "2026/10/19 06:25"
 
 [[entries]]
 no = "294"
@@ -5834,7 +5834,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/19 02:53"
-update = "2026/10/19 03:16"
+update = "2026/10/19 06:12"
 
 [[entries]]
 no = "329"
@@ -5940,6 +5940,66 @@ median = "0"
 avg = "0"
 regist = "2026/10/19 04:10"
 update = "2026/10/19 04:10"
+
+[[entries]]
+no = "335"
+name = "Rain_Light"
+team = "悪魔紫豆隊"
+title = "AirporT"
+size = "36966 KB"
+addr = ["https://drive.google.com/file/d/1K6oHKIIorfLpfPRVJMigumqHthMzrSb4/view?usp=drive_link"]
+genre = "Psycore/Artcore"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 05:27"
+update = "2026/10/19 05:27"
+
+[[entries]]
+no = "336"
+name = "[-^v-]"
+team = "gatesoftwaredrive"
+title = "vita aeterna"
+size = "163900 KB"
+addr = [
+    "G-Drive:",
+    "https://drive.google.com/drive/folders/1BWspRUL5-_YyHSMRbn2GrnJtIIJGTEYM?usp=sharing",
+    "ogg+mp4:",
+    "https://drive.google.com/file/d/18UoC85ZAQFPX3f2l2k8hL9iB9tr3V2bc/view?usp=drive_link",
+    "ogg+wmv only:",
+    "https://drive.google.com/file/d/1jzSEwL4qEjXaG65uI-Wozr-95vb1nXte/view?usp=drive_link",
+    "compact (ogg+bgi):",
+    "https://drive.google.com/file/d/1-c4uyklaPJqzLEOEsPwVu81h6BV_kH6h/view?usp=drive_link",
+]
+genre = "heaven"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 06:06"
+update = "2026/10/19 06:42"
+
+[[entries]]
+no = "337"
+name = "38k"
+team = "BMSノース★サファリ"
+title = "Chase The Stars"
+size = "69383 KB"
+addr = [
+    "https://drive.google.com/file/d/15-jwlKhudIIvieRVJQrPZk-rXDT-Zz2F/view?usp=sharing",
+    "https://1drv.ms/u/c/89e7b93bd71678f2/IQBQlGCYH01xRJUScF1iY9XsASAdl5AtkLv1pNdbiTtIr5s?e=klfWaO",
+]
+genre = "MG CORE"
+impr = "0"
+total = "0"
+total_n = "0"
+median = "0"
+avg = "0"
+regist = "2026/10/19 06:49"
+update = "2026/10/19 06:49"
 
 [[teams]]
 no = "175"
@@ -6551,7 +6611,7 @@ no = "120"
 team = "BMSノース★サファリ"
 leader = "にょろも"
 member = "6人"
-works = "3 / 4作品"
+works = "4 / 4作品"
 regist = "2026/08/18 03:49:33"
 update = "2026/08/21 00:26:34"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520120_20260818034933.png"
@@ -7046,7 +7106,7 @@ no = "75"
 team = "gatesoftwaredrive  チームメンバー募集中！"
 leader = "endofsystem"
 member = "11人"
-works = "0 / 4作品"
+works = "1 / 4作品"
 regist = "2026/07/17 05:10:43"
 update = "2026/09/09 02:05:22"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520075_20260717051043.png"
@@ -7277,7 +7337,7 @@ no = "54"
 team = "悪魔紫豆隊  チームメンバー募集中！"
 leader = "MessX"
 member = "9人"
-works = "2 / 4作品"
+works = "3 / 4作品"
 regist = "2026/07/08 16:36:30"
 update = "2026/08/23 01:25:36"
 banner = "https://manbow.nothing.sh/event/images_bof22/upload/img_teambanner_1520054_20260714013038.jpg"

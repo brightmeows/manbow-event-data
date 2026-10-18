@@ -3,7 +3,11 @@ name: CI
 on:
   push:
     branches: [main]
-  pull_request:
+  # 不设 pull_request 触发（2026-10-18）：本仓的数据更新 PR 由 update-hourly 用
+  # GITHUB_TOKEN 经 peter-evans/create-pull-request 创建——防递归机制使这类 PR 的
+  # pull_request run 不真正执行（startup 即失败，历史上 47 次仅 1 次例外，纯噪音）。
+  # 门禁职责归 push main（自动化 PR squash 合并后必触发，实测健康）。
+  workflow_dispatch:
 
 jobs:
   check:

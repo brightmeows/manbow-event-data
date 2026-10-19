@@ -12459,13 +12459,14 @@ artist = "またかま   URL"
 genre = "Abysselachic Recode"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Self"
+bga = "BGA include・Self"
 charts = "CHART_3 (★x5～★x26)"
 bpm = "205"
 tags = [
     "7Keys",
     "Lang-JP",
     "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-BGI",
     "Use-ogg",
@@ -12475,9 +12476,16 @@ tags = [
     "Difficulty-intermediate",
     "Difficulty-senior",
     "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
 ]
 production = "非公開"
+audition = ["https://soundcloud.com/matakama/soga_no_negai_wo"]
+comment_updated = "2026年10月20日 03:14"
 comment = """
+(2026年10月20日 03:14 更新)
+音源の追加、BGA回りの修正を対応いたしました。（bmsファイル自体の修正はありません。）
+(2026年10月20日 03:01 更新)
 Team: Sawtooth Sharkz
 Title : 蒼牙の願いを紡いだ場所で
 Genre : Abysselachic Recode
@@ -12494,39 +12502,55 @@ Insane++(Your Sanctuary) : ★★6 (st6 想定、微縦、乱打、ディレイ�
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 00:02"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "未配置データ（hinagata）におけるBGA定義の追加、LR2でBGA正しく再生されなかった不具合の修正、_stageFileの追加、BGAのバージョンアップを行いました。"
 
 [[details]]
 num = "255"
-artist = "NOiS  (movie : しゅーとん) URL"
+artist = "NOiS  (movie : NOiS(動画作成)しゅーとん(イラスト)) URL"
 genre = "Future bass"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI only・Other"
+bga = "BGA include・Self"
 charts = "CHART_3 (★x3～★x11)"
 bpm = "150"
 tags = [
     "7Keys",
+    "Lang-JP",
     "Lang-US",
     "Audition-Sound",
     "Format-bms62",
     "Use-BGI",
     "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
     "Difficulty-craziness",
+    "Player-beatoraja",
 ]
-production = "非公開"
+production = "Cubase"
+comment_updated = "2026年10月20日 06:32"
 comment = """
+(2026年10月20日 06:32 更新)
 思い付きで発した飲み会での言葉がこのような形で現実となり大変感慨深いなと同時に多くの反省点も見つけたためここに懺悔したいと思います。南無
 それはそうとイラスト担当の最強にかわいいしゅーとんさんの絵を添えてお送りする「J@ck b()x aiR⇔Line」ぜひお楽しみください。"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 00:11"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを作成しました"
 
 [[details]]
 num = "256"
@@ -20413,12 +20437,27 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment = ":v"
+audition = ["https://soundcloud.com/wubrar/mellifluous-bof22"]
+comment_updated = "2026年10月20日 06:01"
+comment = """
+(2026年10月20日 06:01 更新)
+(2026年10月20日 04:07 更新)
+:v"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/20 04:07"
+note = "Added YouTube and SoundCloud."
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:45"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "3"
+date = ""
+note = "Added credits to the illustrator."
 
 [[details]]
 num = "449"
@@ -20866,12 +20905,20 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/musanuriyu/bof-22-now-here-no-where"]
-comment = "後ほど記載"
+comment_updated = "2026年10月20日 04:31"
+comment = """
+(2026年10月20日 04:31 更新)
+後ほど記載"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:56"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "readmeを追加。また、SPAとSPIの差分名・難易度が未記載だったため修正。ついでにステージファイルの容量を削減。お手数おかけいたします。"
 
 [[details]]
 num = "463"
@@ -20975,13 +21022,19 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/kanki2/fragile"]
-comment_updated = "2026年10月20日 00:32"
+comment_updated = "2026年10月20日 03:58"
 comment = """
-(2026年10月20日 00:32 更新)
-(2026年10月20日 00:10 更新)
-(2026年10月20日 00:06 更新)
+(2026年10月20日 03:58 更新)
 Fragile - 脆い、儚い
-後ほど追記します！"""
+お久しぶりですLimeです！またしてもギリギリで申し訳ございません・・・！
+本作のテーマは「氷」「極寒」。冬をテーマにした楽曲は今までに何度か制作してきましたが、本作では少し違ったサイバーな冷たさの質感を目指しました。
+息も凍てつくような寒さの世界の質感を表現できていれば幸いです・・・！
+チーム「PLAYGROUND(遊び場)」にちなんでサウンドデザインやゲーム性に関する実験的なアイデアをいくつか詰め込んでみましたので、そういった部分でもお楽しみ頂けるようなモノになっていたら良いなあと思いつつ、よろしくお願いいたします。
+Team: PLAYGROUND
+[farewell] METAMORPH - chilldive vs Sobrem
+https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=152
+[Hyper Attention] Look At Me - BilliumMoto
+https://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=152"""
 
 [[details.revisions]]
 ver = "1"

@@ -3049,7 +3049,7 @@ artist = "Yusasi & GM_Shadows feat. 赤羽  (movie : 陵熏) URL"
 genre = "Nebulacore"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Self"
+bga = "BGA include・Self"
 charts = "CHART_3 (★x3～★x12)"
 bpm = "180"
 tags = [
@@ -3068,8 +3068,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/shadows-gm/5oft-nebula"]
-comment_updated = "2026年10月10日 23:06"
+comment_updated = "2026年10月19日 12:41"
 comment = """
+(2026年10月19日 12:41 更新)
+(2026年10月19日 12:40 更新)
 (2026年10月10日 23:06 更新)
 (2026年10月09日 17:38 更新)
 (2026年10月02日 22:47 更新)
@@ -3161,6 +3163,11 @@ Lyric:
 与你一起畅谈未来"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/09 17:38"
+note = "仅更改_stage.png文件"
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/02 01:30"
 note = "n/h/a谱面misslayer定义有误，已更改并替换链接"
@@ -3171,9 +3178,9 @@ date = "2026/10/01 23:09"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "&#20165;更改_stage.png文件"
+note = "添加了含bga的&#38142;接"
 
 [[details]]
 num = "60"
@@ -13336,7 +13343,7 @@ artist = "OfficialAz3 feat. Hodong (VOXFactory)  (movie : Senali) URL"
 genre = "Misdirection"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Other"
+bga = "BGA include・Other"
 charts = "CHART_3 (★x2～★x11)"
 bpm = "130"
 tags = [
@@ -13344,15 +13351,20 @@ tags = [
     "14Keys",
     "5Keys",
     "Lang-US",
+    "Use-BGA",
     "Use-BGI",
     "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
     "Gimmick-LongNote",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月19日 13:45"
 comment = """
+(2026年10月19日 13:45 更新)
 NOTE: Hodong is a character from VOXFactory and is a vocal synthesizer.
 -------------------- Information ---------------------
 Genre: Misdirection
@@ -13382,6 +13394,13 @@ and that will confuse the heck out of anybody
 This was a really fun experiment.
 I hope you enjoy ^^
 <- ->
+I've added this comment days after I registered this work, meaning you won't see this exact comment from README.txt
+I've had a lot of fun making this work and doing something with a gimmick or a concept in mind.
+I was really inspired by Sasuke Haraguchi and chilldive when I made the track, hence you can hear the really strong influence on the track when it comes to arrangement and composition.
+And also, I kinda want to test the limits on the vocal synthesizer Hodong by trying to make her talk instead of sing.
+Lots of revisions had occurred when it comes to her singing style. It is true that she is meant to be sung from a pop style, so I adapted to that said style.
+Anyways I hope you enjoy this work! Special thanks to Senali for the wonderful BGA and LiGaYb for the lovely illustration! ^^
+Senali's Twitter/X account can be found here: https://x.com/Senali_chiljea
 ----------------------- lyrics -----------------------
 [intro]
 Left, right, left, right, left, right, left
@@ -13419,13 +13438,13 @@ Nothing left, that's-
 Why is left my... (let's try another style!)
 [verse 2]
 Right,
-ひだり, みぎ,
+Hidari, Migi,
 Kaliwa, Kanan,
 왼쪽, 오른쪽,
 Yeah right...
-左, 右,
+Left, Right,
 Ma gauche, Ma droite,
-Kressi, Labi.
+Kreisi, Labi.
 [buildup]
 Left, right, left, right,
 My left, Your right.
@@ -13453,8 +13472,13 @@ DP ANOTHER - ☆☆☆☆☆☆☆☆☆☆☆ (11)
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 22:38"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Added BGA made by Senali, Fixed lyric typo, and added more commentary. BMS remains unchanged. Thank you for your understanding! ^^"
 
 [[details]]
 num = "275"
@@ -15611,8 +15635,8 @@ note = "初版公開"
 
 [[details]]
 num = "327"
-artist = "Rain_Light & Geowyns  (movie : 秋夢観鶴) URL"
-genre = "AdventBass/Artcore/Hardcore"
+artist = "Rain_Light & Geowyns  (movie : BGA: 秋夢観鶴 BGI: Sparkline) URL"
+genre = "AdventBrass/Artcore/Hypertrance"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGI(BGA) under construction・Self"
@@ -15626,18 +15650,40 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 02:24"
+comment_updated = "2026年10月19日 13:51"
 comment = """
-(2026年10月19日 02:24 更新)
+(2026年10月19日 13:51 更新)
 感谢您能查看我的留言！
 继去年的“静かな夜、星明かりの夜”后，第二次参加bof，请多多关照！！
 想说的有很多..本作品大概是给之前的自己一个回应吧。
-这首曲子融入了很多早期曲目的段落安排甚至旋律（如本曲的结尾方式），承载着许多之前的愿望、回忆和痛苦。而同时也融入了一些我个人认为比较有个人特色的曲风和段落——比如本曲第一段高潮，通过比较灵活的音色，空间穿越感强的音色组成，我自称为“AdventBass”（其实也只是随便取的（）请不必在意）恰好很合适“冒险”的主题
+这首曲子融入了很多早期曲目的段落安排甚至旋律（如本曲的结尾方式），承载着许多之前的愿望、回忆和痛苦。而同时也融入了一些我个人认为比较有个人特色的曲风和段落——比如本曲第一段高潮，通过比较灵活的音色，空间穿越感强的音色组成，我自称为“AdventBrass”（其实也只是随便取的（）请不必在意）恰好很合适“冒险”的主题
 关于“Go Foward。With Yourself”，其实也算是为之前比较独来独往的自己的肯定与安慰吧…借鉴了去年bof21某首参赛曲用“。”进行命名。因为有了最近的经历，我越发觉得事情变得不可控起来，而我能做的，只有改变自己。只有自己努力才能接近想要的东西吧。所以..希望大家也能在即使只有自己的时候，不要忘记，带着自己的那一份积极地走下去！
 关于本首曲目，我最想写的曲子，是能入心的音乐，让听众能有所回味的音乐。而后再是值得被咀嚼的音乐，劲爆的音乐，有人听的音乐。我不知道我是否能做到哪怕一点，但我仍然认为我在接近吧。
 这次除了负责音乐，也同样作为“初心者”完成了spb lv.2的制作和切音的工作（-三天切音实在太累了-）也非常感谢sparkline的曲绘，yuri、zaphic、Molybdenum_S2、队长秋梦观鹤的谱面和同样来自队长的bga！
 再次感谢您的阅读！但愿明年再见！！！
-Rain_Light 2026.10.19"""
+Rain_Light 2026.10.19
+——————————————————————————————————————————————————————————————————————————————————
+大家好，我是生草打火机队长秋梦观鹤
+这个作品作为本队的FS，和我催促最多、也算是倾注力量最多的作品，我也顺便在评论区发表一下吧
+同样是第二次正式参赛（2024年报名但并没有参与作品），这次是以队长的身份参与，说实话也是满满的压力
+这个作品也因为没有在我们计划的时间里解决导致了我们不得不在第一次登录时只能以残缺的同捆谱面+只有BGI的情况下出现，作为队长，我谨代表全体队员向大家致歉
+另外在这里还要感谢我的所有队友，这里面哪怕缺少任何一个人都是无法完成我们生草打火机的制作的。
+感谢Sparkline绘制的Wraith.Mourn.Curse和Go Forward。 With Yourself的BGI。TA还在曲绘之余制作了banner、fail stage、BMP等工作，非常强大的画师！
+感谢Frozem绘制的SmaSΘSeraphiM的BGI。非常邪恶的风格
+感谢X-Chalk制作的Penumbra的BGA，虽然仍在进一步完善，我们现在只能先上传初步的BGA，但仍不胜感激
+感谢所有曲师——制作SmaSΘSeraphiM的神罰_P、Night-EX；制作Wraith.Mourn.Curse的Itz62iGD；制作Penumbra的Mr_Command；制作Go Forward。 With Yourself的Rain_Light、Geowyns
+感谢所有谱师（目前情况）——
+制作了SmaSΘSeraphiM SPB/SPN | Penumbra SPB/SPN/SPH/SPA/4K A 的Mr_Command；
+制作了SmaSΘSeraphiM SPA/SPI | Go Forward。 With Yourself SPH 的Yuri；
+制作了Wraith.Mourn.Curse SPB的Zaphic；
+制作了Wraith.Mourn.Curse SPH/SPI | Go Forward。 With Yourself SPA的Molybdenum_S2；
+制作了Wraith.Mourn.Curse SPA/SPM 的baiicat；
+制作了Go Forward。 With Yourself SPB 的Rain_Light；
+制作了剩余谱面，即SmaSΘSeraphiM SPH | Wraith.Mourn.Curse SPN | Go Forward。 With Yourself SPA的秋夢観鶴（我自己）
+另外
+感谢黄桃提供的队徽素材，非常好笑
+明年希望还能再见到大家，希望大家玩的开心，也能支持我们的作品！
+秋夢観鶴 2026/10/19"""
 
 [[details.revisions]]
 ver = "1"
@@ -15666,10 +15712,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 06:12"
+audition = ["https://soundcloud.com/chiiyurioekaki/bof22-departure-into"]
+comment_updated = "2026年10月19日 12:50"
 comment = """
-(2026年10月19日 06:12 更新)
-(2026年10月19日 05:38 更新)
+(2026年10月19日 12:50 更新)
 (2026年10月19日 03:16 更新)
 【BMS】chiiyuri
 【BGA】ツジ
@@ -15796,7 +15842,7 @@ note = "初版公開"
 
 [[details]]
 num = "332"
-artist = "noyrfa feat. tanp  (movie : 柴瀬 紀谷) URL"
+artist = "noyrfa feat. tanP  (movie : 柴瀬 紀谷) URL"
 genre = "ART CORE"
 genre_sub = "Original・Self"
 source = "-----"
@@ -15818,10 +15864,12 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
+comment_updated = "2026年10月19日 13:05"
 comment = """
-Opaque Lives / ART CORE / noyrfa feat. tanp
+(2026年10月19日 13:05 更新)
+Opaque Lives / ART CORE / noyrfa feat. tanP
 BMS & music by noyrfa
-lyrics & vocal by tanp
+lyrics & vocal by tanP
 note chart info
 SP NORMAL by noyrfa
 SP HYPER by AZVW_2
@@ -15857,15 +15905,17 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
+comment_updated = "2026年10月19日 12:00"
 comment = """
+(2026年10月19日 12:00 更新)
 It's a Vibe / DANCEFLOOR DRUM 'N' BASS / Kusua & ABEREXX
 Music by Kusua & ABEREXX
 BMS by Kusua
 note chart info
-SP NORMAL by Kusua
-SP HYPER by MKR
-SP ANOTHER by MKR
-SP LEGGENDARIA by MKR"""
+SP NORMAL [Side-Step] by Kusua
+SP HYPER [The Kick of the Prodigal Son] by MKR
+SP ANOTHER [The Bear Shake Its Fur] by MKR
+SP LEGGENDARIA [Shaking One's Head and Swaying One's Body] by MKR"""
 
 [[details.revisions]]
 ver = "1"
@@ -16113,6 +16163,284 @@ DP ANOTHER:☆12(DPsl5前後) 2026Notes
 BMSとしてやり応えのある作品に仕上がったと思います。
 DP譜面とBGIは鈎兎さんに制作して頂きました。SUPER ULTRA BIG 感謝――――――
 フォーミュラスターでカッ飛ばすぐらい気持ち良く楽しんで頂ければ、幸甚。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "340"
+artist = "Kyotsugyon  (movie : Transendium) URL"
+genre = "bygone memorie(s)"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x3～★x21)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "5Keys",
+    "Lang-US",
+    "Audition-Sound",
+    "Format-bms62",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-intermediate",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 09:45"
+comment = """
+(2026年10月19日 09:45 更新)
+Kyotsugyon - afterimage(s)
+Team: dandelion sounds
+Additional charts are planned before the end of impression period."""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "341"
+artist = "Lacria  (movie : Transendium) URL"
+genre = "uphoric hard trance"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_2 (★x6～★x15)"
+bpm = "164"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Audition-Sound",
+    "Format-bms62",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-intermediate",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+id. inversidesce - Lacria
+bms:Lacria
+YouTube - https://www.youtube.com/@LacriaMusic
+SoundCloud - https://soundcloud.com/lacriaxiii
+Visuals:Transendium
+https://transendium.carrd.co/
+team: dandelion sounds
+https://dandelion.dsktpgrl.com/
+~~~~~~~~~~~~
+// colors swirl inward into an inverted identity
+// a prismatic implosion; a rejection of simplicity
+// keep your eyes open and witness the grandiosity
+// of the cognition of self, preceded by infinity
+~~~~~~~~~~~~
+Hello! I made a song for BOF for the first time!
+// I want to thank dsktpgrl for giving me the opportunity to join her team and contribute to BOF! So, so grateful for her and everyone else in the Discord for their kindness and patience despite my shyness and own circumstances that complicated my workflow and schedule towards the end.
+// For years, it has been a dream of mine to make a song for this coveted rhythm game contest. I always thought to myself every year "One day, I'll get good enough, get picked up by a team, and make a banger of a song for them" but resigned myself to obscurity since I didn't the skill nor the connections to make it happen, so imagine my delightful surprise when I was scouted one day! I was confused at first, but I knew I had to grab the chance while it was still hot, and I'm glad I did! As a result, I poured more love and effort into this song than usual, so I really hope you injoy id. inversidesce!
+// Good luck have fun!
+// Artist's Note: inversidesce is a portmanteau of the words "Inverse" and "Iridesce"!
+~~~~~~~~~~~~
+[DeepL Translate. もし不正確な点があれば、ご容赦ください]
+こんにちは！初めてBOF向けの曲を作りました！
+// dsktpgrlさん、チームに参加させていただき、BOFに貢献する機会をくださったことに感謝します！私の内気な性格や、終盤にかけて作業の流れやスケジュールを複雑にしてしまった個人的な事情にもかかわらず、dsktpgrlさんやDiscordの皆さんから温かいお心遣いと忍耐強さを見せていただき、本当に、本当に感謝しています。
+// 長年にわたり、この憧れのリズムゲームコンテストに向けて曲を作ることが私の夢でした。毎年、「いつか実力がついて、チームにスカウトされ、彼らのために超ヒット曲を作れるようになる」と心に誓っていましたが、それを実現するための技術も人脈もなかったため、無名のままでいることを諦めていました。ですから、ある日突然スカウトされたときは、どれほど嬉しい驚きだったか想像してみてください！ 最初は戸惑いましたが、このチャンスを逃さずに掴まなければならないと直感し、そうして本当に良かったと思っています！その結果、この曲にはいつも以上に愛情と努力を注ぎ込むことができました。ぜひ「id. inversidesce」を楽しんでいただけたら嬉しいです！
+// 頑張って、楽しんでね！
+// アーティストからのコメント：「inversidesce」は、「Inverse」と「Iridesce」を組み合わせた造語です！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "342"
+artist = "Ayakio   URL"
+genre = "HARD SOUNDS"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x6～★x11)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Format-bms62",
+    "Use-ogg",
+]
+production = "FL Studio"
+audition = ["https://soundcloud.com/ayakioisdead/tifknhs?si=97cd04470cf6409ebff98aead9fbc2fb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment = "showing the world how australia does hardstyle >:3"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "343"
+artist = "ニラ  (movie : カラアゲ) URL"
+genre = "ウジ電波"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "File-Append",
+    "Audition-Sound",
+    "Use-BGI",
+    "Difficulty-beginner",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "Studio Pro 8"
+audition = ["https://soundcloud.com/nira_hfhf/bof22"]
+comment = """
+今回は二回目です！
+前回とは全く違うスタイルにしてみました。
+必死に頑張っていて、なんとか締め切りに間に合いました/(ㄒoㄒ)/~~
+発狂譜面を書くのに挑戦してみた、ぜひ楽しんでください！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "344"
+artist = "dsktpgrl  (movie : Transendium) URL"
+genre = "trance"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x5～★x21)"
+bpm = "136"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "FL Studio"
+audition = ["https://soundcloud.com/dsktpgrl/invertebrate"]
+comment = """
+invertebrate - dsktpgrl
+bms:dsktpgrl
+https://dsktpgrl.com/
+mv:Transendium
+https://transendium.carrd.co/
+team: dandelion sounds
+https://dandelion.dsktpgrl.com/
+Artist Comments:
+dsktpgrl:
+this is probably the most serious I've ever taken a BMS project. I wanted to make a powerful trance song that sounds good, plays good, and looks good. I'm fighting back against my habit of using gimmicks or humor to soften the impression my works make, it comes from a place of embarassment, but I'm almost a decade into my career as an artist and I'm confident now in my talent, and I'm even more confident in my role as a leader.
+I'm particularly honored to be working with Transendium, who has done amazing work creating visualizers for games and artists all over the rhythm game sphere. He's done a fantastic job and I just keep rewatching the video and giggling in glee seeing my music come to life. (≧◡≦) ♡
+I hadn't planned on joining BOF this year, but listening to people talk about BOF on SNS gave me serious FOMO and I realized: I could register a team under my doujin circle, dandelion sounds! we have a bunch of artists hanging around that I can ask, and so I went ahead and started planning. my life has been the perfect amount of busy that I've dropped the ball on some of my duties as leader, but I still think I brought some great artists together.
+in terms of the music itself, it all started from a sample I found on my M8 (a handheld music sequencer) that really resonated with me. It's the main arpeggiating synth, it just had this perfect "big room" vibe. I've always wanted to try my hand at making a proper trance track, so a perfect opportunity was staring me in the face. it took a while for me to find all the right elements, test out melodies, and craft presets, but thankfully I had a good headstart so while I'm still crunched for time, I'm much less stressed out than I have been in past years.
+something else I'm grateful for: with the removal of the LR2 compatability requirement, the doors have opened to new possibilities. specifically, base62 support!! I wasn't very forward thinking while composing, the main synth plays 16th notes throughout the entire song and I employed generous use of slow, non-repeating automation throughout. simply put, I would not have been able to make this work without base62 support. I think on a larger scale, a new era of BMS has begun, and we'll continue to see more dynamic and boundary-breaking works in the coming years now that we are free from the clutches of our great grandfather LR2's standards. RIP LR2IR.
+anyways, please enjoy! <3
+Transendium:
+🪱🎩💙"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "345"
+artist = "5106   URL"
+genre = "Liquid DnB"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "181"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/5106-575623504/traverse-echo"]
+comment_updated = "2026年10月19日 11:49"
+comment = """
+(2026年10月19日 11:49 更新)
+5106と申します。
+よろしくお願いいたします。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "346"
+artist = "メスガキ   URL"
+genre = "LOLICORE"
+genre_sub = "Remix・Other"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "230"
+tags = [
+    "7Keys",
+    "Use-BGI",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-kusofumen",
+]
+production = "20スロ"
+audition = ["https://soundcloud.com/p5nkbnkigocj/bof22-ta-fevertime?si=8fddf272f1b6481eb228102ce88d7d6b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月19日 12:48"
+comment = """
+(2026年10月19日 12:48 更新)
+(2026年10月19日 12:47 更新)
+なんでツインなのに3人目がいるんですかっ！？"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "347"
+artist = "verlexin  (movie : u20xx) URL"
+genre = "footwork"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_2 (★x4～★x13)"
+bpm = "150 ～ 170.0000850000425"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = "TBA"
 
 [[details.revisions]]
 ver = "1"

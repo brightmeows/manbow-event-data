@@ -917,8 +917,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月06日 15:39"
+comment_updated = "2026年10月19日 22:44"
 comment = """
+(2026年10月19日 22:44 更新)
 (2026年10月06日 15:39 更新)
 (2026年10月02日 01:33 更新)
 Readmeに怪文書があります。"""
@@ -4158,7 +4159,10 @@ tags = [
     "Use-wmv_movie",
 ]
 production = "非公開"
+comment_updated = "2026年10月20日 01:29"
 comment = """
+(2026年10月20日 01:29 更新)
+Fixed readme
 [BOF22] /*digit_realm.
 For LR2 users:
 For better experience, depending on the version of LR2,
@@ -4166,8 +4170,8 @@ some of the charts may require "MAXBPM" or "MINBPM" option.
 Team: "THE BASS GUARDIANS 続"
 Title: /*digit_realm.
 Event: BOF:22 -G2R-
-Genre: watch vs. F411εν vs. FurryWu
-Music: 0phldlan
+Genre: .U3O_+rance/
+Music: watch vs. F411εν vs. FurryWu
 BGA: sdjge vs. BASSKNIVES vs. watch
 BMS Charts: watch, BASSKNIVES, Z6W2A, R054
 SPB, SPN, SPH, SPA, SPL
@@ -4176,8 +4180,13 @@ DPA
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:11"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品紹介において、うっかり他の作品の情報を入力してしまっていた問題を修正しました"
 
 [[details]]
 num = "78"
@@ -6174,12 +6183,16 @@ bpm = "178"
 tags = [
     "7Keys",
     "Lang-US",
+    "Use-BGI",
     "Difficulty-intermediate",
     "Difficulty-senior",
     "Player-beatoraja",
 ]
 production = "非公開"
-comment = "A story about crossing over barriers"
+comment_updated = "2026年10月19日 20:22"
+comment = """
+(2026年10月19日 20:22 更新)
+A story about crossing over barriers"""
 
 [[details.revisions]]
 ver = "1"
@@ -6281,6 +6294,7 @@ tags = [
     "Lang-JP",
     "Lang-US",
     "Lang-SCN",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -6288,10 +6302,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月11日 16:39"
+comment_updated = "2026年10月20日 00:15"
 comment = """
-(2026年10月11日 16:39 更新)
-(2026年10月11日 15:33 更新)
+(2026年10月20日 00:15 更新)
 液化
 是有关物理的一种变化
 气态物体化为液态
@@ -6439,8 +6452,12 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 03:07"
+audition = ["https://soundcloud.com/minh-qu-n-gwds/mischievous-memories"]
+comment_updated = "2026年10月19日 21:27"
 comment = """
+(2026年10月19日 21:27 更新)
+(2026年10月19日 21:24 更新)
+(2026年10月19日 21:19 更新)
 (2026年10月19日 03:07 更新)
 (2026年10月17日 14:37 更新)
 (2026年10月05日 23:58 更新)
@@ -6469,6 +6486,16 @@ Some free materials were used to make BGA:
 The other charts is been preparing."""
 
 [[details.revisions]]
+ver = "5"
+date = "2026/10/19 21:24"
+note = "作品を修正"
+
+[[details.revisions]]
+ver = "4"
+date = "2026/10/19 03:07"
+note = "作品を追加修正"
+
+[[details.revisions]]
 ver = "3"
 date = "2026/10/17 14:37"
 note = "BGAを追加"
@@ -6484,9 +6511,9 @@ date = "2026/10/01 23:43"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "6"
 date = ""
-note = "作品を追加修正"
+note = "作品を修正"
 
 [[details]]
 num = "130"
@@ -6692,14 +6719,16 @@ charts = "CHART_3 (★x3～★x12)"
 bpm = "188"
 tags = [
     "7Keys",
+    "Video-sharing",
     "Use-BGA",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月18日 22:16"
+comment_updated = "2026年10月20日 00:16"
 comment = """
+(2026年10月20日 00:16 更新)
 (2026年10月18日 22:16 更新)
 それでも未熟な白き魔道士は今
 終に訪れる静寂を願い詠唱する
@@ -9822,8 +9851,10 @@ tags = [
     "Difficulty-gimmick",
 ]
 production = "fl studio, initially ubmsc and sayaslicer, moved to befriend later."
-comment_updated = "2026年10月17日 09:48"
+audition = ["https://soundcloud.com/user-147879028/largestrawberry"]
+comment_updated = "2026年10月19日 20:25"
 comment = """
+(2026年10月19日 20:25 更新)
 (2026年10月17日 09:48 更新)
 (2026年10月17日 09:07 更新)
 (2026年10月17日 09:01 更新)
@@ -11013,10 +11044,12 @@ tags = [
     "Difficulty-senior",
 ]
 production = "fl studio, initially ubmsc and sayaslicer, moved to befriend later."
-comment_updated = "2026年10月16日 04:56"
+audition = ["https://soundcloud.com/user-147879028/carl"]
+comment_updated = "2026年10月19日 20:24"
 comment = """
+(2026年10月19日 20:24 更新)
 (2026年10月16日 04:56 更新)
-who hates region locking! i do! i hate it when cough cough... doesn't include my favourite voca-denpa tracks or i can't offically play an intresing arcade rhythm game because i live in 'awfulingtonshire- england', it's unfair! but my music is for all! for all to enjoy!
+who hates region locking! i do! i hate it when cough cough... doesn't include my favourite voca-denpa tracks or i can't offically play an intresing arcade rhythm game because i live in 'Dreadfulingtonshire- england', it's unfair! but my music is for all! for all to enjoy!
 I themed my entry around the frustration, some people understand it! wrong console or bluray region!
 media shouldn't be restricted to one place, let us love no matter where we live.
 we might have a BGA, but i made a bgi as a placeholder that looks a little like an arcade warning screen, though its red, i heard red is very eye-catching.
@@ -12659,8 +12692,10 @@ tags = [
     "Difficulty-gimmick",
 ]
 production = "befriend (completely used befriend for this, but i made the song in fl studio)"
-comment_updated = "2026年10月18日 02:47"
+audition = ["https://soundcloud.com/user-147879028/erhytemaabigne"]
+comment_updated = "2026年10月19日 20:20"
 comment = """
+(2026年10月19日 20:20 更新)
 (2026年10月18日 02:47 更新)
 (2026年10月16日 04:45 更新)
 (2026年10月16日 00:59 更新)
@@ -12673,6 +12708,11 @@ thanks for 1/8th for making the stop motion edit.
 the mv is a WIP, me and .xan are working on it right now.
 the stop motion edit truly is a work of art, thanks 1/8!
 TBN727"""
+
+[[details.revisions]]
+ver = "4"
+date = "2026/10/18 02:47"
+note = "had to update diffficulty level, small mistake!"
 
 [[details.revisions]]
 ver = "3"
@@ -12690,9 +12730,9 @@ date = "2026/10/16 00:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "5"
 date = ""
-note = "had to update diffficulty level, small mistake!"
+note = "trying to fix these soundcloud links!!!"
 
 [[details]]
 num = "260"
@@ -12709,8 +12749,9 @@ tags = [
     "Lang-US",
     "Lang-SCN",
     "Lang-TCN",
-    "File-Append",
-    "Use-BGI",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
     "Use-ogg",
     "Gimmick-LongNote",
     "Difficulty-beginner",
@@ -12719,7 +12760,13 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
+audition = ["https://soundcloud.com/serita-plagman/dnb-mix-feat?si=dcd49ea31cb249b78bce25b5fc90efdd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月19日 21:00"
 comment = """
+(2026年10月19日 21:00 更新)
+(2026年10月19日 20:47 更新)
+(2026年10月19日 20:41 更新)
+(2026年10月19日 20:28 更新)
 日本語の歌詞
 【intro】
 砕け こびりつく過去
@@ -12788,8 +12835,13 @@ comment = """
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 00:45"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
 
 [[details]]
 num = "261"
@@ -13748,12 +13800,20 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/daze-hepeor/snow-stars?si=a523669bdb1a4990a646e181cc42ef89&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment = "你喜欢像素游戏吗？"
+comment_updated = "2026年10月19日 22:54"
+comment = """
+(2026年10月19日 22:54 更新)
+你喜欢像素游戏吗？"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/17 07:25"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を修正"
 
 [[details]]
 num = "279"
@@ -14399,15 +14459,22 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/daze-hepeor/just-one-trip?si=1b80c5fe33a345d291dbff45d9c9e3fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月19日 22:55"
 comment = """
+(2026年10月19日 22:55 更新)
 本bga由bga制作人的学校要求去甘肃采风而拍摄（
 草！草！草！
 操！操！操！"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/18 00:41"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を修正"
 
 [[details]]
 num = "293"
@@ -14473,7 +14540,9 @@ tags = [
 ]
 production = "Studio One Artist"
 audition = ["https://soundcloud.com/user-615945876/bof22"]
+comment_updated = "2026年10月20日 00:41"
 comment = """
+(2026年10月20日 00:41 更新)
 「最上級亜空体験お届けする！今すぐレろ！」
 げうげうｒです。
 今回は毎小節BPMが変わる曲はさぞ押しづらいだろうなぁと思い、そういう曲にしました。
@@ -14482,8 +14551,13 @@ BMSでやることに、意味がある、そういうコンセプトなんで�
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/18 02:21"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Youtubeのリンクを追加"
 
 [[details]]
 num = "295"
@@ -14609,8 +14683,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "GarageBand"
-comment_updated = "2026年10月18日 15:49"
+comment_updated = "2026年10月19日 21:57"
 comment = """
+(2026年10月19日 21:57 更新)
 (2026年10月18日 15:49 更新)
 SINGLE
 SPN (5keys)Lv4  454notes
@@ -15448,31 +15523,44 @@ tags = [
     "Lang-JP",
     "Lang-US",
     "Lang-KR",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-mpeg_movie",
     "Use-wmv_movie",
+    "Use-mp4_movie",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
+    "Player-beatoraja",
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/macguffin4983/macguffin-26-2"]
-comment_updated = "2026年10月19日 07:47"
+comment_updated = "2026年10月19日 21:05"
 comment = """
+(2026年10月19日 21:05 更新)
 (2026年10月19日 07:47 更新)
 (2026年10月19日 07:45 更新)
 (2026年10月19日 01:18 更新)
 (2026年10月19日 01:15 更新)
 【4983】
-コメントは後日掲載いたします。
+こんにちは、4983です！ 3年連続でNEO sample FACTORYチームとしてBOFに参加することになりました。こうして毎年参加できることがうれしいです！
+今回のMacGuffin #26-2はTechno、その中でもPeak Time/Driving系を意図した曲です。偶然の機会でこの系統の曲を聴くことになったのですが、ヘビーなベースやインダストリアルな雰囲気などが強く印象に残ったようでラフ案を作成する際に自然とPeak Time/Driving系統で進められました。せっかくなのでいっそ深く掘り下げてみようと思い、ジャンルについてさらに研究して完成させました。これまではOldschool系を中心に制作してきましたが今回のMacGuffinは歴代シリーズの中で最新トレンドに最も近い作品になりましたね！
+今回は前作とは異なり、音楽ゲームに適した展開よりもジャンルの特性を忠実に表現することに集中しました。また普段は16小節単位で展開を変えることを好みますが、長さを合わせるために8小節単位で変わることを活用しました。初めて聞いたときはぎこちなかったのですが聞いているうちに慣れてきました。皆さんはどうでしたか？
+譜面は今回もSmiGoon様にご協力いただきました。いつもお手伝いいただき、ありがとうございます！
+BGAはApostrophe様が担当され、私の要望ができるだけ反映されるよう努めてくださいました。本当にありがとうございます！
+では、今回のMacGuffinもよろしくお願いします！
 私の作品の2次創作に関するガイドラインを私のツイッターのメインツイートに設定しましたので、ぜひご参考ください！
 この曲のリファレンス一覧は以下の通りです：
 Control Your Mind (Original Mix) - Roger Lavelle & Innervoix
 The Rave - Innervoix
 WFT - Subtrax
 【SmiGoon】
-コメントは後日掲載いたします。
+こんにちは、SmiGoonです。今回もNEO sample FACTORYチームに譜面制作者として参加させていただくことになりました。
+今回は前回の#26と同様に、従来の固定化された譜面スタイルから脱却するよう努めました。縦連を減らしたり、これまであまり使っていなかったベースのようなオブジェクトを活用したりする形でです。慣性から抜け出そうとするのがこんなに大変だとは。
+このような私の悩みを解決するために4983氏が私の意見を積極的に反映させてBMS化してくださいました。ほんとうにありがとうございます。
+それでは、よろしくお願いします。
 【Apostrophe】
 MacGuffin #26-2 BGAに参加したApostropheです。
 何か暗めの雰囲気をご希望のようなので、できる限りそうしました 暗くてどんよりした場面のことをです。
@@ -15642,6 +15730,8 @@ bpm = "222"
 tags = [
     "7Keys",
     "Other",
+    "Lang-JP",
+    "Lang-KR",
     "Audition-Sound",
     "Video-sharing",
     "Use-BGA",
@@ -15657,7 +15747,10 @@ tags = [
 ]
 production = "Logic Pro<br><br>uBMSC<br>https://github.com/NS-Kazuki/iBMSC/releases<br><br>bmhelper (2xxbin)<br>https://github.com/2xxbin/bmhelper/releases<br><br>Volt (+LR2 for keysound mixing)<br>http://inamons.com/files/volt151.zip<br>https://inamons.com/software/volt/howtouse.html<br><br>Qwilight (#4K, #6K)<br>https://store.steampowered.com/app/1910130/Qwilight/<br><br>beatoraja<br>https://mocha-repository.info/download.php<br><br>Java 17 JDK FX (for beatoraja 0.8.8 ModernChic Skin)<br>https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jdk-fx#zulu"
 audition = ["https://soundcloud.com/r4m3n50up/azure-adventure"]
+comment_updated = "2026年10月20日 00:01"
 comment = """
+(2026年10月20日 00:01 更新)
+(2026年10月19日 23:58 更新)
 Music, BMS, Chart // Spehs
 旅に出ざるを得ない事情により、今年は雲の上（Starlink経由）からご挨拶いたします。Spehsと申します。
 Azure Adventureは旅行のときめきを込めた曲となります。シートベルトを締めて、一緒に飛びましょう。
@@ -15666,12 +15759,38 @@ beatorajaやLR2でも5鍵と7鍵として遊べますが、Qwilightには空い�
 今年もどうぞよろしくお願いいたします。
 BGA // sharpbin
 짧은 기간에 완성했지만 이번에도 참가할 수 있는 기회가 생겨서 너무 즐거웠어요~!
-短い期間で完成させましたが、今回も参加できる機会ができてとても嬉しかったです〜！"""
+短い期間で完成させましたが、今回も参加できる機会ができてとても嬉しかったです〜！
+譜面
+SP BEGINNER Lv.3
+SP NORMAL Lv.5
+SP HYPER Lv.8
+SP ANOTHER Lv.11
+SP INSANE Lv.?? (WIP)
+4K EZ Lv.8
+4K NM Lv.14
+4K HD Lv.17
+4K SHD Lv.20
+6K EZ Lv.7
+6K NM Lv.13
+6K HD Lv.17
+6K SHD Lv.20
+SPI: Obj. Atharnal
+そのほか: Obj. Spehs"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/19 23:58"
+note = "コメント通りにLanguage TAG: 日本語、한국어追加、コメントに譜面構成追加"
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 02:16"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "3"
+date = ""
+note = "誤字修正"
 
 [[details]]
 num = "327"
@@ -15753,10 +15872,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/chiiyurioekaki/bof22-departure-into"]
-comment_updated = "2026年10月19日 12:50"
+comment_updated = "2026年10月20日 00:47"
 comment = """
-(2026年10月19日 12:50 更新)
-(2026年10月19日 03:16 更新)
+(2026年10月20日 00:47 更新)
+難易度表記、HyperがINSANEになっているミスを修正
 【BMS】chiiyuri
 【BGA】ツジ
 【譜面(chart)】どんべい
@@ -15789,8 +15908,13 @@ chiiyuri"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 02:53"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品のアップデート"
 
 [[details]]
 num = "329"
@@ -15923,7 +16047,7 @@ note = "初版公開"
 
 [[details]]
 num = "333"
-artist = "Kusua & ABEREXX   URL"
+artist = "Kusua & ABEREXX  (movie : MingzeX) URL"
 genre = "DANCEFLOOR DRUM 'N' BASS"
 genre_sub = "Original・Self"
 source = "-----"
@@ -15945,12 +16069,13 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 12:00"
+comment_updated = "2026年10月20日 01:45"
 comment = """
-(2026年10月19日 12:00 更新)
+(2026年10月20日 01:45 更新)
 It's a Vibe / DANCEFLOOR DRUM 'N' BASS / Kusua & ABEREXX
 Music by Kusua & ABEREXX
 BMS by Kusua
+BG image & video by MingzeX
 note chart info
 SP NORMAL [Side-Step] by Kusua
 SP HYPER [The Kick of the Prodigal Son] by MKR
@@ -15959,8 +16084,13 @@ SP LEGGENDARIA [Shaking One's Head and Swaying One's Body] by MKR"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 04:10"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "ADDED BG IMAGE &amp; BGA VIDEO, please re download since 20 October 2026"
 
 [[details]]
 num = "334"
@@ -16237,8 +16367,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 09:45"
+audition = ["https://soundcloud.com/kyotsugyon/afterimages"]
+comment_updated = "2026年10月20日 00:27"
 comment = """
+(2026年10月20日 00:27 更新)
 (2026年10月19日 09:45 更新)
 Kyotsugyon - afterimage(s)
 Team: dandelion sounds
@@ -16386,7 +16518,9 @@ tags = [
 ]
 production = "FL Studio"
 audition = ["https://soundcloud.com/dsktpgrl/invertebrate"]
+comment_updated = "2026年10月19日 23:52"
 comment = """
+(2026年10月19日 23:52 更新)
 invertebrate - dsktpgrl
 bms:dsktpgrl
 https://dsktpgrl.com/
@@ -16407,8 +16541,13 @@ Transendium:
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 11:30"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "7K Normal and Beginner have been added"
 
 [[details]]
 num = "345"
@@ -16486,8 +16625,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 16:11"
+comment_updated = "2026年10月20日 00:50"
 comment = """
+(2026年10月20日 00:50 更新)
 (2026年10月19日 16:11 更新)
 Music: verlexin
 obj: u20xx (Liáo理青 ✽) & sam
@@ -16707,8 +16847,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "地獄"
-comment_updated = "2026年10月19日 16:55"
+audition = ["https://soundcloud.com/the-beat-wizard/toccatinainaminor"]
+comment_updated = "2026年10月19日 21:21"
 comment = """
+(2026年10月19日 21:21 更新)
 (2026年10月19日 16:55 更新)
 This is an arrangement of a piano piece I made! Here's the sheet music if you wanna give it a try:
 https://drive.google.com/file/d/1l0fbbiqMLhzF5jwz-PyihWg6BX87E1Aw/view?usp=drivesdk
@@ -16719,14 +16861,19 @@ BMS: Nextercise
 SPA [ANOTHER]: Lv11"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/19 16:55"
+note = "BGAを追加"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 15:20"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを追加"
+note = "YouTube + SoundCloud"
 
 [[details]]
 num = "354"
@@ -17288,7 +17435,12 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment = "bruh"
+comment_updated = "2026年10月19日 23:41"
+comment = """
+(2026年10月19日 23:41 更新)
+hi dear mortals how could you do this to someone you love would you like to grow a little bit
+i saw billions of passer-by who are fully ignorant of you and i didn‘t meant to instigate you to hurt some of them
+so close your eyes then we could meet each other in a better place where stored up your essence"""
 
 [[details.revisions]]
 ver = "1"
@@ -17414,8 +17566,9 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "FL Studio"
-comment_updated = "2026年10月19日 19:51"
+comment_updated = "2026年10月19日 21:08"
 comment = """
+(2026年10月19日 21:08 更新)
 (2026年10月19日 19:51 更新)
 Star*
 ずっとフロストライトを探している・・・
@@ -17428,14 +17581,19 @@ Star* / https://twitter.com/starxh_
 Cryo-Myosotis / https://twitter.com/yoyupond"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/19 19:51"
+note = "NORMAL obj name 修正"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 19:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "NORMAL obj name 修正"
+note = "bgm~~.ogg 修正"
 
 [[details]]
 num = "372"
@@ -17600,12 +17758,3591 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月19日 22:56"
 comment = """
+(2026年10月19日 22:56 更新)
+(2026年10月19日 20:14 更新)
 听好了
 前面忘了
 中间忘了
 后面也忘了
 总之听好了"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/19 20:14"
+note = "制作名单的名字打错了"
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 19:57"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "3"
+date = ""
+note = "作品を修正"
+
+[[details]]
+num = "377"
+artist = "LuMinSo  (movie : Mingyu, DarkL1ght) URL"
+genre = "Renaissance Hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Unit"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "230"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-KR",
+    "Video-sharing",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Difficulty-craziness",
+    "Difficulty-kusofumen",
+    "Difficulty-gorilla",
+    "Player-beatoraja",
+]
+production = "BMS tool: BMSEBGA tool: powerpoint, Davinci Resolve"
+comment_updated = "2026年10月19日 20:34"
+comment = """
+(2026年10月19日 20:34 更新)
+(2026年10月19日 20:11 更新)
+(2026年10月19日 20:05 更新)
+[music] LuMinSo
+아이스크림이 죽은 이유는? 차가와서 엌ㅋㅋ
+[bga] Mingyu
+빌 게이츠가 노래를 부르면? 마이크로 소프트하게 엌ㅋㅋ
+[bga] DarkL1ght
+난 배트맨과 스파이더맨을 합친 사람이다
+돈과 능력이 없거든 엌ㅋㅋ
+[bms / obj] DarkC0de
+뭐하지"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 20:00"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGA &#51452;&#49548; &#50724;&#47448; &#54644;&#44208;"
+
+[[details]]
+num = "378"
+artist = "jellyP  (movie : nemo; jellyP) URL"
+genre = "DubStep"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Unit"
+charts = "CHART_3 (★x1～★x12)"
+bpm = "145"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "未満のさよなら"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "379"
+artist = "PRAYROOM   URL"
+genre = "PATCHWORK"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "115"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bmson",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "Ableton Live"
+audition = ["https://soundcloud.com/prayroom/egaku-limbo"]
+comment = "おそらく犬"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "380"
+artist = "眼流民(Melro+LuMinSo)  (movie : Mingyu) URL"
+genre = "Mirai"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "185"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-KR",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Player-beatoraja",
+]
+production = "BMS tool: BMSEBGA tool: powerpoint, Davinci Resolve"
+comment = """
+[ music / bms / obj ] LuMinSo
+보컬곡 처음 썼는데 멜로가 개날먹시켜줬습니다
+개꿀 <('v')>
+[ lyric / music / voc ] Melro
+집가고 싶다
+[ BGA ] Mingyu
+[Web발신]너는나를존중해야한다나는파워포인트로BGA를제작했으며LuMinSo라는반짝반짝대러미한테무급노동을당하였으며LuMinSo는나에게영상을다만들었는데지가검수도안했으면서수정해달라고양심없이요청하였지만나는팀을위해열심히일하였으며내가팀에서최고라는것은바뀌지않는다내가파워포인트로BGA를만든이유는귀찮아서가절대아니라파워포인트로도간편하고쉽게가사BGA를만들수있다는것이다감사합니다
+[ translate ] カズキ
+흑흑"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "381"
+artist = "nm-y & takehirotei  (movie : Iyouka) URL"
+genre = "All In"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_2 (★x17～★x17)"
+bpm = "166"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Format-bmson",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 22:42"
+comment = """
+(2026年10月19日 22:42 更新)
+THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
+Team 「V For Vivace」
+Music: nmy- & takehirotei
+Illustration: Minerva Rin
+Movie: Iyouka
+BMS: Kobii & Nextercise
+SPI [LEGGENDARIA]: Lv17"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 20:33"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "YouTube"
+
+[[details]]
+num = "382"
+artist = "RB.H × 薛南  (movie : Keizou) URL"
+genre = "ARTCORE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "41.25 ～ 165"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-wmv_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/rebirthzx/fallingstar_bof22"]
+comment = """
+―
+もう世界が終わるとしたら、あなたは何をしますか？
+―
+【BOF22】THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
+Team: T-BMS Recording
+―Lyrics―
+あの星はいつまでも
+あの星は輝く
+いつまでもそこにいる
+あれからここに朝を照らすもの消えて久しく
+窓の外景色は色彩は無く
+自分の名前も彼方に溶け行く
+夢ではないと五感は叫んで
+無慈悲な時計は tick tack tick tack 刻み続け
+それでも星たち
+きらきら輝いてて
+私の下へ
+溶ける星の涙の下"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "383"
+artist = "三文sakana  (movie : Cengin) URL"
+genre = "Shoegaze"
+genre_sub = "Arrange・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_2 (★x11～★x12)"
+bpm = "95"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-SCN",
+    "File-Append",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 21:26"
+comment = """
+(2026年10月19日 21:26 更新)
+吉他如火车般的轰鸣声，留下了迟缓的挫败感。 当噪音消退，世界变得轻盈时，只有潮水退去后扭曲的回声留在耳中。
+列車のようなギターの轟音が、淀んだ苦悶を置き去りにしていく。ノイズが消え、世界が軽くなったあと、耳元には歪みが引いたあとの残響だけが残る。
+(full_art版本意在让游玩的人充分体验曲目)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "384"
+artist = "庭師  (movie : noixy) URL"
+genre = "Pandemixia"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "190"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "THE GOD FL STUDIO"
+comment_updated = "2026年10月19日 23:16"
+comment = """
+(2026年10月19日 23:16 更新)
+(2026年10月19日 21:13 更新)
+--
+Chapter 6 of 8
+It was no ordinary stone.
+It was the source of calamity.
+It was laughing.
+It was grieving.
+Before the stone's sway, humanity stood powerless.
+石は、ただの石ではなかった。
+石は災厄の元だった。
+石は笑っていた。
+石は悲しんでいた。
+石の前に、人類は為す術もなかった。
+--
+[Pandemixia]
+X＿I＿A
+Music: 庭師
+Movie: noixy
+Story Writing: Vega
+[THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION - : Stone Arch Project]
+BPM: 190
+SP BEGINNER: ☆2   (pattern by 庭師)
+SP NORMAL: ☆7   (pattern by 庭師)
+SP HYPER: ☆10  (pattern by 庭師)
+SP ANOTHER: ☆12  (pattern by 庭師)
+--"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "385"
+artist = "6592   URL"
+genre = "EPIC TECHNO / FILM SCORE TRACK"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "FL Studio 2026"
+comment = """
+よろしくお願いいたします!!!
+【譜面】
+7 LIGHT ☆☆☆
+7 ☆☆☆☆☆☆☆☆
+7 ANOTHER ☆☆☆☆☆☆☆☆☆☆☆"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "386"
+artist = "kitsunet   URL"
+genre = "Bass House"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "128"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-mpeg_movie",
+    "Use-wmv_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = "モチくん & kitsunetコンビ製作BMS２連打目〜 ネコロボがお使いのパソコンで暴れまくります！"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "387"
+artist = "狂音遊戯  (movie : AllColoR★) URL"
+genre = "Frenchcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x7～★x20)"
+bpm = "215.01"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = "Strive Beyondのウワサ MVのキャラの名前はクロックワークから取って「クロワ」"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "388"
+artist = "Lutom   URL"
+genre = "DEATH TECHNO"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "138"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/s_route/needle_and_threads"]
+comment = """
+Team：Imaginery Museum
+Title：Needle and Threads
+Genre：DEATH TECHNO
+BPM：138
+Artist：Lutom
+譜面
+7Key(NORMAL)：☆4
+7Key(HYPER)：☆8
+7Key(ANOTHER)：☆12
+7Key(INSANE)：☆12
+Lutomです。
+とかいう堅苦しい挨拶も中身オープンしたので必要なくなりましたかね。
+改めて、えするーとのスピリットとか怨念とか思念体みたいなもんです。
+「こんな配置思いついたからこのセクションのフレーズはこう置こう」みたいなことをたくさんやってできた曲です。
+LNで鍵盤を抑えながら捌く配置がたくさんあるので
+マルチタスクが得意な人はこの曲も難なく押せると思っています。
+思いついた配置の中にはゲームバランスの観点から見送ったものもありますが
+レーンとか鍵盤とか指の数は残念ながら変えられないのでこればっかりはどうしようもありません。
+3000年後あたりにイソギンチャクとかが音ゲーをやるように進化していたら
+その時にはもっとすごい譜面が作りたいなと妄想の日々は続きます。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "389"
+artist = "KEKiite  (movie : KIRAzhl) URL"
+genre = "Techcore"
+genre_sub = "Disq・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x10～★x10)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-SCN",
+    "Use-avi_movie",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = "waaaaa!"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "390"
+artist = "Lidelle feat. Sennzai  (movie : 八重幸) URL"
+genre = "root"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x23)"
+bpm = "150"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
+    "Difficulty-gimmick",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/lidelle/null-tower"]
+comment = """
+Chapter 7 of 8
+After countless days and nights traveling in the remains of the old world, Aries finally reaches the center of the crater left by the asteroid.
+Hidden in its core lies a colossal structure resembling a tower; does its inners contain the answer humanity has been searching for?
+As Aries gets closer to the heart of the tower, visions start to emerge in their mind. Greenery everywhere; an Earth they have never seen in their life.
+Peace, calm, serenity... and silence. Absolute silence.
+旧世界の残骸を幾日も幾夜も旅し続けた末、アリエスはついに、隕石が残したクレーターの中心へ辿り着く。
+その核の奥に隠されていたのは、巨大な塔を思わせる構造物。人類が探し求めてきた答えはそこにあるのだろうか。
+近づこうと歩み寄るアリエス。しかし、進めるほどに、アリエスの脳裏に光景が朧気に姿を現す。見渡す限りの緑。その目に写ったことのない世界が。
+平和で、穏やかで、安らか――――そして、この世界のすべてが凪いだような、静寂が。
+--
+[root]
+0×塔
+Music: Lidelle
+Vocal: Sennzai
+Lyrics: eili
+Movie: 八重幸
+Story Writing: Vega
+Character Design: Eden Forscythe
+[THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION - : Stone Arch Project]
+BPM: 150
+SP BEGINNER: ☆3   (pattern by Lidelle)
+SP NORMAL: ☆6   (pattern by Lidelle)
+SP HYPER: ☆9   (pattern by Lidelle)
+SP ANOTHER: ☆12  (pattern by Lidelle)
+SP Impermanence: ★23  (pattern by Lidelle)
+9K EX: Lv48 (pattern by Lidelle)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "391"
+artist = "Anti   URL"
+genre = "neurofunk"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x3～★x3)"
+bpm = "164"
+tags = [
+    "7Keys",
+    "Lang-SCN",
+    "Difficulty-beginner",
+    "Difficulty-craziness",
+    "Difficulty-kusofumen",
+]
+production = "非公開"
+comment = "yooooo！"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "392"
+artist = "CUBE4927   URL"
+genre = "Rustbased Act"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x8～★x12)"
+bpm = "170"
+tags = [
+    "7Keys",
+    "Use-ogg",
+    "Gimmick-LongNote",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/cube4927/abstract_deus"]
+comment_updated = "2026年10月19日 22:52"
+comment = """
+(2026年10月19日 22:52 更新)
+「錆だらけの舞台から、抽象的な神が舞い降りる。」
+From a rusted stage, an abstract god descends.
+SP NORMAL : ☆8
+SP HYPER : ☆10
+SP ANOTHER : ☆12"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "393"
+artist = "GODUCK   URL"
+genre = "dnb"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x8～★x8)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "Lang-SCN",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-kusofumen",
+]
+production = "非公開"
+comment = "ohhhhh！"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "394"
+artist = "LuMinSo  (movie : Mingyu) URL"
+genre = "Abyss"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_2 (★x10～★x12)"
+bpm = "150 ～ 250"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "BMS tool: BMSE"
+comment = """
+[ music / bms / obj ] LuMinSo
+이번 대회의 마지막 작품 KAESAR입니다
+BGA 촬영이나 전체적인 디렉팅, 보면과 작곡을 맡았습니다
+곡을 처음 만들 때 어느 일본의 존경하는 아티스트의 지인 분이 쓴 '신무'라던가 달의 뒷면이라던가 여러모로 참고했습니다.
+이 외에도 최근에 명계, 심연 정도를 뜻하는 두 음악가의 곡도 많이 영향을 받은 것 같네요.
+점점 빨라지는 변속같은 부분이 특히 그렇죠?
+초등학교 4학년, 아직 작곡을 제대로 시작하지도 않았을 무렵 다짜고짜 작곡을 하고 싶다!
+...라는 생각으로 오선지에 8분의 7박자 곡을 끄적였었는데, 그게 이 곡의 출발점일지도 모르겠네요.
+어떻게 보면 6년의 여정입니다.
+곡의 제목이나 BGA가 나타내는 것들이라던가, 그런 것들은 이전의 Altschmerz와 Amethyst에서부터 이어지는 내용입니다.
+깊은 심연에 가까운, 오래된(Alt) 고통(schmerz)으로부터 빠져나와 이상(ideal)에 다다르는 이야기라고나 할까요?
+어쨌든, 여러모로 많이 아끼는 곡입니다
+첫 참전에서 이런 걸작을 내세울 수 있어 기쁠 따름이네요
+Normal 난이도 보면이 유실되어 공유하지 못한 것은 별개의 이야기지만 말입니다
+여러분은 이 곡에서 과연 이상에 도달할 수 있을까요?
+아마 굉장히 험난할 것만 같네요.
+이 여정이 끝나면 일기에 꼭 써넣을 생각입니다.
+그럼 모두 내년에 만나요! <('v')>
+p.s. 제 개인 주소에 얼마 후 참전 과정이 올라올 예정입니다! 시간 나면 꼭 보러 와주세요!
+[ bga ] Mingyu
+히히 군만두 맛있당 살려주세요
+[ obj ] ただペンギン
+난 정상적으로 할게 ㅇㅇ"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "395"
+artist = "鑠琵  (movie : sugiru) URL"
+genre = "J-Rock"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x2～★x47)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Lang-JP",
+    "Format-bms62",
+    "Use-BGI",
+    "Difficulty-beginner",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:05"
+comment = """
+(2026年10月20日 00:05 更新)
+(2026年10月19日 22:11 更新)
+☆Compose
+作曲を担当しました、鑠琵（tobi｜とび）と申します。
+普段はバンドサウンドを中心に制作しているため、自分の音楽がBMSというイベントに合うのか不安もありましたが、
+お誘い頂いた、ちくわ。さんからの後押しもあり、今回参加させていただく運びとなりました。
+お誘いを頂いた当初、ちょうど洋楽のポップパンクやロックバンドをよく聴いていたこともあり、
+英語詞を取り入れた、メロディアスでロックかつポップな楽曲にしてみたいと思い、制作しました。
+楽曲の内容としては、ただ僕が、ちくわ。さんのことを知りたいという願望を曲にしました（笑）
+譜面制作やBGA制作を担当してくださった皆さまには、生音を多く取り入れた楽曲ということもあり、
+大変な部分も多かったかと思います。それでも、皆さまのご協力のおかげで無事に作品を完成させることができました。
+本当にありがとうございます。
+そして、この作品を皆さまに楽しんでいただけることを心より願っております。
+どうぞよろしくお願いいたします。
+＜鑠琵＞
+☆illustration
+初めまして
+BGAを担当したsugiruです。今回は様々なご縁があり、今回BGAを任せていただいて誠にありがとうございます。実はがらくすさんと6月から相談を重ねて、もっと壮大でROCKなBGAが仕上がる予定でした。結論を申し上げますと、普通に間に合いませんでした。しかしコーヒーを深夜に飲み、一枚一枚ちくわ。さんに真摯に向き合った事実が自分の中で残っているので、悔いはありません。
+私はやり切りました。
+制作中に思ったことを描かせていただきますと、
+ちくわ坂、いつか登れると良いな。
+この一言に尽きます。
+＜sugiru＞"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "396"
+artist = "AprilXI  (movie : AprilXI) URL"
+genre = "Liquid Dnb"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x8)"
+bpm = "174"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+SPa譜面は、譜面修正／追加期間に更新されます。
+SPa charts will be updated during the chart revision/addition period.
+SPa谱面将在谱面修正/追加期更新。
+BOF:22 [THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -]
+悪魔紫豆隊
+😈😈Remember to smile while being evil.😈😈
+--
+Flutter-XII
+MUSIC - AprilXI
+MOVIE - AprilXI
+ILLUS - 椎名金鸽、AprilXI
+GENRE - Liquid Dnb
+BMS - AprilXI & MessX
+CHARTS:
+BEGINNER3
+NORMAL5
+HYPER8
+--
+After twelve flaps of wings, he died grandly and silently. Because it is a theme of evolution, butterflies were chosen as the imagery. Born from a cocoon, transformed into a butterfly from a pupae. The so-called life, however, circulates in flapping wings."""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "397"
+artist = "Krimek & eili  (movie : TheFunk & Iyouka) URL"
+genre = "Artcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_2 (★x3～★x10)"
+bpm = "105 ～ 165"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Gimmick-Soflan",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+That which is brought forth shall forever yearn to surpass its maker, yet never shall it escape the primordial bond that begets its existence.
+THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
+Team 「V For Vivace」
+Music: Krimek
+Vocals: eili
+Illustration: 7s & Minato [Uki]
+Movie: TheFunk & Iyouka
+BMS: LCCXVI
+SPB [BEGINNER]: Lv3
+SPN [NORMAL]: Under Construction
+SPH [HYPER]: Under Construction
+SPA [ANOTHER]: Lv10"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "398"
+artist = "ディートリヒ・シュタイン  (movie : サイナス・ズェラント) URL"
+genre = "microfunk"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・Other"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "200"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+BGIは準備中です。後程BGI差分用のダウンロードリンクを追加致します。
+宜しく頼む！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "399"
+artist = "ちくわ。  (movie : もたふ・Garux) URL"
+genre = "XFD"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x6～★x50)"
+bpm = "155 ～ 185"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Gimmick-Soflan",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/mt1736/bof22-xfd-prism-color-palette"]
+comment_updated = "2026年10月20日 00:10"
+comment = """
+(2026年10月20日 00:10 更新)
+(2026年10月19日 22:31 更新)
+(2026年10月19日 22:29 更新)
+(2026年10月19日 22:19 更新)
+☆Compose
+初めましての人は初めまして。そろそろ新譜を出したいちくわ。です。
+前に「XFDをそのままBMS化したらおもろいんじゃないか」と思ったところ、
+切る音は多いわ、そもそも新譜で出せないわ、そもそもn番煎じになってるし、でめちゃくちゃです。
+あとXFDとはいいつつ、そんなにフェードしてない気もしてきた。
+内容については最近はcolorとhyperな音ばっかりつかっていたので、それをメインに構成してます。
+あとは「電子の海とキャンバス」をテーマとしてますが...色々とフワフワしてます。
+ちくわ。は新譜を出せるか、乞うご期待！
+＜ちくわ。＞
+☆illustration
+「prism color palette」なので、光、色、お絵描きをテーマに描いています。安直侍。
+ジャンルもXFDということで、特定の曲のイメージではなく架空のCDジャケット風です。
+出るんですかね? 新譜。
+＜もたふ＞
+☆Movie
+"XFD"ってカッコいいですね。
+＜Garux＞"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "400"
+artist = "GM_Shadows   URL"
+genre = "Flowgressive House"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x2～★x48)"
+bpm = "66 ～ 1100132"
+tags = [
+    "7Keys",
+    "14Keys",
+    "9Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "File-Append",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 22:01"
+comment = """
+(2026年10月19日 22:01 更新)
+⌈回过神来，旧日遗弃的种子，已然生出绚烂的花朵，流淌着沁人的芬芳。⌋
+Event: THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
+Team: Gifts Over Glimmers -微光巡礼-
+Title: Flowing Scent
+Genre: Flowgressive House
+Music: GM_Shadows
+Movie: GM_Shadows
+Special Thank: Dagoujiao
+BMS Key: GM_Shadows
+BMS Obj: GM_Shadows, Z6W2A, brightmeows a.k.a. MiyakoMeow, LEO Sailko"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "401"
+artist = "KA-KU   URL"
+genre = "Vocaloid"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 23:44"
+comment = """
+(2026年10月19日 23:44 更新)
+しゃかいじんはきびしい
+うた：音街ウナ"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 21:55"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "曲名が間違っていたので修正しました。"
+
+[[details]]
+num = "402"
+artist = "rotammed   URL"
+genre = "African folk"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x5～★x11)"
+bpm = "110"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Player-beatoraja",
+]
+production = "Cubase 14"
+comment = """
+正直、異例で馴染みのないジャンルではありますが、だからこそ面白いのではないでしょうか？ボンゴのリズム感を感じていただけたらと思います！
+To be honest, it’s an unusual and unfamiliar genre—but isn’t that exactly what makes it fun? I hope you’ll enjoy the rhythmic feel of the bongo!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "403"
+artist = "New Mortal Enemy (bms: ILuvGemz)  (movie : 42SoL) URL"
+genre = "energetic hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x0～★x2)"
+bpm = "175"
+tags = [
+    "7Keys",
+    "Use-BGA",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/new-mortal-enemy/bof22-kinetic-energy"]
+comment = """
+my strongest solo song for BOF so far! expect even better from me in the future!
+Let the energy flow through you!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "404"
+artist = "aki   URL"
+genre = "breakbeats"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "175"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "FL Studio"
+comment_updated = "2026年10月19日 22:47"
+comment = """
+(2026年10月19日 22:47 更新)
+(2026年10月19日 22:24 更新)
+空想に逃げるな、現実を見ろ、と人は言うけれど
+空想して夢想し続けることのいかに困難なことか
+みたいな曲です。
+3000年ぶりのBMS制作です。楽しんでいただけたら幸いです
+各差分とも、初見時は正規orMIRRORを推奨します
+Vocal:彩澄しゅお(Synthesizer V)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "405"
+artist = "千の声 / ILuvGemz   URL"
+genre = "EKG FUTURE BASS"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "75"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+Beware of the seventh beat.
+Hello guys, long time no see. If it's not obvious this wonky rhythm and title is inspired that of those from rhythm doctor, a game I fell in love with. Of course I completely created this 7/4 Future Bass track without any other inspiration, but hey.
+I hope you guys can survive the chart,
+Zenokwei, also known as ILuvGemz"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "406"
+artist = "Quint   URL"
+genre = "Techno"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x12～★x4)"
+bpm = "148"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Use-ogg",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/user-535104739/bof22-f-gg"]
+comment_updated = "2026年10月19日 23:33"
+comment = """
+(2026年10月19日 23:33 更新)
+どうも、Quintです。ずっとテクノを通して、日常的な憂鬱感、何か沈むような、魂が落下するようなそういう感覚を表現してきたような気がします。今回もそんな曲です。
+タイトルはelevateの単語の反転文字としたかったのですが、文字コード的にNGそうなのでこのタイトルにしています。
+よろしくお願いします。
+[7k NORMAL]  : ☆☆☆☆[4]
+[7k HYPER]   : ☆☆☆☆☆☆☆☆☆☆ [10]
+[7k ANOTHER] : ☆☆☆☆☆☆☆☆☆☆☆☆ [12]
+Obj: RykSeb
+[14k NORMAL] :☆☆☆☆☆☆☆[7]
+[14k HYPER]  :☆☆☆☆☆☆☆☆☆☆ [10]"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "407"
+artist = "ebideath vs PRAYROOM  (movie : ますだたろう) URL"
+genre = "Drum'n'Bass"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "188"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bmson",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "名塚底根"
+audition = ["https://soundcloud.com/prayroom/kiil-your-dream-with-killer-tune"]
+comment_updated = "2026年10月19日 22:42"
+comment = """
+(2026年10月19日 22:42 更新)
+【ebideath】
+PRAYROOMさんにお声がけいただき、VSという形で合作しました。
+BGAはますだたろう君を招待して制作していただきました。
+タイトなスケジュールの中でこんなにも素敵な映像を作り上げていただいて、感謝してもしきれません。
+それでは、綺麗なようで悪夢のような世界をお楽しみください。
+【PRAYROOM】&【ますだたろう】
+あなたは自分の人生が尊いと思う？家族や友達を大切にしてる？"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "408"
+artist = "Fenrir  (movie : 朧烏) URL"
+genre = "Ominous snow"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x7～★x50)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Lang-JP",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:12"
+comment = """
+(2026年10月20日 00:12 更新)
+☆Compose
+割とアコースティックな方を担当しました、lufm(らふむ)と申します。
+FenrirでのBOF参加ももう3回目、今回は変拍子ナシ・中速と今までのFenrirとは全然違う曲調で攻めてみました。
+よろしくお願いします。
+＜lufm＞
+カラーな方を担当しました、スコル改め0-nと申します。
+冬の嵐ということで color で激しめな drop を散りばめてみました。ちりちり～ ☆。°
+これからドンドン寒くなると思いますが、本作でこの冬を乗り切っていただければと思います。
+＜0-n＞
+☆BGA
+フィンブルの冬で暴れまくるオオカミを描かせていただきました。
+フェンリル＋女ヴァイキングをモチーフとしています。
+激しさだけでなくピアノの繊細な印象もあったので
+パワー一辺倒にならないようなデザインにしました。
+オオカミケモお姉さんはいいぞ！
+今回の曲テーマをいただき、北欧神話大好きなのでテンション上がりました。
+しかし普段は戦闘シーンどころか怒った表情すら描かないので
+なかなか大変でしたが、自分の中に眠れる狂戦士の魂を呼び起こしました。
+＜朧烏＞"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "409"
+artist = "XakDuk  (movie : nagi_io) URL"
+genre = "Artcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x6～★x11)"
+bpm = "170"
+tags = [
+    "7Keys",
+    "Use-BGA",
+    "Use-ogg",
+    "Gimmick-LongNote",
+]
+production = "Ableton Live 12"
+audition = ["https://soundcloud.com/xakduk/artificial?si=c487a8d44df744179a59384d3e073676&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月19日 23:38"
+comment = """
+(2026年10月19日 23:38 更新)
+(2026年10月19日 23:35 更新)
+(2026年10月19日 22:20 更新)
+(2026年10月19日 22:15 更新)
+Can artificially imitated sound become art?
+人工的に模倣された音は芸術になり得ないのか？
+Charts:
+7k
+SP NORMAL: ☆6 (Obj. nagi_io & Xakduk)
+SP HYPER: ☆8 (Obj. iamgamja)
+SP ANOTHER: ☆11 (Obj. iamgamja)"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 22:12"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGA added"
+
+[[details]]
+num = "410"
+artist = "NASA  (movie : れおん) URL"
+genre = "Magolor soul meets SNES"
+genre_sub = "Arrange・Self"
+source = "CROWNED"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "175"
+tags = [
+    "7Keys",
+    "14Keys",
+    "9Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "諦めない心めげない心ヤニねこ"
+comment = """
+今度の支配はスーファミだ～～～！？！！？！！？？
+星のカービィ Back to the 90's、乞うご期待！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "411"
+artist = "Lalio  (movie : Matcha) URL"
+genre = "click-er"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x1～★x1)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 22:59"
+comment = """
+(2026年10月19日 22:59 更新)
+(2026年10月19日 22:45 更新)
+お越しいただきありがとうございます。 Lalioと申します。
+午後6時、仕事が終わった後、すべてを投げ捨てて逃げ出すような気分を背景に作ってみました。
+楽しくプレイしていただけると嬉しいです！
+どうぞよろしくお願いします。"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/19 22:45"
+note = "changed download URL (title typing error)"
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 22:19"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "3"
+date = ""
+note = "BGAを追加"
+
+[[details]]
+num = "412"
+artist = "Tatsuoto  (movie : NITRANT×Yamiteri×Lalot.) URL"
+genre = "STARSTYLE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x1～★x2)"
+bpm = "165"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/panasonic-cat/starcatcher"]
+comment = """
+・Tatsuoto (Music・BMS)
+Was so fun working on this project with Lalot. and the crew! I made this song about chasing the stars, and possibly becoming one...
+✦   .  .🌑  .˚   .  ˚  .   .  ˚˚   .  ˚  . *  . ✦
+・Yamiteri (Title Logo)
+夜空に浮かぶ一筋の一等星、僕は手を伸ばして掴んだ、だけどまだ足りない。もっと、もっと高く伸ばし………僕は…
+・Lalot. (Movie)
+We are cosmic.の象徴といわんばかりの作品。とにかくデカい宇宙の音を、ご堪能あれ。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "413"
+artist = "chiiyuri  (movie : Shimokita) URL"
+genre = "kawaiigaragecomplextroclub"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x24)"
+bpm = "139"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-kusofumen",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/chiiyurioekaki/bof22-jelly-sangria"]
+comment_updated = "2026年10月19日 23:44"
+comment = """
+(2026年10月19日 23:44 更新)
+(2026年10月19日 23:35 更新)
+プレビュー音源(preview.ogg)を追加
+(2026年10月19日 23:02 更新)
+チーム「Unisoncode」
+【BMS】chiiyuri
+【BGA】Shimokita
+【譜面(chart)】どんべい
+(Lite Edit)Beginner☆2 譜面:どんべい
+(Lite Edit)Normal☆5 譜面：どんべい
+(Lite Edit)Hyper☆8 譜面:どんべい
+Another☆11 譜面：どんべい
+(Lite Edit)INSANE★7 譜面：どんべい
+INSANE★12 譜面：chiyuri
+(Lite Edit)豚骨★24 st4~5? 譜面：どんべい
+ーーーーー
+chiiyuriです。
+僕はSpeed Garageやいろんなベースがいっぱい鳴ってるやつ、Future Bassなどが好きなのですが、今回何作ろうか迷った結果全部作ることにしました。
+作っていて、思ったより曲が平坦になったのでどこか尖らせようと思い、中盤の通称「しなこ地帯」を作りました。
+その縦連でみんなの指を壊そうと思っていたのですが、作っている途中で譜面製作担当のどんべいくんに銃口を向けられたので、仕方なく「Lite Edit」として縦連緩和差分を作ることになりました。
+通常INSANEは譜面製作初心者の僕が心をこめて縦連を配置したので、ぜひ遊んでみてください。
+chiiyuri
+ーーーーーー
+はい、どんべいです。
+ボーカルの32分はhyper,normalで浮くと思ってLite Edit推しやした
+chiiyuri君の譜面第2作目のINSANEということで結構冒険しているような感じでしたので、私もひと肌脱いで冒険した譜面を作りました、st4くらいを狙ってます。
+推奨スペックは右手左手に指が7本づつある人です。"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 22:30"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品のアップデート"
+
+[[details]]
+num = "414"
+artist = "∀S∀  (movie : ShakeJ / ∀S∀) URL"
+genre = "Racing Nu Jazz"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Unit"
+charts = "CHART_3 (★x4～★x20)"
+bpm = "140"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 23:10"
+comment = """
+(2026年10月19日 23:10 更新)
+(2026年10月19日 22:37 更新)
+レースゲームのOPって飛ばさずに見るよね"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "415"
+artist = "RiraN feat. 初音ミク  (movie : KUMOSODA) URL"
+genre = "VOCALOID"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x10)"
+bpm = "132"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Difficulty-intermediate",
+]
+production = "矩形波倶楽部"
+comment = """
+夢から覚めてもどうか忘れないで
+何も知らないまま そのままのあなたを
+愛おしく思ったの いつか会いに行くわ
+Lost without you, I love you
+繋ぎ止めたいこの世界で
+Lost without you, I love you
+最初に君を探すよ
+本当の気持ちを失いそうで怯えていたの
+変わらない景色の中で 君の影をなぞる
+何も知らないまま 無邪気に笑っていて
+今世紀最大の愛で迎えるから
+Lost without you, I love you
+壊れかけたこの世界で
+Lost without you, I love you
+最初に君を探すよ
+========================================
+SP INSANE、DP追加予定"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "416"
+artist = "uk. & 円湯(Maroyu)   URL"
+genre = "Drum n Bass"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "175"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "よろしくおねがいします！"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "417"
+artist = "atily (feat. 花隈千冬)   URL"
+genre = "novel"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x1～★x12)"
+bpm = "173"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Lang-JP",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/atilia/4heregjjq6q4"]
+comment_updated = "2026年10月19日 23:02"
+comment = """
+(2026年10月19日 23:02 更新)
+＊  ＊  ＊
+見上げた空は 変わらず今日も雨模様
+「また外れたね」 君は笑ってた
+傘も持たずに 肩寄せ合い待ちぼうけ
+雨が止むまで 少し話そうか
+一つ物語を 君と
+確かな明日も見えないこの世界
+何を信じて 歩けばいいんだろう
+選んだ行き先が 傷つく道だったとしても
+君となら 悪くはないかな
+気付けば 広がる茜空に
+手を振り 歩き出す 影法師
+「またね」
+巡り会えるはずのない僕らが
+交差した世界の果てで
+偶然でも出会えたのなら
+いつしか過去すら 忘れてしまう僕らは
+何を残して 消えてゆくのかな
+過ごした この日々が作り話(モノガタリ)になったとしても
+今だけは――
+これは君と描いた僕ら二人の
+《オートフィクション》
+もしも 遠い世界でこの証が嘘になっても
+届いたのなら それでもいいかな
+僕らがまた巡り会えたその日には
+君とたくさん話したいことがあるんだ
+＊  ＊  ＊
+こんにちは！ atilyです！ 現在BOFの締切直前です！！ 申し訳ない！！！
+今回のテーマはタイムパラドックスです。細かいことは…readmeを読んでね！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "418"
+artist = "RiraN feat. まるもこ  (movie : Tale) URL"
+genre = "Hard Denpa"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-mp4_movie",
+    "Difficulty-intermediate",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 22:58"
+comment = """
+(2026年10月19日 22:58 更新)
+(2026年10月19日 22:57 更新)
+(更新予定です)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "419"
+artist = "楊貴妃  (movie : SENALI) URL"
+genre = "Schranz"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+]
+production = "非公開"
+comment = "楊 貴妃（よう きひ、ヤン・グイフェイ）は、中国唐代の皇妃。姓は楊、名は玉環。貴妃は皇妃としての順位を表す称号。玄宗皇帝の寵姫。玄宗皇帝が寵愛しすぎたために安史の乱を引き起こしたと伝えられたため、傾国の美女と呼ばれている。世界三大美人の一人で古代中国四大美人（西施・王昭君・貂蝉・楊貴妃）の一人とされている。壁画等の類推から、当時の美女の基準からして実際は豊満な女性だった。また、才知があり琵琶を始めとした音楽や舞踊に多大な才能を有していたことでも知られている。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "420"
+artist = "K4Y5   URL"
+genre = "Jackin' House"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・Self"
+charts = "CHART_3 (★x2～★x10)"
+bpm = "130"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "Reaperが使いやすすぎてマジでDTMが捗る"
+comment = "都会的な作品を目指しました。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "421"
+artist = "Yu^ta   URL"
+genre = "Happy Hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x1～★x11)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = "歩み続ける全ての人に、敬意を込めて。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "422"
+artist = "RiraN feat. 音琴兎愛  (movie : LAFTCLEN) URL"
+genre = "Renaissance Hardstyle"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "160"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = "(更新予定です)"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "423"
+artist = "Mosuneki  (movie : Scarlet, Syadow) URL"
+genre = "SCI-FI HARDCORE"
+genre_sub = "Original・Self"
+source = "LUMiNOZ"
+bga = "BGI only・Self"
+charts = "CHART_2 (★x11～★x15)"
+bpm = "181"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = """
+Okay guys, so Starlight Crusader originally started as an experiment. I wanted to try making a Drum & Bass color in the first drop, but somehow, it turned into a full song instead!
+Then, I suddenly got the idea to add vocals to the final drop. Luckily, Mariela Riona, a VTuber, was willing to lend her voice to the track. Huge thanks to her! ❤️
+Btw, I made this track using FL Studio as my DAW, along with several plugins and FX to shape the sound.
+Turns out, all that time I spent 6 years learning this stuff wasn't for nothing after all! LMAO
+Anyway, hope you guys enjoy Starlight Crusader!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "424"
+artist = "立秋 feat.ちょこ  (movie : 石王マサト) URL"
+genre = "音ゲーマー耐久試験"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x13)"
+bpm = "128"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-gimmick",
+]
+production = "Cubase15"
+comment = """
+７つのリズムがある曲、ポポポポポポポリリズム
+今まで出てきたキャラたちが各々演奏してて楽しいね"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "425"
+artist = "nekomimi_STRaw[feat.GUMI&Mai]   URL"
+genre = "だいばくはつ"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "152"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGI",
+    "Use-ogg",
+]
+production = "EXPLOSION[だいばくはつ]"
+audition = ["https://soundcloud.com/fawalkuhz6eb/bof22"]
+comment_updated = "2026年10月19日 23:08"
+comment = """
+(2026年10月19日 23:08 更新)
+爆発オチなんてサイテー！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "426"
+artist = "crossworld & K4Y5   URL"
+genre = "youth be mature"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "152"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "Young"
+comment = "Young"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "427"
+artist = "Fugu  (movie : TRAF) URL"
+genre = "Reminisce"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x5～★x12)"
+bpm = "204"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/fugu0/bof22-flash-rosemary"]
+comment = "(工事中)"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "428"
+artist = "The Operation  (movie : 潮音きつね) URL"
+genre = "Color Zaag"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x5～★x22)"
+bpm = "170"
+tags = [
+    "7Keys",
+    "Use-BGA",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+]
+production = "非公開"
+comment = "Vegetable Juice So Good ! / Color Zaag / The Operation"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "429"
+artist = "理p feat. 星尘Infinity  (movie : 牛女女王) URL"
+genre = "J-Rock"
+genre_sub = "Arrange・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x9～★x10)"
+bpm = "185"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-SCN",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = "谨以此作献给科马洛夫&加加林，以及为人类进步献身的所有英雄"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "430"
+artist = "uk.   URL"
+genre = "Electro House"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x10)"
+bpm = "128"
+tags = [
+    "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "夢と希望"
+comment_updated = "2026年10月20日 00:57"
+comment = """
+(2026年10月20日 00:57 更新)
+(2026年10月19日 23:41 更新)
+こんにちは。こんばんは。初めまして。
+Vector Techのuk.です！
+前からHouse系ジャンルに挑戦したかったので、今回制作してみました。
+想定してたより大人しめな楽曲となっていますが、難易度的には
+優しめなコンセプトで制作いたしました！
+曲名は"回顧"という意味で、自分にとってですが昔の作風なども
+振り返りながら作成しました。
+円湯(Maroyu)さんに作成いただいたBGAも、ガラケーをメインとした
+ちょっと懐かしい雰囲気となっています！！
+というわけで、本作について是非遊んでください～！！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "431"
+artist = "SOMON   URL"
+genre = "HARDSTYLE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "150"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+    "Use-avi_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "非公開"
+comment = "よろしくお願いいたします。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "432"
+artist = "Abel & Doin  (movie : Mov: Bluetail & KimAutomne) URL"
+genre = "HUMAN / GENERATED"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "200"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+コメントは後ほど記載いたします。よろしくお願いいたします！
+I’ll add my comments later. Thank you!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "433"
+artist = "xxxppp   URL"
+genre = "HARDCORE/TECHNO"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "230"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+]
+production = "家"
+audition = ["https://soundcloud.com/xxxppp/ape-killing-machine"]
+comment_updated = "2026年10月19日 23:43"
+comment = """
+(2026年10月19日 23:43 更新)
+（ここになんかカッコいいことを書く、時間があったら。）
+めちゃくちゃ久しぶりにBMSを作りました。
+ピッチベンドする部分のキー音をバカ丁寧に作ったために、アホほど時間がかかって焦りました。
+以前と比べて、ちゃんと7+1のフォーマットを遊び込んで譜面を作ったので、それなりの譜面にはなってると思いますが、曲が歪なので変な譜面にはなってるかも。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "434"
+artist = "AeventyrNoKibou   URL"
+genre = "Piano Pop"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・none"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "146"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-SCN",
+    "Lang-TCN",
+    "Lang-DE",
+    "Audition-Sound",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "Cakewalk Sonar"
+audition = ["https://soundcloud.com/avtkib0/etude01"]
+comment = "ギリギリ…！！"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "435"
+artist = "AHC//26  (movie : DJ Adrichii, illust: Febbs!) URL"
+genre = "P:SOPHIA PRISMATIC SEQUEL"
+genre_sub = "Original・Unit"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x2～★x14)"
+bpm = "171 ～ 195"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Audition-Sound",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "REAPER (Digital Audio Workstation), FL Studio"
+audition = ["https://soundcloud.com/djadrichii05/bofyobi-neoprismatic"]
+comment = """
+Neo Prismatic (meaning)
+It is re-emerged, reborn light that rises higher than the sunset's line, P:Sophia's decision to pour new life into what was intended to pass.
+It's about breaking out of the old destiny, summoning courage with dear friends, and seeking solace in the heat of 1997 and moving forward.
+This song entry is based on the main story for P:Sophia Prismatic storyline, a sequel to the Parallel story, and a spin-off of Sakura no hato series.
+Continuation of the story as a sequel to Prismatic Sunset from A-1 ClimaX 2026.
+Official submission for BOF22 -G2E- as part of the Yobimo Entertainment
+With Febbs as a illustration. No further storyline or BGA for now. It replaced with generic ones.
+TEAM: Yobimo Entertainment
+Genre: P:SOPHIA PRISMATIC SEQUEL
+Title: Neo Prismatic -ソフィアの砕けた運命-
+Artist: AHC//26
+BPM: 171-195 (190)
+Length: 2:36
+Illust: Febbs!
+BMS: h.
+Charters: Dj Adrichii, OfficialAz3, h. (Coming Soon)
+--------------------- Chart Difficulty ---------------------
+NOTE:
+Prior to base62 system, It is tested on beatoraja only. It is recommended to use beatoraja for best experience, Not tested only with LR2 due to incompatibility.
+(7key, SP, CN)
+SP BEGINNER - ★★š (2)
+SP NORMAL - ★★★★★★★7)
+SP HYPER - ★★★★★★★★★★ (10)
+SP ANOTHER - ★★★★★★★★★★ ★★ (12)
+NOTE: All 4 difficulties charted by DJ Adrichii
+Other charts coming soon...
+(14key, DP, LN)
+DP ANOTHER -★★★★★★★★★★ ★★★★š (14) | obj: OfficialAz3
+---------------------- Message/Comments -----------------------
+DJ Adrichii:
+Good day to all, This is DJ Adrichii, founder of the greatest kawaii that's ever lived, and
+It was a pleasure to release a brand new song again but uhhhh... SEQUEL!?
+Dang it was too fast as heck, so new storyline for P:Sophia prior to its sequel to Prismatic Sunset made by me during A-1 ClimaX and got 13th.
+Well, the story isn't over yet becuase this is the end of her life and she needs a  better strategy by travelling back to 1997 and see what's better some memories back then.
+Anyways, with the help of h. and cusi to make chaos for its sequel so Neo Prismatic is our triumphs and consequences under sunset. So yeah,
+It is pleasured that this is my first entry collab for the story, and my major debut collab and self ofc for the Yobimo. Big thanks to Yobimo for sharing my opprtunity to make this music even better!
+To all BMS Players, good luck becuase its TOO CHAOS!!!!
+Its full ones to be further announced yet via Yobimo.
+Thats all, enjoy and thank you!
+P.S. Sorry so h. is the BMS Creator, begging me pls i was lazy and I wish to make keysounding as a BMS Creator bruh so... XD
+h. :
+aeiou
+cusi:
+""
+OfficialAz3:
+Hello! I made DPA.
+It's quite experimental, but I hope you enjoy the work! ^^
+Febbs!:
+Owlah! Artist of the cover art on Neo Prismatic! Make sure to play it to the end! :3"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "436"
+artist = "REIMOLA   URL"
+genre = "MIXTURE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "162"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+]
+production = "DAW:Ableton Live12"
+audition = ["https://soundcloud.com/reimola/not_enough"]
+comment = """
+THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
+Team:ンジャメナ国際空港ラウンジ
+■楽曲情報
+Title:Not Enough
+Artist:REIMOLA
+Genre:MIXTURE
+BPM:162
+■譜面情報
+SP 7KEY
+Normal: ☆6
+Hyper: ☆10
+Another: ☆12
+れいもらです。
+「足りない」というシチュエーションが嫌いで
+1～2時間の外出でも500mlのペットボトルを買って持て余したり
+長距離運転の時はガス欠が怖くてサービスエリアの法外に高いガソリンスタンドで給油したり
+スマホのバッテリーも70%くらいでそろそろ充電したいなと思うなど
+心配性もいいところです。
+曲の途中でゲージの残量を気にされる方は多いかと思いますが
+「もう〇〇%しかない」よりも「まだ○○%ある」と考えるポジティブ思考が
+この曲の攻略法だと思います。
+心にも時間にも余裕があると人生も穏やかに過ごせるのだと思います。
+ちなみにこのコメントを書いているのは登録〆切30分前です。時間が足りない！"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "437"
+artist = "Ko_pro   URL"
+genre = "Botanical Artcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x3～★x9)"
+bpm = "174"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-ogg",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:06"
+comment = """
+(2026年10月20日 00:06 更新)
+(2026年10月19日 23:39 更新)
+はじめまして、Ko_proです．
+「Blue Morphosis」は，花の形態とその変化から着想を得た楽曲です．
+花には種類ごとに固有の花弁の枚数があり，その数字を拍子に対応させることで，植物の多様性を音楽として表現しました．
+タイトルは Bloom と Morphosis を組み合わせた造語から派生し， Blue には青さや未熟さ，変化し続ける姿という意味を込めています．
+アコースティックな音色と電子音楽を融合させた， Botanical Artcoreをお楽しみください！
+※BGAは後日追加予定です．"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "438"
+artist = "9RAN   URL"
+genre = "MINIMAL TECHNO"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_2 (★x2～★x5)"
+bpm = "136"
+tags = [
+    "5Keys",
+    "Lang-JP",
+    "Lang-TCN",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/j0-e-1/kai?si=47dfdb4e20b24d3291a2e587b1de1dfa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月19日 23:47"
+comment = """
+(2026年10月19日 23:47 更新)
+(2026年10月19日 23:46 更新)
+5KEY ONLY"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "439"
+artist = "Aliesrite* (Ym1024 feat. lamie*)  (movie : Black) URL"
+genre = "J-Pop"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x9)"
+bpm = "120"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "わいわいわい！！"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "440"
+artist = "H2Luna_vs._ZmHyper   URL"
+genre = "J-core"
+genre_sub = "Disq・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_2 (★x12～★x12)"
+bpm = "200"
+tags = [
+    "7Keys",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "111"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "441"
+artist = "dot59  (movie : 3RiC4) URL"
+genre = "Midtempo Bass"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x11)"
+bpm = "110"
+tags = [
+    "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bmson",
+    "Use-BGA",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:08"
+comment = """
+(2026年10月20日 00:08 更新)
+Title : BACK HOME
+Genre : Midtempo Bass
+BPM  : 110
+Difficulty : 2 / 4 /9 / 11"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "442"
+artist = "AraiYozuki   URL"
+genre = "Chiptune/Artcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Gimmick-LongNote",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-kusofumen",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/araiyozuki/r34dy-4-pl4y3r-2-h0r1z0n"]
+comment_updated = "2026年10月20日 00:14"
+comment = """
+(2026年10月20日 00:14 更新)
+自分の思うリズム難ArtcoreをChiptuneで作ってみました。
+BGAは間に合いませんでした。昇進します。
+譜面はHYPERとANOTHERを担当しています。
+自分は弐寺もBMSもやっていないのでクソ譜面かもしれませんが、曲は力を入れたので聞いていただけると嬉しいです。
+デス一揆をお願いします。"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "443"
+artist = "潮音きつね  (movie : TARA#376) URL"
+genre = "Hi-Tech Hypnotic PsyTechno"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x49)"
+bpm = "157"
+tags = [
+    "7Keys",
+    "14Keys",
+    "9Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-SCN",
+    "Lang-TCN",
+    "Use-BGA",
+    "Gimmick-LongNote",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:15"
+comment = """
+(2026年10月20日 00:15 更新)
+去年の年末くらいに、無名戦のある同期の方にコラボのお誘いをしていました。ずっと憧れていた方だったので、ぜひ一緒に何か作れたらと思っていたんですが。
+ところが今年の半ば頃、その方のPCが壊れてしまい、しばらく復旧できそうにないとのことで——
+【悔しい！！！！！！】
+そんな悔しさを抱えながら、「一人で二人分のコラボ感を出してみよう」と思って作り始めたのが、この曲の一つ目のテーマです。たぶん、曲調からなんとなく感じ取ってもらえるんじゃないかなと思います。
+BGAは今回もTaraちゃんにお願いしました。デモを聴いてもらったところ、Taraちゃんから「plungeに出てきたあのカッコいい女をもう一回出したい」と言われたので、ちょっと微妙なやり方でplungeの続編っぽい曲にしてみました。これが二つ目のテーマです。
+そして三つ目のテーマは、最近出てきたばかりのHypnotic Psytranceです。このジャンルは絶対流行ると思ってます！今回はそれを「我流Hypnotic Hi-tech PsyTechno」でやってみました。
+ちなみにタイトルの「XCBA」は、某BMS制作鯖のBOFに出ない友人が出してくれた案です。読み方や意味については、プレイヤーの皆さんにお任せします。たぶん、どの言語がわかるかによって、出てくる答えも変わるんじゃないでしょうかねw
+========
+SPN ☆4
+SPH ☆10
+SPA sl4
+SP INSANE st0
+滅相 st11
+DOUBLE PLAY ☆??
+EXCBA LV.49 (PMS)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "444"
+artist = "tsuitachi  (movie : Diamo) URL"
+genre = "Orchestral VGM"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Self"
+charts = "CHART_3 (★x3～★x9)"
+bpm = "200"
+tags = [
+    "7Keys",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+]
+production = "非公開"
+comment = "曲名はドラムセットからカスタムのオノマトペです"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "445"
+artist = "zaoDayo   URL"
+genre = "Cactus Melodic"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "182"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment = "ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～ざぉだよ～と申します。よろしくお願いいたします。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "446"
+artist = "モノゴン   URL"
+genre = "ARTCORE BREAKS"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Unit"
+charts = "CHART_2 (★x4～★x8)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Use-BGA",
+    "Use-ogg",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "FruityLoops"
+comment = """
+this is my first bms with lyrics!! ^^
+hugeee thank you to yume lee for the precious vocals and 5m0r3cross for the stunning illustration!
+more comments (and charts) coming soon!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "447"
+artist = "Hurobe / limitsc  (movie : Mah1ro) URL"
+genre = "Artcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x11)"
+bpm = "174"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-gorilla",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月19日 23:58"
+comment = """
+(2026年10月19日 23:58 更新)
+(2026年10月19日 23:55 更新)
+Artcore。3譜面とも同じ音源・同じBGAで、難易度だけが違います。
+NORMAL(★4) / HYPER(★8) / ANOTHER(★11)。
+Boat rides tide, soul dwells river.
+舟行随潮，魂栖于河
+[limitsc] 你们就好好享受面条海吧，嘿嘿嘿。
+[mahiro] nya~
+[hurobe] 好险差点被deadline单杀。"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 23:45"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
+
+[[details]]
+num = "448"
+artist = "wbr  (movie : halorime) URL"
+genre = "artcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_2 (★x3～★x12)"
+bpm = "230"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Use-BGA",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Gimmick-Stop",
+    "Gimmick-Soflan",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-gimmick",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = ":v"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "449"
+artist = "Zris feat. 乃花こより  (movie : unKn & linglvz) URL"
+genre = "Look Loop Moon"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x1～★x11)"
+bpm = "129"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-SCN",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 02:02"
+comment = """
+(2026年10月20日 02:02 更新)
+≪Zris≫
+A few years ago...
+"Adding the latest technical terms to the title may make your work more likely to be accepted."
+"Okay."
+≪乃花こより≫
+初めまして、乃花こよりと申します。
+このたび作詞＆歌唱担当として楽曲に参加させていただきました。
+ご一緒させていただいたクリエイターたちもハイセンスな方ばかりで、
+今回同じチームで制作することができ、とても嬉しく思っております！
+素敵なご縁をありがとうございます。
+本曲はリズミカルでミステリアスで美しい、だけど遊び心にも溢れているとても魅力的な音楽です。
+真夜中にこの曲を聴いて「LLM」の世界にどっぷりと浸ってもらえたら嬉しいです。
+≪unKn≫
+お久しぶりです、unKnです。
+今回、Zrisさんと乃花こよりさんとコラボできて光栄です。ミステリアスでかっこいい曲の映像を作り、そのイメージを少しでも出せるようにしました。
+一緒にやってくれたlinglvzさんのイラスト、本当に最高！好き！
+イラストレーターさんとのコラボ経験、まだまだ少なすぎて、自分は全然まだまだだな～って思ってる、また一緒にできたらいいな。
+最後にひとつ。MV完成が締切に近すぎて、仕事から帰ってきたらもうベッドに寝転がりたいだけだった(笑)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "450"
+artist = "イベライ/Emelia   URL"
+genre = "STG TRANCE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x9)"
+bpm = "144"
+tags = [
+    "7Keys",
+    "5Keys",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "Renoise 3.5.2"
+audition = ["https://soundcloud.com/emelia-kaylee/nethlo"]
+comment = """
+その肉体が不要なのです
+7K☆3  BEGINNER
+☆6  NORMAL
+☆9  HYPER ... obj. イベライ
+☆?  ANOTHER ... COMING SOON
+5K☆9  Nathla ... obj. 茨木童子の腕"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "451"
+artist = "rejd   URL"
+genre = "Hypertrance"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x1～★x10)"
+bpm = "172"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Audition-Sound",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/rejedy/aegir"]
+comment_updated = "2026年10月19日 23:52"
+comment = """
+(2026年10月19日 23:52 更新)
+-------------------- Information ---------------------
+Genre: Hypertrance
+Title: ÆGIR
+Artist: rejd
+BPM: 172
+BMS: LEVenhuk
+obj: OfficialAz3
+--------------------- Difficulty ---------------------
+SP BEGINNER - ☆ (1)
+SP NORMAL - ☆☆☆☆☆☆☆ (7) obj: OfficialAz3
+SP HYPER - ☆☆☆☆☆☆☆☆☆☆ (10) obj: OfficialAz3
+SP ANOTHER - WIP, wait until Oct 26"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 23:48"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Added SoundCloud embed"
+
+[[details]]
+num = "452"
+artist = "KL Kingsley   URL"
+genre = "J-core"
+genre_sub = "Disq・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_2 (★x11～★x11)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "非公開"
+comment = "111"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "453"
+artist = "山  (movie : トガ) URL"
+genre = "Life Electro"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x4～★x10)"
+bpm = "146"
+tags = [
+    "7Keys",
+    "Use-BGI",
+]
+production = "非公開"
+comment = """
+初BMS作品+イベント初参加です！
+不思議な散歩を楽しんでいただけたら嬉しいです"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "454"
+artist = "てみと   URL"
+genre = "Green"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "220"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:14"
+comment = """
+(2026年10月20日 00:14 更新)
+後で記入"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "455"
+artist = "SOMON   URL"
+genre = "Ambient"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・none"
+charts = "CHART_2 (★x9～★x9)"
+bpm = "100"
+tags = [
+    "7Keys",
+    "Difficulty-beginner",
+]
+production = "非公開"
+comment = "よろしくお願いいたします。"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "456"
+artist = "6CHA9N   URL"
+genre = "AMBIENT/ELECTRONICA"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x8)"
+bpm = "90"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "非公開"
+comment = """
+好きなまちと苦手なまち
+わたしはあなたはここはそこはあそこはどっち"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "457"
+artist = "Morpho蝶   URL"
+genre = "Arcade Core"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "none・none"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "170"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:12"
+comment = """
+(2026年10月20日 00:12 更新)
+後で記入"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "458"
+artist = "七奏メルゥ × HiHUMi  (movie : 斗湖 × kini) URL"
+genre = "HYPER EMOTiONAL XROSSOVER"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "220"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "コメントは後日公開"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "459"
+artist = "HiHUMi × LYRi_WHiTE feat. ROSE  (movie : 斗湖 × kini) URL"
+genre = "HYPER ELEMENTS GOTHiC METAL"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "192"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gimmick",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "コメントは後日公開"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "460"
+artist = 'tkqn14 × LYRi "Cyanblue" WHiTE  (movie : pix) URL'
+genre = "HYPERDIMENSION ARCHiVE"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "180"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "コメントは後日公開"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "461"
+artist = "twinkle citrus × 黄兎  (movie : Quotation) URL"
+genre = "hyperspeed twinkle bunnyfusion"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "320 ～ 320.821"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Lang-US",
+    "Lang-KR",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "コメントは後日公開"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "462"
+artist = "むさぬりゆ/Musanuriyu  (movie : inukoro) URL"
+genre = "After World"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_3 (★x4～★x12)"
+bpm = "233"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Format-bms62",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Player-beatoraja",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/musanuriyu/bof-22-now-here-no-where"]
+comment = "後ほど記載"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "463"
+artist = "ARForest  (movie : Kazuma Enta) URL"
+genre = "Lightfall"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x1～★x11)"
+bpm = "189"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Audition-Sound",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = """
+Chapter 8 of 8
+Upon returning to their home, Aries finds everyone at peace and lays down next to them, closing their eyes.
+By piecing back all stones together, humanity actually revealed their true nature: a terraforming device meant to wipe out all sentient beings on the planet.
+In a strange twist of fate, the Great Asteroid Crash actually ended up being humanity's salvation at that time, by missing its original goal.
+In the end, humanity created their own doom. But, as Aries starts to slip into sleep, they think about how beautiful this new Earth will be.
+As the Earth is born anew, humanity must now cease to exist. Even without humans, new lives will always emerge.
+Even if not for them, hope still exists. And thus, it is not truly the end.
+自宅に帰ると、皆は深い安らぎに包まれていた。それを見たアリエスはそっと隣に見を横たえ、静かに目を閉じた。
+知恵ある命を悉く消し去るために造られた、惑星改造装置。石をすべて組み上げたことによって人類はその正体を現した。
+運命の悪戯だったのだろうか。巨大隕石は狙いを外したことで、かえってあの時の人類の救済となっていたのだ。
+畢竟、人類は自らの手で命運を決した。ふと、眠りに落ちてゆくアリエスは思った。生まれ変わる地球は、きっと美しいだろう、と。
+地球が生まれ変わる今、人類は滅びなければならない。それでも、新たな命は必ず芽吹く。
+人類のためではなくとも、希望は消えるまい。ゆえに、これは終わりではないのだ。
+--
+[Lightfall]
+Starfall
+Music: ARForest
+Movie: Kazuma Enta
+Story Writing: Vega
+Character Design: Eden Forscythe
+[THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION - : Stone Arch Project]
+BPM: 189
+SP BEGINNER: ☆1   (pattern by Lidelle)
+SP NORMAL: ☆3   (pattern by ARForest & Lidelle)
+SP HYPER: ☆7   (pattern by Lidelle)
+SP ANOTHER: ☆11  (pattern by Lidelle)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "464"
+artist = "vermo (a.k.a tami)  (movie : SENALI) URL"
+genre = "HYPERPOP"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI(BGA) under construction・Other"
+charts = "CHART_3 (★x2～★x47)"
+bpm = "142"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Use-BGA",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+]
+production = "非公開"
+comment = "（いろいろ忙しくて後で書きます！！）"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "465"
+artist = "Lime / Kankitsu   URL"
+genre = "Dramatical"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x2～★x12)"
+bpm = "190"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/kanki2/fragile"]
+comment_updated = "2026年10月20日 00:32"
+comment = """
+(2026年10月20日 00:32 更新)
+(2026年10月20日 00:10 更新)
+(2026年10月20日 00:06 更新)
+Fragile - 脆い、儚い
+後ほど追記します！"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 23:56"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "仮BGAの追加"
+
+[[details]]
+num = "466"
+artist = "39vet   URL"
+genre = "hardcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x6～★x13)"
+bpm = "360"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "非公開"
+comment = """
+My first time arranging music, my first time participating in a competition
+https://x.com/mng446298767739"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "467"
+artist = "Xiba   URL"
+genre = "OVER200 BPM BOSSA NOVA"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA separate・Self"
+charts = "CHART_3 (★x3～★x10)"
+bpm = "204"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-BGI",
+    "Use-ogg",
+    "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:06"
+comment = """
+(2026年10月20日 00:06 更新)
+気楽にいこうよ！
+……できるものなら。
+THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION - 出展作品
+--- BMS INFORMATION ---
+Title  :  Take it easy (if you can)
+Genre  :  OVER200 BPM BOSSA NOVA
+BPM  :  204
+--- BMS DIFFICULTY ---
+SINGLE PLAY
+◆ BEGINNER  :  3
+◆ NORMAL  :  5
+◆ HYPER  :  8
+◆ ANOTHER  :  10
+--- STAFF ---
+Music / Movie / Object(B/N/H/A)  :  Xiba / [Twitter] @discharge100
+Test Play ： xxxppp / [Twitter] @qqqxxxppp
+--- OVERVIEW ---
+どちらかといえば猫派
+Xiba
+＊"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "468"
+artist = "Tyoukou  (movie : sskd) URL"
+genre = "Multi-flavor Techno"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_3 (★x5～★x10)"
+bpm = "148 ～ 153"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGI",
+    "Gimmick-LongNote",
+]
+production = "過去か未来か"
+comment_updated = "2026年10月20日 00:29"
+comment = """
+(2026年10月20日 00:29 更新)
+わたしは、回帰する。
+音ゲーの世界が大好きな私に。
+可愛いものが大好きな私に。
+突飛な挑戦に手を伸ばす私に。
+音に心を突き動かされた、あの頃の私に。
+皆さんどうもこんにちは、Tyoukouです。
+回帰の曲を作りました。なんで進化テーマのサブタイトルがついた大会で回帰なのかといいますと、私自身が作曲者としてある程度進化した状態で前に作ったジャンルに回帰し、あの頃からの進化を強調させる狙いです。伝わりますかね？
+制作のコンセプトとしては"イラスト先行で曲を作る"というものでした。なので上のフレーバーテキストとは別に、ジャケットの子のイメージ曲でもあります。設定や印象をイメージしながら、君にはこんな音が似合うかな～というのを詰め込みました。
+2通りの解釈をお楽しみください。これもまた新鮮かな？
+P.S.形式変換が間に合わなかったので後日ogg版を追加します！！！！
+[Tyoukou]
+セケドζ改めsskdです。
+イカした女の子を描きました。
+[sskd]"""
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 23:57"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGI担当の人の名義修正"
+
+[[details]]
+num = "469"
+artist = "HALLPBE.S  (movie : HALLPBE.S) URL"
+genre = "PSYCHIC MAXX CRASH"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x7～★x12)"
+bpm = "146"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "Use-BGA",
+    "Use-avi_movie",
+    "Difficulty-senior",
+    "Player-beatoraja",
+]
+production = "非公開"
+comment = "もはや 手遅れ"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "470"
+artist = 'Kurast703 as " "   URL'
+genre = "奇異稿笑音楽"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x12～★x56)"
+bpm = "8.75 ～ 2026"
+tags = [
+    "7Keys",
+    "14Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "Lang-TCN",
+    "Use-BGI",
+    "Use-ogg",
+    "Gimmick-LongNote",
+    "Gimmick-Stop",
+    "Gimmick-Soflan",
+    "Gimmick-Random",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-kusofumen",
+    "Difficulty-gorilla",
+    "Difficulty-gimmick",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:24"
+comment = """
+(2026年10月20日 00:24 更新)
+To highlight the so-called “artistry” of a piece, some creators include seemingly profound words in their descriptions.
+However, when the music itself doesn’t actually have that much of a story to tell, these descriptions can come across as confusing and boring…
+In another way, in a world that isn’t always filled with laughter, an “humorous” work still seems to be expected to be “both funny and profound”.
+But this also relates to the previous point: if lacks sufficient experience, they’ll likely end up producing something that’s “neither funny nor profound”…
+These are just some little insights from my creative journey.
+Well, actually, this text—and even this piece itself—is actually just a forced interpretation of some messy concept just like “artistry”.
+Me just wanted to make a prank chart filled with 1267 and 2356. Yay! >:)
+(Translated by DeepL)
+作品のいわゆる「芸術性」をアピールするために、一部のクリエイターは紹介文に深みのあるような言葉を綴ることがある。
+しかし、音楽そのものにそれほど多くの物語が込められていない場合、それは不可解で退屈なものになってしまう……
+別の角度から言えば、必ずしも笑いにあふれているわけではないこの世界において、優れた「ユーモア」作品には、依然として「面白く、かつ深い意味があること」が求められているようです。
+とはいえ、前の点と結びつけて考えると、経験がまだ浅い場合、かえって「面白くもなく、深い意味もない」作品を作り出してしまうのではないでしょうか……
+これらは、私の創作の道のりにおけるささやかな気づきです。
+もちろん、もっと正確に言えば、この文章どころか、この作品そのものも、実は「芸術」といったごちゃごちゃしたもののために、無理やり意味を付与されたものに過ぎないのですがね。
+私はただ、1267と2356が溢れかえる、いたずらっぽい譜面を作りたかっただけなんです。イェーイ。 >:)"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "471"
+artist = "南すわり   URL"
+genre = "Breakcore"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x3～★x12)"
+bpm = "90"
+tags = [
+    "7Keys",
+    "9Keys",
+    "Use-BGA",
+]
+production = "非公開"
+comment_updated = "2026年10月20日 00:08"
+comment = """
+(2026年10月20日 00:08 更新)
+後で記入"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "472"
+artist = "DJ NORMAL1ZER VS. DJ BIGWHITE VS. MC KIRINO  (movie : Supa777) URL"
+genre = "UPTEMPO HARDCORE"
+genre_sub = "Original・Unit"
+source = "-----"
+bga = "BGA include・Self"
+charts = "CHART_3 (★x1～★x23)"
+bpm = "199"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Lang-SCN",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-BGI",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
+]
+production = "非公開"
+comment = "(under construction)"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "473"
+artist = "かたぎり   URL"
+genre = "CARNIVOROUS INDUSTRIAL"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA separate・Unit"
+charts = "CHART_3 (★x6～★x12)"
+bpm = "229"
+tags = [
+    "7Keys",
+    "Lang-JP",
+    "File-Append",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-mp4_movie",
+]
+production = "スク水"
+audition = ["https://soundcloud.com/katagiri/vermin-flavor"]
+comment_updated = "2026年10月20日 00:53"
+comment = """
+(2026年10月20日 00:53 更新)
+真のBGA、および発狂譜面は近日中に追加します。
+https://soundcloud.com/katagiri/vermin-flavor/s-5O4eKnIXQj8"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/20 00:50"
+note = "BGAを追加"
+
+[[details.revisions]]
+ver = "1"
+date = "2026/10/19 23:59"
+note = "初版公開"
+
+[[details.revisions]]
+ver = "3"
+date = ""
+note = "作品を追加修正"
+
+[[details]]
+num = "474"
+artist = "LEVenhuk  (movie : sorcelleri) URL"
+genre = "Experimental"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Other"
+charts = "CHART_2 (★x4～★x4)"
+bpm = "112.25 ～ 155"
+tags = [
+    "7Keys",
+    "Lang-US",
+    "Audition-Sound",
+    "Use-BGI",
+    "Gimmick-Soflan",
+    "Difficulty-beginner",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/levenhuk/witch-witch-witch-witch-witch"]
+comment = """
+squeezed this in with like 5 minutes remaining :sob:
+volume is low and other difficulties are missing which will be fixed next week
+tysm sorcelleri for bgi!"""
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
+num = "475"
+artist = "lixound  (movie : 5argon) URL"
+genre = "FOUR ON THE FLOOR"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGA include・Other"
+charts = "CHART_2 (★x0～★x0)"
+bpm = "156"
+tags = [
+    "7Keys",
+    "Use-BGA",
+    "Use-ogg",
+    "Use-wmv_movie",
+    "Use-mp4_movie",
+]
+production = "非公開"
+audition = ["https://soundcloud.com/felix1213tw/fotf"]
+comment_updated = "2026年10月20日 00:56"
+comment = """
+(2026年10月20日 00:56 更新)
+(2026年10月20日 00:18 更新)
+Music & BMS: lixound
+Other charts will be updated after 10/28🙇‍♂️
+Visualization: 5argon (Twitter/X: https://x.com/5argondesu)
+超久しぶりにBMSムービーを手伝いました、5argonです！しばらくゲームから離れていましたがいつの間にLR2の時代が終わってしまうと聞き、最新の動画フォーマットも再生できるだろうと思いこの特別な機会にぜひ参加したいと考えました。制作はとても楽しく、BlenderやResolumeの新しい機能もたくさん学ぶことができました。隠し要素として、長方形の形と間隔は4つの白鍵をイメージしています。また自宅のトイレで撮影した自分の右手の動画も登場します。
+Hello, I'm 5argon. It's been quite a while since the last time I participated in making visualization in an BMS event. I have been away from the game for long while, but I heard that this is the first time LR2 will be prohibited and so as I expect the new client able to play modern video format, I wanted to participate in this special occassion. One day I randomly scrolled past lixound recruiting a visual member and so I applied.
+The brief from lixound was half length upload of the song, the song is named four rectangles (even right now I do not know how to read it), and it's themed to four on the floor. And so I put four rectangles everywhere. It's been fun making this and I learned many new features in Blender and Resolume. As an easter egg, the shape and distance between them resembles the four white keys. It also features a footage of my right hand that I shot in my bathroom."""
 
 [[details.revisions]]
 ver = "1"

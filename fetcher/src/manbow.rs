@@ -47,12 +47,12 @@ pub(crate) fn classify_url(url: &str) -> UrlKind {
     }
 }
 
-pub(crate) fn urllist_url(event_id: &str) -> String {
-    format!("{BASE_URL}/event.cgi?action=URLList&end=999&event={event_id}")
+pub(crate) fn urllist_url(event_id: &str, start: usize) -> String {
+    format!("{BASE_URL}/event.cgi?action=URLList&start={start}&end=999&event={event_id}")
 }
 
-pub(crate) fn sp_url(event_id: &str) -> String {
-    format!("{BASE_URL}/event.cgi?action=sp&event={event_id}")
+pub(crate) fn sp_url(event_id: &str, start: usize) -> String {
+    format!("{BASE_URL}/event.cgi?action=sp&start={start}&end=999&event={event_id}")
 }
 
 pub(crate) fn team_profile_url(event_id: &str) -> String {

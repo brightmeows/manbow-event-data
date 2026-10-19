@@ -35,6 +35,10 @@ struct Args {
     #[arg(long = "details")]
     details_ids: Vec<String>,
 
+    /// 跳过逐作品详情页抓取（快速刷新作品列表时使用）
+    #[arg(long)]
+    skip_details: bool,
+
     /// 列出站点上发现的全部事件（JSON）后退出
     #[arg(long, conflicts_with = "stdin")]
     list_events: bool,
@@ -82,6 +86,50 @@ async fn fetch_with_delay(url: &str, delay: Duration) -> Result<String> {
     manbow::fetch_text(url).await
 }
 
+/// 站点列表页的翻页步长。页面每页最多 260 行，`start` 为起始行号（1 起）。
+const LIST_PAGE_STEP: usize = 260;
+
+/// 翻页抓取作品链接列表；任一页失败即报错，避免静默截断。
+async fn fetch_urllist_entries(event_id: &str, delay: Duration) -> Result<Vec<model::BmsEntry>> {
+    let mut entries = Vec::new();
+    let mut start = 1;
+    loop {
+        let html = fetch_with_delay(&manbow::urllist_url(event_id, start), delay).await?;
+        let page = manbow::parse_urllist(&html)?;
+        if page.entries.is_empty() {
+            break;
+        }
+        entries.extend(page.entries);
+        start += LIST_PAGE_STEP;
+    }
+    Ok(dedupe_entries(entries))
+}
+
+/// 翻页抓取报名一览；任一页失败即报错，避免评分字段只覆盖前 260 条。
+async fn fetch_sp_entries(event_id: &str, delay: Duration) -> Result<Vec<model::BmsEntry>> {
+    let mut entries = Vec::new();
+    let mut start = 1;
+    loop {
+        let html = fetch_with_delay(&manbow::sp_url(event_id, start), delay).await?;
+        let page = manbow::parse_sp_entries(&html)?;
+        if page.is_empty() {
+            break;
+        }
+        entries.extend(page);
+        start += LIST_PAGE_STEP;
+    }
+    Ok(dedupe_entries(entries))
+}
+
+/// 翻页边界可能重叠，按作品编号保留首次出现的条目。
+fn dedupe_entries(entries: Vec<model::BmsEntry>) -> Vec<model::BmsEntry> {
+    let mut seen = std::collections::HashSet::new();
+    entries
+        .into_iter()
+        .filter(|entry| seen.insert(entry.no.clone()))
+        .collect()
+}
+
 async fn discover_events(args: &Args) -> Result<Vec<ManbowEvent>> {
     info!("抓取事件列表: {}", manbow::EVENT_LIST_URL);
     let html = fetch_with_delay(manbow::EVENT_LIST_URL, delay_of(args)).await?;
@@ -117,7 +165,7 @@ async fn run_events(args: &Args) -> Result<()> {
     let mut succeeded = 0_usize;
     let mut failed = 0_usize;
     for event in &events {
-        match fetch_event(event, delay, &args.details_ids).await {
+        match fetch_event(event, delay, &args.details_ids, args.skip_details).await {
             Ok(event_data) => {
                 let data = event_data.data;
                 let path = args.dir.join(format!("{}.toml", event.id));
@@ -170,16 +218,14 @@ async fn fetch_event(
     event: &ManbowEvent,
     delay: Duration,
     details_ids: &[String],
+    skip_details: bool,
 ) -> Result<EventData> {
-    let mut data = {
-        let html = fetch_with_delay(&manbow::urllist_url(&event.id), delay).await?;
-        manbow::parse_urllist(&html)?
+    let mut data = BmsData {
+        entries: fetch_urllist_entries(&event.id, delay).await?,
+        teams: Vec::new(),
     };
 
-    match fetch_with_delay(&manbow::sp_url(&event.id), delay)
-        .await
-        .and_then(|html| manbow::parse_sp_entries(&html))
-    {
+    match fetch_sp_entries(&event.id, delay).await {
         Ok(extra) => {
             data.entries = manbow::merge_entries(std::mem::take(&mut data.entries), extra);
         }
@@ -192,7 +238,7 @@ async fn fetch_event(
         .and_then(|html| manbow::parse_team_entries(&html))
     {
         Ok(teams) => {
-            let active = !teams.is_empty() || details_ids.contains(&event.id);
+            let active = !skip_details && (!teams.is_empty() || details_ids.contains(&event.id));
             data.teams = enrich_teams(&event.id, teams, delay).await;
             if active {
                 details = Some(fetch_details(&event.id, &data.entries, delay).await);

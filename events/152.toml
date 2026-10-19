@@ -607,13 +607,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/tkb82bdpddszxdvsqlqo6/Crim-Nanakusa-_wav.7z?rlkey=5ppr0nxj8w5q06v55oyuygdgt&st=u765t8pf&dl=1",
 ]
 genre = "Protean"
-impr = "5"
-total = "7677"
-total_n = "4265"
-median = "870"
-avg = "853"
+impr = "6"
+total = "9473.4"
+total_n = "5263"
+median = "905"
+avg = "877.16"
 regist = "2026/10/01 23:07"
-update = "2026/10/19 19:35"
+update = "2026/10/20 07:24"
 
 [[entries]]
 no = "35"
@@ -708,13 +708,13 @@ title = "Terrific Revelry"
 size = "62101 KB"
 addr = ["https://ponytailrecord.com/BOF22/KanataS_Terrific_Revelry_ogg.zip"]
 genre = "Revelry Metalcore"
-impr = "5"
-total = "7016"
-total_n = "4385"
-median = "930"
-avg = "877"
+impr = "6"
+total = "8612.8"
+total_n = "5383"
+median = "932.5"
+avg = "897.16"
 regist = "2026/10/01 23:08"
-update = "2026/10/19 19:37"
+update = "2026/10/20 07:24"
 
 [[entries]]
 no = "41"
@@ -740,13 +740,13 @@ title = "Cosmoplastic"
 size = "315000 KB"
 addr = ["https://drive.google.com/file/d/1YOMH-lgsPrzqGG5LGbNiWJzSXEqXupnT/view?usp=drive_link"]
 genre = "GUTAI Music"
-impr = "3"
-total = "3600"
-total_n = "2250"
-median = "700"
-avg = "750"
+impr = "4"
+total = "5196.8"
+total_n = "3248"
+median = "780"
+avg = "812"
 regist = "2026/10/01 23:08"
-update = "2026/10/19 19:37"
+update = "2026/10/20 07:25"
 
 [[entries]]
 no = "43"
@@ -788,13 +788,13 @@ title = "Winger…"
 size = "84000 KB"
 addr = ["https://drive.google.com/file/d/1y-AluKYdu7MbUay6IKZaSPSDyas07-bY/view?usp=drive_link"]
 genre = "Digital J-POP"
-impr = "5"
-total = "7920"
-total_n = "4400"
-median = "920"
-avg = "880"
+impr = "6"
+total = "9716.4"
+total_n = "5398"
+median = "925"
+avg = "899.66"
 regist = "2026/10/01 23:09"
-update = "2026/10/19 19:38"
+update = "2026/10/20 07:25"
 
 [[entries]]
 no = "46"
@@ -1105,13 +1105,13 @@ addr = [
     "https://mega.nz/file/o5pBiSiA#TPvlg-ZSHlpeRx4hnMjTZksUH9Ad7rP5lxmLnuKFYpg",
 ]
 genre = "sampled breaktanica"
-impr = "11"
-total = "11802.45"
-total_n = "10263"
+impr = "12"
+total = "12949"
+total_n = "11260"
 median = "935"
-avg = "933"
+avg = "938.33"
 regist = "2026/10/01 23:10"
-update = "2026/10/19 19:44"
+update = "2026/10/20 05:47"
 
 [[entries]]
 no = "63"
@@ -4545,8 +4545,13 @@ no = "254"
 name = "またかま"
 team = "Sawtooth Sharkz"
 title = "蒼牙の願いを紡いだ場所で"
-size = "22000 KB"
-addr = ["https://drive.google.com/file/d/1FSUoiWG5cZgg61TaVYDnA0HzCm-dfWLK/view?usp=sharing"]
+size = "69500 KB"
+addr = [
+    "フルパッケージでDLする場合",
+    "https://drive.google.com/file/d/1FSUoiWG5cZgg61TaVYDnA0HzCm-dfWLK/view?usp=sharing",
+    "すでにDL済で、修正点だけをもらう場合",
+    "https://drive.google.com/file/d/1eDXzfetqDnzFsUkoFhgY9NrtiZOVvA6f/view?usp=sharing",
+]
 genre = "Abysselachic Recode"
 impr = "1"
 total = "1574.4"
@@ -4554,14 +4559,14 @@ total_n = "984"
 median = "984"
 avg = "984"
 regist = "2026/10/16 00:02"
-update = "2026/10/17 16:54"
+update = "2026/10/20 03:14"
 
 [[entries]]
 no = "255"
 name = "NOiS"
 team = "Quintuple Cheese Burgers"
 title = "J@ck b()x aiR⇔Line"
-size = "36771 KB"
+size = "64443 KB"
 addr = ["https://drive.google.com/file/d/1YvXsVp50eeaA9rXkQokFYXyRA_bCLcIG/view?usp=sharing"]
 genre = "Future bass"
 impr = "0"
@@ -4570,7 +4575,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/16 00:11"
-update = "2026/10/17 01:32"
+update = "2026/10/20 06:32"
 
 [[entries]]
 no = "256"
@@ -5458,13 +5463,13 @@ addr = [
     "https://drive.google.com/file/d/1ecfcGPkz-C0prtWUSB0FOVr1AcVf4nlL/view?usp=sharing",
 ]
 genre = "kiffcore"
-impr = "1"
-total = "1150"
-total_n = "1000"
-median = "1000"
-avg = "1000"
+impr = "2"
+total = "2298.85"
+total_n = "1999"
+median = "999.5"
+avg = "999.5"
 regist = "2026/10/18 18:21"
-update = "2026/10/19 23:34"
+update = "2026/10/20 05:50"
 
 [[entries]]
 no = "307"
@@ -6082,13 +6087,13 @@ title = "TIFKNHS"
 size = "88103 KB"
 addr = ["https://drive.google.com/file/d/1KHrMFW04C1q0HiquK8ENavLcjKEXZc3s/view?usp=sharing"]
 genre = "HARD SOUNDS"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1596.8"
+total_n = "998"
+median = "998"
+avg = "998"
 regist = "2026/10/19 10:05"
-update = "2026/10/19 10:05"
+update = "2026/10/20 05:34"
 
 [[entries]]
 no = "343"
@@ -6572,13 +6577,13 @@ title = "Arrival of the Other"
 size = "87500 KB"
 addr = ["https://drive.google.com/file/d/17xynqgBJS5k1d_AErga3kv5XpqIl1Jqx/view?usp=sharing"]
 genre = "Irreversible Throne"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1137.72"
+total_n = "998"
+median = "998"
+avg = "998"
 regist = "2026/10/19 19:11"
-update = "2026/10/19 19:11"
+update = "2026/10/20 07:06"
 
 [[entries]]
 no = "370"
@@ -6833,13 +6838,13 @@ addr = [
     "https://drive.google.com/file/d/1VzG8VLQ1cQ-yByqORqL9CCxlZix1Igvq/view?usp=drive_link",
 ]
 genre = "Pandemixia"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1147.7"
+total_n = "998"
+median = "998"
+avg = "998"
 regist = "2026/10/19 20:57"
-update = "2026/10/19 23:16"
+update = "2026/10/20 07:10"
 
 [[entries]]
 no = "385"
@@ -6936,13 +6941,13 @@ title = "0×塔"
 size = "155700 KB"
 addr = ["https://drive.google.com/file/d/19b5IIEsEnTY59Sw96nmOR52WvA0BKIFg/view?usp=drive_link"]
 genre = "root"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1147.7"
+total_n = "998"
+median = "998"
+avg = "998"
 regist = "2026/10/19 21:31"
-update = "2026/10/19 21:31"
+update = "2026/10/20 07:28"
 
 [[entries]]
 no = "391"
@@ -7202,13 +7207,13 @@ title = "F∀ГГ"
 size = "31898 KB"
 addr = ["https://drive.google.com/file/d/15vL7UXqywOj9m7Z-yDqSMSv0X_MiLsXJ/view?usp=sharing"]
 genre = "Techno"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1156.52"
+total_n = "997"
+median = "997"
+avg = "997"
 regist = "2026/10/19 22:05"
-update = "2026/10/19 23:33"
+update = "2026/10/20 06:05"
 
 [[entries]]
 no = "407"
@@ -7300,13 +7305,13 @@ addr = [
     "https://drive.google.com/file/d/1bpTzPej7jopxo5P83Du0vHgVU9iO1QGt/view?usp=sharing",
 ]
 genre = "click-er"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1136.58"
+total_n = "997"
+median = "997"
+avg = "997"
 regist = "2026/10/19 22:19"
-update = "2026/10/19 22:59"
+update = "2026/10/20 05:58"
 
 [[entries]]
 no = "412"
@@ -7463,13 +7468,13 @@ addr = [
     "https://drive.google.com/file/d/1OL8pyhgy6yvZp4dNmM1FXIc4IaoSPNkY/view?usp=sharing",
 ]
 genre = "Jackin' House"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1166.49"
+total_n = "997"
+median = "997"
+avg = "997"
 regist = "2026/10/19 22:52"
-update = "2026/10/19 22:52"
+update = "2026/10/20 05:59"
 
 [[entries]]
 no = "421"
@@ -7969,7 +7974,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/19 23:45"
-update = "2026/10/19 23:45"
+update = "2026/10/20 06:01"
 
 [[entries]]
 no = "449"
@@ -7979,13 +7984,13 @@ title = "LLM"
 size = "52513 KB"
 addr = ["https://drive.google.com/file/d/1M5pXUxiVNQn6v30j9RqftXJzGTZGHIZB/view"]
 genre = "Look Loop Moon"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1598.4"
+total_n = "999"
+median = "999"
+avg = "999"
 regist = "2026/10/19 23:46"
-update = "2026/10/20 02:02"
+update = "2026/10/20 06:16"
 
 [[entries]]
 no = "450"
@@ -8209,8 +8214,13 @@ no = "462"
 name = "むさぬりゆ/Musanuriyu"
 team = "We are cosmic."
 title = "now-here, no-where"
-size = "123679 KB"
-addr = ["https://drive.google.com/uc?export=download&id=1UADVaR8IiFxufDTrT-frar_NaTL7Uhjx"]
+size = "123346 KB"
+addr = [
+    "Full data（ver.2）",
+    "https://drive.google.com/uc?export=download&id=1uPqBeDkbzs3cXsHfvfUTXgdlSwUOfUQY",
+    "Add patch（～10/19DL、全曲パッケージダウンロード者用）",
+    "https://drive.google.com/uc?export=download&id=1EgXcj2wVd4U1_sYR6sD0lGxCkx3y5HjG",
+]
 genre = "After World"
 impr = "0"
 total = "0"
@@ -8218,7 +8228,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/19 23:56"
-update = "2026/10/19 23:56"
+update = "2026/10/20 04:31"
 
 [[entries]]
 no = "463"
@@ -8263,13 +8273,13 @@ addr = [
     "https://drive.google.com/file/d/1CyjZtbEEJvs0t1CDj2dgjr9KNNMomdK5/view?usp=sharing",
 ]
 genre = "Dramatical"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1158.84"
+total_n = "999"
+median = "999"
+avg = "999"
 regist = "2026/10/19 23:56"
-update = "2026/10/20 00:32"
+update = "2026/10/20 05:38"
 
 [[entries]]
 no = "466"

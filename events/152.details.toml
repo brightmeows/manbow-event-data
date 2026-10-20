@@ -8138,15 +8138,16 @@ tags = [
     "Player-beatoraja",
 ]
 production = "小宇宙"
-comment_updated = "2026年10月20日 18:02"
+comment_updated = "2026年10月21日 00:26"
 comment = """
+(2026年10月21日 00:26 更新)
 (2026年10月20日 18:02 更新)
-(2026年10月08日 23:35 更新)
-(2026年10月08日 23:32 更新)
 あなたを、探してる。
 差分を制作したい方は同梱されているcelestialsphere_noobj.bmの最後を.bmsにすればノーツが配置されていないbmsファイルを開くことが出来ます。
 ダウンロードリンクに音量を調整したファイルをアップしたので、10/20 18:00以前にダウンロードした方は元のファイルを捨てて差し替えていただけると助かります。
-お手数おかけして申し訳ございません。"""
+お手数おかけして申し訳ございません。
+当作品はbeatorajaでのプレイを推奨しております。
+インプレの際はよろしくお願いいたします。"""
 
 [[details.revisions]]
 ver = "2"
@@ -10490,9 +10491,12 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/lalotofficial/gokumetsu"]
-comment_updated = "2026年10月20日 20:29"
+comment_updated = "2026年10月21日 01:33"
 comment = """
-(2026年10月20日 20:29 更新)
+(2026年10月21日 01:33 更新)
+〈業務連絡〉
+[ABNORMAL]、[INSANE]、"Beyond the Black Wing"の３譜面は、BOF22ルール(bmsデータの修正は基本的に初稿時の各譜面のトータルノーツと演奏時間が変わっていなければ許容)にのっとったうえで、配置ミスのみ修正が行われております。わたくしの確認不足により、ご迷惑をおかけしております。
+すでに当該譜面をプレイしてくださった皆様には申し訳ございませんが、是非最新版のデータをDLし、お楽しみください。
 「君は、崩壊した世界の、その先の姿が見たいかい？」
 Team「デス一揆」 FINAL STRIKER WORK 「極滅」
 〈Charts〉
@@ -10622,6 +10626,11 @@ NORMAL譜面をスクロール8倍のまま提出し、ご迷惑をおかけし�
 Fin."""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/20 20:29"
+note = "SPI譜面に明らかな配置ミスが存在したためすべて修正しました。お手数おかけいたします。これによるノーツ数・再生時間の変化はありません。"
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/16 03:10"
 note = "音量のバランスを調整しました。また、142小節目4拍目V9及びVAについて、意図しないタイミングで音が鳴っていたため、全差分のノート位置の修正を行いました。A・I譜面は該当箇所の叩くタイミングに調整が加わってあります。この変更による演奏時間とノーツ数の変更はありません。"
@@ -10632,9 +10641,9 @@ date = "2026/10/12 15:47"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "SPI譜面に明らかな配置ミスが存在したためすべて修正しました。お手数おかけいたします。これによるノーツ数・再生時間の変化はありません。"
+note = "ABNORMAL・Beyondtheblackwingの意図しないノート位置を修正。これに伴うノーツ数や再生時間、容量の変化はありません。度々の修正ご迷惑をおかけいたします。"
 
 [[details]]
 num = "211"
@@ -15000,7 +15009,10 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
+audition = ["https://soundcloud.com/tanacoro/parametric-field?si=b98db245eecb425388038f53786bf9e4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月21日 01:38"
 comment = """
+(2026年10月21日 01:38 更新)
 BOFは3年ぶりだと思います。
 ぜひ遊んでみて、お楽しみください！"""
 
@@ -19098,8 +19110,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 00:12"
+audition = ["https://soundcloud.com/lufm-loves-dragon/fimbulvetr"]
+comment_updated = "2026年10月21日 00:31"
 comment = """
+(2026年10月21日 00:31 更新)
 (2026年10月20日 00:12 更新)
 ☆Compose
 割とアコースティックな方を担当しました、lufm(らふむ)と申します。

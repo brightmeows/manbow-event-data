@@ -896,7 +896,7 @@ note = "初版公開"
 
 [[details]]
 num = "18"
-artist = "クラリス・アルトマン  (movie : Illust:ラフィーナ・エルクシュタイン) URL"
+artist = "クラリス・アルトマン  (movie : クラリス・アルトマン Illust:ラフィーナ・エルクシュタイン) URL"
 genre = "Hardcore"
 genre_sub = "Original・Self"
 source = "-----"
@@ -917,8 +917,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 22:44"
+comment_updated = "2026年10月20日 19:48"
 comment = """
+(2026年10月20日 19:48 更新)
 (2026年10月19日 22:44 更新)
 (2026年10月06日 15:39 更新)
 (2026年10月02日 01:33 更新)
@@ -7754,29 +7755,52 @@ tags = [
     "14Keys",
     "Audition-Sound",
     "Use-BGI",
+    "Gimmick-LongNote",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
+    "Player-beatoraja",
 ]
 production = "Studio One 3 / BmsMaker3"
 audition = ["https://soundcloud.com/towa_hisanaga/bof22-towa-hisanaga?si=e81cb514f2844ff19b99ed69b1048c09&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月20日 20:45"
 comment = """
+(2026年10月20日 20:45 更新)
 はじめましての方ははじめまして。
 無名戦同期の方はまた会いましたね。
 いつもプレイしてくれている方はありがとうございます。
 久永トワ(Towa Hisanaga)です。
 今回もBMSイベントにハードスタイルを持ってきました！
-その名も#BEATZRIGHTNOWです。
-前作#PL4YTHEG4MEよりもさらにメロディックに、
+その名も#BEATZ_RIGHT_NOWです。
+前作#PL4Y_THE_G4MEよりもさらにメロディックに、
 しかしタノシイ感じなのは変わらない曲となっています。
+幅広い難易度の譜面を揃えておりますので、
+あなたに合った難易度で今すぐビート！
+SP 7KEY
+BEGINNER ⭐︎2
+NORMAL ⭐︎6
+HYPER ⭐︎10
+ANOTHER ⭐︎12下位
+INSANE ⭐︎12上位
+DP 14KEY
+NORMAL ⭐︎6
+HYPER ⭐︎10
+ANOTHER ⭐︎12中位？
 BGIに映っている娘は戸賀澤ヒナといいます。
 いわゆるうちの子？って奴です。
-BGAはまだ製作途中なのでもうしばらくお待ちください！"""
+BGAはまだ製作途中なのでもうしばらくお待ちください！
+11月頭に公開できる見込みです！(出張中なので週末以外AviUtl2触れない😭)
+プレイとインプレお待ちしております！"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/04 20:01"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "難易度&#x8868;記をはじめとした説明の追加、タイトルの記号が特殊文字扱いされているのを修正"
 
 [[details]]
 num = "157"
@@ -8114,12 +8138,20 @@ tags = [
     "Player-beatoraja",
 ]
 production = "小宇宙"
-comment_updated = "2026年10月08日 23:35"
+comment_updated = "2026年10月20日 18:02"
 comment = """
+(2026年10月20日 18:02 更新)
 (2026年10月08日 23:35 更新)
 (2026年10月08日 23:32 更新)
 あなたを、探してる。
-差分を制作したい方は同梱されているcelestialsphere_noobj.bmの最後を.bmsにすればノーツが配置されていないbmsファイルを開くことが出来ます。"""
+差分を制作したい方は同梱されているcelestialsphere_noobj.bmの最後を.bmsにすればノーツが配置されていないbmsファイルを開くことが出来ます。
+ダウンロードリンクに音量を調整したファイルをアップしたので、10/20 18:00以前にダウンロードした方は元のファイルを捨てて差し替えていただけると助かります。
+お手数おかけして申し訳ございません。"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/08 23:35"
+note = "一部ファイルの拡張子の変更。"
 
 [[details.revisions]]
 ver = "1"
@@ -8127,9 +8159,9 @@ date = "2026/10/06 22:14"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "一部ファイルの拡張子の変更。"
+note = "10/20 音量を調整したファイルに差し替え"
 
 [[details]]
 num = "164"
@@ -10439,6 +10471,9 @@ bpm = "228"
 tags = [
     "7Keys",
     "Lang-JP",
+    "File-Modify",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -10455,10 +10490,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/lalotofficial/gokumetsu"]
-comment_updated = "2026年10月18日 02:09"
+comment_updated = "2026年10月20日 20:29"
 comment = """
-(2026年10月18日 02:09 更新)
-(2026年10月16日 16:19 更新)
+(2026年10月20日 20:29 更新)
 「君は、崩壊した世界の、その先の姿が見たいかい？」
 Team「デス一揆」 FINAL STRIKER WORK 「極滅」
 〈Charts〉
@@ -10588,14 +10622,19 @@ NORMAL譜面をスクロール8倍のまま提出し、ご迷惑をおかけし�
 Fin."""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/16 03:10"
+note = "音量のバランスを調整しました。また、142小節目4拍目V9及びVAについて、意図しないタイミングで音が鳴っていたため、全差分のノート位置の修正を行いました。A・I譜面は該当箇所の叩くタイミングに調整が加わってあります。この変更による演奏時間とノーツ数の変更はありません。"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/12 15:47"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "音量のバランスを調整しました。また、142小節目4拍目V9及びVAについて、意図しないタイミングで音が鳴っていたため、全差分のノート位置の修正を行いました。A・I譜面は該当箇所の叩くタイミングに調整が加わってあります。この変更による演奏時間とノーツ数の変更はありません。"
+note = "SPI譜面に明らかな配置ミスが存在したためすべて修正しました。お手数おかけいたします。これによるノーツ数・再生時間の変化はありません。"
 
 [[details]]
 num = "211"
@@ -11227,22 +11266,32 @@ artist = "Mizu  (movie : マイトネリウム) URL"
 genre = "Translation"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Other"
+bga = "BGA separate・Other"
 charts = "CHART_3 (★x3～★x12)"
 bpm = "190"
 tags = [
     "7Keys",
     "Lang-JP",
+    "Audition-Sound",
+    "Video-sharing",
+    "Use-BGA",
     "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
     "Gimmick-LongNote",
     "Gimmick-Soflan",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
     "Difficulty-senior",
     "Difficulty-gimmick",
     "Player-LR2",
     "Player-beatoraja",
 ]
 production = "非公開"
+audition = ["https://soundcloud.com/mizumilight/teigi"]
+comment_updated = "2026年10月20日 22:09"
 comment = """
+(2026年10月20日 22:09 更新)
 +------------------------------------------------------------------------------------------------------+
 人間を、定義。
 +------------------------------------------------------------------------------------------------------+
@@ -11252,6 +11301,7 @@ comment = """
 皆さんも定義してみてください。ありがとうございました。
 Twitter : (https://x.com/Mizumilight)
 SoundCloud : (https://soundcloud.com/mizumilight)
+Youtube : (https://www.youtube.com/@mizumilight)
 ▼マイトネリウム(BGA)
 毎年恒例、MizuさんのBGA3年目みたいです。
 定義する事への意義や趣を少しでも多く拾える様にビジュアルに起こしました。
@@ -11260,21 +11310,27 @@ Twitter : (https://x.com/Meitnerium027)
 Youtube : (https://youtube.com/@mt_meitnerium027)
 +------------------------------------------------------------------------------------------------------+
 BMS : Mizu
-BGA : マイトネリウム(鋭意制作中)
+BGA : マイトネリウム
 BPM : 190
 BEGINNER☆3
 NORMAL☆6
 HYPER☆10
 ANOTHER☆12
 INSANE☆12
-定義:#wav01 True ☆0
+[#wav01 True] ☆0
+差分譜面[#wav01 True]に関して、ワープギミックを使用しています。
 beatoraja,LR2での動作に対応しています。
 この作品には「VOICEVOX:ナースロボ＿タイプＴ」を使用しています。"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/14 02:28"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGA・Stagefile・Backbmp・Bannerの追加、それに伴う一部コメントの修正、SoundCloudURLの追加、YoutubeURLの追加。"
 
 [[details]]
 num = "226"
@@ -17593,6 +17649,8 @@ charts = "CHART_3 (★x5～★x12)"
 bpm = "150"
 tags = [
     "7Keys",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGI",
     "Use-ogg",
     "Difficulty-beginner",
@@ -17602,8 +17660,9 @@ tags = [
 ]
 production = "FL Studio"
 audition = ["https://soundcloud.com/liaoxingyao/frostlight"]
-comment_updated = "2026年10月20日 14:57"
+comment_updated = "2026年10月20日 22:44"
 comment = """
+(2026年10月20日 22:44 更新)
 (2026年10月20日 14:57 更新)
 Star*
 ずっとフロストライトを探している・・・
@@ -17616,6 +17675,11 @@ Star* / https://twitter.com/starxh_
 Cryo-Myosotis / https://twitter.com/yoyupond"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/19 21:08"
+note = "bgm~~.ogg 修正"
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/19 19:51"
 note = "NORMAL obj name 修正"
@@ -17626,9 +17690,9 @@ date = "2026/10/19 19:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "bgm~~.ogg 修正"
+note = "Audio Visualized movie追加"
 
 [[details]]
 num = "372"
@@ -18626,8 +18690,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 13:41"
+audition = ["https://soundcloud.com/krimek/genesis"]
+comment_updated = "2026年10月20日 21:31"
 comment = """
+(2026年10月20日 21:31 更新)
 (2026年10月20日 13:41 更新)
 That which is brought forth shall forever yearn to surpass its maker, yet never shall it escape the primordial bond that begets its existence.
 THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
@@ -18643,14 +18709,19 @@ SPH [HYPER]: Under Construction
 SPA [ANOTHER]: Lv10"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/20 13:41"
+note = "Fix for the audio in the ANOTHER chart."
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 21:48"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "Fix for the audio in the ANOTHER chart."
+note = "YouTube + SoundCloud"
 
 [[details]]
 num = "398"

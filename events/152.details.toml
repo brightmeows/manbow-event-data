@@ -9831,7 +9831,7 @@ note = "初版公開"
 num = "199"
 artist = "LoveNColoured  (movie : .xan) URL"
 genre = "Hardcore-Techno"
-genre_sub = "Original・Self"
+genre_sub = "Disq・Self"
 source = "-----"
 bga = "BGI(BGA) under construction・Other"
 charts = "CHART_3 (★x1～★x12)"
@@ -15961,8 +15961,11 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "Bitwig"
+comment_updated = "2026年10月20日 16:43"
 comment = """
+(2026年10月20日 16:43 更新)
 ※本BMSは62進数定義BMSです。必ず推奨環境下でのプレイをお願いします。
+(This BMS uses Base62 definitions. Please play this BMS using a Base62-compatible player)
 初めましての方は初めまして、C.miler(キマイラ)と申します。
 去年のBOFでは直前でPCがぶっ壊れたせいで不完全燃焼に終わりましたが、その怨念により特殊召喚されたのがこの曲です。
 様々なジャンルの要素をこれでもかと詰め込み、最終的に30ジャンルを乗せた曲となりました。
@@ -17598,10 +17601,10 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "FL Studio"
-comment_updated = "2026年10月19日 21:08"
+audition = ["https://soundcloud.com/liaoxingyao/frostlight"]
+comment_updated = "2026年10月20日 14:57"
 comment = """
-(2026年10月19日 21:08 更新)
-(2026年10月19日 19:51 更新)
+(2026年10月20日 14:57 更新)
 Star*
 ずっとフロストライトを探している・・・
 【Chart info】
@@ -18623,7 +18626,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
+comment_updated = "2026年10月20日 13:41"
 comment = """
+(2026年10月20日 13:41 更新)
 That which is brought forth shall forever yearn to surpass its maker, yet never shall it escape the primordial bond that begets its existence.
 THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
 Team 「V For Vivace」
@@ -18639,8 +18644,13 @@ SPA [ANOTHER]: Lv10"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 21:48"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Fix for the audio in the ANOTHER chart."
 
 [[details]]
 num = "398"
@@ -20275,8 +20285,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 00:15"
+comment_updated = "2026年10月20日 12:37"
 comment = """
+(2026年10月20日 12:37 更新)
 (2026年10月20日 00:15 更新)
 去年の年末くらいに、無名戦のある同期の方にコラボのお誘いをしていました。ずっと憧れていた方だったので、ぜひ一緒に何か作れたらと思っていたんですが。
 ところが今年の半ば頃、その方のPCが壊れてしまい、しばらく復旧できそうにないとのことで——
@@ -20487,9 +20498,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 02:02"
+comment_updated = "2026年10月20日 15:10"
 comment = """
-(2026年10月20日 02:02 更新)
+(2026年10月20日 15:10 更新)
 ≪Zris≫
 A few years ago...
 "Adding the latest technical terms to the title may make your work more likely to be accepted."
@@ -20748,13 +20759,15 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 11:06"
+comment_updated = "2026年10月20日 11:46"
 comment = """
-(2026年10月20日 11:06 更新)
+(2026年10月20日 11:46 更新)
 ◆ DIFFICULTY
 SP BEGINNER ☆4
 SP HYPER ☆6
 SP INSANE ☆12
+◆ COMMENT (Morpho蝶)
+とりあえず楽しみましょう
 ◆ LINKS
 ◇ 南すわり (バナー/ステージファイル)
 [small]https://x.com/MinamiSuwari[/small]"""
@@ -21292,17 +21305,39 @@ tags = [
     "7Keys",
     "9Keys",
     "Use-BGA",
+    "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 00:08"
-comment = """
-(2026年10月20日 00:08 更新)
-後で記入"""
+comment_updated = "2026年10月20日 11:29"
+comment = '''
+(2026年10月20日 11:29 更新)
+◆ DIFFICULTY
+SP BEGINNER ☆3
+SP HYPER ☆8
+SP ANOTHER ☆12
+SP INSANE ☆0
+9B EX 〇43
+◆ COMMENT (南すわり)
+BIOLOGICAL FUNCTION 2
+「ただ飛んでいるだけです」グライダー/\|/これは違う？とりがいるドーナツ虫からだになりたいビーカー「ぐちゅ」鳴いちゃ(ました？)蛍光緑 おれ わたしが
+助けてーー「」 キーキーキー ごめ
+(食いま)したまたどこ かで！
+キラン
+◆ LINKS
+◇ 南すわり (音楽/BGA)
+[small]https://x.com/MinamiSuwari[/small]'''
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:58"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "ogg版の追加・mpegの追加・コメントの追加・一部譜面記載内容修正"
 
 [[details]]
 num = "472"
@@ -21311,7 +21346,7 @@ genre = "UPTEMPO HARDCORE"
 genre_sub = "Original・Unit"
 source = "-----"
 bga = "BGA include・Self"
-charts = "CHART_3 (★x1～★x23)"
+charts = "CHART_3 (★x3～★x23)"
 bpm = "199"
 tags = [
     "7Keys",
@@ -21327,12 +21362,44 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment = "(under construction)"
+audition = ["https://soundcloud.com/supa7onyz/4hakkuh"]
+comment_updated = "2026年10月20日 13:30"
+comment = """
+(2026年10月20日 13:30 更新)
+(2026年10月20日 12:37 更新)
+(2026年10月20日 12:31 更新)
+【中文】
+在我的家乡厦门，有一个叫4GABBERZ的组织，由DJ 4D创立
+从名字和他的社媒账号里也能看得出来，这个组织的唯一目标就是宣传Gabber文化
+不为其他，只为让更多人享受这份简单高能量的快乐
+作为一个一直喜爱着Hard Dance Music的厦门人，我与一样喜爱这种舞曲文化的福州人DJ BIGWHITE（aka 潮音きつね）以及厦门人MC KIRINO（aka 七七）一起制作了这首又oldschool又现代又“鹭岛风华”的曲子
+放空身心，JUST GABBER
+——DJ NORMAL1ZER (aka Normal1zer)
+【English】
+In Xiamen, my hometown, there's one certain organization called "4GABBERZ", founded by DJ 4D.
+You may see from it's name and it's social media accounts, this crew has one and only one goal: to spread gabber culture.
+No other purpose, just getting more people enjoy this simple yet high energtic funness.
+As a Xiamenese who's always had a passion for Hard Dance Music, I teamed up with fellow Hard Dance lovers DJ BIGWHITE (aka 潮音きつね), a Fuzhounese, and MC KIRINO (aka 七七), another Xiamenese, to create this track that's somehow oldschool, modern, and full of that Amoy m0therf@$&!n' flavor all at once.
+Release your mind & JUST GABBER.
+--DJ NORMAL1ZER (aka Normal1zer)
+————————————————————
+どうもDJ BIGWHITEです。偽名作者異世界転生バトルからもう2年が経ちました。せっかくの機会なので今回はこのクソ名義を復活させました。イェーイ！
+今回スパさんの作品ではシンセサイザー周りとボーカルレコーディング関連で少しお手伝いしました。どうでしたか。やっぱりGabbaとシンセの組み合わせはうまいですね
+余談ですが、今回のMCパートは、kirinoさんの大学にあるカフェで約30分かけて一発録りしました。だんだん野外録音のスキルが身についてきた気がしますｗ
+－－DJ BIGWHITE (aka 潮音きつね)
+————————————————————
+初のMCです、よろしくお願いします！ホッキエンガバ レッツゴー‼️
+－－MC KIRINO (aka 七七)"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:58"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Edited: comment, SoundCloud link, credit, cover art"
 
 [[details]]
 num = "473"
@@ -21421,18 +21488,22 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/felix1213tw/fotf"]
-comment_updated = "2026年10月20日 00:56"
+comment_updated = "2026年10月20日 13:13"
 comment = """
-(2026年10月20日 00:56 更新)
-(2026年10月20日 00:18 更新)
+(2026年10月20日 13:13 更新)
 Music & BMS: lixound
 Other charts will be updated after 10/28🙇‍♂️
-Visualization: 5argon (Twitter/X: https://x.com/5argondesu)
+Visualization: 5argon ( Twitter/X: https://x.com/5argondesu )
 超久しぶりにBMSムービーを手伝いました、5argonです！しばらくゲームから離れていましたがいつの間にLR2の時代が終わってしまうと聞き、最新の動画フォーマットも再生できるだろうと思いこの特別な機会にぜひ参加したいと考えました。制作はとても楽しく、BlenderやResolumeの新しい機能もたくさん学ぶことができました。隠し要素として、長方形の形と間隔は4つの白鍵をイメージしています。また自宅のトイレで撮影した自分の右手の動画も登場します。
-Hello, I'm 5argon. It's been quite a while since the last time I participated in making visualization in an BMS event. I have been away from the game for long while, but I heard that this is the first time LR2 will be prohibited and so as I expect the new client able to play modern video format, I wanted to participate in this special occassion. One day I randomly scrolled past lixound recruiting a visual member and so I applied.
+Hello, I'm 5argon. It's been quite a while since the last time I participated in making visualization in an BMS event. I have been away from the game for long while, but I heard that this is the first time LR2 will be prohibited and so as I expect the new client able to play modern video format, I wanted to participate in this special occasion. One day I randomly scrolled past lixound recruiting a visual member and so I applied.
 The brief from lixound was half length upload of the song, the song is named four rectangles (even right now I do not know how to read it), and it's themed to four on the floor. And so I put four rectangles everywhere. It's been fun making this and I learned many new features in Blender and Resolume. As an easter egg, the shape and distance between them resembles the four white keys. It also features a footage of my right hand that I shot in my bathroom."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/20 00:07"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"

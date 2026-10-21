@@ -1363,7 +1363,7 @@ https://soundcloud.com/tivremisuke
 YouTube（BGAや音源などを気まぐれで投稿）
 https://www.youtube.com/channel/UC3pMoThTt8gpoAHPsNfIi8Q
 連絡用メアド（TwitterのDMが出来ない場合の問い合わせやリンク切れ報告に）
-tivdirectmass@gmail.com
+[email protected]
 Vocal:はらもりよしな
 みなさん！今日も元気に回してますか？
 ボーカルを担当させていただきました！はらもりよしなです
@@ -4351,7 +4351,7 @@ https://soundcloud.com/tivremisuke
 YouTube（BGAや音源などを気まぐれで投稿）
 https://www.youtube.com/channel/UC3pMoThTt8gpoAHPsNfIi8Q
 連絡用メアド（TwitterのDMが出来ない場合の問い合わせやリンク切れ報告に）
-tivdirectmass@gmail.com
+[email protected]
 BGI:猫詩
 皆さん、初めましてイラストを担当させていただきました猫詩と申します。
 この度はTiv様からのお誘いを頂きましてジャケットイラストとキャラクターイラストの方を制作させていただくという大変貴重な機会を頂くことが出来ました。本当にありがとうございます...！！
@@ -14879,12 +14879,18 @@ tags = [
     "Difficulty-kusofumen",
 ]
 production = "Reaper, EastWest Composer Cloud, Sylenth 1, Addictive Drums, Gamelan Banjar, 声はサンプル"
-comment_updated = "2026年10月19日 16:27"
+comment_updated = "2026年10月21日 20:27"
 comment = """
+(2026年10月21日 20:27 更新)
 (2026年10月19日 16:27 更新)
 チョウの標本、というか古のBMSみたいなやつを、現代の科学力で作りました。
 老害のみなさまには現場に戻って応援いただきたいし、若者にも応援されたいです。
 2026/10/19 16:20 JST に、ゲーム内楽曲選択時の視聴音源（#PREVIEW 命令用音源）を追加しました！"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/19 16:27"
+note = "「制作環境：」欄のアップデートと、ゲーム内楽曲選択時の視聴音源（#PREVIEW 命令用音源）の追加。"
 
 [[details.revisions]]
 ver = "1"
@@ -14892,9 +14898,9 @@ date = "2026/10/18 16:36"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "「制作環境：」欄のアップデートと、ゲーム内楽曲選択時の視聴音源（#PREVIEW 命令用音源）の追加。"
+note = "BMS内に1行不要な行が混入してしまっていたことで、特定環境でプレイが不可&#x80FD;になるバグが発見されたため、本点を修正しました。 楽曲や譜面に変化はございません。"
 
 [[details]]
 num = "301"
@@ -15499,8 +15505,9 @@ tags = [
     "Gimmick-LongNote",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 00:10"
+comment_updated = "2026年10月21日 21:13"
 comment = """
+(2026年10月21日 21:13 更新)
 (2026年10月19日 00:10 更新)
 Let me show you....
 My hope.... My dream.... My brilliance....
@@ -15509,8 +15516,13 @@ My hope.... My dream.... My brilliance....
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/18 23:45"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "譜面を追加"
 
 [[details]]
 num = "318"
@@ -15909,8 +15921,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 13:51"
+comment_updated = "2026年10月21日 21:02"
 comment = """
+(2026年10月21日 21:02 更新)
 (2026年10月19日 13:51 更新)
 感谢您能查看我的留言！
 继去年的“静かな夜、星明かりの夜”后，第二次参加bof，请多多关照！！
@@ -15918,7 +15931,7 @@ comment = """
 这首曲子融入了很多早期曲目的段落安排甚至旋律（如本曲的结尾方式），承载着许多之前的愿望、回忆和痛苦。而同时也融入了一些我个人认为比较有个人特色的曲风和段落——比如本曲第一段高潮，通过比较灵活的音色，空间穿越感强的音色组成，我自称为“AdventBrass”（其实也只是随便取的（）请不必在意）恰好很合适“冒险”的主题
 关于“Go Foward。With Yourself”，其实也算是为之前比较独来独往的自己的肯定与安慰吧…借鉴了去年bof21某首参赛曲用“。”进行命名。因为有了最近的经历，我越发觉得事情变得不可控起来，而我能做的，只有改变自己。只有自己努力才能接近想要的东西吧。所以..希望大家也能在即使只有自己的时候，不要忘记，带着自己的那一份积极地走下去！
 关于本首曲目，我最想写的曲子，是能入心的音乐，让听众能有所回味的音乐。而后再是值得被咀嚼的音乐，劲爆的音乐，有人听的音乐。我不知道我是否能做到哪怕一点，但我仍然认为我在接近吧。
-这次除了负责音乐，也同样作为“初心者”完成了spb lv.2的制作和切音的工作（-三天切音实在太累了-）也非常感谢sparkline的曲绘，yuri、zaphic、Molybdenum_S2、队长秋梦观鹤的谱面和同样来自队长的bga！
+这次除了负责音乐，也同样作为“初心者”完成了spb lv.2的制作和切音的工作（-三天切音实在太累了-）也非常感谢sparkline的曲绘，yuri、zapinc、Molybdenum_S2、队长秋梦观鹤的谱面和同样来自队长的bga！
 再次感谢您的阅读！但愿明年再见！！！
 Rain_Light 2026.10.19
 ——————————————————————————————————————————————————————————————————————————————————
@@ -15934,9 +15947,10 @@ Rain_Light 2026.10.19
 感谢所有谱师（目前情况）——
 制作了SmaSΘSeraphiM SPB/SPN | Penumbra SPB/SPN/SPH/SPA/4K A 的Mr_Command；
 制作了SmaSΘSeraphiM SPA/SPI | Go Forward。 With Yourself SPH 的Yuri；
-制作了Wraith.Mourn.Curse SPB的Zaphic；
+制作了Wraith.Mourn.Curse SPB的Zapinc；
 制作了Wraith.Mourn.Curse SPH/SPI | Go Forward。 With Yourself SPA的Molybdenum_S2；
 制作了Wraith.Mourn.Curse SPA/SPM 的baiicat；
+制作了Wraith.Mourn.Curse 特殊差分的Itz62iGD；
 制作了Go Forward。 With Yourself SPB 的Rain_Light；
 制作了剩余谱面，即SmaSΘSeraphiM SPH | Wraith.Mourn.Curse SPN | Go Forward。 With Yourself SPA的秋夢観鶴（我自己）
 另外
@@ -16172,9 +16186,10 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 01:45"
+audition = ["https://soundcloud.com/kusua_bass/its-a-vibe"]
+comment_updated = "2026年10月21日 20:30"
 comment = """
-(2026年10月20日 01:45 更新)
+(2026年10月21日 20:30 更新)
 It's a Vibe / DANCEFLOOR DRUM 'N' BASS / Kusua & ABEREXX
 Music by Kusua & ABEREXX
 BMS by Kusua
@@ -17177,8 +17192,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 16:59"
+comment_updated = "2026年10月21日 17:31"
 comment = '''
+(2026年10月21日 17:31 更新)
 (2026年10月19日 16:59 更新)
 (2026年10月19日 16:58 更新)
 (2026年10月19日 16:17 更新)
@@ -18065,8 +18081,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 22:42"
+audition = ["https://soundcloud.com/nm-y/fatefuldraw"]
+comment_updated = "2026年10月21日 17:55"
 comment = """
+(2026年10月21日 17:55 更新)
 (2026年10月19日 22:42 更新)
 THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -
 Team 「V For Vivace」
@@ -18077,14 +18095,19 @@ BMS: Kobii & Nextercise
 SPI [LEGGENDARIA]: Lv17"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/19 22:42"
+note = "YouTube"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 20:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "YouTube"
+note = "SoundCloud"
 
 [[details]]
 num = "382"
@@ -20227,15 +20250,28 @@ tags = [
     "Use-BGA",
     "Use-mpeg_movie",
     "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
     "Player-beatoraja",
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/j0-e-1/kai?si=47dfdb4e20b24d3291a2e587b1de1dfa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月19日 23:47"
+comment_updated = "2026年10月21日 19:28"
 comment = """
+(2026年10月21日 19:28 更新)
 (2026年10月19日 23:47 更新)
 (2026年10月19日 23:46 更新)
-5KEY ONLY"""
+どうも、9RANです。BOF的にはずいぶんお久しぶりですね。前回の参加となると、4年前のBOF:ETまで遡ることになります。
+誰しも似たような経験があるのではないでしょうか。まるで無限ループに囚われてしまったかのように、苦しみもがきながらも抜け出せず、やがて容赦のない時間の経過によって気力も削り取られ、足掻くことすら諦めてしまう。そして無力感に呑み込まれ、より深い静寂へと沈んでいく自分をただ見つめることしかできない──この曲で表現したかったのは、そんな情景なんです。
+そしてこれは、今回の制作過程そのものでもありました。実は一番最初、青春感のあるライトロックを作ろうとしていたのですが、どうしてもBメロの展開に納得がいかず断念。その後は友人の楽曲のRemixを作ろうと試みたものの、同じく一部の展開が気に入らず頓挫……といったことがこの数ヶ月間で何度も何度も繰り返されました。「新規プロジェクト作成 ⇒ あれこれ試す ⇒ 閉じる」という無限ループに陥り、終盤には今回のBOFへの参加を諦めかけたほどです。幸いにも、「いっそこの過程自体を曲にしてしまえばいいのでは？」と思い立ち、そうして生まれたのが今作です。
+また、今回はBGA制作にも初挑戦してみました。テーマが少しでも伝われば幸いです。そして、今回5鍵譜面のみにした理由ですが、単に時間が足りなかったからではなく、意図してそうしました。初期の5鍵時代のようなミニマルテクノをできる限り再現したくて、譜面デザインもその方向性に沿って作りました。
+コメントはこのあたりで。またご縁があれば、次回お会いしましょう〜
+嗨，我是9RAN，以BOF來說也算好久不見了吧，前一次參加還得追溯到4年前的BOF:ET。
+相信大家都有過類似的經驗，覺得自己彷彿陷入了無窮迴圈，受盡折磨卻又無法掙脫，最後在時間無情的摧殘之下，意志消磨殆盡，放棄了掙扎的念頭，只能眼睜睜看著自己被無力感吞噬，墜入更深邃的沉寂──而這便是這首曲子所想表達的意境。
+同時這也很符合這次的創作歷程，其實我最一開始是想製作青春風的輕搖滾，但是始終對於Bメロ的設計不滿意，因此作罷。後來又嘗試做朋友的歌的Remix，但是又一樣對某些段落設計不滿意，最後又停滯了。類似這樣的過程在這幾個月發生了很多很多次，總是開新專案=>點一點試一試=>關掉的無限循環，做到後面幾乎都想放棄參加這次BOF了。所幸最後轉念一想不如就把這個歷程做成一首曲子，於是就誕生了這個作品。
+順帶一題雖然是這種比較灰暗的主題，但我其實並不是想傳遞甚麼很負面的情緒，不如說正好相反，我相信總會有辦法脫離這種負面循環的，你看我這不是成功登錄了嗎(喂
+另外也第一次嘗試製作簡易的BGA，如果能更好地表達出主題那就再好不過了。至於這次為甚麼只做5K譜面，並不是單純因為時間問題趕不上，而是刻意這麼做的，這次就是想盡可能做那種早期五鍵時期的MINIMAL TECHNO，甚至就連譜面設計的邏輯也是想盡量朝這個方向嘗試。
+Comment就打到這邊吧，有緣的話我們下次見~"""
 
 [[details.revisions]]
 ver = "1"

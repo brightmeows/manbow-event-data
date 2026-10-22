@@ -17711,8 +17711,9 @@ tags = [
 ]
 production = "FL Studio"
 audition = ["https://soundcloud.com/liaoxingyao/frostlight"]
-comment_updated = "2026年10月20日 22:44"
+comment_updated = "2026年10月22日 16:24"
 comment = """
+(2026年10月22日 16:24 更新)
 (2026年10月20日 22:44 更新)
 (2026年10月20日 14:57 更新)
 Star*
@@ -17724,6 +17725,11 @@ SP ANOTHER by Star*
 【Website】
 Star* / https://twitter.com/starxh_
 Cryo-Myosotis / https://twitter.com/yoyupond"""
+
+[[details.revisions]]
+ver = "4"
+date = "2026/10/20 22:44"
+note = "Audio Visualized movie追加"
 
 [[details.revisions]]
 ver = "3"
@@ -17741,9 +17747,9 @@ date = "2026/10/19 19:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "5"
 date = ""
-note = "Audio Visualized movie追加"
+note = "新しいFrostlight backbmp.pngに置き換え"
 
 [[details]]
 num = "372"
@@ -20821,9 +20827,9 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 11:03"
+comment_updated = "2026年10月22日 16:57"
 comment = """
-(2026年10月20日 11:03 更新)
+(2026年10月22日 16:57 更新)
 ◆ DIFFICULTY
 SP BEGINNER ☆2
 SP HYPER ☆8
@@ -20832,9 +20838,9 @@ SP INSANE ☆12
 ぜひみんなもプレリを駆け回ってください！
 ◆ LINKS
 ◇ てみと (音楽/音切り)
-[small]https://x.com/Temito_10310[/small]
+https://x.com/Temito_10310
 ◇ 南すわり (バナー/ステージファイル)
-[small]https://x.com/MinamiSuwari[/small]"""
+https://x.com/MinamiSuwari"""
 
 [[details.revisions]]
 ver = "1"
@@ -20911,8 +20917,9 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 11:46"
+comment_updated = "2026年10月22日 16:58"
 comment = """
+(2026年10月22日 16:58 更新)
 (2026年10月20日 11:46 更新)
 ◆ DIFFICULTY
 SP BEGINNER ☆4
@@ -20922,7 +20929,7 @@ SP INSANE ☆12
 とりあえず楽しみましょう
 ◆ LINKS
 ◇ 南すわり (バナー/ステージファイル)
-[small]https://x.com/MinamiSuwari[/small]"""
+https://x.com/MinamiSuwari"""
 
 [[details.revisions]]
 ver = "1"
@@ -21462,8 +21469,9 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 11:29"
+comment_updated = "2026年10月22日 16:59"
 comment = '''
+(2026年10月22日 16:59 更新)
 (2026年10月20日 11:29 更新)
 ◆ DIFFICULTY
 SP BEGINNER ☆3
@@ -21479,7 +21487,7 @@ BIOLOGICAL FUNCTION 2
 キラン
 ◆ LINKS
 ◇ 南すわり (音楽/BGA)
-[small]https://x.com/MinamiSuwari[/small]'''
+https://x.com/MinamiSuwari'''
 
 [[details.revisions]]
 ver = "1"

@@ -12225,16 +12225,22 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月17日 19:43"
+comment_updated = "2026年10月23日 02:38"
 comment = """
+(2026年10月23日 02:38 更新)
 (2026年10月17日 19:43 更新)
 The beauty of nature lies in silence,erupts in an instant.
 自然的美丽蕴藏于不语，爆发于刹那"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/15 23:37"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
 
 [[details]]
 num = "247"

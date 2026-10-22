@@ -19819,6 +19819,27 @@ date = ""
 note = "初版公開"
 
 [[details]]
+num = "426"
+artist = "crossworld & K4Y5   URL"
+genre = "youth be mature"
+genre_sub = "Original・Self"
+source = "-----"
+bga = "BGI only・Self"
+charts = "CHART_3 (★x3～★x11)"
+bpm = "152"
+tags = [
+    "7Keys",
+    "-----",
+]
+production = "Young"
+comment = "Young"
+
+[[details.revisions]]
+ver = "1"
+date = ""
+note = "初版公開"
+
+[[details]]
 num = "427"
 artist = "Fugu  (movie : TRAF) URL"
 genre = "Reminisce"

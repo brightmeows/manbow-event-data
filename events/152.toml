@@ -351,13 +351,13 @@ addr = [
     "※BGAについて、mpg形式とmp4形式の両方を同梱しています。",
 ]
 genre = "EXHAUSTIVE TRANCECORE"
-impr = "13"
-total = "19312"
-total_n = "12070"
-median = "970"
-avg = "928.46"
+impr = "14"
+total = "20816"
+total_n = "13010"
+median = "960"
+avg = "929.28"
 regist = "2026/10/01 23:05"
-update = "2026/10/23 01:09"
+update = "2026/10/23 04:25"
 
 [[entries]]
 no = "21"

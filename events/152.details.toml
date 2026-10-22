@@ -11305,8 +11305,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/mizumilight/teigi"]
-comment_updated = "2026年10月20日 22:09"
+comment_updated = "2026年10月23日 00:02"
 comment = """
+(2026年10月23日 00:02 更新)
 (2026年10月20日 22:09 更新)
 +------------------------------------------------------------------------------------------------------+
 人間を、定義。
@@ -11315,15 +11316,15 @@ comment = """
 4回目のBMSです。
 人間はこの世の全てを定義します。定義が人間の歴史における現在地なのです。と、定義を定義します。
 皆さんも定義してみてください。ありがとうございました。
-Twitter : (https://x.com/Mizumilight)
-SoundCloud : (https://soundcloud.com/mizumilight)
-Youtube : (https://www.youtube.com/@mizumilight)
+Twitter : ( https://x.com/Mizumilight )
+SoundCloud : ( https://soundcloud.com/mizumilight )
+Youtube : ( https://www.youtube.com/@mizumilight )
 ▼マイトネリウム(BGA)
 毎年恒例、MizuさんのBGA3年目みたいです。
 定義する事への意義や趣を少しでも多く拾える様にビジュアルに起こしました。
 定義する事自体は簡単でも、有意にする事は容易い事では無いのです。宜しくお願いします。
-Twitter : (https://x.com/Meitnerium027)
-Youtube : (https://youtube.com/@mt_meitnerium027)
+Twitter : ( https://x.com/Meitnerium027 )
+Youtube : ( https://youtube.com/@mt_meitnerium027 )
 +------------------------------------------------------------------------------------------------------+
 BMS : Mizu
 BGA : マイトネリウム
@@ -19537,12 +19538,20 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment = "よろしくおねがいします！"
+comment_updated = "2026年10月22日 23:01"
+comment = """
+(2026年10月22日 23:01 更新)
+よろしくおねがいします！"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 22:42"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "LR2対応のためBMSファイルのBGA定義をmp4からwmvに変更。またwmvファイルがなかったため追加しました(内容はmp4と同等,URL変化なしです)"
 
 [[details]]
 num = "417"
@@ -20239,8 +20248,10 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 00:06"
+audition = ["https://soundcloud.com/user-494163689/blue-morphosis"]
+comment_updated = "2026年10月22日 23:16"
 comment = """
+(2026年10月22日 23:16 更新)
 (2026年10月20日 00:06 更新)
 (2026年10月19日 23:39 更新)
 はじめまして、Ko_proです．

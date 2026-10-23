@@ -351,13 +351,13 @@ addr = [
     "※BGAについて、mpg形式とmp4形式の両方を同梱しています。",
 ]
 genre = "EXHAUSTIVE TRANCECORE"
-impr = "15"
-total = "22496"
-total_n = "14060"
-median = "950"
-avg = "937.33"
+impr = "16"
+total = "24096"
+total_n = "15060"
+median = "960"
+avg = "941.25"
 regist = "2026/10/01 23:05"
-update = "2026/10/23 15:36"
+update = "2026/10/24 01:05"
 
 [[entries]]
 no = "21"
@@ -530,7 +530,7 @@ total_n = "9487"
 median = "889"
 avg = "790.58"
 regist = "2026/10/01 23:07"
-update = "2026/10/21 00:08"
+update = "2026/10/24 01:04"
 
 [[entries]]
 no = "31"
@@ -1218,13 +1218,13 @@ addr = [
     "https://drive.google.com/file/d/17UPXb_0g9spKrvHl0OekICCo4audxiox/view?usp=sharing",
 ]
 genre = "Artstep"
-impr = "22"
-total = "23823.4"
-total_n = "20716"
-median = "959"
-avg = "941.63"
+impr = "23"
+total = "24973.4"
+total_n = "21716"
+median = "963"
+avg = "944.17"
 regist = "2026/10/01 23:10"
-update = "2026/10/23 21:15"
+update = "2026/10/24 00:27"
 
 [[entries]]
 no = "68"
@@ -2979,13 +2979,13 @@ title = "Last song"
 size = "66883 KB"
 addr = ["https://drive.google.com/file/d/1SPQLRRnm6qQSmERHmrMUtjlRJg1qfO46/view?usp=sharing"]
 genre = "MELLOW"
-impr = "3"
-total = "3313.98"
-total_n = "2907"
-median = "995"
-avg = "969"
+impr = "4"
+total = "4446"
+total_n = "3900"
+median = "994"
+avg = "975"
 regist = "2026/10/07 23:29"
-update = "2026/10/23 21:31"
+update = "2026/10/23 23:58"
 
 [[entries]]
 no = "167"
@@ -3564,13 +3564,14 @@ team = "HardCrashOnNervousSystem"
 title = "journey through the equivalent of a large strawberry (about 50g)"
 size = "19400 KB"
 addr = [
+    "MEGA (FIXED)",
     "https://mega.nz/file/OmIUgKSR#AEULjnTzd3CX4u053EAwyMkWhgS6OsW0WO4mCdEg5w4",
     "google drive mirror if mega doesn't work:",
     "https://drive.google.com/file/d/17ygEY_vNtgOZXOjHDXUfc0KoywW8oYlx/view?usp=drive_link",
     "---",
-    "seprate bga links (just in case i need to update it, keeping things modular around here):",
+    "seprate bga links (just in case i need to update it, keeping things modular around here), the BGA is now complete (289.mb roughly) .",
     "gdrive",
-    "https://drive.google.com/file/d/1D3iOu3qaHRkuJkri1CE9j0553zhV58qq/view?usp=drive_link",
+    "https://drive.google.com/file/d/1drOdbkXYWJBpw58neCAO6oWHAkAl2LaN/view?usp=drivesdk",
     "mega:",
     "https://mega.nz/file/buBVGLZQ#oipBDP9zIDF4WHQqZKKG_UHBXlEdfckCV5B9vEqN4NA",
     "keep in mind these should zip for you...",
@@ -3582,7 +3583,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/11 10:45"
-update = "2026/10/20 13:05"
+update = "2026/10/24 01:56"
 
 [[entries]]
 no = "200"
@@ -3611,13 +3612,13 @@ addr = [
     "https://drive.google.com/file/d/1cj-1240Hh9MfDxvNyA5I9DXcCUHW25AM/view?usp=sharing",
 ]
 genre = "Hypertrance"
-impr = "2"
-total = "2288.52"
-total_n = "1956"
-median = "978"
-avg = "978"
+impr = "3"
+total = "3417.57"
+total_n = "2921"
+median = "965"
+avg = "973.66"
 regist = "2026/10/11 23:12"
-update = "2026/10/19 10:06"
+update = "2026/10/23 22:47"
 
 [[entries]]
 no = "202"
@@ -3674,7 +3675,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/12 00:23"
-update = "2026/10/17 19:44"
+update = "2026/10/24 00:38"
 
 [[entries]]
 no = "205"
@@ -4150,13 +4151,13 @@ title = "PΓIIVIAΓY"
 size = "132000 KB"
 addr = ["https://drive.google.com/file/d/1AKtl67wHVSjaZiYelkTQ_Q2zFOkmNhsE/view?usp=sharing"]
 genre = "Cho Khaos Pulseflip"
-impr = "4"
-total = "4622.67"
-total_n = "3951"
+impr = "5"
+total = "5775.12"
+total_n = "4936"
 median = "988"
-avg = "987.75"
+avg = "987.2"
 regist = "2026/10/15 09:10"
-update = "2026/10/21 08:15"
+update = "2026/10/23 22:51"
 
 [[entries]]
 no = "232"
@@ -4371,13 +4372,13 @@ title = "m. Nature's chlorofying rootwire frames"
 size = "29040 KB"
 addr = ["https://www.dropbox.com/scl/fi/jb7lsjdpwunyjiuykwihx/20-chlorofyLQ.zip?rlkey=0zq5rxiavx5p6tpo2quk1r5tg&st=vhj848id&dl=0"]
 genre = "organic drum and bass"
-impr = "4"
-total = "4607.52"
-total_n = "3972"
-median = "996"
-avg = "993"
+impr = "5"
+total = "5726.92"
+total_n = "4937"
+median = "992"
+avg = "987.4"
 regist = "2026/10/15 23:26"
-update = "2026/10/20 16:41"
+update = "2026/10/24 00:25"
 
 [[entries]]
 no = "244"
@@ -4682,13 +4683,13 @@ title = "指先忍者 vs 夜の旧校舎"
 size = "41694 KB"
 addr = ["https://drive.google.com/file/d/1Qx9z7GjYOBPwHxT9x3zxFlFtc8XCn-o7/view?usp=sharing"]
 genre = "BMS怪奇譚"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1092.5"
+total_n = "950"
+median = "950"
+avg = "950"
 regist = "2026/10/16 00:59"
-update = "2026/10/16 01:42"
+update = "2026/10/23 23:05"
 
 [[entries]]
 no = "262"
@@ -4698,13 +4699,13 @@ title = "Epiphany"
 size = "119016 KB"
 addr = ["https://drive.google.com/file/d/1uBOdrRdjKLwFvud5w4VSygmof1mxdyFb/view?usp=sharing"]
 genre = "Gothic Hardcore"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1376"
+total_n = "860"
+median = "860"
+avg = "860"
 regist = "2026/10/16 01:09"
-update = "2026/10/16 19:33"
+update = "2026/10/23 23:47"
 
 [[entries]]
 no = "263"
@@ -4972,13 +4973,13 @@ title = "Snow!Stars!"
 size = "71212 KB"
 addr = ["https://drive.google.com/file/d/1KO579MH_hNUl9Ph_wX2ExYI5sGiRXdIC/view?usp=drive_link"]
 genre = "Happy Future Core"
-impr = "1"
-total = "994.5"
-total_n = "850"
-median = "850"
-avg = "850"
+impr = "2"
+total = "1813.5"
+total_n = "1550"
+median = "775"
+avg = "775"
 regist = "2026/10/17 07:25"
-update = "2026/10/20 13:29"
+update = "2026/10/24 00:32"
 
 [[entries]]
 no = "279"
@@ -5185,13 +5186,13 @@ addr = [
     "//beatoraja用に高画質BGA(mp4)を同梱しています。お好きな方をお選びください！",
 ]
 genre = "Happy Hardcore"
-impr = "15"
-total = "23528"
-total_n = "14705"
-median = "990"
-avg = "980.33"
+impr = "17"
+total = "26724.8"
+total_n = "16703"
+median = "998"
+avg = "982.52"
 regist = "2026/10/17 19:55"
-update = "2026/10/23 19:25"
+update = "2026/10/24 00:36"
 
 [[entries]]
 no = "290"
@@ -5646,7 +5647,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/18 23:37"
-update = "2026/10/18 23:37"
+update = "2026/10/23 23:02"
 
 [[entries]]
 no = "317"
@@ -6056,7 +6057,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/19 08:09"
-update = "2026/10/19 08:09"
+update = "2026/10/23 23:24"
 
 [[entries]]
 no = "340"
@@ -6281,13 +6282,13 @@ title = "僕と君と、天気雨"
 size = "237875 KB"
 addr = ["https://drive.google.com/file/d/13R0uc0d_tGnWjvnI3MeT263R-ilXzUUA/view?usp=sharing"]
 genre = "レイニーポップ"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1571.2"
+total_n = "982"
+median = "982"
+avg = "982"
 regist = "2026/10/19 14:52"
-update = "2026/10/19 17:53"
+update = "2026/10/23 23:01"
 
 [[entries]]
 no = "353"
@@ -6849,13 +6850,13 @@ addr = [
     "https://drive.google.com/file/d/1VzG8VLQ1cQ-yByqORqL9CCxlZix1Igvq/view?usp=drive_link",
 ]
 genre = "Pandemixia"
-impr = "2"
-total = "2291.95"
-total_n = "1993"
-median = "996.5"
-avg = "996.5"
+impr = "3"
+total = "3424.7"
+total_n = "2978"
+median = "995"
+avg = "992.66"
 regist = "2026/10/19 20:57"
-update = "2026/10/23 17:46"
+update = "2026/10/23 22:58"
 
 [[entries]]
 no = "385"
@@ -6952,13 +6953,13 @@ title = "0×塔"
 size = "155700 KB"
 addr = ["https://drive.google.com/file/d/19b5IIEsEnTY59Sw96nmOR52WvA0BKIFg/view?usp=drive_link"]
 genre = "root"
-impr = "6"
-total = "6788.45"
-total_n = "5903"
-median = "992.5"
-avg = "983.83"
+impr = "8"
+total = "9057.4"
+total_n = "7876"
+median = "990"
+avg = "984.5"
 regist = "2026/10/19 21:31"
-update = "2026/10/23 17:38"
+update = "2026/10/24 00:37"
 
 [[entries]]
 no = "391"
@@ -7458,13 +7459,13 @@ title = "ELECTROCUTE"
 size = "84000 KB"
 addr = ["https://drive.google.com/file/d/1gLql46mkRMMukP58B3_u5yWr-FsE0rKF/view?usp=sharing"]
 genre = "Schranz"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1542.4"
+total_n = "964"
+median = "964"
+avg = "964"
 regist = "2026/10/19 22:50"
-update = "2026/10/19 22:50"
+update = "2026/10/23 22:53"
 
 [[entries]]
 no = "420"
@@ -7495,13 +7496,13 @@ title = "恋"
 size = "38500 KB"
 addr = ["https://www.dropbox.com/scl/fi/4fh1ow0v2yjqp8d4962jp/yuta_2026_noid.zip?rlkey=pszpvi1qvyyti782bndk43fn4&dl=1"]
 genre = "Happy Hardcore"
-impr = "2"
-total = "2211.3"
-total_n = "1890"
-median = "945"
-avg = "945"
+impr = "3"
+total = "3333.33"
+total_n = "2849"
+median = "959"
+avg = "949.66"
 regist = "2026/10/19 22:53"
-update = "2026/10/20 22:55"
+update = "2026/10/23 23:04"
 
 [[entries]]
 no = "422"
@@ -7557,13 +7558,13 @@ addr = [
     "https://drive.google.com/file/d/1KMKdnCXx2nXFqjZ_c-aN4jdEDjMFBpQS/view?usp=sharing",
 ]
 genre = "音ゲーマー耐久試験"
-impr = "4"
-total = "3322.8"
-total_n = "2840"
-median = "720"
-avg = "710"
+impr = "5"
+total = "4274.01"
+total_n = "3653"
+median = "800"
+avg = "730.6"
 regist = "2026/10/19 23:01"
-update = "2026/10/21 00:52"
+update = "2026/10/23 22:59"
 
 [[entries]]
 no = "425"
@@ -7692,7 +7693,7 @@ total_n = "960"
 median = "960"
 avg = "960"
 regist = "2026/10/19 23:24"
-update = "2026/10/20 18:12"
+update = "2026/10/23 22:58"
 
 [[entries]]
 no = "432"
@@ -7864,13 +7865,13 @@ title = "BACK HOME"
 size = "45400 KB"
 addr = ["https://drive.google.com/drive/folders/1Bo7Gy-cNde4er91LT9CTbCfHUnU_3tu8?usp=drive_link"]
 genre = "Midtempo Bass"
-impr = "1"
-total = "1794.6"
-total_n = "997"
-median = "997"
-avg = "997"
+impr = "2"
+total = "3540.6"
+total_n = "1967"
+median = "983.5"
+avg = "983.5"
 regist = "2026/10/19 23:41"
-update = "2026/10/20 13:25"
+update = "2026/10/24 00:08"
 
 [[entries]]
 no = "442"
@@ -7995,13 +7996,13 @@ title = "LLM"
 size = "52513 KB"
 addr = ["https://drive.google.com/file/d/1M5pXUxiVNQn6v30j9RqftXJzGTZGHIZB/view"]
 genre = "Look Loop Moon"
-impr = "6"
-total = "9238.4"
-total_n = "5774"
-median = "992.5"
-avg = "962.33"
+impr = "7"
+total = "10761.6"
+total_n = "6726"
+median = "990"
+avg = "960.85"
 regist = "2026/10/19 23:46"
-update = "2026/10/23 18:23"
+update = "2026/10/23 22:55"
 
 [[entries]]
 no = "450"
@@ -8180,13 +8181,13 @@ addr = [
     "https://drive.google.com/file/d/1reqab-ugiBUq6Oipc9zGSijvpuEvTYwn/view?usp=drive_link",
 ]
 genre = "HYPER ELEMENTS GOTHiC METAL"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1113.2"
+total_n = "968"
+median = "968"
+avg = "968"
 regist = "2026/10/19 23:53"
-update = "2026/10/19 23:53"
+update = "2026/10/23 23:08"
 
 [[entries]]
 no = "460"
@@ -8265,7 +8266,7 @@ total_n = "2835"
 median = "925"
 avg = "945"
 regist = "2026/10/19 23:56"
-update = "2026/10/23 17:49"
+update = "2026/10/23 22:57"
 
 [[entries]]
 no = "464"
@@ -8294,13 +8295,13 @@ addr = [
     "https://drive.google.com/file/d/1CyjZtbEEJvs0t1CDj2dgjr9KNNMomdK5/view?usp=sharing",
 ]
 genre = "Dramatical"
-impr = "4"
-total = "4565.76"
-total_n = "3936"
-median = "983.5"
-avg = "984"
+impr = "5"
+total = "5679.36"
+total_n = "4896"
+median = "977"
+avg = "979.2"
 regist = "2026/10/19 23:56"
-update = "2026/10/23 17:32"
+update = "2026/10/23 22:54"
 
 [[entries]]
 no = "466"
@@ -8424,7 +8425,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/19 23:58"
-update = "2026/10/20 13:30"
+update = "2026/10/23 22:51"
 
 [[entries]]
 no = "473"

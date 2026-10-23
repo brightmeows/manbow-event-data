@@ -1610,15 +1610,13 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/doanob/topgear?si=223a7038185a4c20bdf63a73d6ecba47&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月09日 19:31"
+comment_updated = "2026年10月24日 01:04"
 comment = """
-(2026年10月09日 19:31 更新)
--フレーバーテキスト-
+(2026年10月24日 01:04 更新)
 この世すべてのマシンを遥かに凌ぐパワーを持つ「デーモン・エンジン」
 「デーモン・エンジン」は搭乗者に資質を問う
 お前は無謀な挑戦者
 精々足搔くといい
--譜面説明-
 「デーモン・エンジン」はAnotherのハードクリア以上をご所望だ。イージークリアなどでは真に資質を認められることはないだろう。
 しかし、「デーモン・エンジン」は弱者にも寛容である。HyperやNormalモードでの挑戦は可能だ。
 -作者コメント-
@@ -9892,8 +9890,11 @@ tags = [
 ]
 production = "fl studio, initially ubmsc and sayaslicer, moved to befriend later."
 audition = ["https://soundcloud.com/user-147879028/largestrawberry"]
-comment_updated = "2026年10月19日 20:25"
+comment_updated = "2026年10月24日 01:56"
 comment = """
+(2026年10月24日 01:56 更新)
+(2026年10月24日 00:46 更新)
+(2026年10月24日 00:44 更新)
 (2026年10月19日 20:25 更新)
 (2026年10月17日 09:48 更新)
 (2026年10月17日 09:07 更新)
@@ -9910,6 +9911,21 @@ so this sounded sort of techno but obviously had harcore elements, and i was stu
 for beginner, i wanted to think about what my little brother would be comfortable with, since he's 10.
 for normal, i was thinking what would a grown casual would think, well, i wanted to make it normal enough so that you had some skill to play it of course, once you have a grasp on BMS.
 for the edit... well... the talented charter (1/8) really went wild with the soflans, huh."""
+
+[[details.revisions]]
+ver = "14"
+date = "2026/10/24 00:46"
+note = "just some fixes and data."
+
+[[details.revisions]]
+ver = "13"
+date = "2026/10/24 00:44"
+note = "Bga done, link fixes, etc."
+
+[[details.revisions]]
+ver = "12"
+date = "2026/10/17 09:48"
+note = "added another chart! have fun!"
 
 [[details.revisions]]
 ver = "11"
@@ -9967,9 +9983,9 @@ date = "2026/10/11 10:45"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "12"
+ver = "15"
 date = ""
-note = "added another chart! have fun!"
+note = "BGAを追加"
 
 [[details]]
 num = "200"
@@ -10200,12 +10216,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月17日 19:44"
+comment_updated = "2026年10月24日 00:38"
 comment = """
-(2026年10月17日 19:44 更新)
-(2026年10月12日 08:37 更新)
-(2026年10月12日 08:35 更新)
-progrissive"""
+(2026年10月24日 00:38 更新)
+Progressive"""
 
 [[details.revisions]]
 ver = "1"

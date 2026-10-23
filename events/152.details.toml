@@ -4602,10 +4602,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/tendoncutter/bof22"]
-comment_updated = "2026年10月16日 02:43"
+comment_updated = "2026年10月23日 20:05"
 comment = """
-(2026年10月16日 02:43 更新)
-(2026年10月16日 00:52 更新)
+(2026年10月23日 20:05 更新)
 [music]
 TendonCutter - https://x.com/TendonCutter0
 [Vocal]
@@ -12391,8 +12390,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 23:30"
+comment_updated = "2026年10月23日 20:24"
 comment = """
+(2026年10月23日 20:24 更新)
 (2026年10月16日 23:30 更新)
 [music]
 Connexio - https://x.com/connexio_c
@@ -14857,6 +14857,7 @@ tags = [
     "7Keys",
     "14Keys",
     "Lang-JP",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Gimmick-LongNote",
@@ -14867,7 +14868,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "／￣￣|＝＝＝＝＝＝＝＝＝＝＝＝|￣￣｀X'¨7　.|　 ／￣　　　　　　　　　　　　　　　　　　￣｀X´|_ノ＿＿__　.|＿|　　ハルトマンワークスカンパニー　／-─二＝、　　＼　　||　　　　　　　　社員募集　　　　　　　/／￣　　　　 ｀フ=､　＼　｡oi￣￣7　　||　　　　　　　　　　　　　　　　　　　　／　 　 　 　 　 ,X　　 i｡o≦　..| 　　/　　||　　パイオニアスタッフ　 ,r=､　　 .i　　　　　 ＿,／ _ |／ .|　　　　| 　 /　　||　　・月給86万ハルトマi'　　 i　　|　|｀t¨ヾ¨　　 ／:ヽ|　　|　 ／i￣￣　　||　　 ※固定残業代86時)　　 .i　 .|　|　|::::::i　　 /::::::::::|　　|／ヽ |　　||　　・週休2日制 　 　   (＿_ノ-=,,,|　| 弋ツ　　弋;;;;ツ|　　| ＼ !　｀＝==ｧ　　||　　　　　　　　　　　　　　　　　＼ 　.| .|＼　　　　　　＿|　 |=-‐'　　　　／　　||　　学歴不問！未経験歓迎！＼.|/　_ノヽ¨i¨ア´ ／| ./　　　　　／　.|￣|　若手が活躍するアットホームな職＼＿ﾞi´　 i´　 |/＿＿＿／　.|　 ＼＿　　　　　　　　　　　　　　　　　　＿／ ノ　　　＞''''''｀ヾi　 ＼＿＿|＝＝＝＝＝＝＝＝＝＝＝＝|＿＿｀i､/＼__|　　　ノ |　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 !､:::::::::::i｀─´-''　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ::::::ヽ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾉ:::i|:::::ﾉ　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ￣ .￣"
+comment_updated = "2026年10月23日 21:12"
 comment = """
+(2026年10月23日 21:12 更新)
 あの ピンクのゲンジュウ民の おかげで
 今日も ザンギョウだ・・・
 ☆★☆
@@ -17690,7 +17693,9 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
+comment_updated = "2026年10月23日 18:07"
 comment = """
+(2026年10月23日 18:07 更新)
 A Cozy Cottage In A Little Glade Sheltered From The Storm / INDIE POP / Koto Spirit
 BMS & music by Koto Spirit
 BG image & video by mitaiiii
@@ -17707,8 +17712,13 @@ AZVW_2 / https://twitter.com/AZVW_2"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 19:33"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "新しいA Cozy Cottage back.pngに置き換え"
 
 [[details]]
 num = "371"

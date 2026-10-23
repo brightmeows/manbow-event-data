@@ -15076,8 +15076,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月18日 18:55"
+comment_updated = "2026年10月23日 12:40"
 comment = """
+(2026年10月23日 12:40 更新)
 (2026年10月18日 18:55 更新)
 (2026年10月18日 18:49 更新)
 SP Beginner 2
@@ -15089,8 +15090,13 @@ obj:YiMeng.emo
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/18 18:07"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加"
 
 [[details]]
 num = "306"
@@ -17569,23 +17575,26 @@ artist = "kdcysth x shiryusu_ x yuzamei.   URL"
 genre = "when you hear…"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Self"
+bga = "BGA include・Unit"
 charts = "CHART_2 (★x8～★x8)"
 bpm = "140"
 tags = [
     "7Keys",
     "Lang-US",
     "Lang-SCN",
-    "Use-BGI",
+    "Use-BGA",
     "Use-ogg",
+    "Use-wmv_movie",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Player-LR2",
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 23:41"
+comment_updated = "2026年10月23日 11:36"
 comment = """
+(2026年10月23日 11:36 更新)
+(2026年10月23日 11:28 更新)
 (2026年10月19日 23:41 更新)
 hi dear mortals how could you do this to someone you love would you like to grow a little bit
 i saw billions of passer-by who are fully ignorant of you and i didn‘t meant to instigate you to hurt some of them
@@ -17593,8 +17602,13 @@ so close your eyes then we could meet each other in a better place where stored 
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 18:56"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGAを追加し、譜面の内容は変更していない。"
 
 [[details]]
 num = "369"

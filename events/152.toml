@@ -351,13 +351,13 @@ addr = [
     "※BGAについて、mpg形式とmp4形式の両方を同梱しています。",
 ]
 genre = "EXHAUSTIVE TRANCECORE"
-impr = "14"
-total = "20816"
-total_n = "13010"
+impr = "13"
+total = "19856"
+total_n = "12410"
 median = "960"
-avg = "929.28"
+avg = "954.61"
 regist = "2026/10/01 23:05"
-update = "2026/10/23 04:25"
+update = "2026/10/23 08:16"
 
 [[entries]]
 no = "21"
@@ -1396,13 +1396,13 @@ title = "/*digit_realm."
 size = "82196 KB"
 addr = ["https://drive.google.com/file/d/1raxNH0X2yfx1bBN_vXa87LZ3rwYtaogd/view?usp=sharing"]
 genre = ".U3O_+rance/"
-impr = "13"
-total = "13896.6"
-total_n = "12084"
+impr = "14"
+total = "15035.1"
+total_n = "13074"
 median = "960"
-avg = "929.53"
+avg = "933.85"
 regist = "2026/10/01 23:11"
-update = "2026/10/23 00:51"
+update = "2026/10/23 09:49"
 
 [[entries]]
 no = "78"
@@ -3297,13 +3297,13 @@ addr = [
     "If you are still using LR2 beta3 version 100201, please download LR2_chainload and LRbase62 mod to make LR2 loading BMS correctly. )",
 ]
 genre = "LIFE STREAM"
-impr = "10"
-total = "15616"
-total_n = "9760"
+impr = "11"
+total = "17208"
+total_n = "10755"
 median = "990"
-avg = "976"
+avg = "977.72"
 regist = "2026/10/09 15:03"
-update = "2026/10/23 00:41"
+update = "2026/10/23 09:39"
 
 [[entries]]
 no = "184"
@@ -4832,13 +4832,13 @@ addr = [
     "※ファイルサイズはすべて解凍後の容量です。",
 ]
 genre = "NEO HYPERTRANCE"
-impr = "5"
-total = "8812.8"
-total_n = "4896"
-median = "999"
-avg = "979.2"
+impr = "6"
+total = "10558.8"
+total_n = "5866"
+median = "998"
+avg = "977.66"
 regist = "2026/10/16 18:52"
-update = "2026/10/21 16:46"
+update = "2026/10/23 08:54"
 
 [[entries]]
 no = "271"
@@ -5165,13 +5165,13 @@ addr = [
     "https://drive.google.com/file/d/1VmqWsnqAXTPvKcDH12AHQxUkUXk_TnUm/view?usp=sharing",
 ]
 genre = "COREFLAME UPLIFTING TRANCE"
-impr = "2"
-total = "3196.8"
-total_n = "1998"
-median = "999"
-avg = "999"
+impr = "3"
+total = "4788.8"
+total_n = "2993"
+median = "998"
+avg = "997.66"
 regist = "2026/10/17 19:45"
-update = "2026/10/22 00:10"
+update = "2026/10/23 09:27"
 
 [[entries]]
 no = "289"
@@ -5185,13 +5185,13 @@ addr = [
     "//beatoraja用に高画質BGA(mp4)を同梱しています。お好きな方をお選びください！",
 ]
 genre = "Happy Hardcore"
-impr = "12"
-total = "19064"
-total_n = "11915"
-median = "995"
-avg = "992.91"
+impr = "13"
+total = "20648"
+total_n = "12905"
+median = "990"
+avg = "992.69"
 regist = "2026/10/17 19:55"
-update = "2026/10/23 00:45"
+update = "2026/10/23 09:42"
 
 [[entries]]
 no = "290"
@@ -8294,13 +8294,13 @@ addr = [
     "https://drive.google.com/file/d/1CyjZtbEEJvs0t1CDj2dgjr9KNNMomdK5/view?usp=sharing",
 ]
 genre = "Dramatical"
-impr = "2"
-total = "2284.04"
-total_n = "1969"
-median = "984.5"
-avg = "984.5"
+impr = "3"
+total = "3417.36"
+total_n = "2946"
+median = "977"
+avg = "982"
 regist = "2026/10/19 23:56"
-update = "2026/10/21 16:11"
+update = "2026/10/23 08:32"
 
 [[entries]]
 no = "466"

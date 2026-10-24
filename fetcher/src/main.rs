@@ -11,7 +11,7 @@ use std::{
     time::Duration,
 };
 
-use anyhow::{Context, Result};
+use anyhow::{Context, Result, bail};
 use clap::Parser;
 use log::{error, info, warn};
 
@@ -201,6 +201,9 @@ async fn run_events(args: &Args) -> Result<()> {
     }
 
     info!("完成: {succeeded} 成功, {failed} 失败");
+    if failed > 0 {
+        bail!("{failed} 个事件抓取失败");
+    }
     Ok(())
 }
 

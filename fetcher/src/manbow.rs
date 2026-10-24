@@ -5,10 +5,13 @@
 
 use std::{
     collections::{HashMap, HashSet},
+    hash::BuildHasher,
     sync::OnceLock,
+    time::Duration,
 };
 
 use anyhow::{Context, Result, bail};
+use log::warn;
 use regex::Regex;
 use scraper::{ElementRef, Html, Selector};
 
@@ -67,26 +70,97 @@ pub(crate) fn team_profile_sub_url(event_id: &str, team_id: &str) -> String {
     format!("{BASE_URL}/event_teamprofile.cgi?event={event_id}&team={team_id}")
 }
 
+/// 瞬时故障（连接中断、5xx、429）的最大重试次数，不含首次请求。
+const FETCH_RETRIES: usize = 3;
+
+/// 重试退避序列（毫秒），指数递增；实际等待叠加至多 25% 抖动。
+const RETRY_BACKOFF_MS: [u64; FETCH_RETRIES] = [1_000, 4_000, 16_000];
+
+/// 非 2xx 响应错误；保留状态码供重试层判别可重试性。
+#[derive(Debug)]
+struct StatusError {
+    status: reqwest::StatusCode,
+    url: String,
+}
+
+impl std::fmt::Display for StatusError {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "HTTP {}: {}", self.status, self.url)
+    }
+}
+
+impl std::error::Error for StatusError {}
+
+/// 判别错误是否值得重试：5xx、429 与无状态码的传输层故障可重试，其余 4xx 不重试。
+fn is_transient(err: &anyhow::Error) -> bool {
+    let retryable_status =
+        |status: reqwest::StatusCode| status.is_server_error() || status.as_u16() == 429;
+    if let Some(e) = err.downcast_ref::<StatusError>() {
+        return retryable_status(e.status);
+    }
+    // 带 context 包装的传输层错误要从错误链里找 reqwest::Error
+    err.chain()
+        .find_map(|cause| cause.downcast_ref::<reqwest::Error>())
+        .is_some_and(|e| e.status().is_none_or(retryable_status))
+}
+
+/// 退避叠加至多 25% 的抖动，错开多 runner 的同步重试。
+fn backoff_with_jitter(base_ms: u64) -> Duration {
+    let jitter_percent = std::collections::hash_map::RandomState::new().hash_one(base_ms) % 25;
+    Duration::from_millis(base_ms + base_ms * jitter_percent / 100)
+}
+
 /// 抓取 URL 并按页面自声明编码解码为文本。
+///
+/// 传输层故障与 5xx、429 视为瞬时故障，按退避序列重试；
+/// 其余 4xx 视为页面确实不存在，立即失败。
 pub(crate) async fn fetch_text(url: &str) -> Result<String> {
+    fetch_with_retry(url, &RETRY_BACKOFF_MS).await
+}
+
+async fn fetch_with_retry(url: &str, backoffs_ms: &[u64]) -> Result<String> {
+    let attempts = backoffs_ms.len();
+    let mut retry = 0;
+    loop {
+        match fetch_once(url).await {
+            Ok(text) => return Ok(text),
+            Err(e) if retry < attempts && is_transient(&e) => {
+                let backoff = backoff_with_jitter(backoffs_ms[retry]);
+                warn!(
+                    "瞬时故障，{backoff:?} 后重试（第 {}/{attempts} 次）: {url}",
+                    retry + 1
+                );
+                tokio::time::sleep(backoff).await;
+                retry += 1;
+            }
+            Err(e) => return Err(e),
+        }
+    }
+}
+
+async fn fetch_once(url: &str) -> Result<String> {
     let response = reqwest::get(url)
         .await
         .with_context(|| format!("请求失败: {url}"))?;
+
+    let status = response.status();
+    if !status.is_success() {
+        return Err(StatusError {
+            status,
+            url: url.to_string(),
+        }
+        .into());
+    }
 
     let content_type = response
         .headers()
         .get(reqwest::header::CONTENT_TYPE)
         .and_then(|value| value.to_str().ok())
         .map(str::to_string);
-    let status = response.status();
     let bytes = response
         .bytes()
         .await
         .with_context(|| format!("读取响应失败: {url}"))?;
-
-    if !status.is_success() {
-        bail!("HTTP {status}: {url}");
-    }
 
     Ok(decode_html(&bytes, content_type.as_deref()))
 }
@@ -856,4 +930,76 @@ fn html_to_text(html: &str) -> String {
         .filter(|line| !line.is_empty())
         .collect::<Vec<_>>()
         .join("\n")
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use tokio::io::{AsyncReadExt, AsyncWriteExt};
+    use tokio::net::TcpListener;
+
+    /// 本地假 HTTP 服务器：按给定状态码序列逐个应答 GET，返回 URL 与实际服务次数。
+    /// 测试用短退避序列驱动 `fetch_with_retry`，不触真实网络。
+    async fn serve(statuses: Vec<u16>) -> (String, tokio::task::JoinHandle<usize>) {
+        let listener = TcpListener::bind("127.0.0.1:0").await.unwrap();
+        let addr = listener.local_addr().unwrap();
+        let handle = tokio::spawn(async move {
+            let mut served = 0;
+            for &status in &statuses {
+                let (mut sock, _) = listener.accept().await.unwrap();
+                let mut buf = [0_u8; 4096];
+                let _read = sock.read(&mut buf).await.unwrap();
+                let body = format!("page-{served}");
+                let response = format!(
+                    "HTTP/1.1 {status} test\r\ncontent-type: text/plain\r\ncontent-length: {}\r\nconnection: close\r\n\r\n{body}",
+                    body.len()
+                );
+                sock.write_all(response.as_bytes()).await.unwrap();
+                sock.shutdown().await.unwrap();
+                served += 1;
+            }
+            served
+        });
+        (format!("http://{addr}/"), handle)
+    }
+
+    fn status_err(code: u16) -> anyhow::Error {
+        anyhow::Error::new(StatusError {
+            status: reqwest::StatusCode::from_u16(code).unwrap(),
+            url: "http://test/".to_string(),
+        })
+    }
+
+    #[tokio::test]
+    async fn retry_succeeds_after_server_error() {
+        let (url, server) = serve(vec![500, 200]).await;
+        let text = fetch_with_retry(&url, &[1]).await.unwrap();
+        assert_eq!(text, "page-1");
+        assert_eq!(server.await.unwrap(), 2);
+    }
+
+    #[tokio::test]
+    async fn client_error_fails_without_retry() {
+        let (url, server) = serve(vec![404]).await;
+        let err = fetch_with_retry(&url, &[1, 1]).await.unwrap_err();
+        assert!(err.to_string().contains("404"), "{err:#}");
+        assert_eq!(server.await.unwrap(), 1);
+    }
+
+    #[tokio::test]
+    async fn transient_failures_exhaust_retries() {
+        let (url, server) = serve(vec![503, 503, 503, 503]).await;
+        let err = fetch_with_retry(&url, &[1, 1, 1]).await.unwrap_err();
+        assert!(err.to_string().contains("503"), "{err:#}");
+        assert_eq!(server.await.unwrap(), 4);
+    }
+
+    #[test]
+    fn transient_classification_matches_consensus() {
+        assert!(is_transient(&status_err(500)));
+        assert!(is_transient(&status_err(429)));
+        assert!(!is_transient(&status_err(404)));
+        // 与抓取无关的错误（如解析失败）不重试
+        assert!(!is_transient(&anyhow::anyhow!("解析失败")));
+    }
 }

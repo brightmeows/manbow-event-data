@@ -79,8 +79,18 @@ jobs:
             automated
 
       - name: Enable Pull Request Automerge (152)
-        if: steps.create-pr-152.outputs.pull-request-operation == 'created'
-        run: gh pr merge "$PR_NUMBER" --auto --squash
+        # created 与 updated 都挂：updated 时 PR 已存在但可能缺 automerge；
+        # 合并竞态会让 --auto 偶发报 Base branch was modified，步内重试消化
+        if: steps.create-pr-152.outputs.pull-request-operation != 'skipped'
+        run: |
+          for i in 1 2 3; do
+            if gh pr merge "$PR_NUMBER" --auto --squash; then
+              exit 0
+            fi
+            echo "automerge 第 $i 次失败，20 秒后重试" >&2
+            sleep 20
+          done
+          exit 1
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ steps.create-pr-152.outputs.pull-request-number }}
@@ -103,8 +113,16 @@ jobs:
             automated
 
       - name: Enable Pull Request Automerge (153)
-        if: steps.create-pr-153.outputs.pull-request-operation == 'created'
-        run: gh pr merge "$PR_NUMBER" --auto --squash
+        if: steps.create-pr-153.outputs.pull-request-operation != 'skipped'
+        run: |
+          for i in 1 2 3; do
+            if gh pr merge "$PR_NUMBER" --auto --squash; then
+              exit 0
+            fi
+            echo "automerge 第 $i 次失败，20 秒后重试" >&2
+            sleep 20
+          done
+          exit 1
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ steps.create-pr-153.outputs.pull-request-number }}

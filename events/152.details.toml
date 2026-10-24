@@ -19005,17 +19005,31 @@ bpm = "110"
 tags = [
     "7Keys",
     "Lang-US",
+    "Audition-Sound",
+    "Use-BGA",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Player-LR2",
     "Player-beatoraja",
 ]
 production = "Cubase 14"
+comment_updated = "2026年10月24日 12:54"
 comment = """
+(2026年10月24日 12:54 更新)
 正直、異例で馴染みのないジャンルではありますが、だからこそ面白いのではないでしょうか？ボンゴのリズム感を感じていただけたらと思います！
 To be honest, it’s an unusual and unfamiliar genre—but isn’t that exactly what makes it fun? I hope you’ll enjoy the rhythmic feel of the bongo!"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 22:01"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Soundcloud のリンクを追加し、簡単なタグ修正を行いました。"
 
 [[details]]
 num = "403"
@@ -20583,6 +20597,7 @@ bpm = "180"
 tags = [
     "7Keys",
     "Lang-US",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Difficulty-beginner",
@@ -20591,10 +20606,24 @@ tags = [
     "Player-beatoraja",
 ]
 production = "FruityLoops"
+comment_updated = "2026年10月24日 14:31"
 comment = """
+(2026年10月24日 14:31 更新)
 this is my first bms with lyrics!! ^^
+the lyrics are gibberish. next time I'll try to write an english song :D :D
 hugeee thank you to yume lee for the precious vocals and 5m0r3cross for the stunning illustration!
-more comments (and charts) coming soon!"""
+I named the song "ARTCORE BREAKS" because initially I wanted to name it "ArtBreaks", a genre made by Sakuzyo. realization wait... who the hell is Sakuzyo?
+I used to be a big fan of waterflame, and hearing his songs in his early career, I think it sounds a bit like artcore??? so I sort of combined artcore and the kind of orchestral drum and bass music waterflame makes back then ;)
+-- LYRICS --
+un ernist calv mulnirr
+yhar, viel dessta
+var, unnwel instidralis
+mulnirr estro
+yhar vie varell ti
+cognasta mit virtua
+noel vista trilia until
+nuhf larissa
+more charts coming soon!"""
 
 [[details.revisions]]
 ver = "1"

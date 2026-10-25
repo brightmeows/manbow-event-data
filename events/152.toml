@@ -248,13 +248,13 @@ title = "Planet Rave"
 size = "80600 KB"
 addr = ["https://drive.google.com/file/d/1o0eCkYLnvC4xDjPJe5mezdQUzRk7hzlK/view?usp=sharing"]
 genre = "MEGA MIX"
-impr = "30"
-total = "33210.45"
-total_n = "28385"
-median = "962.5"
-avg = "946.16"
+impr = "31"
+total = "34380.45"
+total_n = "29385"
+median = "965"
+avg = "947.9"
 regist = "2026/10/01 23:04"
-update = "2026/10/26 04:20"
+update = "2026/10/26 05:01"
 
 [[entries]]
 no = "15"
@@ -4514,7 +4514,7 @@ total_n = "1800"
 median = "900"
 avg = "900"
 regist = "2026/10/15 23:49"
-update = "2026/10/18 02:20"
+update = "2026/10/26 07:37"
 
 [[entries]]
 no = "252"

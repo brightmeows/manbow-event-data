@@ -15681,7 +15681,7 @@ genre = "MacGuffin"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_3 (★x3～★x8)"
+charts = "CHART_3 (★x2～★x8)"
 bpm = "134"
 tags = [
     "5Keys",
@@ -15702,8 +15702,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/macguffin4983/macguffin-26-2"]
-comment_updated = "2026年10月19日 21:05"
+comment_updated = "2026年10月25日 23:56"
 comment = """
+(2026年10月25日 23:56 更新)
 (2026年10月19日 21:05 更新)
 (2026年10月19日 07:47 更新)
 (2026年10月19日 07:45 更新)
@@ -18389,7 +18390,12 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment = "モチくん & kitsunetコンビ製作BMS２連打目〜 ネコロボがお使いのパソコンで暴れまくります！"
+audition = ["https://soundcloud.com/koipond/electroworld"]
+comment_updated = "2026年10月26日 00:03"
+comment = """
+(2026年10月26日 00:03 更新)
+(2026年10月25日 23:50 更新)
+モチくん & kitsunetコンビ製作BMS２連打目〜 ネコロボがお使いのパソコンで暴れまくります！"""
 
 [[details.revisions]]
 ver = "1"

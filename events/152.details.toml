@@ -21279,7 +21279,7 @@ artist = "vermo (a.k.a tami)  (movie : SENALI) URL"
 genre = "HYPERPOP"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Other"
+bga = "BGA include・Other"
 charts = "CHART_3 (★x2～★x47)"
 bpm = "142"
 tags = [
@@ -21292,12 +21292,35 @@ tags = [
     "Difficulty-intermediate",
 ]
 production = "非公開"
-comment = "（いろいろ忙しくて後で書きます！！）"
+comment_updated = "2026年10月25日 19:20"
+comment = """
+(2026年10月25日 19:20 更新)
+BOF22をお楽しみの皆様へ
+はじめまして、vermo（ヴァーモ）と申します。
+「真紅」を意味する「vermillion（バーミリオン）」という単語に由来する名前です。
+さてこれがvermoとしてのデビュー曲、ということでしょうか。
+実は2年前、令和ロック年を記念するためにロックな子と会いたかったですが
+長い時を経てそれとは180°違う、超かわいい子と出会うことになりました。
+……
+とはいえ、まあ結局最後にギター入ったし180°まででもないか…w
+ということは、単にかわいいだけではなく、芯の通った強い子っていう事でしょうか。
+ともあれ、海へでも向かうような心持ちで あちこちを彷徨い歩いた末に、ここにたどり着きました。
+こここそ私が今まで求めていた海だったのかもしれません。
+結構厳しいスケジュールでしたが
+一緒に参戦してくださったチームの皆さん
+そして特にムービーを担当してくださったSENALIさん 本当にありがとうございました、 皆さんのおかげでやっと世界の光を浴びました。
+それでは遊んでくれると嬉しいです。
+これからもvermo（ヴァーモ）をよろしくお願いいたします。"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:56"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "BGA追加"
 
 [[details]]
 num = "465"

@@ -32,13 +32,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/l8p13xrd9uylvpysqiexq/_ALYA_-_compact_.zip?rlkey=gmbn01213cl7th45a48efcr79&st=sumj9dyg&dl=1",
 ]
 genre = "Botanical Hi-Tech"
-impr = "32"
-total = "35140.8"
-total_n = "29284"
-median = "935"
-avg = "915.12"
+impr = "33"
+total = "36292.8"
+total_n = "30244"
+median = "940"
+avg = "916.48"
 regist = "2026/10/01 23:01"
-update = "2026/10/25 21:09"
+update = "2026/10/27 00:33"
 
 [[entries]]
 no = "2"
@@ -64,13 +64,13 @@ title = "ムーンライズ・バニーガール"
 size = "65600 KB"
 addr = ["https://drive.google.com/file/d/1vZREc0IFtwMLG77MlNGPVW-cqGmV7CdJ/view?usp=drive_link"]
 genre = "アーバンナイトスラップ"
-impr = "21"
-total = "22336.47"
-total_n = "19091"
-median = "920"
-avg = "909.09"
+impr = "23"
+total = "24594.57"
+total_n = "21021"
+median = "925"
+avg = "913.95"
 regist = "2026/10/01 23:02"
-update = "2026/10/25 20:56"
+update = "2026/10/27 01:40"
 
 [[entries]]
 no = "4"
@@ -80,13 +80,13 @@ title = "まどろみ電脳ログ"
 size = "25220 KB"
 addr = ["https://drive.google.com/file/d/12jPd1cZoFxAF9y5QcIjq7FIJ4PKN7EbM/view?usp=sharing"]
 genre = "electropop"
-impr = "18"
-total = "28375.2"
-total_n = "15764"
-median = "904.5"
-avg = "875.77"
+impr = "19"
+total = "30139.2"
+total_n = "16744"
+median = "909"
+avg = "881.26"
 regist = "2026/10/01 23:02"
-update = "2026/10/25 13:25"
+update = "2026/10/27 00:37"
 
 [[entries]]
 no = "5"
@@ -144,13 +144,13 @@ title = "クレオメ"
 size = "100123 KB"
 addr = ["https://drive.google.com/file/d/13w8ZBHwd8cNgQjrAu-DdslOY1mDw2YKZ/view?usp=sharing"]
 genre = "objet a"
-impr = "38"
-total = "42866.46"
-total_n = "36638"
+impr = "40"
+total = "45159.66"
+total_n = "38598"
 median = "988.5"
-avg = "964.15"
+avg = "964.95"
 regist = "2026/10/01 23:03"
-update = "2026/10/26 20:35"
+update = "2026/10/27 01:37"
 
 [[entries]]
 no = "9"
@@ -248,13 +248,13 @@ title = "Planet Rave"
 size = "80600 KB"
 addr = ["https://drive.google.com/file/d/1o0eCkYLnvC4xDjPJe5mezdQUzRk7hzlK/view?usp=sharing"]
 genre = "MEGA MIX"
-impr = "33"
-total = "36463.05"
-total_n = "31165"
-median = "965"
-avg = "944.39"
+impr = "34"
+total = "37631.88"
+total_n = "32164"
+median = "966"
+avg = "946"
 regist = "2026/10/01 23:04"
-update = "2026/10/26 16:37"
+update = "2026/10/27 01:41"
 
 [[entries]]
 no = "15"
@@ -264,13 +264,13 @@ title = "いただきっ！聖夜の一番星！"
 size = "86000 KB"
 addr = ["https://drive.google.com/file/d/1_gubNS4cGd7c_i_AR18naFaIyznVlJw_/view?usp=sharing"]
 genre = "Shuffle Pop"
-impr = "24"
-total = "25367.28"
-total_n = "22252"
+impr = "25"
+total = "26455.98"
+total_n = "23207"
 median = "950"
-avg = "927.16"
+avg = "928.28"
 regist = "2026/10/01 23:04"
-update = "2026/10/26 18:53"
+update = "2026/10/27 01:46"
 
 [[entries]]
 no = "16"
@@ -280,13 +280,13 @@ title = "36.8℃"
 size = "950000 KB"
 addr = ["https://drive.google.com/file/d/1tIoJfiQPxiL-yw0nQ0V_SA3C9eIrVGmV/view?usp=sharing"]
 genre = "alternative electro pop"
-impr = "26"
-total = "28286.55"
-total_n = "24597"
+impr = "27"
+total = "29436.55"
+total_n = "25597"
 median = "970"
-avg = "946.03"
+avg = "948.03"
 regist = "2026/10/01 23:04"
-update = "2026/10/25 18:59"
+update = "2026/10/27 00:55"
 
 [[entries]]
 no = "17"
@@ -296,13 +296,13 @@ title = "Crimson Pure, the Star"
 size = "56898 KB"
 addr = ["https://www.dropbox.com/scl/fi/0j1nev6atgmsn0oepoubt/omi-Crimson_Pure_the_Star_ogg.zip?rlkey=na7ttp5gbstw9aoripumvzmov&st=r69sotho&dl=1"]
 genre = "TRANCE / REQUIEM"
-impr = "20"
-total = "21139.3"
-total_n = "18382"
+impr = "21"
+total = "22289.3"
+total_n = "19382"
 median = "950"
-avg = "919.1"
+avg = "922.95"
 regist = "2026/10/01 23:05"
-update = "2026/10/25 20:02"
+update = "2026/10/27 01:04"
 
 [[entries]]
 no = "18"
@@ -351,13 +351,13 @@ addr = [
     "※BGAについて、mpg形式とmp4形式の両方を同梱しています。",
 ]
 genre = "EXHAUSTIVE TRANCECORE"
-impr = "20"
-total = "30275.2"
-total_n = "18922"
-median = "962.5"
-avg = "946.1"
+impr = "21"
+total = "31875.2"
+total_n = "19922"
+median = "970"
+avg = "948.66"
 regist = "2026/10/01 23:05"
-update = "2026/10/26 12:29"
+update = "2026/10/27 01:10"
 
 [[entries]]
 no = "21"
@@ -367,13 +367,13 @@ title = "Cuz I Need U Now"
 size = "33500 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQAR1JEQUEgiR67s9V9BE83gATksLJKFL6sdE0rVwQPxwpY?e=OdaoBV"]
 genre = "Dancefloor Drum'n'Bass"
-impr = "18"
-total = "18570.6"
-total_n = "16290"
+impr = "19"
+total = "19699.2"
+total_n = "17280"
 median = "944"
-avg = "905"
+avg = "909.47"
 regist = "2026/10/01 23:05"
-update = "2026/10/23 15:46"
+update = "2026/10/27 01:18"
 
 [[entries]]
 no = "22"
@@ -460,13 +460,13 @@ addr = [
     "https://drive.google.com/file/d/1Dtm-peUbu8_LWil9mpLfLK4BFzQvfF17/view?usp=sharing",
 ]
 genre = "Dist.Guitar vs Uplifting Trance"
-impr = "16"
-total = "17587.44"
-total_n = "15032"
-median = "945"
-avg = "939.5"
+impr = "18"
+total = "19857.24"
+total_n = "16972"
+median = "950"
+avg = "942.88"
 regist = "2026/10/01 23:06"
-update = "2026/10/26 15:28"
+update = "2026/10/27 01:28"
 
 [[entries]]
 no = "27"
@@ -476,13 +476,13 @@ title = "Prismagenic"
 size = "102000 KB"
 addr = ["https://drive.google.com/file/d/1v_48XXr_N9QpjfTcxB3WO4iH-jxUXeqa/view?usp=sharing"]
 genre = "Hyper Tech Trance"
-impr = "18"
-total = "19532.75"
-total_n = "16985"
-median = "949"
-avg = "943.61"
+impr = "19"
+total = "20682.75"
+total_n = "17985"
+median = "950"
+avg = "946.57"
 regist = "2026/10/01 23:06"
-update = "2026/10/26 16:30"
+update = "2026/10/27 01:36"
 
 [[entries]]
 no = "28"
@@ -990,13 +990,13 @@ addr = [
     "https://drive.google.com/file/d/1RPX0BAHN5RcSqZE9V8iHGkDDAZcp2d57/view?usp=drive_link",
 ]
 genre = "TRANCECORE"
-impr = "15"
-total = "15650.72"
-total_n = "13492"
-median = "921"
-avg = "899.46"
+impr = "16"
+total = "16775.92"
+total_n = "14462"
+median = "925.5"
+avg = "903.87"
 regist = "2026/10/01 23:09"
-update = "2026/10/26 18:15"
+update = "2026/10/27 01:55"
 
 [[entries]]
 no = "57"
@@ -1068,13 +1068,13 @@ title = "Breather"
 size = "132198 KB"
 addr = ["https://drive.google.com/file/d/1BJleehPQ_fgiJD8qnyn3Bsb8nbR6nMFi/view?usp=sharing"]
 genre = "Bota-House"
-impr = "16"
-total = "17641"
-total_n = "15340"
-median = "982.5"
-avg = "958.75"
+impr = "17"
+total = "18745"
+total_n = "16300"
+median = "980"
+avg = "958.82"
 regist = "2026/10/01 23:10"
-update = "2026/10/25 20:58"
+update = "2026/10/27 01:52"
 
 [[entries]]
 no = "61"
@@ -1126,13 +1126,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/vj462424s098ytzreu0ao/legend_g_wav-ranker.zip?rlkey=g7bbex8uatnerjza0hlhhpeso&st=aqa5gwgz&dl=0",
 ]
 genre = "J-CORE"
-impr = "10"
-total = "10042.12"
-total_n = "8657"
-median = "901"
-avg = "865.7"
+impr = "11"
+total = "11091.92"
+total_n = "9562"
+median = "902"
+avg = "869.27"
 regist = "2026/10/01 23:10"
-update = "2026/10/20 15:30"
+update = "2026/10/27 02:17"
 
 [[entries]]
 no = "64"
@@ -1161,13 +1161,13 @@ addr = [
     "https://drive.google.com/file/d/1X1UtPp-sxH0uoCyy2wVvELl7pCaBQlJE/view?usp=sharing",
 ]
 genre = "CHRONICLE"
-impr = "20"
-total = "21831.03"
-total_n = "18659"
+impr = "21"
+total = "23001.03"
+total_n = "19659"
 median = "980"
-avg = "932.95"
+avg = "936.14"
 regist = "2026/10/01 23:10"
-update = "2026/10/24 23:21"
+update = "2026/10/27 01:43"
 
 [[entries]]
 no = "65"
@@ -1193,13 +1193,13 @@ title = "TOXIC ENGINE"
 size = "166701 KB"
 addr = ["https://www.dropbox.com/scl/fi/z4ecbiyur8ckdn7pasy6y/TOXIC_ENGINE_ogg.zip?rlkey=fdazonxe3lz2kwzuqr6vnxx9d&st=vb3n1jv8&dl=0"]
 genre = "SPEED HOUSE"
-impr = "13"
-total = "14559.16"
-total_n = "12551"
+impr = "14"
+total = "15701.76"
+total_n = "13536"
 median = "980"
-avg = "965.46"
+avg = "966.85"
 regist = "2026/10/01 23:10"
-update = "2026/10/25 11:56"
+update = "2026/10/27 01:58"
 
 [[entries]]
 no = "67"
@@ -1358,13 +1358,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/kqouxagp8o6c4aaovfgie/KaKi-ABLD_ogg.zip?rlkey=tb8mxv3hf4po01exyshd6ko89&st=kjdnw19v&dl=1",
 ]
 genre = "Acid / Hard Techno"
-impr = "10"
-total = "17224.2"
-total_n = "9569"
-median = "967.5"
-avg = "956.9"
+impr = "11"
+total = "18862.2"
+total_n = "10479"
+median = "960"
+avg = "952.63"
 regist = "2026/10/01 23:10"
-update = "2026/10/25 05:22"
+update = "2026/10/27 02:34"
 
 [[entries]]
 no = "76"
@@ -1419,13 +1419,13 @@ addr = [
     "https://drive.google.com/drive/folders/1l4KoGz67tk-8kja47QV9C0MO1GALp1TG?usp=drive_link",
 ]
 genre = "OrientStep"
-impr = "22"
-total = "24161.5"
-total_n = "21010"
-median = "977.5"
-avg = "955"
+impr = "23"
+total = "25213.75"
+total_n = "21925"
+median = "975"
+avg = "953.26"
 regist = "2026/10/01 23:11"
-update = "2026/10/26 21:24"
+update = "2026/10/27 02:42"
 
 [[entries]]
 no = "79"
@@ -1470,13 +1470,13 @@ title = "RUST"
 size = "1110000 KB"
 addr = ["https://drive.google.com/file/d/19n9fnwXiuCBcrBm4IyFXYePPg38DQxMl/view?usp=sharing"]
 genre = "Rock"
-impr = "11"
-total = "11508.48"
-total_n = "10368"
-median = "945"
-avg = "942.54"
+impr = "12"
+total = "12590.73"
+total_n = "11343"
+median = "945.5"
+avg = "945.25"
 regist = "2026/10/01 23:11"
-update = "2026/10/25 21:20"
+update = "2026/10/27 02:04"
 
 [[entries]]
 no = "82"
@@ -1587,13 +1587,13 @@ addr = [
     "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQDN3sC_F_URQ5PTdzszjolYASmkKHpM-hQqkQ1zSjOKsMM?e=eY1Nio",
 ]
 genre = "Bloomcore"
-impr = "19"
-total = "21030.05"
-total_n = "18287"
+impr = "20"
+total = "22168.55"
+total_n = "19277"
 median = "975"
-avg = "962.47"
+avg = "963.85"
 regist = "2026/10/01 23:11"
-update = "2026/10/26 19:38"
+update = "2026/10/27 01:49"
 
 [[entries]]
 no = "89"
@@ -1780,13 +1780,13 @@ addr = [
     "https://drive.google.com/file/d/127574FCY3sRvgl_BXsxRsAg7i5y2AA3O/view?usp=sharing",
 ]
 genre = "INSTRUMENTAL TRANCE"
-impr = "10"
-total = "10928.97"
-total_n = "9341"
+impr = "11"
+total = "12034.62"
+total_n = "10286"
 median = "930"
-avg = "934.1"
+avg = "935.09"
 regist = "2026/10/01 23:13"
-update = "2026/10/25 05:20"
+update = "2026/10/27 02:01"
 
 [[entries]]
 no = "100"
@@ -1926,13 +1926,13 @@ addr = [
     "https://drive.google.com/uc?export=download&id=1NLOVVpuNlxMX6wDyvF0-Ru4dkS5OhJsc",
 ]
 genre = "GOTHIC MYTHOS"
-impr = "8"
-total = "13674.6"
-total_n = "7597"
-median = "962.5"
-avg = "949.62"
+impr = "9"
+total = "15357.6"
+total_n = "8532"
+median = "950"
+avg = "948"
 regist = "2026/10/01 23:14"
-update = "2026/10/25 21:00"
+update = "2026/10/27 02:11"
 
 [[entries]]
 no = "108"
@@ -2095,13 +2095,13 @@ addr = [
     "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQBSbiLpbxAPR66zoOOAxtL0AfT7b7fbXFYUcpu8Zy6rPWg?e=MW5weR",
 ]
 genre = "Power Metal"
-impr = "12"
-total = "12879.72"
-total_n = "11298"
-median = "960"
-avg = "941.5"
+impr = "13"
+total = "13996.92"
+total_n = "12278"
+median = "970"
+avg = "944.46"
 regist = "2026/10/01 23:18"
-update = "2026/10/25 19:36"
+update = "2026/10/27 02:32"
 
 [[entries]]
 no = "118"
@@ -2376,13 +2376,13 @@ title = "Pioneer ~Tribute for Earendel~"
 size = "432318 KB"
 addr = ["https://www.dropbox.com/scl/fi/tbbaiin7bsgbr734l1ygp/Palami-Pioneer-Tribute-for-Earendel.zip?rlkey=xnzamu21qs4qee1topliyr08c&st=fu1mhfdy&dl=0"]
 genre = "Future Core"
-impr = "9"
-total = "10261.36"
-total_n = "8846"
-median = "999"
-avg = "982.88"
+impr = "10"
+total = "11421.36"
+total_n = "9846"
+median = "999.5"
+avg = "984.6"
 regist = "2026/10/02 01:18"
-update = "2026/10/25 05:32"
+update = "2026/10/27 00:49"
 
 [[entries]]
 no = "135"
@@ -2502,13 +2502,13 @@ addr = [
     "https://drive.google.com/file/d/1wrqew7OJcr6_p3ebj79WlYPpEzuPfaOT/view?usp=drive_link",
 ]
 genre = "Happy Hardcore"
-impr = "2"
-total = "2223"
-total_n = "1950"
-median = "975"
-avg = "975"
+impr = "3"
+total = "3306"
+total_n = "2900"
+median = "950"
+avg = "966.66"
 regist = "2026/10/02 07:29"
-update = "2026/10/24 15:17"
+update = "2026/10/26 23:50"
 
 [[entries]]
 no = "141"
@@ -2521,13 +2521,13 @@ addr = [
     "(ogg192kbps / LR2,oraja両対応BGA )",
 ]
 genre = "神楽"
-impr = "15"
-total = "18079.18"
-total_n = "14819"
-median = "998"
-avg = "987.93"
+impr = "16"
+total = "19213.78"
+total_n = "15749"
+median = "994"
+avg = "984.31"
 regist = "2026/10/02 08:29"
-update = "2026/10/25 21:23"
+update = "2026/10/27 02:08"
 
 [[entries]]
 no = "142"
@@ -2757,13 +2757,13 @@ addr = [
     "https://drive.google.com/file/d/1NE_r2Za7TvPCbF5wH6WCLkjS5GtwOxjT/view?usp=sharing",
 ]
 genre = "Symphonic Fables"
-impr = "4"
-total = "4072.15"
-total_n = "3541"
-median = "905.5"
-avg = "885.25"
+impr = "5"
+total = "5187.65"
+total_n = "4511"
+median = "951"
+avg = "902.2"
 regist = "2026/10/04 17:27"
-update = "2026/10/24 15:44"
+update = "2026/10/27 00:45"
 
 [[entries]]
 no = "155"
@@ -3034,13 +3034,13 @@ title = "Retrieve the Fragments"
 size = "146817 KB"
 addr = ["https://drive.google.com/file/d/1N1rkJ3y06_XNfKw3ITZ7oq847joxfYWp/view?usp=sharing"]
 genre = "Emotional Hard Trance"
-impr = "1"
-total = "1083"
-total_n = "950"
+impr = "3"
+total = "3249"
+total_n = "2850"
 median = "950"
 avg = "950"
 regist = "2026/10/08 01:57"
-update = "2026/10/25 15:58"
+update = "2026/10/27 01:00"
 
 [[entries]]
 no = "170"
@@ -3297,13 +3297,13 @@ addr = [
     "If you are still using LR2 beta3 version 100201, please download LR2_chainload and LRbase62 mod to make LR2 loading BMS correctly. )",
 ]
 genre = "LIFE STREAM"
-impr = "14"
-total = "21688"
-total_n = "13555"
+impr = "15"
+total = "23144"
+total_n = "14465"
 median = "990"
-avg = "968.21"
+avg = "964.33"
 regist = "2026/10/09 15:03"
-update = "2026/10/26 18:33"
+update = "2026/10/27 02:38"
 
 [[entries]]
 no = "184"
@@ -3517,13 +3517,13 @@ title = "sysy"
 size = "446000 KB"
 addr = ["https://drive.google.com/file/d/1LqlY-ixnZWR2gFzjs4uFteHRtbGceCm8/view?usp=sharing"]
 genre = "hypersleep"
-impr = "3"
-total = "2513.2"
-total_n = "2060"
-median = "760"
-avg = "686.66"
+impr = "4"
+total = "3025.6"
+total_n = "2480"
+median = "590"
+avg = "620"
 regist = "2026/10/11 02:20"
-update = "2026/10/26 16:30"
+update = "2026/10/27 01:36"
 
 [[entries]]
 no = "197"
@@ -6451,13 +6451,13 @@ title = "spooky spooky"
 size = "54900 KB"
 addr = ["https://drive.google.com/file/d/1t4hmr23zXkTi5DneE7IhgOXXPpIcgWcf/view?usp=sharing"]
 genre = "Sigilkore"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "463.6"
+total_n = "380"
+median = "380"
+avg = "380"
 regist = "2026/10/19 16:51"
-update = "2026/10/19 16:51"
+update = "2026/10/27 01:26"
 
 [[entries]]
 no = "362"
@@ -6488,13 +6488,13 @@ title = "Colored"
 size = "140000 KB"
 addr = ["https://www.dropbox.com/scl/fi/t2oezikjb26hl6mr3uokb/darkvirus-Colored.zip?rlkey=doomwun246dmtip2p88x3ektn&dl=0"]
 genre = "Technobeats"
-impr = "7"
-total = "7902.8"
-total_n = "6872"
+impr = "8"
+total = "8983.8"
+total_n = "7812"
 median = "985"
-avg = "981.71"
+avg = "976.5"
 regist = "2026/10/19 17:14"
-update = "2026/10/26 01:04"
+update = "2026/10/27 02:14"
 
 [[entries]]
 no = "364"
@@ -6850,13 +6850,13 @@ addr = [
     "https://drive.google.com/file/d/1VzG8VLQ1cQ-yByqORqL9CCxlZix1Igvq/view?usp=drive_link",
 ]
 genre = "Pandemixia"
-impr = "6"
-total = "6814.9"
-total_n = "5926"
-median = "986.5"
-avg = "987.66"
+impr = "7"
+total = "7677.4"
+total_n = "6676"
+median = "985"
+avg = "953.71"
 regist = "2026/10/19 20:57"
-update = "2026/10/26 01:30"
+update = "2026/10/26 23:34"
 
 [[entries]]
 no = "385"
@@ -7703,13 +7703,13 @@ title = "SAPIENS"
 size = "193139 KB"
 addr = ["https://drive.google.com/file/d/1Sc18LUtUkC5JVedw22NGR5xb1xG1CQGy/view?usp=sharing"]
 genre = "HUMAN / GENERATED"
-impr = "1"
-total = "1571.2"
-total_n = "982"
-median = "982"
-avg = "982"
+impr = "2"
+total = "3171.2"
+total_n = "1982"
+median = "991"
+avg = "991"
 regist = "2026/10/19 23:26"
-update = "2026/10/26 02:18"
+update = "2026/10/27 00:55"
 
 [[entries]]
 no = "433"
@@ -8298,13 +8298,13 @@ addr = [
     "https://drive.google.com/file/d/1CyjZtbEEJvs0t1CDj2dgjr9KNNMomdK5/view?usp=sharing",
 ]
 genre = "Dramatical"
-impr = "8"
-total = "9144.28"
-total_n = "7883"
-median = "989"
-avg = "985.37"
+impr = "9"
+total = "10292.68"
+total_n = "8873"
+median = "990"
+avg = "985.88"
 regist = "2026/10/19 23:56"
-update = "2026/10/26 18:41"
+update = "2026/10/27 02:20"
 
 [[entries]]
 no = "466"
@@ -8422,13 +8422,13 @@ title = "4HAKKUH"
 size = "75000 KB"
 addr = ["https://drive.google.com/file/d/1Kb3xNCrKrtMd4dUHn9IrYmDLcb4ofWyg/view?usp=sharing"]
 genre = "UPTEMPO HARDCORE"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "978"
-avg = "0"
+impr = "2"
+total = "2238.21"
+total_n = "1913"
+median = "956.5"
+avg = "956.5"
 regist = "2026/10/19 23:58"
-update = "2026/10/26 19:39"
+update = "2026/10/27 02:23"
 
 [[entries]]
 no = "473"

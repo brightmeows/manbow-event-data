@@ -10974,7 +10974,9 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
+comment_updated = "2026年10月26日 22:24"
 comment = """
+(2026年10月26日 22:24 更新)
 BEGINNER:☆3
 NORMAL:☆8
 HYPER:☆10
@@ -11114,15 +11116,21 @@ tags = [
 ]
 production = "fl studio, initially ubmsc and sayaslicer, moved to befriend later."
 audition = ["https://soundcloud.com/user-147879028/carl"]
-comment_updated = "2026年10月19日 20:24"
+comment_updated = "2026年10月26日 21:58"
 comment = """
+(2026年10月26日 21:58 更新)
 (2026年10月19日 20:24 更新)
 (2026年10月16日 04:56 更新)
 who hates region locking! i do! i hate it when cough cough... doesn't include my favourite voca-denpa tracks or i can't offically play an intresing arcade rhythm game because i live in 'Dreadfulingtonshire- england', it's unfair! but my music is for all! for all to enjoy!
 I themed my entry around the frustration, some people understand it! wrong console or bluray region!
 media shouldn't be restricted to one place, let us love no matter where we live.
 we might have a BGA, but i made a bgi as a placeholder that looks a little like an arcade warning screen, though its red, i heard red is very eye-catching.
-the bgi is a place holder, we might bet a bga soon hopefully."""
+i think the bgi is okay as is... error screens are very static and i have priorioties too -hmaj"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/16 04:56"
+note = "Added soundcloud link."
 
 [[details.revisions]]
 ver = "1"
@@ -11130,9 +11138,9 @@ date = "2026/10/13 20:50"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "Added soundcloud link."
+note = "added youtube link for video"
 
 [[details]]
 num = "222"

@@ -6031,11 +6031,11 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月14日 15:52"
+comment_updated = "2026年10月28日 03:19"
 comment = """
-(2026年10月14日 15:52 更新)
-(2026年10月09日 22:23 更新)
-A story about traveling and seing the parallax"""
+(2026年10月28日 03:19 更新)
+Traveling and witnessing the parallax,
+she went on a dizzy and free-style spring voyage......"""
 
 [[details.revisions]]
 ver = "2"
@@ -6180,27 +6180,40 @@ artist = "zxxsmart   URL"
 genre = "ARTCORE"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "none・none"
+bga = "BGA include・Self"
 charts = "CHART_3 (★x3～★x12)"
 bpm = "178"
 tags = [
     "7Keys",
     "Lang-US",
+    "File-Modify",
+    "File-Append",
+    "Use-BGA",
     "Use-BGI",
+    "Use-mp4_movie",
+    "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 20:22"
+comment_updated = "2026年10月28日 02:56"
 comment = """
-(2026年10月19日 20:22 更新)
-A story about crossing over barriers"""
+(2026年10月28日 02:56 更新)
+A story about crossing over barriers.
+Seeking for the reunion, tears roll down from her cheek..."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:24"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "譜面を修正と追加、映像を追加"
 
 [[details]]
 num = "123"
@@ -6209,25 +6222,35 @@ genre = "MELODIC ELECTRONICA"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Self"
-charts = "CHART_3 (★x3～★x12)"
+charts = "CHART_3 (★x2～★x12)"
 bpm = "160"
 tags = [
     "7Keys",
     "Lang-US",
     "Lang-SCN",
+    "File-Modify",
+    "File-Append",
     "Audition-Sound",
     "Use-BGA",
     "Use-ogg",
+    "Use-mp4_movie",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
+    "Difficulty-gorilla",
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月14日 15:54"
+comment_updated = "2026年10月28日 02:48"
 comment = """
-(2026年10月14日 15:54 更新)
-A chaos world of photon and fire"""
+(2026年10月28日 02:48 更新)
+A chaos world of photon and fire.
+If you can hold the emission of an unexpected encounter......"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/09 22:18"
+note = "Revoked. No charts were added or deleted."
 
 [[details.revisions]]
 ver = "2"
@@ -6240,9 +6263,9 @@ date = "2026/10/01 23:28"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "Revoked. No charts were added or deleted."
+note = "譜面を修正と追加"
 
 [[details]]
 num = "124"
@@ -6330,24 +6353,36 @@ genre = "DOWNER TRANCE"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Self"
-charts = "CHART_3 (★x3～★x12)"
+charts = "CHART_3 (★x3～★x11)"
 bpm = "140"
 tags = [
     "7Keys",
     "Lang-JP",
     "Lang-SCN",
+    "File-Modify",
+    "File-Append",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
+    "Use-BGI",
     "Use-ogg",
+    "Use-mp4_movie",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月14日 15:57"
+comment_updated = "2026年10月28日 03:01"
 comment = """
-(2026年10月14日 15:57 更新)
-A drown downer"""
+(2026年10月28日 03:01 更新)
+A drown downer.
+May the fading silence be with her......"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/09 22:21"
+note = "Revoked. No charts were added or deleted."
 
 [[details.revisions]]
 ver = "2"
@@ -6360,9 +6395,9 @@ date = "2026/10/01 23:32"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "Revoked. No charts were added or deleted."
+note = "譜面を修正と追加"
 
 [[details]]
 num = "127"
@@ -8410,10 +8445,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/u20xx/bof22bafafa"]
-comment_updated = "2026年10月08日 03:39"
+comment_updated = "2026年10月28日 04:07"
 comment = """
-(2026年10月08日 03:39 更新)
-(2026年10月08日 03:27 更新)
+(2026年10月28日 04:07 更新)
 [Metadata]
 song: Bafafá
 artist: u20xx
@@ -8454,6 +8488,11 @@ BMS is wonderful."
 ~ 曺承輝"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/08 03:39"
+note = "SoundCloud added."
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/08 03:27"
 note = "YouTube added."
@@ -8464,9 +8503,9 @@ date = "2026/10/08 01:19"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "SoundCloud added."
+note = "Updated Another chart. (Note moved in measure 016)"
 
 [[details]]
 num = "169"
@@ -8487,8 +8526,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/chaozbreaker/retrieve-the-fragments"]
-comment_updated = "2026年10月12日 11:59"
+comment_updated = "2026年10月28日 04:40"
 comment = """
+(2026年10月28日 04:40 更新)
 (2026年10月12日 11:59 更新)
 (2026年10月09日 15:31 更新)
 Compose & BMS & Chart // ChaozBreaker!
@@ -8502,6 +8542,11 @@ Illustration & BGA // laetzit
 初めてBGAを製作してみました！ よろしくお願いします！"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/12 11:59"
+note = "Revised the wrong measure of the file size."
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/09 15:31"
 note = "Revised Youtube link (revised LUFS version) and 作者情報, Added Soundcloud Link"
@@ -8512,9 +8557,9 @@ date = "2026/10/08 01:57"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "Revised the wrong measure of the file size."
+note = "Added new download link for chart with higher quality of BGA"
 
 [[details]]
 num = "170"
@@ -12781,13 +12826,15 @@ tags = [
     "Lang-SCN",
 ]
 production = "非公開"
-comment_updated = "2026年10月28日 00:13"
+comment_updated = "2026年10月28日 05:03"
 comment = """
+(2026年10月28日 05:03 更新)
+(2026年10月28日 05:02 更新)
 (2026年10月28日 00:13 更新)
+「娘よ、覚えておいて。
+過去の脆さを振り返るのは、より勇敢に明日へ歩いていくためなんだよ。」
 SPb譜面1枚とSPn New ver.譜面1枚を追加更新しました。
-已追加更新一张SPb谱面和一张SPn New ver.谱面。
-One SPb chart and one SPn New ver. chart have been updated.
-(2026年10月16日 10:17 更新)
+それ以外にも、「定義されない明日」の到来をぜひお楽しみに。
 さらさらと鳴る夜風が、故郷の黄砂を巻き上げ、荒野の上空をさまよっている。灯りが点々と瞬く避難所の外では、民衆で編成された哨戒班が、また交代の番を巡らせた。
 深い空には、百年前からこの砂漠の上空を旋回し続けている巡航ミサイル群がある。
 何世代もの子どもたちが願いを託してきた星の光に代わって。
@@ -20842,9 +20889,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月20日 15:10"
+comment_updated = "2026年10月28日 03:58"
 comment = """
-(2026年10月20日 15:10 更新)
+(2026年10月28日 03:58 更新)
 ≪Zris≫
 A few years ago...
 "Adding the latest technical terms to the title may make your work more likely to be accepted."
@@ -20866,8 +20913,13 @@ A few years ago...
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:46"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Added 7K HYPER"
 
 [[details]]
 num = "450"
@@ -21859,26 +21911,45 @@ genre = "FOUR ON THE FLOOR"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_2 (★x0～★x0)"
+charts = "CHART_3 (★x0～★x12)"
 bpm = "156"
 tags = [
     "7Keys",
+    "14Keys",
+    "File-Append",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
     "Use-mp4_movie",
+    "Gimmick-LongNote",
+    "Difficulty-beginner",
+    "Difficulty-intermediate",
+    "Difficulty-senior",
+    "Difficulty-craziness",
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/felix1213tw/fotf"]
-comment_updated = "2026年10月20日 13:13"
+comment_updated = "2026年10月28日 02:02"
 comment = """
-(2026年10月20日 13:13 更新)
+(2026年10月28日 02:02 更新)
+―
+/ [] [] [] [] /
+In all of life there is a rhythm...
+―
 Music & BMS: lixound
-Other charts will be updated after 10/28🙇‍♂️
+(10/28) SP & DP charts has been updated!
+―
 Visualization: 5argon ( Twitter/X: https://x.com/5argondesu )
 超久しぶりにBMSムービーを手伝いました、5argonです！しばらくゲームから離れていましたがいつの間にLR2の時代が終わってしまうと聞き、最新の動画フォーマットも再生できるだろうと思いこの特別な機会にぜひ参加したいと考えました。制作はとても楽しく、BlenderやResolumeの新しい機能もたくさん学ぶことができました。隠し要素として、長方形の形と間隔は4つの白鍵をイメージしています。また自宅のトイレで撮影した自分の右手の動画も登場します。
 Hello, I'm 5argon. It's been quite a while since the last time I participated in making visualization in an BMS event. I have been away from the game for long while, but I heard that this is the first time LR2 will be prohibited and so as I expect the new client able to play modern video format, I wanted to participate in this special occasion. One day I randomly scrolled past lixound recruiting a visual member and so I applied.
 The brief from lixound was half length upload of the song, the song is named four rectangles (even right now I do not know how to read it), and it's themed to four on the floor. And so I put four rectangles everywhere. It's been fun making this and I learned many new features in Blender and Resolume. As an easter egg, the shape and distance between them resembles the four white keys. It also features a footage of my right hand that I shot in my bathroom."""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/20 13:13"
+note = "BGAを追加"
 
 [[details.revisions]]
 ver = "1"
@@ -21886,6 +21957,6 @@ date = "2026/10/20 00:07"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを追加"
+note = "SP譜面、DP譜面を追加"

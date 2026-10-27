@@ -14,7 +14,7 @@ manbow 页面解析全部采用断言式表头/字段匹配：列名或字段行
 
 ## 活动生命周期维护
 
-进行中活动的 event id（当前 152、153）硬编码在两处：update-hourly.yml 的 HOURLY_EVENTS 与 update-events.yml 的 `--details` 循环。活动落幕评分冻结后，hourly job 退化为快速空转，届时手动调整这两处并视情况增删新活动。
+进行中活动的 event id（当前 152）硬编码在两处：update-hourly.yml 的 HOURLY_EVENTS 与 update-events.yml 的 `--details` 循环。活动落幕评分冻结后，从这两处移除该 id，并视情况增补新活动。
 
 ## 提交门槛
 

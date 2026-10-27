@@ -10,14 +10,14 @@ permissions:
   contents: write
   pull-requests: write
 
-# 追踪进行中活动的评审期数据演化。活动落幕评分冻结后本 job 退化为
-# 快速空转；届时手动调整 event id 列表或移除本 workflow。
+# 追踪进行中活动的评审期数据演化。活动落幕评分冻结后从 HOURLY_EVENTS
+# 移除该 id，并删除对应的 check、create、automerge 步骤。
 env:
-  HOURLY_EVENTS: "152 153"
+  HOURLY_EVENTS: "152"
 
 jobs:
   update:
-    name: Update hourly (events 152, 153)
+    name: Update hourly (event 152)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -49,16 +49,6 @@ jobs:
           else
             echo "has-changes=false" >> "$GITHUB_OUTPUT"
             echo "No changes for event 152"
-          fi
-
-      - name: Check for changes (153)
-        id: check-153
-        run: |
-          if [ -n "$(git status --porcelain events/153.toml events/153.details.toml)" ]; then
-            echo "has-changes=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "has-changes=false" >> "$GITHUB_OUTPUT"
-            echo "No changes for event 153"
           fi
 
       - name: Create Pull Request (152)
@@ -94,35 +84,3 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ steps.create-pr-152.outputs.pull-request-number }}
-
-      - name: Create Pull Request (153)
-        id: create-pr-153
-        if: steps.check-153.outputs.has-changes == 'true'
-        uses: peter-evans/create-pull-request@v8
-        with:
-          commit-message: "chore(events): update 153 data"
-          branch: "chore/update-153"
-          title: "chore(events): update 153 data"
-          body: |
-            Automated hourly update for event `153` (WORLD WAR ][),
-            capturing data evolution during the judging period.
-          add-paths: |
-            events/153.toml
-            events/153.details.toml
-          labels: |
-            automated
-
-      - name: Enable Pull Request Automerge (153)
-        if: steps.create-pr-153.outputs.pull-request-operation != 'skipped'
-        run: |
-          for i in 1 2 3; do
-            if gh pr merge "$PR_NUMBER" --auto --squash; then
-              exit 0
-            fi
-            echo "automerge 第 $i 次失败，20 秒后重试" >&2
-            sleep 20
-          done
-          exit 1
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ steps.create-pr-153.outputs.pull-request-number }}

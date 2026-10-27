@@ -75,7 +75,7 @@ jobs:
         run: |
           mkdir -p events
           extra=""
-          for active in 152 153; do
+          for active in 152; do
             if [ "${{ matrix.event }}" = "$active" ]; then
               extra="--details $active"
             fi

@@ -108,9 +108,9 @@ jobs:
             automated
 
       - name: Enable Pull Request Automerge
-        # created 与 updated 都挂：updated 时分支是持久分支，PR 已存在但可能缺 automerge；
+        # 按 PR 号判断：created/updated 都有号，步骤被跳过时输出为空；
         # 并行 PR 合并竞态会让 --auto 偶发报 Base branch was modified，步内重试消化
-        if: steps.create-pr.outputs.pull-request-operation != 'skipped'
+        if: steps.create-pr.outputs.pull-request-number != ''
         run: |
           for i in 1 2 3; do
             if gh pr merge "$PR_NUMBER" --auto --squash; then

@@ -296,13 +296,13 @@ title = "Crimson Pure, the Star"
 size = "56898 KB"
 addr = ["https://www.dropbox.com/scl/fi/0j1nev6atgmsn0oepoubt/omi-Crimson_Pure_the_Star_ogg.zip?rlkey=na7ttp5gbstw9aoripumvzmov&st=r69sotho&dl=1"]
 genre = "TRANCE / REQUIEM"
-impr = "22"
-total = "23415.15"
-total_n = "20361"
-median = "950.5"
-avg = "925.5"
+impr = "23"
+total = "24501.9"
+total_n = "21306"
+median = "950"
+avg = "926.34"
 regist = "2026/10/01 23:05"
-update = "2026/10/27 05:39"
+update = "2026/10/27 14:00"
 
 [[entries]]
 no = "18"
@@ -1218,13 +1218,13 @@ addr = [
     "https://drive.google.com/file/d/17UPXb_0g9spKrvHl0OekICCo4audxiox/view?usp=sharing",
 ]
 genre = "Artstep"
-impr = "28"
-total = "30590"
-total_n = "26600"
-median = "966.5"
-avg = "950"
+impr = "29"
+total = "31688.25"
+total_n = "27555"
+median = "963"
+avg = "950.17"
 regist = "2026/10/01 23:10"
-update = "2026/10/26 20:34"
+update = "2026/10/27 13:28"
 
 [[entries]]
 no = "68"
@@ -1470,13 +1470,13 @@ title = "RUST"
 size = "1110000 KB"
 addr = ["https://drive.google.com/file/d/19n9fnwXiuCBcrBm4IyFXYePPg38DQxMl/view?usp=sharing"]
 genre = "Rock"
-impr = "12"
-total = "12590.73"
-total_n = "11343"
-median = "945.5"
-avg = "945.25"
+impr = "13"
+total = "13700.73"
+total_n = "12343"
+median = "946"
+avg = "949.46"
 regist = "2026/10/01 23:11"
-update = "2026/10/27 02:04"
+update = "2026/10/27 13:54"
 
 [[entries]]
 no = "82"
@@ -1847,7 +1847,7 @@ total_n = "26781"
 median = "995"
 avg = "956.46"
 regist = "2026/10/01 23:14"
-update = "2026/10/26 21:36"
+update = "2026/10/27 12:56"
 
 [[entries]]
 no = "103"
@@ -1889,13 +1889,13 @@ title = "Solitude"
 size = "300700 KB"
 addr = ["https://www.dropbox.com/scl/fi/3t9y6l7kbcd5217rajbsk/kanoryo_Solitude_ogg.zip?rlkey=b1fbjta02fuopagnrv60yvldk&st=026pyyu4&dl=1"]
 genre = "Breaks/Gothic Hardcore"
-impr = "7"
-total = "7365.75"
-total_n = "6405"
+impr = "8"
+total = "8372"
+total_n = "7280"
 median = "900"
-avg = "915"
+avg = "910"
 regist = "2026/10/01 23:14"
-update = "2026/10/24 11:40"
+update = "2026/10/27 14:13"
 
 [[entries]]
 no = "106"
@@ -3203,13 +3203,13 @@ title = "Driftfrequency : 兵庫"
 size = "55087 KB"
 addr = ["https://drive.usercontent.google.com/download?id=1k1EU4LZ8YB0RmE6v7MYn1W0-k3WI-2NM&export=download&confirm=t"]
 genre = "drum'n'bass : 078"
-impr = "4"
-total = "4002"
-total_n = "3450"
-median = "890"
-avg = "862.5"
+impr = "5"
+total = "5046"
+total_n = "4350"
+median = "900"
+avg = "870"
 regist = "2026/10/09 08:04"
-update = "2026/10/25 16:08"
+update = "2026/10/27 14:08"
 
 [[entries]]
 no = "180"
@@ -4262,13 +4262,13 @@ addr = [
     "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQAfqBwwgA3bQZoHj5H_qfZvAfmjtMU1WJBiRsBW-ey5bhI?e=doqw1C",
 ]
 genre = "Artcore"
-impr = "3"
-total = "3366.05"
-total_n = "2927"
-median = "984"
-avg = "975.66"
+impr = "4"
+total = "4475.8"
+total_n = "3892"
+median = "974.5"
+avg = "973"
 regist = "2026/10/15 21:47"
-update = "2026/10/23 19:01"
+update = "2026/10/27 13:34"
 
 [[entries]]
 no = "238"
@@ -4543,13 +4543,13 @@ addr = [
     "https://drive.google.com/file/d/1OFwA4sC7aakZlAWWMYyawadb0FatYsTm/view?usp=sharing",
 ]
 genre = "Hyper Attention"
-impr = "9"
-total = "13864"
-total_n = "8665"
+impr = "10"
+total = "15464"
+total_n = "9665"
 median = "960"
-avg = "962.77"
+avg = "966.5"
 regist = "2026/10/15 23:59"
-update = "2026/10/27 05:36"
+update = "2026/10/27 14:15"
 
 [[entries]]
 no = "254"
@@ -4628,13 +4628,13 @@ title = "Usuakari"
 size = "135168 KB"
 addr = ["https://drive.google.com/file/d/1Dp56JsJ2y3hjedYcq9tQqFZmEPxYnsmY/view?usp=sharing"]
 genre = "Still burning, still brilliant."
-impr = "4"
-total = "6640.2"
-total_n = "3689"
-median = "984"
-avg = "922.25"
+impr = "5"
+total = "8404.2"
+total_n = "4669"
+median = "980"
+avg = "933.8"
 regist = "2026/10/16 00:21"
-update = "2026/10/26 16:55"
+update = "2026/10/27 13:45"
 
 [[entries]]
 no = "259"
@@ -5186,13 +5186,13 @@ addr = [
     "//beatoraja用に高画質BGA(mp4)を同梱しています。お好きな方をお選びください！",
 ]
 genre = "Happy Hardcore"
-impr = "20"
-total = "31444.8"
-total_n = "19653"
+impr = "21"
+total = "32996.8"
+total_n = "20623"
 median = "990"
-avg = "982.65"
+avg = "982.04"
 regist = "2026/10/17 19:55"
-update = "2026/10/26 20:46"
+update = "2026/10/27 09:35"
 
 [[entries]]
 no = "290"
@@ -5202,13 +5202,13 @@ title = "人々、歩き、考え、寒さに沈んでいく"
 size = "50895 KB"
 addr = ["https://drive.google.com/file/d/16P3w4GtYwrjsQLdAiO-SSoxdR-Hd6F12/view?usp=sharing"]
 genre = "Hyper Intelligent"
-impr = "9"
-total = "15791.4"
-total_n = "8773"
-median = "980"
-avg = "974.77"
+impr = "10"
+total = "17519.4"
+total_n = "9733"
+median = "973.5"
+avg = "973.3"
 regist = "2026/10/17 20:46"
-update = "2026/10/26 17:22"
+update = "2026/10/27 12:30"
 
 [[entries]]
 no = "291"
@@ -8298,13 +8298,13 @@ addr = [
     "https://drive.google.com/file/d/1CyjZtbEEJvs0t1CDj2dgjr9KNNMomdK5/view?usp=sharing",
 ]
 genre = "Dramatical"
-impr = "9"
-total = "10292.68"
-total_n = "8873"
-median = "990"
-avg = "985.88"
+impr = "10"
+total = "11394.68"
+total_n = "9823"
+median = "989"
+avg = "982.3"
 regist = "2026/10/19 23:56"
-update = "2026/10/27 02:20"
+update = "2026/10/27 09:36"
 
 [[entries]]
 no = "466"

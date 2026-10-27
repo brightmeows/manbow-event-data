@@ -1164,13 +1164,13 @@ addr = [
     "https://drive.google.com/file/d/1X1UtPp-sxH0uoCyy2wVvELl7pCaBQlJE/view?usp=sharing",
 ]
 genre = "CHRONICLE"
-impr = "23"
-total = "25339.86"
-total_n = "21658"
-median = "988"
-avg = "941.65"
+impr = "24"
+total = "26158.86"
+total_n = "22358"
+median = "984"
+avg = "931.58"
 regist = "2026/10/01 23:10"
-update = "2026/10/27 22:02"
+update = "2026/10/28 03:40"
 
 [[entries]]
 no = "65"
@@ -1876,13 +1876,13 @@ title = "Venefica"
 size = "51228 KB"
 addr = ["https://drive.google.com/file/d/1_iFu-VJ3l9ahhNOpVkLMQDt1VcxgwmC0/view?usp=sharing"]
 genre = "Progressive Metalcore"
-impr = "4"
-total = "4111.25"
-total_n = "3575"
-median = "887.5"
-avg = "893.75"
+impr = "5"
+total = "5209.5"
+total_n = "4530"
+median = "915"
+avg = "906"
 regist = "2026/10/01 23:14"
-update = "2026/10/20 18:26"
+update = "2026/10/28 02:08"
 
 [[entries]]
 no = "105"
@@ -2120,7 +2120,7 @@ total_n = "5576"
 median = "956.5"
 avg = "929.33"
 regist = "2026/10/01 23:19"
-update = "2026/10/25 17:49"
+update = "2026/10/28 03:19"
 
 [[entries]]
 no = "119"
@@ -2179,8 +2179,8 @@ no = "122"
 name = "zxxsmart"
 team = "optical camouflage"
 title = "Barrier"
-size = "76419 KB"
-addr = ["https://drive.google.com/file/d/1ty1gYDKnk6LZDbF35_mRCHh3R1nCvu2J/view?usp=sharing"]
+size = "286019 KB"
+addr = ["https://drive.google.com/file/d/1sLy1-E44MjFGe_6fF1kGFesK3gC6FOWi/view?usp=sharing"]
 genre = "ARTCORE"
 impr = "8"
 total = "12789"
@@ -2188,15 +2188,15 @@ total_n = "7105"
 median = "890"
 avg = "888.12"
 regist = "2026/10/01 23:24"
-update = "2026/10/26 16:04"
+update = "2026/10/28 02:56"
 
 [[entries]]
 no = "123"
 name = "zxxsmart"
 team = "optical camouflage"
 title = "Photonic"
-size = "82368 KB"
-addr = ["https://drive.google.com/file/d/1yl7MQq9DcB0Zw3aZUSZxWqqycVUm3bcR/view?usp=sharing"]
+size = "82442 KB"
+addr = ["https://drive.google.com/file/d/1IUz5sj_WSug30gYpH-bkv4W4mv_hawhf/view?usp=sharing"]
 genre = "MELODIC ELECTRONICA"
 impr = "4"
 total = "3521"
@@ -2204,7 +2204,7 @@ total_n = "3521"
 median = "875"
 avg = "880.25"
 regist = "2026/10/01 23:28"
-update = "2026/10/25 17:58"
+update = "2026/10/28 02:48"
 
 [[entries]]
 no = "124"
@@ -2243,8 +2243,8 @@ no = "126"
 name = "common"
 team = "optical camouflage"
 title = "死静"
-size = "113659 KB"
-addr = ["https://drive.google.com/file/d/1Mtxttv9iqxxDYOLd8tLg0OKtNMvRnGVq/view?usp=sharing"]
+size = "113629 KB"
+addr = ["https://drive.google.com/file/d/1Hzgobrb5vP1_pwUbazRJylyhm71M6dxZ/view?usp=sharing"]
 genre = "DOWNER TRANCE"
 impr = "4"
 total = "3486"
@@ -2252,7 +2252,7 @@ total_n = "3486"
 median = "865"
 avg = "871.5"
 regist = "2026/10/01 23:32"
-update = "2026/10/25 18:04"
+update = "2026/10/28 03:01"
 
 [[entries]]
 no = "127"
@@ -3031,7 +3031,7 @@ total_n = "3330"
 median = "825"
 avg = "832.5"
 regist = "2026/10/08 01:19"
-update = "2026/10/25 15:55"
+update = "2026/10/28 04:07"
 
 [[entries]]
 no = "169"
@@ -3039,7 +3039,12 @@ name = "ChaozBreaker!(mov:laetzit)"
 team = "Cherish the Moments"
 title = "Retrieve the Fragments"
 size = "146817 KB"
-addr = ["https://drive.google.com/file/d/1N1rkJ3y06_XNfKw3ITZ7oq847joxfYWp/view?usp=sharing"]
+addr = [
+    "BGA Low Quality -",
+    "https://drive.google.com/file/d/1N1rkJ3y06_XNfKw3ITZ7oq847joxfYWp/view?usp=sharing",
+    "BGA High Quality -",
+    "https://drive.google.com/file/d/1mqCZmYMm6jqOI2mTMH4JBb997ebAv9A_/view?usp=sharing",
+]
 genre = "Emotional Hard Trance"
 impr = "3"
 total = "3249"
@@ -3047,7 +3052,7 @@ total_n = "2850"
 median = "950"
 avg = "950"
 regist = "2026/10/08 01:57"
-update = "2026/10/27 01:00"
+update = "2026/10/28 04:40"
 
 [[entries]]
 no = "170"
@@ -3619,13 +3624,13 @@ addr = [
     "https://drive.google.com/file/d/1cj-1240Hh9MfDxvNyA5I9DXcCUHW25AM/view?usp=sharing",
 ]
 genre = "Hypertrance"
-impr = "4"
-total = "4587.57"
-total_n = "3921"
-median = "980.5"
-avg = "980.25"
+impr = "5"
+total = "5406.57"
+total_n = "4621"
+median = "965"
+avg = "924.2"
 regist = "2026/10/11 23:12"
-update = "2026/10/26 16:25"
+update = "2026/10/28 03:10"
 
 [[entries]]
 no = "202"
@@ -4644,7 +4649,7 @@ total_n = "5634"
 median = "979"
 avg = "939"
 regist = "2026/10/16 00:21"
-update = "2026/10/28 00:13"
+update = "2026/10/28 05:03"
 
 [[entries]]
 no = "259"
@@ -8016,7 +8021,11 @@ name = "Zris feat. 乃花こより"
 team = "TPZ(Team Pop Zone)"
 title = "LLM"
 size = "52513 KB"
-addr = ["https://drive.google.com/file/d/1M5pXUxiVNQn6v30j9RqftXJzGTZGHIZB/view"]
+addr = [
+    "https://drive.google.com/file/d/1M5pXUxiVNQn6v30j9RqftXJzGTZGHIZB/view",
+    "7K HYPER:",
+    "https://drive.google.com/file/d/16fCt2dkTBGj-mmdc4d411UYJJ225I8bd/view?usp=sharing",
+]
 genre = "Look Loop Moon"
 impr = "8"
 total = "12340.8"
@@ -8024,7 +8033,7 @@ total_n = "7713"
 median = "990"
 avg = "964.12"
 regist = "2026/10/19 23:46"
-update = "2026/10/26 02:26"
+update = "2026/10/28 03:58"
 
 [[entries]]
 no = "450"
@@ -8146,13 +8155,13 @@ addr = [
     "https://drive.google.com/uc?export=download&id=1zJ2zScEBHLfSk43rlekGZglJKsmXL0Nx",
 ]
 genre = "AMBIENT/ELECTRONICA"
-impr = "1"
-total = "1566.4"
-total_n = "979"
-median = "979"
-avg = "979"
+impr = "2"
+total = "2814.4"
+total_n = "1759"
+median = "879.5"
+avg = "879.5"
 regist = "2026/10/19 23:51"
-update = "2026/10/28 00:38"
+update = "2026/10/28 03:19"
 
 [[entries]]
 no = "457"
@@ -8188,13 +8197,13 @@ addr = [
     "https://drive.google.com/file/d/14PuyZSz5KmvDYFZbEabl_YCAXBbW9VDl/view?usp=sharing",
 ]
 genre = "HYPER EMOTiONAL XROSSOVER"
-impr = "2"
-total = "2228.7"
-total_n = "1938"
-median = "969"
-avg = "969"
+impr = "3"
+total = "3378.7"
+total_n = "2938"
+median = "984"
+avg = "979.33"
 regist = "2026/10/19 23:53"
-update = "2026/10/26 02:29"
+update = "2026/10/28 01:56"
 
 [[entries]]
 no = "459"
@@ -8288,13 +8297,13 @@ title = "Starfall"
 size = "117800 KB"
 addr = ["https://drive.google.com/file/d/1klQQ-sVRxy1WEoTamu1gdCv0V99uJM86/view?usp=sharing"]
 genre = "Lightfall"
-impr = "4"
-total = "6879.6"
-total_n = "3822"
-median = "956"
-avg = "955.5"
+impr = "5"
+total = "8139.6"
+total_n = "4522"
+median = "925"
+avg = "904.4"
 regist = "2026/10/19 23:56"
-update = "2026/10/26 02:44"
+update = "2026/10/28 03:28"
 
 [[entries]]
 no = "464"
@@ -8362,13 +8371,13 @@ addr = [
     "https://drive.google.com/file/d/18_8B0pYd0FiKTGxPgBK0s_M3j94p-n_E/view?usp=sharing",
 ]
 genre = "OVER200 BPM BOSSA NOVA"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1159"
+total_n = "950"
+median = "950"
+avg = "950"
 regist = "2026/10/19 23:57"
-update = "2026/10/20 00:06"
+update = "2026/10/28 01:56"
 
 [[entries]]
 no = "468"
@@ -8500,8 +8509,13 @@ no = "475"
 name = "lixound"
 team = "T-BMS Recording"
 title = "/ [] [] [] [] /"
-size = "105000 KB"
-addr = ["https://drive.google.com/file/d/1AFn6y8sayjzr1cnwLrYUNNmB7bv6m2z1/view?usp=sharing"]
+size = "102578 KB"
+addr = [
+    "■BMS",
+    "https://drive.google.com/file/d/1AFn6y8sayjzr1cnwLrYUNNmB7bv6m2z1/view?usp=sharing",
+    "■追加譜面のみ",
+    "https://drive.google.com/file/d/1PCexEooPSl4nsP7KYIQkWW09ehq2ri_C/view?usp=sharing",
+]
 genre = "FOUR ON THE FLOOR"
 impr = "8"
 total = "12295.8"
@@ -8509,7 +8523,7 @@ total_n = "6831"
 median = "909.5"
 avg = "853.87"
 regist = "2026/10/20 00:07"
-update = "2026/10/27 16:47"
+update = "2026/10/28 02:02"
 
 [[teams]]
 no = "175"

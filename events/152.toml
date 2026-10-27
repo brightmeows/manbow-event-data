@@ -128,13 +128,13 @@ title = "【業界初！】音ゲーが上達するエナジードリンクだ�
 size = "33439 KB"
 addr = ["https://drive.google.com/drive/folders/122Qp3w1y0_fcNzQAShTcyUF4bMMCBtA9?usp=drive_link"]
 genre = "あなたにオススメの動画"
-impr = "28"
-total = "28824.9"
-total_n = "25285"
-median = "929"
-avg = "903.03"
+impr = "29"
+total = "29828.1"
+total_n = "26165"
+median = "924"
+avg = "902.24"
 regist = "2026/10/01 23:03"
-update = "2026/10/26 18:25"
+update = "2026/10/28 01:20"
 
 [[entries]]
 no = "8"
@@ -607,13 +607,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/tkb82bdpddszxdvsqlqo6/Crim-Nanakusa-_wav.7z?rlkey=5ppr0nxj8w5q06v55oyuygdgt&st=u765t8pf&dl=1",
 ]
 genre = "Protean"
-impr = "13"
-total = "21526.2"
-total_n = "11959"
-median = "945"
-avg = "919.92"
+impr = "14"
+total = "23128.2"
+total_n = "12849"
+median = "942.5"
+avg = "917.78"
 regist = "2026/10/01 23:07"
-update = "2026/10/27 05:56"
+update = "2026/10/28 01:05"
 
 [[entries]]
 no = "35"
@@ -756,13 +756,13 @@ title = "blue spells"
 size = "58530 KB"
 addr = ["https://drive.google.com/drive/folders/1oBbLQUwarD3Q8aPS0YcTbY8OtyjgMNdg?usp=drive_link"]
 genre = "Hardstyle"
-impr = "20"
-total = "21388.85"
-total_n = "18599"
+impr = "21"
+total = "22481.35"
+total_n = "19549"
 median = "970"
-avg = "929.95"
+avg = "930.9"
 regist = "2026/10/01 23:08"
-update = "2026/10/27 19:48"
+update = "2026/10/28 01:11"
 
 [[entries]]
 no = "44"
@@ -868,13 +868,13 @@ title = "Dreamcrafter"
 size = "73869 KB"
 addr = ["https://drive.google.com/drive/folders/1Ugi_aaz4nT-o5J-SKM-8xyMEq45rz7Ay?usp=sharing"]
 genre = "Futurecore"
-impr = "9"
-total = "9014.85"
-total_n = "7839"
-median = "860"
-avg = "871"
+impr = "10"
+total = "9877.35"
+total_n = "8589"
+median = "855"
+avg = "858.9"
 regist = "2026/10/01 23:09"
-update = "2026/10/21 12:10"
+update = "2026/10/28 01:15"
 
 [[entries]]
 no = "51"
@@ -1124,6 +1124,9 @@ addr = [
     "https://www.dropbox.com/scl/fi/r6epv1on67uxcze3eaplm/legend_g_ogg-ranker.zip?rlkey=02hpju9cq67o6yb016pgiqdk7&st=suxsquqy&dl=0",
     "WAV Version (105000KB):",
     "https://www.dropbox.com/scl/fi/vj462424s098ytzreu0ao/legend_g_wav-ranker.zip?rlkey=g7bbex8uatnerjza0hlhhpeso&st=aqa5gwgz&dl=0",
+    "---------------------------------------",
+    "Patch for [SP NORMAL] (Append pack before 2026/10/28/00:30 GMT+9 ) (16KB)",
+    "https://www.dropbox.com/scl/fi/obnj4xdseyz1975hijwwf/legend_g-ranker_patch_20261028.zip?rlkey=9qztokj8r5lxyy00eny6jfdbk&st=zxi665pt&dl=0",
 ]
 genre = "J-CORE"
 impr = "12"
@@ -1132,7 +1135,7 @@ total_n = "10543"
 median = "903.5"
 avg = "878.58"
 regist = "2026/10/01 23:10"
-update = "2026/10/27 19:03"
+update = "2026/10/28 00:37"
 
 [[entries]]
 no = "64"
@@ -1218,13 +1221,13 @@ addr = [
     "https://drive.google.com/file/d/17UPXb_0g9spKrvHl0OekICCo4audxiox/view?usp=sharing",
 ]
 genre = "Artstep"
-impr = "31"
-total = "33896.25"
-total_n = "29475"
-median = "963"
-avg = "950.8"
+impr = "32"
+total = "35046.25"
+total_n = "30475"
+median = "966.5"
+avg = "952.34"
 regist = "2026/10/01 23:10"
-update = "2026/10/27 17:16"
+update = "2026/10/28 00:10"
 
 [[entries]]
 no = "68"
@@ -1250,13 +1253,13 @@ title = "Rust summeR"
 size = "66788 KB"
 addr = ["https://drive.google.com/uc?id=1A_efDLRONYsoiXYCgzOrNnF12l9DBicJ"]
 genre = "ELECTRO"
-impr = "11"
-total = "12332.98"
-total_n = "10109"
-median = "939"
-avg = "919"
+impr = "12"
+total = "13479.78"
+total_n = "11049"
+median = "939.5"
+avg = "920.75"
 regist = "2026/10/01 23:10"
-update = "2026/10/26 12:51"
+update = "2026/10/28 00:24"
 
 [[entries]]
 no = "70"
@@ -1314,13 +1317,13 @@ title = "私のアニメ愛はお前らなんかに止めらんない！"
 size = "145000 KB"
 addr = ["https://drive.google.com/file/d/1pTLWVU6T4UD8B2L6lS5jfz9MYXjU3Tgo/view"]
 genre = "Lolicore"
-impr = "9"
-total = "8763.3"
-total_n = "7490"
-median = "950"
-avg = "832.22"
+impr = "10"
+total = "9864.27"
+total_n = "8431"
+median = "945.5"
+avg = "843.1"
 regist = "2026/10/01 23:10"
-update = "2026/10/27 15:20"
+update = "2026/10/28 00:33"
 
 [[entries]]
 no = "74"
@@ -1358,13 +1361,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/kqouxagp8o6c4aaovfgie/KaKi-ABLD_ogg.zip?rlkey=tb8mxv3hf4po01exyshd6ko89&st=kjdnw19v&dl=1",
 ]
 genre = "Acid / Hard Techno"
-impr = "11"
-total = "18862.2"
-total_n = "10479"
-median = "960"
-avg = "952.63"
+impr = "12"
+total = "20536.2"
+total_n = "11409"
+median = "957.5"
+avg = "950.75"
 regist = "2026/10/01 23:10"
-update = "2026/10/27 02:34"
+update = "2026/10/28 00:47"
 
 [[entries]]
 no = "76"
@@ -1454,13 +1457,13 @@ addr = [
     "https://drive.google.com/file/d/1-2hLZpQYK20SxZs955LI-Jy1yRgLnLQb/view?usp=sharing",
 ]
 genre = "SOFT -LAND-ING BREAK CORE"
-impr = "9"
-total = "9011.7"
-total_n = "7905"
-median = "930"
-avg = "878.33"
+impr = "10"
+total = "10038.84"
+total_n = "8806"
+median = "927.5"
+avg = "880.6"
 regist = "2026/10/01 23:11"
-update = "2026/10/23 19:50"
+update = "2026/10/28 00:55"
 
 [[entries]]
 no = "81"
@@ -1470,13 +1473,13 @@ title = "RUST"
 size = "1110000 KB"
 addr = ["https://drive.google.com/file/d/19n9fnwXiuCBcrBm4IyFXYePPg38DQxMl/view?usp=sharing"]
 genre = "Rock"
-impr = "15"
-total = "15902.97"
-total_n = "14327"
-median = "960"
-avg = "955.13"
+impr = "16"
+total = "16958.58"
+total_n = "15278"
+median = "955.5"
+avg = "954.87"
 regist = "2026/10/01 23:11"
-update = "2026/10/27 22:08"
+update = "2026/10/28 01:05"
 
 [[entries]]
 no = "82"
@@ -1502,13 +1505,13 @@ title = "紅キ契ノ鎮魂華"
 size = "124000 KB"
 addr = ["https://drive.google.com/file/d/1Eh6CMXCyKc5HF8wVDc5I4UGksUH2pYat/view?usp=sharing"]
 genre = "Gothic Rock"
-impr = "14"
-total = "15255.16"
-total_n = "13151"
-median = "955"
-avg = "939.35"
+impr = "15"
+total = "16353.68"
+total_n = "14098"
+median = "950"
+avg = "939.86"
 regist = "2026/10/01 23:11"
-update = "2026/10/27 22:07"
+update = "2026/10/28 01:22"
 
 [[entries]]
 no = "84"
@@ -1587,13 +1590,13 @@ addr = [
     "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQDN3sC_F_URQ5PTdzszjolYASmkKHpM-hQqkQ1zSjOKsMM?e=eY1Nio",
 ]
 genre = "Bloomcore"
-impr = "23"
-total = "25525.4"
-total_n = "22196"
-median = "977"
-avg = "965.04"
+impr = "24"
+total = "26604.1"
+total_n = "23134"
+median = "975"
+avg = "963.91"
 regist = "2026/10/01 23:11"
-update = "2026/10/27 21:55"
+update = "2026/10/28 01:26"
 
 [[entries]]
 no = "89"
@@ -1619,13 +1622,13 @@ title = "リビドマテリアリズム(BMS Edit)"
 size = "50981 KB"
 addr = ["https://www.dropbox.com/scl/fi/8fzpoxy2q59g719p8s3nk/ribido_sakamiya_BMS.zip?rlkey=mrj3nutdw4s61d17gjebc4p41&dl=1"]
 genre = "Internet-J-Pop"
-impr = "13"
-total = "14092.68"
-total_n = "12362"
+impr = "14"
+total = "15211.02"
+total_n = "13343"
 median = "960"
-avg = "950.92"
+avg = "953.07"
 regist = "2026/10/01 23:12"
-update = "2026/10/27 15:25"
+update = "2026/10/28 01:37"
 
 [[entries]]
 no = "91"
@@ -1809,13 +1812,13 @@ addr = [
     "https://drive.google.com/uc?id=1CxTlFucsWKIqdgzCn3zyDGU4VaPTAs9b&export=download",
 ]
 genre = "garage (future garage)"
-impr = "10"
-total = "9838.25"
-total_n = "8555"
-median = "857.5"
-avg = "855.5"
+impr = "11"
+total = "10887.05"
+total_n = "9467"
+median = "865"
+avg = "860.63"
 regist = "2026/10/01 23:13"
-update = "2026/10/25 20:59"
+update = "2026/10/28 01:44"
 
 [[entries]]
 no = "101"
@@ -2772,12 +2775,14 @@ no = "155"
 name = "MUSIC: D.J.jkoiuy / BMS: Constellation vs CalendarV"
 team = "LEGEND OF G"
 title = "Touch the Sky"
-size = "78500 KB"
+size = "41000 KB"
 addr = [
-    "WAV Version + BGI (78500KB):",
+    "WAV Version + BGA (78500KB):",
     "https://drive.google.com/file/d/1hqD4FO8RNzXUqIi1mNAHuxDJyvE7FgLa/view?usp=sharing",
+    "OGG Version + BGA (41000KB):",
+    "https://www.dropbox.com/scl/fi/02n70n17bh75lzk5ndvdq/legend_g_ogg-touch_the_sky.zip?rlkey=avdqk826fhzmuy2332cq73tdg&st=mqreyu30&dl=0",
     "---------------------------------------",
-    "BGA Only (12200KB) (Optional. Replace _movie.wmv in same PATH)",
+    "BGA Only (12200KB) (Append pack before 2026/10/28/00:00 GMT+9 )",
     "https://www.dropbox.com/scl/fi/ft900telpuh5dnz42no4b/legend_g-fs_append_movie_20261016.zip?rlkey=di01lkfvg3509onx74hzcqlf4&st=y8472jit&dl=0",
 ]
 genre = "Doujin Trance"
@@ -2787,7 +2792,7 @@ total_n = "3735"
 median = "942.5"
 avg = "933.75"
 regist = "2026/10/04 18:04"
-update = "2026/10/27 19:09"
+update = "2026/10/28 00:42"
 
 [[entries]]
 no = "156"
@@ -3927,7 +3932,7 @@ total_n = "1980"
 median = "990"
 avg = "990"
 regist = "2026/10/12 21:03"
-update = "2026/10/26 22:24"
+update = "2026/10/28 00:23"
 
 [[entries]]
 no = "219"
@@ -4628,7 +4633,10 @@ name = "星咲Suzumi -Ombre-"
 team = "悪魔紫豆隊"
 title = "Usuakari"
 size = "135168 KB"
-addr = ["https://drive.google.com/file/d/1Dp56JsJ2y3hjedYcq9tQqFZmEPxYnsmY/view?usp=sharing"]
+addr = [
+    "[Updated: SPb, SPn New ver.]",
+    "https://drive.google.com/file/d/1Dp56JsJ2y3hjedYcq9tQqFZmEPxYnsmY/view?usp=sharing",
+]
 genre = "Still burning, still brilliant."
 impr = "6"
 total = "10141.2"
@@ -4636,7 +4644,7 @@ total_n = "5634"
 median = "979"
 avg = "939"
 regist = "2026/10/16 00:21"
-update = "2026/10/27 16:57"
+update = "2026/10/28 00:13"
 
 [[entries]]
 no = "259"
@@ -4669,13 +4677,13 @@ title = "砕羽(DnB Mix)feat.洛天依"
 size = "35158 KB"
 addr = ["https://drive.google.com/file/d/1-6Jq_bKaEXe0yRSqhnCwaaphddCYZrFe/view?usp=sharing"]
 genre = "Drum & Bass"
-impr = "2"
-total = "3006"
-total_n = "1670"
-median = "835"
-avg = "835"
+impr = "3"
+total = "4752"
+total_n = "2640"
+median = "920"
+avg = "880"
 regist = "2026/10/16 00:45"
-update = "2026/10/19 21:00"
+update = "2026/10/27 23:45"
 
 [[entries]]
 no = "261"
@@ -4749,13 +4757,13 @@ title = "Prelude in White"
 size = "31831 KB"
 addr = ["https://drive.google.com/file/d/1eg65xG3Q8QZ-R7AWoOjlSe07fIdznrIS/view?usp=sharing"]
 genre = "Fantasy/Cinematic"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1138.5"
+total_n = "990"
+median = "990"
+avg = "990"
 regist = "2026/10/16 02:43"
-update = "2026/10/22 00:13"
+update = "2026/10/28 01:25"
 
 [[entries]]
 no = "266"
@@ -4927,13 +4935,13 @@ title = "Cheer Train -Revolutinary.Himix-"
 size = "66927 KB"
 addr = ["https://drive.google.com/file/d/1vMymsgANn2999BCQKQFFxBefWv0u2pG6/view?usp=drive_link"]
 genre = "AMAZING BIG BEAT"
-impr = "3"
-total = "4128"
-total_n = "2580"
-median = "860"
-avg = "860"
+impr = "4"
+total = "4688"
+total_n = "2930"
+median = "805"
+avg = "732.5"
 regist = "2026/10/16 22:59"
-update = "2026/10/25 22:10"
+update = "2026/10/27 23:51"
 
 [[entries]]
 no = "276"
@@ -5390,13 +5398,13 @@ title = "Ghost"
 size = "107201 KB"
 addr = ["https://drive.google.com/file/d/1cMVY1hv9AFUe2k6Fj32fEWcourvrMr3V/view?usp=drive_link"]
 genre = "Acid Jazz"
-impr = "10"
-total = "17917.2"
-total_n = "9954"
-median = "999.5"
-avg = "995.4"
+impr = "11"
+total = "19672.2"
+total_n = "10929"
+median = "999"
+avg = "993.54"
 regist = "2026/10/18 16:39"
-update = "2026/10/26 21:09"
+update = "2026/10/28 01:27"
 
 [[entries]]
 no = "302"
@@ -7189,13 +7197,13 @@ title = "絶対空想感"
 size = "23815 KB"
 addr = ["https://www.dropbox.com/scl/fi/rz2ced5tmmhbwn98nvh6d/aki-zettai_kuusoukan_ogg.zip?rlkey=2s34ew3lb292ejucdas216woy&dl=1"]
 genre = "breakbeats"
-impr = "2"
-total = "3068.8"
-total_n = "1918"
-median = "959"
-avg = "959"
+impr = "3"
+total = "4660.8"
+total_n = "2913"
+median = "978"
+avg = "971"
 regist = "2026/10/19 22:01"
-update = "2026/10/26 17:06"
+update = "2026/10/27 23:50"
 
 [[entries]]
 no = "405"
@@ -7205,13 +7213,13 @@ title = "Seventh Degree Heart Block"
 size = "112736 KB"
 addr = ["https://drive.google.com/file/d/137vlmHli-1JZMIuEIIWEM-Sny0t-LYzh/view?usp=sharing"]
 genre = "EKG FUTURE BASS"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "1080"
+total_n = "600"
+median = "600"
+avg = "600"
 regist = "2026/10/19 22:01"
-update = "2026/10/21 14:41"
+update = "2026/10/28 00:56"
 
 [[entries]]
 no = "406"
@@ -7693,13 +7701,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/1vfv970gx8sgdx85b82r7/_BGA.avi?rlkey=mcv6zxh6v0g5junco4ucbbkxw&st=baeb3kfn&dl=1",
 ]
 genre = "HARDSTYLE"
-impr = "2"
-total = "3110.4"
-total_n = "1944"
-median = "972"
-avg = "972"
+impr = "3"
+total = "4686.4"
+total_n = "2929"
+median = "984"
+avg = "976.33"
 regist = "2026/10/19 23:24"
-update = "2026/10/27 23:01"
+update = "2026/10/28 00:28"
 
 [[entries]]
 no = "432"
@@ -7816,7 +7824,15 @@ name = "9RAN"
 team = "T-BMS Recording"
 title = "回"
 size = "79055 KB"
-addr = ["https://drive.google.com/file/d/1vBXEcIsSF2djcSDqDJsGr-pNKv5F5--d/view?usp=sharing"]
+addr = [
+    "wav版：",
+    "https://drive.google.com/file/d/1vBXEcIsSF2djcSDqDJsGr-pNKv5F5--d/view?usp=sharing",
+    "（10/28追加）",
+    "ogg版 + アップデートデータ：",
+    "https://drive.google.com/file/d/1dxDZNeX5bN6Kh3Hfqlm0f-DAqB_qOpOf/view?usp=sharing",
+    "アップデートデータのみ：",
+    "https://drive.google.com/file/d/1I_dGqNtqHVuDLySWykvBCHJFPaAmbKu0/view?usp=sharing",
+]
 genre = "MINIMAL TECHNO"
 impr = "0"
 total = "0"
@@ -7824,7 +7840,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/19 23:36"
-update = "2026/10/21 23:16"
+update = "2026/10/28 01:37"
 
 [[entries]]
 no = "439"
@@ -8121,8 +8137,14 @@ no = "456"
 name = "6CHA9N"
 team = "いい"
 title = "蒸しパンの季節"
-size = "64806 KB"
-addr = ["https://drive.google.com/uc?export=download&id=1qJq4o3VR1OB_oeZyhx8B245Gc6aH0DhX"]
+size = "64826 KB"
+addr = [
+    "[ogg (ver.2)]",
+    "https://drive.google.com/uc?export=download&id=1NEHu3oEYz9Ymo0zyW3dMnvZnPB2djyY0",
+    "[追加譜面/additional charts + new readme]",
+    "2026/10/28 0:38 (JST) 以前にDLされた方は追加のダウンロードをお願い致します。",
+    "https://drive.google.com/uc?export=download&id=1zJ2zScEBHLfSk43rlekGZglJKsmXL0Nx",
+]
 genre = "AMBIENT/ELECTRONICA"
 impr = "1"
 total = "1566.4"
@@ -8130,7 +8152,7 @@ total_n = "979"
 median = "979"
 avg = "979"
 regist = "2026/10/19 23:51"
-update = "2026/10/26 16:23"
+update = "2026/10/28 00:38"
 
 [[entries]]
 no = "457"
@@ -8187,13 +8209,13 @@ addr = [
     "https://drive.google.com/file/d/1reqab-ugiBUq6Oipc9zGSijvpuEvTYwn/view?usp=drive_link",
 ]
 genre = "HYPER ELEMENTS GOTHiC METAL"
-impr = "3"
-total = "3387.9"
-total_n = "2946"
-median = "988"
-avg = "982"
+impr = "4"
+total = "4537.9"
+total_n = "3946"
+median = "989"
+avg = "986.5"
 regist = "2026/10/19 23:53"
-update = "2026/10/26 22:27"
+update = "2026/10/28 01:35"
 
 [[entries]]
 no = "460"
@@ -8375,13 +8397,13 @@ title = "戦慄するG"
 size = "83811 KB"
 addr = ["https://mega.nz/file/rOhHkB7R#c4YxHNuCjtdKn9GpmM-b4Qj0rfa5094TUkhWJZ-oiW8"]
 genre = "PSYCHIC MAXX CRASH"
-impr = "2"
-total = "2926.4"
-total_n = "1829"
-median = "914.5"
-avg = "914.5"
+impr = "3"
+total = "4478.4"
+total_n = "2799"
+median = "930"
+avg = "933"
 regist = "2026/10/19 23:58"
-update = "2026/10/25 22:27"
+update = "2026/10/28 01:20"
 
 [[entries]]
 no = "470"

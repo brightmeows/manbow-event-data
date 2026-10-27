@@ -3391,6 +3391,7 @@ tags = [
     "14Keys",
     "Lang-US",
     "Lang-SCN",
+    "File-Modify",
     "Audition-Sound",
     "Use-BGA",
     "Use-BGI",
@@ -3406,12 +3407,11 @@ tags = [
     "Player-beatoraja",
 ]
 production = "Adobe After Effect 2020 (Video)Adobe Media Encoder 2020 (Video)Adobe Premiere 2019 (Video)Adobe Photoshop 2022 (Illust)Beatoraja 0.8.8 (Chart Test)Dropbox (Submission and Download)Google Translate (Grammar)FL Studio 21.2.2 (Compose)Microsoft Office Word 2019 (Grammar)pBMSC.3.5.5.16 (Charts and Slicing)woslicerIII (Slicing)"
-comment_updated = "2026年10月10日 00:20"
+comment_updated = "2026年10月28日 00:37"
 comment = """
+(2026年10月28日 00:37 更新)
 (2026年10月10日 00:20 更新)
 (2026年10月01日 23:30 更新)
-ACKNOWLEDGEMENT
-There is an error has been identified few days ago. SP NORMAL has a identified error of #BMPXX definition, whole movie is unavailable in a reason of blank #BMPXX definition, though #random is available. I will fix it after 2026/10/28. You can fix it yourselves, you just copy #BMP01 to #BMP0L into expansion field from others charts in same PATH.
 VIDEO
 MOVIE
 https://www.youtube.com/watch?v=taYLScHsCXw
@@ -3473,6 +3473,11 @@ gsgaiq, CalendarV charts testing
 gsgaiq movie clips"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/10 00:20"
+note = "add Chart Preview Video in VIDEO Column, add ACKNOWKLEDGMENT Column, adjust the order of Column, fix an error on tags"
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/01 23:30"
 note = "add movie URL in COMMENT"
@@ -3483,9 +3488,9 @@ date = "2026/10/01 23:10"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "add Chart Preview Video in VIDEO Column, add ACKNOWKLEDGMENT Column, adjust the order of Column, fix an error on tags"
+note = "fix unavailable movie on [SP NORMAL], add patch on DOWNLOAD, delete ACKNOWLEDGMENT Column in COMMENT, add fixed-charts on TAGs"
 
 [[details]]
 num = "64"
@@ -7690,6 +7695,7 @@ tags = [
     "Video-sharing",
     "Use-BGA",
     "Use-BGI",
+    "Use-ogg",
     "Use-wmv_movie",
     "Gimmick-LongNote",
     "Difficulty-intermediate",
@@ -7698,8 +7704,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月17日 19:35"
+comment_updated = "2026年10月28日 00:42"
 comment = """
+(2026年10月28日 00:42 更新)
+(2026年10月28日 00:20 更新)
 (2026年10月17日 19:35 更新)
 VIDEO
 MOVIE
@@ -7735,14 +7743,24 @@ Constellation, CalendarV Charts
 Constellation, CalendarV, gsgaiq Charts Testing"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/28 00:20"
+note = "add OGG version on DOWNLOAD, update WAV version with packed movie, update SIZE of DOWNLOAD, no change on charts"
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/17 19:35"
+note = "add MOVIE and CHART PREVIEW URL in COMMENT, add BGA only DOWNLOAD link, add new TAGS of works, no change on charts"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/04 18:04"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "4"
 date = ""
-note = "add MOVIE and CHART PREVIEW URL in COMMENT, add BGA only DOWNLOAD link, add new TAGS of works, no change on charts"
+note = "add new TAGS of works"
 
 [[details]]
 num = "156"
@@ -10986,8 +11004,10 @@ tags = [
     "Use-ogg",
 ]
 production = "非公開"
-comment_updated = "2026年10月26日 22:24"
+audition = ["https://soundcloud.com/w4a03lu20d7r/bof22-e-o-e-endmage-of?si=1f8469cfb57c4793a0dd3b0baf412bd6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
+comment_updated = "2026年10月28日 00:23"
 comment = """
+(2026年10月28日 00:23 更新)
 (2026年10月26日 22:24 更新)
 BEGINNER:☆3
 NORMAL:☆8
@@ -10998,8 +11018,13 @@ ANOTHER:☆12(sl2相当)
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/12 21:03"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "soundcloudリンクを設定しました。"
 
 [[details]]
 num = "219"
@@ -12747,7 +12772,7 @@ genre = "Still burning, still brilliant."
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_3 (★x9～★x12)"
+charts = "CHART_3 (★x2～★x12)"
 bpm = "220"
 tags = [
     "7Keys",
@@ -12756,12 +12781,12 @@ tags = [
     "Lang-SCN",
 ]
 production = "非公開"
-comment_updated = "2026年10月17日 00:05"
+comment_updated = "2026年10月28日 00:13"
 comment = """
-(2026年10月17日 00:05 更新)
-初心者に優しいSPb譜面は、譜面修正／追加期間に更新されます。
-对新手友好的SPb谱面将在谱面修正/追加期更新。
-Beginner-friendly SPb charts will be updated during the chart revision/addition period.
+(2026年10月28日 00:13 更新)
+SPb譜面1枚とSPn New ver.譜面1枚を追加更新しました。
+已追加更新一张SPb谱面和一张SPn New ver.谱面。
+One SPb chart and one SPn New ver. chart have been updated.
 (2026年10月16日 10:17 更新)
 さらさらと鳴る夜風が、故郷の黄砂を巻き上げ、荒野の上空をさまよっている。灯りが点々と瞬く避難所の外では、民衆で編成された哨戒班が、また交代の番を巡らせた。
 深い空には、百年前からこの砂漠の上空を旋回し続けている巡航ミサイル群がある。
@@ -12806,8 +12831,13 @@ Qamar - 星咲Suzumi
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/16 00:21"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "One SPb chart and one SPn New ver. chart have been updated."
 
 [[details]]
 num = "259"
@@ -13137,13 +13167,15 @@ genre = "Fantasy/Cinematic"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Self"
-charts = "CHART_3 (★x12～★x12)"
+charts = "CHART_3 (★x2～★x12)"
 bpm = "140"
 tags = [
     "7Keys",
+    "14Keys",
     "Lang-US",
     "Lang-SCN",
     "Lang-TCN",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -13154,76 +13186,88 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/r6azbh6fd44h/prelude-in-white?si=0586b413b6794c2ca3c44b5e195476c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月22日 00:13"
+comment_updated = "2026年10月28日 01:25"
 comment = """
-(2026年10月22日 00:13 更新)
-(2026年10月22日 00:10 更新)
-雨瞳：white这个作品简直太优雅了，由请3b老师发表一下参赛感言
-baka3b：第一次参加BOF，不知道说点什么www，有没有什么参考？另外，做BMS化可真累啊！
-雨瞳：www主要是老师的乐曲创作简直太复杂了，可以分享一下创作思路或背景小故事什么的。
-Instere：需要更多空间去欣赏作品而不是描述，所以不用想太多，就像队伍介绍也只有一句话。
-雨瞳：这么美的作品不配上BGA简直太可惜了，现在小故事不能也没有!
+(2026年10月28日 01:25 更新)
+（更新于2026年10月28日，01：23）
+（更新于2026年10月22日，00：13）
+（更新于2026年10月22日，00：10）
+玉彤：这件作品，“白色”，非常优雅。 3B老师，请分享你对比赛的看法。
+baka3b：这是我第一次参加BOF，所以不知道该说什么，哈哈。 有什么推荐吗？ 另外，换BMS真的很累！
+玉彤：www 主要是因为老师的音乐作曲太复杂了。 你可以分享你的想法或背景故事。
+相反：你需要更多空间来欣赏作品，而不是描述它，所以不要想太多——就像团队介绍只是一句话。
+余彤：真遗憾如此美丽的作品不配获得《美丽》。 现在，这个小故事不能被忽视！
 ——————————————————————————
-White 自出生起便双目失明，从未见过这个世界。
-她以指尖触摸花瓣的脉络，以耳畔聆听风穿过林间的声音，以心感受每一段旋律中蕴藏的情感。对她而言，世界始终是一片无法描摹的空白。她不知道天空究竟有多辽阔，也不明白阳光为何能让人露出笑容。可她从未停止想象，并将那些从未亲眼见过的景色，一点一点写进自己的音乐。
-终于有一天，她完成了《Prelude in White》。
-她将乐谱带至圣坛，在寂静中奏响了这首献给世界的序曲。琴声如清泉般流淌，承载着她对未知的好奇、对美好的憧憬，以及一个从未向任何人说出口的愿望——
-她想看看这个世界。哪怕只有一次。
-悠扬的旋律回荡在神圣的殿堂。传说中从不回应凡俗祈愿的神明，竟在这一刻动容。祂垂下目光，将一丝神性的力量赐予了这位虔诚的精灵。
+怀特从出生起就失明，从未见过世界。
+她用指尖触摸图案，耳边听着风吹过森林，真诚地感受到每一段旋律中隐藏的情感。 对她来说，世界永远是一片难以言喻的空白。 她不知道天空到底有多辽阔，也不知道阳光如何让人微笑。 但她从未停止想象，逐渐将自己从未亲眼见过的场景融入音乐中。
+终于有一天，她完成了《白袍前奏》。
+她将乐谱带到祭坛上，默默演奏了这首献给世界的序曲。 琴声如清泉般流淌，承载着她对未知的好奇、对美的渴望，以及她从未与任何人分享的愿望——
+她想看看世界。 即使只有一次。
+旋律在神圣的大厅中回荡。 那些从未回应普通祈祷的传说神祇如今被感动了。 他低下目光，将一丝神圣的力量注入了虔诚的精灵身上。
 于是，奇迹发生了。
-White 感到眼前的黑暗开始消融。起初只是一点微弱的光，而后，光芒逐渐铺展开来，勾勒出她从未想象过的轮廓。她看见了圣坛高耸的穹顶，看见了阳光穿过彩绘玻璃，在地面投下斑斓的色彩。她看见了花朵的洁白、天空的湛蓝，以及那些曾经只能存在于她想象中的万千景象。
-原来，世界是这样的。
-她怔怔地望着眼前的一切，泪水无声地滑落。那是她生命中第一次，也是唯一一次，真正看见这个世界。
-然而，神明的恩赐并非凡躯所能承受。
-那一丝力量终究太过沉重。光芒越发耀眼，她的意识却开始一点点远去。她想伸手触摸眼前的光景，想将这一切深深铭刻于心，却连抬起手指都变得困难。
-琴声渐渐微弱。
-在意识彻底消散之前，她终于明白了阳光的温度从何而来，也终于看清了自己一直以来所追寻的世界。
-「原来……世界，真的这么美啊。」
-话音落下，琴弦归于寂静。
-White 永远地睡去了。
-圣坛重新恢复了平静，只有那份未曾散尽的神圣余韵，仍在空气中缓缓流转。《Prelude in White》的最后一个音符，仿佛被时间永远留在了那里。
-没有人知道，沉睡的精灵是否仍能听见世界的声音，也没有人知道，那短暂的光明是否已足以让她在梦中拥有一个完整的世界。
-但她留下的旋律并未终结。
-她成为了后来者踏上旅途的序章，带领无数怀揣梦想的人走向未知，走向各自心中的 Wonderland。
-因为对 White 而言，即使一生只能看见一次，世界也值得她用尽全部去爱。
-而她所奏响的序曲，将替她继续前行。
+怀特感到眼前的黑暗开始消退。 起初只是微弱的光，随后光线逐渐扩散，勾勒出她从未想象过的轮廓。 她看见祭坛高耸的圆顶，看到阳光透过彩色玻璃洒落，在地上闪烁着鲜艳的色彩。 她看到纯白的花朵、深邃的蓝天，以及无数曾经只存在于想象中的场景。
+这就是当前世界的现状。
+她茫然地盯着眼前的一切，泪水无声地滑落脸颊。 那是她人生中第一次也是唯一一次真正清楚地看清了这个世界。
+然而，上帝的恩赐不是普通身体能承受的。
+那股力量的痕迹最终变得过于沉重。 光芒愈发耀眼，但她的意识逐渐消退。 她想伸手触摸眼前的场景，将这一切铭刻在心中，但连抬起手指都变得困难。
+古筝的声音渐渐远去。
+在意识完全消退之前，她终于明白阳光的温暖来自何处，终于清晰地看到了她一直在寻找的世界。
+“原来是这样...... 这个世界真的很美。 ”
+话语落下，弦线也随之寂静。
+白永远沉睡。
+祭坛恢复了平静，只有残留的神圣共鸣缓缓在空气中徘徊。 《白袍前奏》的最后一个音符似乎被时间永远保存着。
+没人知道沉睡的精灵是否还能听见世界的声音，也不知道那短暂的光是否足以让她在梦中拥有一个完整的世界。
+但她留下的旋律并未结束。
+她成为后世旅程的序幕，引领无数梦想家走向未知，也引领他们心中奇迹。
+因为对怀特来说，即使一生只能见她一次，这个世界也值得她用全部去爱。
+她所奏的序曲将继续推进。
 ——————————————————————————
-rom the moment she was born, White had been blind. She had never seen the world with her own eyes.
-She traced the delicate veins of flower petals with her fingertips, listened to the wind whispering through the forest, and felt the emotions woven into every melody with her heart. To her, the world had always been a blank canvas, vast and unknowable, beyond the reach of sight. She did not know how boundless the sky might be, nor why the warmth of sunlight could bring a smile to someone's face.
-Yet she never stopped imagining.
-Little by little, she poured the landscapes she had never witnessed into her music, giving shape to a world that had existed only within her dreams.
-And at last, one day, she completed Prelude in White.
-Carrying her sheet music to the sacred altar, she began to play her offering to the world. In the stillness of the sanctuary, her melody flowed like a crystal-clear stream, carrying her curiosity for the unknown, her longing for beauty, and a wish she had never dared to speak aloud—
-She wanted to see the world.
-Even if only once.
-Her gentle melody echoed through the hallowed halls. And the gods, who, according to legend, had never answered the humble prayers of mortals, were moved at last. The divine gaze descended upon her, and a fragment of celestial power was bestowed upon the devoted elf.
-And so, a miracle came to pass.
-White felt the darkness before her begin to dissolve. At first, there was only a faint glimmer of light. Then, little by little, it spread, tracing the outlines of a world she had never even dared to imagine.
-She saw the towering dome of the sanctuary. She saw sunlight filtering through stained-glass windows, scattering a thousand colors across the floor. She saw the pure white of flowers, the boundless blue of the sky, and the countless wonders that had once existed only in the depths of her imagination.
-So this is what the world looks like.
-She gazed at the scene before her, utterly spellbound, as tears silently slipped down her cheeks.
-It was the first time in her life—
-And the only time—
-That she truly saw the world.
-Yet the gift of the divine was more than her mortal body could bear.
-The power she had been granted was too great, too heavy for her fragile vessel. The light grew ever brighter, while her consciousness began to drift away, little by little. She longed to reach out and touch the wonders before her, to etch every detail forever into her heart. But even the simple act of lifting a finger had become an impossible task.
-The music began to fade.
-As her consciousness slipped toward oblivion, she finally understood the warmth of sunlight. At last, she beheld the world she had spent her entire life searching for.
-“So… the world really is this beautiful.”
-With those words, the strings fell silent.
-White closed her eyes forever.
-The sanctuary returned to stillness. Only the lingering afterglow of the sacred moment remained, drifting softly through the air. The final note of Prelude in White seemed to have been suspended in time, never to fade away.
-No one knew whether the sleeping elf could still hear the sounds of the world. No one knew whether that fleeting glimpse of light had been enough to grant her a complete world within her dreams.
-But the melody she left behind did not end.
-It became the prelude to the journeys of those who came after her, guiding countless dreamers toward the unknown, toward the Wonderland that awaited within each of their hearts.
-For White, even if she could see the world only once in her entire life, it was still a world worth loving with everything she had.
-And the prelude she had once played would carry her dream forward—
-Long after she was gone.
-Prelude in White — A fleeting glimpse of eternity.
-「纵使光明只有一瞬，我也终于见过了世界。」
+从出生那一刻起，怀特就一直失明。 她从未亲眼见过这个世界。
+她用指尖描摹着花瓣细腻的脉络，聆听风在森林中低语，用心感受每一段旋律中编织的情感。 对她来说，世界一直是一块空白画布——广阔却不可知，无法触及。 她不知道天空会多么无边无际，也不知道阳光的温暖如何能让人脸上绽放笑容。
+然而她从未停止想象。
+她逐渐将音乐注入了她从未见过的风景，塑造了一个只存在于梦境中的世界。
+终于有一天，她完成了《白袍序曲》。
+她将乐谱带到神圣的祭坛前，开始演奏献给世界的祭品。 在圣所的宁静中，她的旋律如清澈溪流般流淌，承载着对未知的好奇、对美丽的渴望，以及那些她从未敢说出口的愿望——
+她想看看世界。
+即使只有一次。
+她温柔的旋律在神圣的大厅中回荡。 那些从未回应凡人谦卑祈祷的传说神明终于被感动了。 一道神圣的凝视降临在她身上，一丝天体力量被赐予这位虔诚的精灵。
+于是，奇迹发生了。
+怀特感到眼前的黑暗开始消退。 起初，只有微弱的光芒闪烁。 然后，一点点地，它扩散开来，勾勒出一个她从未敢想象的世界轮廓。
+她看见了圣所高耸的圆顶。 她看到阳光透过彩色玻璃窗洒进来，地板上洒满了无数色彩。 她看到纯白的花朵，无边的蓝天，以及曾经只存在于想象深处的无数奇迹。
+这就是世界的样子。
+她凝视着眼前的场景，完全被吸引，泪水默默地滑落脸颊。
+这是她人生中第一次——
+而唯一一次——
+她真正看见了世界。
+然而，这份神圣的恩赐远远超出了她凡人身体所能承受的范围。
+她所承受的重担太沉重，对她脆弱的船只来说太沉重了。 光芒变得更亮，她的意识一点点开始漂移。 她渴望伸手触摸眼前的奇迹，永远铭刻在心中的每一个细节。 但即使是简单的手指移动动作也变成了不可能完成的任务。
+音乐渐渐远去。
+随着意识逐渐模糊，她终于明白阳光的温暖。 终于，她看见了自己一生都在寻找的世界。
+“那么...... 这个世界真的很美。 ”
+随着这句话，弦渐渐安静下来。
+怀特永远闭上了眼睛。
+避难所恢复了寂静。 只有神圣时刻的余韵轻轻飘荡在空气中。 白色序曲的最后一个音符似乎被时间悬浮，永不消逝。
+没人知道沉睡的精灵是否还能听到世界的声音。 没人知道那一刻的光是否足以让她在梦中拥有完整的世界。
+但她留下的旋律并未结束。
+它成为后人旅程的序幕，引导无数梦想者走向未知，进入人人梦寐以求的仙境。
+对怀特来说，即使一生只能见到这个世界一次，这依然是一个值得她全心全意去爱的世界。
+而她曾经奏响的序曲，将让她的梦想继续前行——
+她离开很久之后。
+白色序曲——永恒的短暂一瞥。
+“即使光芒只持续一瞬间，我终于看见了这个世界。 ”
 ————————————————————————————
-其实所有内容都是来自队长的臆想www
-In truth, the All was nothing more than 雨瞳 own imagination."""
+事实上，一切都源自船长的想象 www
+实际上，一切都是余彤自己的想象。"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/28 01:23"
+note = "作品を修正"
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/22 00:10"
+note = "BGAを追加"
 
 [[details.revisions]]
 ver = "1"
@@ -13231,9 +13275,9 @@ date = "2026/10/16 02:43"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "4"
 date = ""
-note = "BGAを追加"
+note = "&#34917;充了7key和14key的低&#38590;度"
 
 [[details]]
 num = "266"
@@ -20389,6 +20433,7 @@ tags = [
     "Audition-Sound",
     "Video-sharing",
     "Use-BGA",
+    "Use-ogg",
     "Use-mpeg_movie",
     "Use-mp4_movie",
     "Difficulty-beginner",
@@ -20397,9 +20442,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/j0-e-1/kai?si=47dfdb4e20b24d3291a2e587b1de1dfa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月21日 23:16"
+comment_updated = "2026年10月28日 01:37"
 comment = """
-(2026年10月21日 23:16 更新)
+(2026年10月28日 01:37 更新)
 どうも、9RANです。BOF的にはずいぶんお久しぶりですね。前回の参加となると、4年前のBOF:ETまで遡ることになります。
 誰しも似たような経験があるのではないでしょうか。まるで無限ループに囚われてしまったかのように、苦しみもがきながらも抜け出せず、やがて容赦のない時間の経過によって気力も削り取られ、足掻くことすら諦めてしまう。そして無力感に呑み込まれ、より深い静寂へと沈んでいく自分をただ見つめることしかできない──この曲で表現したかったのは、そんな情景なんです。
 そしてこれは、今回の制作過程そのものでもありました。実は一番最初、青春ロックな曲を作ろうとしていたのですが、どうしてもBメロの展開に納得がいかず断念。その後は友人の楽曲のRemixを作ろうと試みたものの、同じく一部の展開が気に入らず頓挫……といったことがこの数ヶ月間で何度も何度も繰り返されました。「新規プロジェクト作成 ⇒ あれこれ試す ⇒ 閉じる」という無限ループに陥り、終盤には今回のBOFへの参加を諦めかけたほどです。幸いにも、「いっそこの過程自体を曲にしてしまえばいいのでは？」と思い立ち、そうして生まれたのが今作です。
@@ -20415,8 +20460,13 @@ Comment就打到這邊吧，有緣的話我們下次見~"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:36"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "readme, stagefileとプレビューなどの追加、ついでにogg版のダウンロードリンクも"
 
 [[details]]
 num = "439"
@@ -21020,7 +21070,12 @@ charts = "CHART_3 (★x3～★x8)"
 bpm = "90"
 tags = [
     "7Keys",
+    "14Keys",
+    "9Keys",
     "Lang-JP",
+    "File-Append",
+    "Audition-Sound",
+    "Video-sharing",
     "Use-BGA",
     "Use-ogg",
     "Use-wmv_movie",
@@ -21029,15 +21084,23 @@ tags = [
     "Difficulty-beginner",
     "Difficulty-intermediate",
 ]
-production = "非公開"
+production = "1円"
+audition = ["https://soundcloud.com/shadecount/mushipan"]
+comment_updated = "2026年10月28日 00:38"
 comment = """
+(2026年10月28日 00:38 更新)
 好きなまちと苦手なまち
 わたしはあなたはここはそこはあそこはどっち"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:51"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "14K(DP), 9K(PMS) 譜面を追加"
 
 [[details]]
 num = "457"

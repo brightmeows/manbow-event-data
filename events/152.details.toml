@@ -679,10 +679,13 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月01日 23:14"
+comment_updated = "2026年10月29日 01:19"
 comment = """
+(2026年10月29日 01:19 更新)
 (2026年10月01日 23:14 更新)
 「今夜、あなたのハートも頂きます♪」
+2026/10/29 追記
+BGAで、AV1形式のMP4を使用しています。お使いのパソコンが古い場合など、一部環境で映らない可能性があるので、正常に再生されない場合MP4を削除してwmvで再生してみてください！
 -DIFFICULTY-
 SP
 BEGINNER ☆2
@@ -2409,11 +2412,14 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月16日 02:56"
+comment_updated = "2026年10月29日 01:21"
 comment = """
+(2026年10月29日 01:21 更新)
 (2026年10月16日 02:56 更新)
 (2026年10月01日 23:24 更新)
 「翼を信じて…！」
+2026/10/29 追記
+BGAで、AV1形式のMP4を使用しています。お使いのパソコンが古い場合など、一部環境で映らない可能性があるので、正常に再生されない場合MP4を削除してwmvで再生してみてください！
 -DIFFICULTY-
 SP
 BEGINNER ☆2
@@ -4396,6 +4402,7 @@ bpm = "190"
 tags = [
     "7Keys",
     "Lang-JP",
+    "File-Modify",
     "Audition-Sound",
     "Video-sharing",
     "Use-ogg",
@@ -4408,11 +4415,16 @@ tags = [
 ]
 production = "呪術廻戦カグラバチBLEACH"
 audition = ["https://soundcloud.com/umeboz/bof22-rust"]
-comment_updated = "2026年10月09日 22:15"
+comment_updated = "2026年10月29日 00:05"
 comment = """
-(2026年10月09日 22:15 更新)
-(2026年10月07日 12:49 更新)
-(2026年10月02日 16:33 更新)
+(2026年10月29日 00:05 更新)
+(2026年10月28日 23:58 更新)
+【お知らせ】
+譜面情報にミスが見つかったため、譜面の修正を行いました。
+お手数ですが、既にDL済の方は修正譜面の再DLをお願いいたします。
+旧譜面とハッシュについては分散してしまいます。申し訳ありませんがよろしくお願いいたします。
+修正版譜面
+https://drive.google.com/file/d/1zmvsi7n1UE8p-X8L9T_y1Sfbxwq4hAk-/view?usp=sharing
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 「それ」が東京に現れだしてから、すでに8年が経った。
 政府は「それ」の存在を隠し、排するため、「異能」を持つ者達を集めた。
@@ -4480,8 +4492,13 @@ BGA内のイラストを製作させていただきました、焼き鳥です�
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:11"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を修正"
 
 [[details]]
 num = "82"
@@ -4562,11 +4579,14 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 15:29"
+comment_updated = "2026年10月29日 01:21"
 comment = """
+(2026年10月29日 01:21 更新)
 (2026年10月09日 15:29 更新)
 (2026年10月09日 06:11 更新)
 深紅に染まる、久遠の鎮魂華――
+2026/10/29 追記
+BGAで、AV1形式のMP4を使用しています。お使いのパソコンが古い場合など、一部環境で映らない可能性があるので、正常に再生されない場合MP4を削除してwmvで再生してみてください！
 SP
 BEGINNER ☆2
 NORMAL ☆4
@@ -4955,7 +4975,9 @@ tags = [
     "Difficulty-beginner",
 ]
 production = "非公開"
+comment_updated = "2026年10月28日 23:45"
 comment = """
+(2026年10月28日 23:45 更新)
 曲目：Back 2 U
 编曲：Skelent_793
 曲风：UK Hardcore
@@ -4963,8 +4985,13 @@ comment = """
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:12"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "A new chart has been added"
 
 [[details]]
 num = "93"
@@ -13369,12 +13396,18 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月18日 01:19"
+comment_updated = "2026年10月28日 23:57"
 comment = """
+(2026年10月28日 23:57 更新)
 (2026年10月18日 01:19 更新)
 (2026年10月18日 01:17 更新)
 (2026年10月16日 22:56 更新)
 This part of the work will be updated later."""
+
+[[details.revisions]]
+ver = "4"
+date = "2026/10/18 01:19"
+note = "In last edition, the YouTube URL was somehow pasted wrong."
 
 [[details.revisions]]
 ver = "3"
@@ -13392,9 +13425,9 @@ date = "2026/10/16 04:47"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "5"
 date = ""
-note = "In last edition, the YouTube URL was somehow pasted wrong."
+note = "INSANE chart was added."
 
 [[details]]
 num = "267"
@@ -19296,15 +19329,20 @@ tags = [
     "7Keys",
     "14Keys",
     "Lang-JP",
+    "File-Modify",
+    "Audition-Sound",
     "Use-BGI",
     "Use-ogg",
     "Difficulty-intermediate",
+    "Difficulty-senior",
     "Player-beatoraja",
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-535104739/bof22-f-gg"]
-comment_updated = "2026年10月19日 23:33"
+comment_updated = "2026年10月29日 01:30"
 comment = """
+(2026年10月29日 01:30 更新)
+(2026年10月28日 23:56 更新)
 (2026年10月19日 23:33 更新)
 どうも、Quintです。ずっとテクノを通して、日常的な憂鬱感、何か沈むような、魂が落下するようなそういう感覚を表現してきたような気がします。今回もそんな曲です。
 タイトルはelevateの単語の反転文字としたかったのですが、文字コード的にNGそうなのでこのタイトルにしています。
@@ -19312,14 +19350,26 @@ comment = """
 [7k NORMAL]  : ☆☆☆☆[4]
 [7k HYPER]   : ☆☆☆☆☆☆☆☆☆☆ [10]
 [7k ANOTHER] : ☆☆☆☆☆☆☆☆☆☆☆☆ [12]
+Obj: npnd
+[7k INSANE]  : ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆ [16]
 Obj: RykSeb
 [14k NORMAL] :☆☆☆☆☆☆☆[7]
 [14k HYPER]  :☆☆☆☆☆☆☆☆☆☆ [10]"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/28 23:56"
+note = "INSANE譜面を追加しました。　SPNの譜面にて、#SUBTITLE表記に誤表記があったため修正しました。(譜面のノーツ数と演奏時間については変更ありません。)"
+
+[[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 22:05"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "3"
+date = ""
+note = "SPI譜面にBGI不備があったため、修正しました。"
 
 [[details]]
 num = "407"

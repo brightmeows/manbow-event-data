@@ -5064,10 +5064,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-94439940/bof22-byd-ogg"]
-comment_updated = "2026年10月19日 02:45"
+comment_updated = "2026年10月28日 18:03"
 comment = """
-(2026年10月19日 02:45 更新)
-(2026年10月01日 23:32 更新)
+(2026年10月28日 18:03 更新)
 ——————————————————————————
 [Comments From LiGaYb]Hi, I'm LiGaYb!
 This is the sequal of FTR.WAV! And the BPM is also 185.
@@ -5086,8 +5085,13 @@ INSANE Lv.99 [Speed Differential][Gimmick]
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:12"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Deleted the wrong note in the beginning of the first gimmick part."
 
 [[details]]
 num = "96"
@@ -8286,10 +8290,16 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月18日 01:24"
+comment_updated = "2026年10月28日 21:22"
 comment = """
+(2026年10月28日 21:22 更新)
 (2026年10月18日 01:24 更新)
 This part of the work will be updated later."""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/18 01:24"
+note = "YouTube URL added."
 
 [[details.revisions]]
 ver = "1"
@@ -8297,9 +8307,9 @@ date = "2026/10/07 13:49"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "YouTube URL added."
+note = "Charts of BEGINNER, NORMAL and HYPER were added. Credits were also edited according to the previous explanation email."
 
 [[details]]
 num = "166"
@@ -17975,10 +17985,16 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 19:56"
+comment_updated = "2026年10月28日 22:17"
 comment = """
+(2026年10月28日 22:17 更新)
 (2026年10月19日 19:56 更新)
 This part of the work will be updated later."""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/19 19:56"
+note = "Previously pasted YouTube URL was wrong."
 
 [[details.revisions]]
 ver = "1"
@@ -17986,9 +18002,9 @@ date = "2026/10/19 19:52"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "Previously pasted YouTube URL was wrong."
+note = "We filled in the essential info (including author, total, subtitle and difficulty) of the ANOTHER chart, which wasn't done before."
 
 [[details]]
 num = "374"
@@ -21386,6 +21402,7 @@ bpm = "233"
 tags = [
     "7Keys",
     "Lang-JP",
+    "File-Append",
     "Audition-Sound",
     "Video-sharing",
     "Format-bms62",
@@ -21402,10 +21419,15 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/musanuriyu/bof-22-now-here-no-where"]
-comment_updated = "2026年10月20日 04:31"
+comment_updated = "2026年10月28日 20:26"
 comment = """
-(2026年10月20日 04:31 更新)
-後ほど記載"""
+(2026年10月28日 20:26 更新)
+Thank you for playing, and welcome to our library."""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/20 04:31"
+note = "readmeを追加。また、SPAとSPIの差分名・難易度が未記載だったため修正。ついでにステージファイルの容量を削減。お手数おかけいたします。"
 
 [[details.revisions]]
 ver = "1"
@@ -21413,9 +21435,9 @@ date = "2026/10/19 23:56"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "readmeを追加。また、SPAとSPIの差分名・難易度が未記載だったため修正。ついでにステージファイルの容量を削減。お手数おかけいたします。"
+note = "plum氏によるDP譜面を追加。"
 
 [[details]]
 num = "463"

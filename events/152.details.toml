@@ -2149,10 +2149,13 @@ tags = [
     "Player-beatoraja",
 ]
 production = "Odin IIIはいいぞ"
-comment_updated = "2026年10月17日 18:17"
+comment_updated = "2026年10月29日 23:36"
 comment = """
+(2026年10月29日 23:36 更新)
 (2026年10月17日 18:17 更新)
 (2026年10月02日 03:55 更新)
+この作品はmp4BGAにav1コーデックを使用しております。
+古いPCでまれにBGAが再生できないことがあるのでその場合には_BGA.mp4を消してください
 どうしようもない世界で叫ぶ僕たちの為だけのウタ。
 詳しくは_readme.txtをご覧ください。"""
 
@@ -5282,14 +5285,23 @@ tags = [
     "Player-beatoraja",
 ]
 production = "KORG Gadget3KORG ikaossilatorKORG kaossilator2KORG ELECTRIBE MXYAMAHA QY70ReCycleFL studio2025aviutl等"
+comment_updated = "2026年10月29日 23:56"
 comment = """
+(2026年10月29日 23:56 更新)
 CirCyでございます。
-よろしくお願いします。"""
+よろしくお願いします。
+追記（2026/10/29 23:56）
+7keys hyperの表記が間違っていたので，修正いたしました。ver.1をお持ちの方は修正差分をダウンロードして上書きしていただければ幸いなのです。"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:13"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "7keys hyperの&#x8868;記の修正"
 
 [[details]]
 num = "101"
@@ -8038,8 +8050,9 @@ tags = [
 ]
 production = "MK88 · 香港九龍旺角彌敦道601號創興廣場"
 audition = ["https://soundcloud.com/trainer-lolxd/mk88"]
-comment_updated = "2026年10月16日 22:33"
+comment_updated = "2026年10月29日 22:45"
 comment = """
+(2026年10月29日 22:45 更新)
 (2026年10月16日 22:33 更新)
 (2026年10月12日 10:19 更新)
 (2026年10月09日 21:32 更新)
@@ -8085,8 +8098,13 @@ Instagram: https://www.instagram.com/lotag.vision/"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/04 23:47"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Added [DP MK88] Double Play Chart"
 
 [[details]]
 num = "160"
@@ -20428,6 +20446,7 @@ tags = [
     "Lang-JP",
     "Lang-US",
     "Audition-Sound",
+    "Video-sharing",
     "Format-bms62",
     "Use-BGA",
     "Use-ogg",
@@ -20441,7 +20460,9 @@ tags = [
 ]
 production = "REAPER (Digital Audio Workstation), FL Studio"
 audition = ["https://soundcloud.com/djadrichii05/bofyobi-neoprismatic"]
+comment_updated = "2026年10月30日 00:09"
 comment = """
+(2026年10月30日 00:09 更新)
 Neo Prismatic (meaning)
 It is re-emerged, reborn light that rises higher than the sunset's line, P:Sophia's decision to pour new life into what was intended to pass.
 It's about breaking out of the old destiny, summoning courage with dear friends, and seeking solace in the heat of 1997 and moving forward.
@@ -20462,30 +20483,31 @@ Charters: Dj Adrichii, OfficialAz3, h. (Coming Soon)
 NOTE:
 Prior to base62 system, It is tested on beatoraja only. It is recommended to use beatoraja for best experience, Not tested only with LR2 due to incompatibility.
 (7key, SP, CN)
-SP BEGINNER - ★★š (2)
-SP NORMAL - ★★★★★★★7)
+SP BEGINNER - ★★(2)
+SP NORMAL - ★★★★★★★(7)
 SP HYPER - ★★★★★★★★★★ (10)
 SP ANOTHER - ★★★★★★★★★★ ★★ (12)
 NOTE: All 4 difficulties charted by DJ Adrichii
 Other charts coming soon...
 (14key, DP, LN)
-DP ANOTHER -★★★★★★★★★★ ★★★★š (14) | obj: OfficialAz3
+DP ANOTHER -★★★★★★★★★★ ★★★★ (14) | obj: OfficialAz3
 ---------------------- Message/Comments -----------------------
 DJ Adrichii:
 Good day to all, This is DJ Adrichii, founder of the greatest kawaii that's ever lived, and
 It was a pleasure to release a brand new song again but uhhhh... SEQUEL!?
 Dang it was too fast as heck, so new storyline for P:Sophia prior to its sequel to Prismatic Sunset made by me during A-1 ClimaX and got 13th.
-Well, the story isn't over yet becuase this is the end of her life and she needs a  better strategy by travelling back to 1997 and see what's better some memories back then.
+Well, the story isn't over yet because this is the end of her life and she needs a  better strategy by travelling back to 1997 and see what's better some memories back then.
 Anyways, with the help of h. and cusi to make chaos for its sequel so Neo Prismatic is our triumphs and consequences under sunset. So yeah,
-It is pleasured that this is my first entry collab for the story, and my major debut collab and self ofc for the Yobimo. Big thanks to Yobimo for sharing my opprtunity to make this music even better!
-To all BMS Players, good luck becuase its TOO CHAOS!!!!
+It is pleasured that this is my first entry collab for the story, and my major debut collab and self ofc for the Yobimo. Big thanks to Yobimo for sharing my opportunity to make this music even better!
+To all BMS Players, good luck because its TOO CHAOS!!!!
 Its full ones to be further announced yet via Yobimo.
 Thats all, enjoy and thank you!
 P.S. Sorry so h. is the BMS Creator, begging me pls i was lazy and I wish to make keysounding as a BMS Creator bruh so... XD
 h. :
 aeiou
 cusi:
-""
+yo!, I did the  soft nightwave 1990's part on the first drop,
+Hopefully u guys enjoi >:D
 OfficialAz3:
 Hello! I made DPA.
 It's quite experimental, but I hope you enjoy the work! ^^
@@ -20494,8 +20516,13 @@ Owlah! Artist of the cover art on Neo Prismatic! Make sure to play it to the end
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 23:28"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Added YouTube MV as published videos to video sharing sites. No updated modifications in the chart and other stuff."
 
 [[details]]
 num = "436"

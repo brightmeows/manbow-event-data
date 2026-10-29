@@ -2801,9 +2801,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-94439940/bof22-c"]
-comment_updated = "2026年10月19日 02:50"
+comment_updated = "2026年10月29日 08:27"
 comment = """
-(2026年10月19日 02:50 更新)
+(2026年10月29日 08:27 更新)
 ——————————————————————————
 [Comments From LiGaYb]Hi, I'm LiGaYb!
 This song also has some relationship with Rolling Sky, some of the melody comes from the abandoned version of the bgm for Blazing Tracks, it was rejected for too festive lol.
@@ -2827,8 +2827,13 @@ ANOTHER Lv.9"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:09"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "The gimmick chart lacked hint. The new version includes more obvious hints, and the subartist name has changed into &quot;LiGaYb - Tap On Where You Haven't Tapped!&quot;, which hints how to play the gimmick chart."
 
 [[details]]
 num = "54"

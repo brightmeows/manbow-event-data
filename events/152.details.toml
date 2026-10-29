@@ -9155,7 +9155,7 @@ genre = "Alternative"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGI only・Other"
-charts = "CHART_3 (★x4～★x11)"
+charts = "CHART_3 (★x5～★x11)"
 bpm = "60 ～ 120"
 tags = [
     "7Keys",
@@ -9170,15 +9170,21 @@ tags = [
     "Difficulty-kusofumen",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 17:12"
+comment_updated = "2026年10月29日 15:21"
 comment = """
+(2026年10月29日 15:21 更新)
 (2026年10月09日 17:12 更新)
 my best friends rpegio and gmy invited me to join bof，im glad to be here，and this artwork called “through the interstice ”actually creates a psychedelic vibe caused by the regrets,the day dreams and my desire for fame and money.this song is calm at first but almost goes crazy in the end,which reflects the transformation of my recent life.hope you guys love this song."""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/09 12:20"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "Switched to a 16:9 ratio BGA; Adjusted the PlayLevel of SPN from 4 to 5; Fixed the issue where some notes were missing in SPH."
 
 [[details]]
 num = "182"
@@ -20288,8 +20294,9 @@ tags = [
     "Difficulty-intermediate",
 ]
 production = "非公開"
-comment_updated = "2026年10月27日 23:01"
+comment_updated = "2026年10月29日 16:05"
 comment = """
+(2026年10月29日 16:05 更新)
 (2026年10月27日 23:01 更新)
 BGAを追加しました。
 よろしければダウンロードいただけますと幸いです。
@@ -20298,14 +20305,19 @@ BGAを追加しました。
 よろしくお願いいたします。"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/27 23:01"
+note = "BGAダウンロードリンクの追加　 BGA同封のパッケージリンクへ変更"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 23:24"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAダウンロードリンクの追加　 BGA同封のパッケージリンクへ変更"
+note = "YoutubeでのBGAの視聴可&#x80FD;に"
 
 [[details]]
 num = "432"

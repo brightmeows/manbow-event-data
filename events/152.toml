@@ -793,13 +793,13 @@ title = "Winger…"
 size = "84000 KB"
 addr = ["https://drive.google.com/file/d/1y-AluKYdu7MbUay6IKZaSPSDyas07-bY/view?usp=drive_link"]
 genre = "Digital J-POP"
-impr = "16"
-total = "26870.4"
-total_n = "14928"
-median = "939"
-avg = "933"
+impr = "17"
+total = "28580.4"
+total_n = "15878"
+median = "940"
+avg = "934"
 regist = "2026/10/01 23:09"
-update = "2026/10/29 08:35"
+update = "2026/10/29 12:03"
 
 [[entries]]
 no = "46"
@@ -841,13 +841,13 @@ title = "RIDE ON"
 size = "53244 KB"
 addr = ["https://drive.google.com/file/d/1OEPJiwsJnjEnzs70srnVWFDZw8NM5mLj/view?usp=sharing"]
 genre = "Rally House"
-impr = "17"
-total = "18735.16"
-total_n = "16151"
-median = "980"
-avg = "950.05"
+impr = "18"
+total = "19750.16"
+total_n = "17026"
+median = "965"
+avg = "945.88"
 regist = "2026/10/01 23:09"
-update = "2026/10/28 23:00"
+update = "2026/10/29 09:22"
 
 [[entries]]
 no = "49"
@@ -1030,13 +1030,13 @@ addr = [
     "https://kagiusagi.official.jp/bms/KyoukasuigetsuKagiUsaMetal.zip",
 ]
 genre = "KIRBY METAL"
-impr = "14"
-total = "15123.65"
-total_n = "13151"
+impr = "15"
+total = "16101.15"
+total_n = "14001"
 median = "950"
-avg = "939.35"
+avg = "933.4"
 regist = "2026/10/01 23:09"
-update = "2026/10/29 01:20"
+update = "2026/10/29 09:17"
 
 [[entries]]
 no = "59"
@@ -1134,13 +1134,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/obnj4xdseyz1975hijwwf/legend_g-ranker_patch_20261028.zip?rlkey=9qztokj8r5lxyy00eny6jfdbk&st=zxi665pt&dl=0",
 ]
 genre = "J-CORE"
-impr = "12"
-total = "12229.88"
-total_n = "10543"
-median = "903.5"
-avg = "878.58"
+impr = "13"
+total = "12983.88"
+total_n = "11193"
+median = "902"
+avg = "861"
 regist = "2026/10/01 23:10"
-update = "2026/10/28 00:37"
+update = "2026/10/29 10:10"
 
 [[entries]]
 no = "64"
@@ -1169,13 +1169,13 @@ addr = [
     "https://drive.google.com/file/d/1X1UtPp-sxH0uoCyy2wVvELl7pCaBQlJE/view?usp=sharing",
 ]
 genre = "CHRONICLE"
-impr = "25"
-total = "27235.26"
-total_n = "23278"
-median = "980"
-avg = "931.12"
+impr = "26"
+total = "28405.26"
+total_n = "24278"
+median = "984"
+avg = "933.76"
 regist = "2026/10/01 23:10"
-update = "2026/10/28 23:37"
+update = "2026/10/29 11:06"
 
 [[entries]]
 no = "65"
@@ -1837,8 +1837,14 @@ no = "101"
 name = "Gmy"
 team = "Micore_D"
 title = "Out of Carnation"
-size = "27932 KB"
-addr = ["https://drive.google.com/file/d/1eKNpg80SBPDFzIVp961yBAqXvHqAaQNJ"]
+size = "39200 KB"
+addr = [
+    "OGG + AVI(Legacy, 1:1 ratio, WMV codec):",
+    "https://drive.google.com/file/d/1eKNpg80SBPDFzIVp961yBAqXvHqAaQNJ",
+    "2026/10/29 Revised:",
+    "OGG + AVI(16:9 ratio, MPEG-4 codec):",
+    "https://drive.google.com/file/d/1JbHsA1pWaAhXpDaXb474OeH7jen3igPd",
+]
 genre = "J-Core"
 impr = "4"
 total = "4165.2"
@@ -1846,7 +1852,7 @@ total_n = "3560"
 median = "880"
 avg = "890"
 regist = "2026/10/01 23:14"
-update = "2026/10/21 01:03"
+update = "2026/10/29 14:55"
 
 [[entries]]
 no = "102"
@@ -2830,13 +2836,13 @@ title = "foresTMode"
 size = "78253 KB"
 addr = ["https://drive.google.com/uc?export=download&id=1NlXuVuWKZm2F9DxN2wwl7c3infGaEvzR"]
 genre = "DEEP HOUSE"
-impr = "7"
-total = "7661.16"
-total_n = "6548"
-median = "980"
-avg = "935.42"
+impr = "8"
+total = "8714.16"
+total_n = "7448"
+median = "965"
+avg = "931"
 regist = "2026/10/04 21:10"
-update = "2026/10/26 11:31"
+update = "2026/10/29 09:14"
 
 [[entries]]
 no = "158"
@@ -3232,13 +3238,13 @@ title = "Driftfrequency : 兵庫"
 size = "55087 KB"
 addr = ["https://drive.usercontent.google.com/download?id=1k1EU4LZ8YB0RmE6v7MYn1W0-k3WI-2NM&export=download&confirm=t"]
 genre = "drum'n'bass : 078"
-impr = "5"
-total = "5046"
-total_n = "4350"
-median = "900"
-avg = "870"
+impr = "6"
+total = "5985.6"
+total_n = "5160"
+median = "855"
+avg = "860"
 regist = "2026/10/09 08:04"
-update = "2026/10/27 14:08"
+update = "2026/10/29 09:10"
 
 [[entries]]
 no = "180"
@@ -3332,7 +3338,7 @@ total_n = "14465"
 median = "990"
 avg = "964.33"
 regist = "2026/10/09 15:03"
-update = "2026/10/27 02:38"
+update = "2026/10/29 10:40"
 
 [[entries]]
 no = "184"
@@ -4106,7 +4112,7 @@ total_n = "1000"
 median = "1000"
 avg = "1000"
 regist = "2026/10/14 03:03"
-update = "2026/10/26 16:04"
+update = "2026/10/29 14:24"
 
 [[entries]]
 no = "227"
@@ -4593,13 +4599,13 @@ addr = [
     "https://drive.google.com/file/d/1eDXzfetqDnzFsUkoFhgY9NrtiZOVvA6f/view?usp=sharing",
 ]
 genre = "Abysselachic Recode"
-impr = "2"
-total = "2902.4"
-total_n = "1814"
-median = "907"
-avg = "907"
+impr = "3"
+total = "4294.4"
+total_n = "2684"
+median = "870"
+avg = "894.66"
 regist = "2026/10/16 00:02"
-update = "2026/10/27 14:33"
+update = "2026/10/29 09:11"
 
 [[entries]]
 no = "255"
@@ -5223,13 +5229,13 @@ addr = [
     "//beatoraja用に高画質BGA(mp4)を同梱しています。お好きな方をお選びください！",
 ]
 genre = "Happy Hardcore"
-impr = "21"
-total = "32996.8"
-total_n = "20623"
+impr = "22"
+total = "34468.8"
+total_n = "21543"
 median = "990"
-avg = "982.04"
+avg = "979.22"
 regist = "2026/10/17 19:55"
-update = "2026/10/27 09:35"
+update = "2026/10/29 12:02"
 
 [[entries]]
 no = "290"
@@ -5393,13 +5399,13 @@ title = "Work Overtime 86H/M"
 size = "4528 KB"
 addr = ["https://86iro716.pupu.jp/bms/WorkOvertime86HM.zip"]
 genre = "labortune"
-impr = "2"
-total = "2273.55"
-total_n = "1977"
-median = "988.5"
-avg = "988.5"
+impr = "3"
+total = "3406.3"
+total_n = "2962"
+median = "985"
+avg = "987.33"
 regist = "2026/10/18 15:53"
-update = "2026/10/29 02:23"
+update = "2026/10/29 09:20"
 
 [[entries]]
 no = "300"
@@ -5444,13 +5450,13 @@ addr = [
     "https://bms.asayake.dev/bof22_snowsphere_flee_ogg.zip",
 ]
 genre = "SOUNDTRACK"
-impr = "0"
-total = "0"
-total_n = "0"
-median = "0"
-avg = "0"
+impr = "1"
+total = "887.4"
+total_n = "765"
+median = "765"
+avg = "765"
 regist = "2026/10/18 16:44"
-update = "2026/10/18 19:43"
+update = "2026/10/29 09:15"
 
 [[entries]]
 no = "303"
@@ -6088,13 +6094,13 @@ title = "宙翔ケル新星"
 size = "25386 KB"
 addr = ["https://www.dropbox.com/scl/fi/3hznlvw94m8aqmsgkmbxf/69-de-74-sora_kakeru_nova.zip?rlkey=5vg6xjfg3ab9lxjiwzzpkjx3n&st=eg4fh8lb&dl=1"]
 genre = "TRANCE"
-impr = "2"
-total = "2225.28"
-total_n = "1952"
-median = "976"
-avg = "976"
+impr = "3"
+total = "3171.48"
+total_n = "2782"
+median = "970"
+avg = "927.33"
 regist = "2026/10/19 08:09"
-update = "2026/10/26 20:25"
+update = "2026/10/29 09:18"
 
 [[entries]]
 no = "340"
@@ -6626,13 +6632,13 @@ title = "Arrival of the Other"
 size = "87500 KB"
 addr = ["https://drive.google.com/file/d/17xynqgBJS5k1d_AErga3kv5XpqIl1Jqx/view?usp=sharing"]
 genre = "Irreversible Throne"
-impr = "8"
-total = "8679.96"
-total_n = "7614"
-median = "975.5"
-avg = "951.75"
+impr = "9"
+total = "9728.76"
+total_n = "8534"
+median = "965"
+avg = "948.22"
 regist = "2026/10/19 19:11"
-update = "2026/10/28 16:52"
+update = "2026/10/29 09:21"
 
 [[entries]]
 no = "370"
@@ -6719,13 +6725,13 @@ title = "In Top Form"
 size = "58014 KB"
 addr = ["https://drive.google.com/file/d/1zWx_H9DKNUTc1x4Ab0tgBemWMMFjLnvG/view"]
 genre = "3-Person Session / Funk"
-impr = "1"
-total = "1572.8"
-total_n = "983"
-median = "983"
-avg = "983"
+impr = "2"
+total = "2964.8"
+total_n = "1853"
+median = "926.5"
+avg = "926.5"
 regist = "2026/10/19 19:55"
-update = "2026/10/26 01:26"
+update = "2026/10/29 09:23"
 
 [[entries]]
 no = "375"
@@ -7334,13 +7340,13 @@ title = "CROWNED 90's"
 size = "18900 KB"
 addr = ["https://www.dropbox.com/scl/fi/kswcdlfeu9g11t6hauzwu/NASA-CROWNED-90-s.zip?rlkey=er6r1uwzafp82mncr9oy5gyop&st=z9bk7oxi&dl=1"]
 genre = "Magolor soul meets SNES"
-impr = "5"
-total = "8812.8"
-total_n = "4896"
-median = "977"
-avg = "979.2"
+impr = "6"
+total = "10324.8"
+total_n = "5736"
+median = "973.5"
+avg = "956"
 regist = "2026/10/19 22:15"
-update = "2026/10/29 01:24"
+update = "2026/10/29 09:17"
 
 [[entries]]
 no = "411"
@@ -8054,13 +8060,13 @@ addr = [
     "https://drive.google.com/file/d/16fCt2dkTBGj-mmdc4d411UYJJ225I8bd/view?usp=sharing",
 ]
 genre = "Look Loop Moon"
-impr = "10"
-total = "15300.8"
-total_n = "9563"
+impr = "11"
+total = "16900.8"
+total_n = "10563"
 median = "990"
-avg = "956.3"
+avg = "960.27"
 regist = "2026/10/19 23:46"
-update = "2026/10/29 08:59"
+update = "2026/10/29 12:47"
 
 [[entries]]
 no = "450"
@@ -8185,13 +8191,13 @@ addr = [
     "https://drive.google.com/uc?export=download&id=1zJ2zScEBHLfSk43rlekGZglJKsmXL0Nx",
 ]
 genre = "AMBIENT/ELECTRONICA"
-impr = "3"
-total = "3774.4"
-total_n = "2359"
-median = "780"
-avg = "786.33"
+impr = "4"
+total = "5182.4"
+total_n = "3239"
+median = "830"
+avg = "809.75"
 regist = "2026/10/19 23:51"
-update = "2026/10/28 15:41"
+update = "2026/10/29 09:14"
 
 [[entries]]
 no = "457"

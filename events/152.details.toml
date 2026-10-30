@@ -5713,25 +5713,33 @@ tags = [
     "Gimmick-LongNote",
     "Gimmick-Random",
     "Difficulty-beginner",
+    "Difficulty-intermediate",
     "Difficulty-senior",
+    "Difficulty-craziness",
 ]
 production = "非公開"
-comment_updated = "2026年10月04日 22:50"
+comment_updated = "2026年10月30日 17:37"
 comment = """
+(2026年10月30日 17:37 更新)
 (2026年10月04日 22:50 更新)
 (2026年10月03日 22:32 更新)
 (2026年10月02日 12:29 更新)
 SP Beginner 1
+SP Hyper 9 obj:Xxjun
 SP Another 12 obj:YiMeng.emo
 /4573r/(SP) 12 obj:YiMeng.emo
 Music/BMS/BGI:明日雨
-obj:YiMeng.emo
-Beacuse of something we can't finish the other 2 charts now.SP Normal and SP Hyper is been preparing.We will update in the future."""
+obj:YiMeng.emo,Xxjun"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:15"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "adding SPH chart"
 
 [[details]]
 num = "111"
@@ -6557,12 +6565,15 @@ tags = [
     "Use-wmv_movie",
     "Use-mp4_movie",
     "Difficulty-beginner",
+    "Difficulty-intermediate",
     "Difficulty-senior",
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/minh-qu-n-gwds/mischievous-memories"]
-comment_updated = "2026年10月19日 21:27"
+comment_updated = "2026年10月30日 17:38"
 comment = """
+(2026年10月30日 17:38 更新)
+(2026年10月30日 17:34 更新)
 (2026年10月19日 21:27 更新)
 (2026年10月19日 21:24 更新)
 (2026年10月19日 21:19 更新)
@@ -6571,8 +6582,9 @@ comment = """
 (2026年10月05日 23:58 更新)
 (2026年10月05日 23:56 更新)
 SP Beginner 1
-SP Another 11
-SP Insane 12
+SP Hyper 10 obj:YiMeng.emo
+SP Another 11 obj:YiMeng.emo
+SP Insane 12 obj:YiMeng.emo
 BMS/Music: Do Minh Quan GWDS
 obj/BGA(editing): YiMeng.emo
 Some free materials were used to make BGA:
@@ -6590,8 +6602,12 @@ Some free materials were used to make BGA:
 12. https://www.pexels.com/vi-vn/video/ho-t-hinh-d-ng-h-m-hinh-h-c-3d-tr-u-t-ng-30345903/
 13. https://www.pexels.com/vi-vn/video/ho-t-hinh-tr-u-t-ng-tr-c-tr-c-d-ng-v-i-hi-u-ng-3d-34786196/
 14. https://www.pexels.com/vi-vn/video/neon-k-thu-t-o-k-thu-t-s-17486429/
-15. https://pixabay.com/videos/number-glitch-optical-digital-44361/
-The other charts is been preparing."""
+15. https://pixabay.com/videos/number-glitch-optical-digital-44361/"""
+
+[[details.revisions]]
+ver = "6"
+date = "2026/10/19 21:27"
+note = "作品を修正"
 
 [[details.revisions]]
 ver = "5"
@@ -6619,9 +6635,9 @@ date = "2026/10/01 23:43"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "6"
+ver = "7"
 date = ""
-note = "作品を修正"
+note = "adding SPH chart,fixing some problems of charts and compressing the BGA"
 
 [[details]]
 num = "130"
@@ -16259,17 +16275,17 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/chiiyurioekaki/bof22-departure-into"]
-comment_updated = "2026年10月20日 00:47"
+comment_updated = "2026年10月30日 17:10"
 comment = """
+(2026年10月30日 17:10 更新)
+意図しない音声の再生を修正(LN終点の定義変更)
 (2026年10月20日 00:47 更新)
 難易度表記、HyperがINSANEになっているミスを修正
 【BMS】chiiyuri
 【BGA】ツジ
 【譜面(chart)】どんべい
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-え～どうも2時間前に発狂十段に合格したどんべいです。
-初めましての方しかいないと思うので初めまして
-一応リーダーということになってるので登録作業をしてるんですけどついでにコメント残したろと思いまして。
+どんべいです。一応リーダーということになってるので登録作業をしてるんですけどついでにコメント残したろと思いまして。
 自供するとBOF:TTだったりBた作26とかに出没歴がありまして、部員、というかほとんどchiiyuri君の曲を音切りしてイベントに出していました。
 そんな感じで基本曲を作るだけのchiiyuri君だったわけです。
 したがってBMSイベントに出すにあたって私に完全依存している形で、「なんだかなぁ、凄い曲作るんだけどなぁ、自由に動けたらもっと良いのに」って思っていた最中、なんと当人が今回のBOFで音切りとそれに伴い譜面制作にチャレンジするとのことでした。
@@ -16294,14 +16310,19 @@ chiiyuriです。
 chiiyuri"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/20 00:45"
+note = "作品のアップデート"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 02:53"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "作品のアップデート"
+note = "作品を修正"
 
 [[details]]
 num = "329"
@@ -19709,8 +19730,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/chiiyurioekaki/bof22-jelly-sangria"]
-comment_updated = "2026年10月19日 23:44"
+comment_updated = "2026年10月30日 16:55"
 comment = """
+(2026年10月30日 16:55 更新)
+INSANE譜面に難易度表記が無かったミスを修正
 (2026年10月19日 23:44 更新)
 (2026年10月19日 23:35 更新)
 プレビュー音源(preview.ogg)を追加
@@ -19740,12 +19763,17 @@ chiiyuri君の譜面第2作目のINSANEということで結構冒険してい�
 推奨スペックは右手左手に指が7本づつある人です。"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/19 23:35"
+note = "作品のアップデート"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 22:30"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
 note = "作品のアップデート"
 

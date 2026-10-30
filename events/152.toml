@@ -32,13 +32,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/l8p13xrd9uylvpysqiexq/_ALYA_-_compact_.zip?rlkey=gmbn01213cl7th45a48efcr79&st=sumj9dyg&dl=1",
 ]
 genre = "Botanical Hi-Tech"
-impr = "37"
-total = "40767.6"
-total_n = "33973"
+impr = "38"
+total = "41967.6"
+total_n = "34973"
 median = "940"
-avg = "918.18"
+avg = "920.34"
 regist = "2026/10/01 23:01"
-update = "2026/10/29 20:35"
+update = "2026/10/31 05:29"
 
 [[entries]]
 no = "2"
@@ -48,13 +48,13 @@ title = "或る儀式について"
 size = "149386 KB"
 addr = ["https://www.dropbox.com/scl/fo/sb4adl5825v0do0myz8q3/AAIlUA3QK7m-EPpd4-2_RCw?rlkey=i6arsod7953alwggrj8sj145a&st=j0mgdm7j&e=2&dl=0"]
 genre = "モキュメンタリー"
-impr = "27"
-total = "28995.36"
-total_n = "24996"
-median = "955"
-avg = "925.77"
+impr = "28"
+total = "30114.76"
+total_n = "25961"
+median = "957.5"
+avg = "927.17"
 regist = "2026/10/01 23:02"
-update = "2026/10/29 17:00"
+update = "2026/10/31 05:26"
 
 [[entries]]
 no = "3"
@@ -64,13 +64,13 @@ title = "ムーンライズ・バニーガール"
 size = "65600 KB"
 addr = ["https://drive.google.com/file/d/1vZREc0IFtwMLG77MlNGPVW-cqGmV7CdJ/view?usp=drive_link"]
 genre = "アーバンナイトスラップ"
-impr = "26"
-total = "27930.24"
-total_n = "23872"
-median = "927.5"
-avg = "918.15"
+impr = "27"
+total = "29041.74"
+total_n = "24822"
+median = "930"
+avg = "919.33"
 regist = "2026/10/01 23:02"
-update = "2026/10/29 08:22"
+update = "2026/10/31 05:31"
 
 [[entries]]
 no = "4"
@@ -80,13 +80,13 @@ title = "まどろみ電脳ログ"
 size = "25220 KB"
 addr = ["https://drive.google.com/file/d/12jPd1cZoFxAF9y5QcIjq7FIJ4PKN7EbM/view?usp=sharing"]
 genre = "electropop"
-impr = "22"
-total = "34918.2"
-total_n = "19399"
-median = "904.5"
-avg = "881.77"
+impr = "23"
+total = "36628.2"
+total_n = "20349"
+median = "909"
+avg = "884.73"
 regist = "2026/10/01 23:02"
-update = "2026/10/28 22:53"
+update = "2026/10/31 05:34"
 
 [[entries]]
 no = "5"
@@ -112,13 +112,13 @@ title = "thaIassophobla"
 size = "94800 KB"
 addr = ["https://drive.google.com/drive/folders/1F_zO10gEGVlyuej_QGc60i4DhldNy-Lt?usp=sharing"]
 genre = "lndustrlaI Hardcore"
-impr = "25"
-total = "25082.28"
-total_n = "22002"
-median = "890"
-avg = "880.08"
+impr = "26"
+total = "26165.28"
+total_n = "22952"
+median = "895"
+avg = "882.76"
 regist = "2026/10/01 23:03"
-update = "2026/10/29 18:03"
+update = "2026/10/31 05:36"
 
 [[entries]]
 no = "7"
@@ -165,13 +165,13 @@ addr = [
     "https://drive.google.com/file/d/1DJO0myXCu6FEr0Tz---Xxp6l4duQMV5W/view?usp=drive_link",
 ]
 genre = "Future ArtCore"
-impr = "20"
-total = "20729.9"
-total_n = "18026"
-median = "920.5"
-avg = "901.3"
+impr = "21"
+total = "21822.4"
+total_n = "18976"
+median = "930"
+avg = "903.61"
 regist = "2026/10/01 23:03"
-update = "2026/10/28 22:31"
+update = "2026/10/31 05:47"
 
 [[entries]]
 no = "10"
@@ -206,7 +206,7 @@ total_n = "18591"
 median = "950"
 avg = "929.55"
 regist = "2026/10/01 23:03"
-update = "2026/10/28 22:33"
+update = "2026/10/31 05:59"
 
 [[entries]]
 no = "12"
@@ -216,13 +216,13 @@ title = "鬼車玖伶鳴"
 size = "210319 KB"
 addr = ["https://drive.google.com/file/d/1B3PK-I-qaesUQ6foKZDAzhRwoAFN0Qd1/view?usp=share_link"]
 genre = "Curia Wisteriae"
-impr = "26"
-total = "28244.84"
-total_n = "24349"
+impr = "27"
+total = "29364.24"
+total_n = "25314"
 median = "950"
-avg = "936.5"
+avg = "937.55"
 regist = "2026/10/01 23:03"
-update = "2026/10/28 22:34"
+update = "2026/10/31 06:01"
 
 [[entries]]
 no = "13"
@@ -232,13 +232,13 @@ title = "私の想う幻想"
 size = "100300 KB"
 addr = ["https://drive.google.com/file/d/15sqwbglQOnxUnjLmtjz8GFbB_oNJrady/view?usp=sharing"]
 genre = "TRANCE CORE"
-impr = "18"
-total = "16990.1"
-total_n = "14774"
+impr = "19"
+total = "18082.6"
+total_n = "15724"
 median = "890"
-avg = "820.77"
+avg = "827.57"
 regist = "2026/10/01 23:04"
-update = "2026/10/30 13:16"
+update = "2026/10/31 06:03"
 
 [[entries]]
 no = "14"
@@ -264,13 +264,13 @@ title = "いただきっ！聖夜の一番星！"
 size = "86000 KB"
 addr = ["https://drive.google.com/file/d/1_gubNS4cGd7c_i_AR18naFaIyznVlJw_/view?usp=sharing"]
 genre = "Shuffle Pop"
-impr = "33"
-total = "35245.38"
-total_n = "30917"
+impr = "34"
+total = "36385.38"
+total_n = "31917"
 median = "955"
-avg = "936.87"
+avg = "938.73"
 regist = "2026/10/01 23:04"
-update = "2026/10/31 01:03"
+update = "2026/10/31 05:40"
 
 [[entries]]
 no = "16"
@@ -296,13 +296,13 @@ title = "Crimson Pure, the Star"
 size = "56898 KB"
 addr = ["https://www.dropbox.com/scl/fi/0j1nev6atgmsn0oepoubt/omi-Crimson_Pure_the_Star_ogg.zip?rlkey=na7ttp5gbstw9aoripumvzmov&st=r69sotho&dl=1"]
 genre = "TRANCE / REQUIEM"
-impr = "28"
-total = "30135.75"
-total_n = "26205"
+impr = "29"
+total = "31262.75"
+total_n = "27185"
 median = "953"
-avg = "935.89"
+avg = "937.41"
 regist = "2026/10/01 23:05"
-update = "2026/10/30 04:45"
+update = "2026/10/31 05:42"
 
 [[entries]]
 no = "18"
@@ -351,13 +351,13 @@ addr = [
     "※BGAについて、mpg形式とmp4形式の両方を同梱しています。",
 ]
 genre = "EXHAUSTIVE TRANCECORE"
-impr = "23"
-total = "35070.4"
-total_n = "21919"
-median = "986"
-avg = "953"
+impr = "24"
+total = "36670.4"
+total_n = "22919"
+median = "988"
+avg = "954.95"
 regist = "2026/10/01 23:05"
-update = "2026/10/28 22:40"
+update = "2026/10/31 05:45"
 
 [[entries]]
 no = "21"
@@ -367,13 +367,13 @@ title = "Cuz I Need U Now"
 size = "33500 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQAR1JEQUEgiR67s9V9BE83gATksLJKFL6sdE0rVwQPxwpY?e=OdaoBV"]
 genre = "Dancefloor Drum'n'Bass"
-impr = "22"
-total = "23026.86"
-total_n = "20199"
+impr = "23"
+total = "24126.96"
+total_n = "21164"
 median = "945"
-avg = "918.13"
+avg = "920.17"
 regist = "2026/10/01 23:05"
-update = "2026/10/30 13:19"
+update = "2026/10/31 05:51"
 
 [[entries]]
 no = "22"
@@ -607,13 +607,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/tkb82bdpddszxdvsqlqo6/Crim-Nanakusa-_wav.7z?rlkey=5ppr0nxj8w5q06v55oyuygdgt&st=u765t8pf&dl=1",
 ]
 genre = "Protean"
-impr = "16"
-total = "26728.2"
-total_n = "14849"
-median = "958.5"
-avg = "928.06"
+impr = "17"
+total = "28528.2"
+total_n = "15849"
+median = "972"
+avg = "932.29"
 regist = "2026/10/01 23:07"
-update = "2026/10/29 00:31"
+update = "2026/10/31 06:06"
 
 [[entries]]
 no = "35"
@@ -1201,13 +1201,13 @@ title = "TOXIC ENGINE"
 size = "166701 KB"
 addr = ["https://www.dropbox.com/scl/fi/z4ecbiyur8ckdn7pasy6y/TOXIC_ENGINE_ogg.zip?rlkey=fdazonxe3lz2kwzuqr6vnxx9d&st=vb3n1jv8&dl=0"]
 genre = "SPEED HOUSE"
-impr = "19"
-total = "21260.48"
-total_n = "18328"
+impr = "20"
+total = "22420.48"
+total_n = "19328"
 median = "980"
-avg = "964.63"
+avg = "966.4"
 regist = "2026/10/01 23:10"
-update = "2026/10/30 12:18"
+update = "2026/10/31 06:08"
 
 [[entries]]
 no = "67"
@@ -1366,13 +1366,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/kqouxagp8o6c4aaovfgie/KaKi-ABLD_ogg.zip?rlkey=tb8mxv3hf4po01exyshd6ko89&st=kjdnw19v&dl=1",
 ]
 genre = "Acid / Hard Techno"
-impr = "16"
-total = "27304.2"
-total_n = "15169"
-median = "952.5"
-avg = "948.06"
+impr = "17"
+total = "29104.2"
+total_n = "16169"
+median = "955"
+avg = "951.11"
 regist = "2026/10/01 23:10"
-update = "2026/10/30 13:36"
+update = "2026/10/31 05:41"
 
 [[entries]]
 no = "76"
@@ -7883,7 +7883,7 @@ size = "79055 KB"
 addr = [
     "wav版：",
     "https://drive.google.com/file/d/1vBXEcIsSF2djcSDqDJsGr-pNKv5F5--d/view?usp=sharing",
-    "（10/28追加）",
+    "（10/28追加、10/31更新）",
     "ogg版 + アップデートデータ：",
     "https://drive.google.com/file/d/1dxDZNeX5bN6Kh3Hfqlm0f-DAqB_qOpOf/view?usp=sharing",
     "アップデートデータのみ：",
@@ -7896,7 +7896,7 @@ total_n = "0"
 median = "0"
 avg = "0"
 regist = "2026/10/19 23:36"
-update = "2026/10/28 01:37"
+update = "2026/10/31 05:35"
 
 [[entries]]
 no = "439"

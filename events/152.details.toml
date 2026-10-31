@@ -15761,7 +15761,7 @@ genre = "Dream?"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGI only・none"
-charts = "CHART_3 (★x2～★x6)"
+charts = "CHART_3 (★x2～★x8)"
 bpm = "180"
 tags = [
     "7Keys",
@@ -15778,18 +15778,26 @@ tags = [
     "Difficulty-intermediate",
 ]
 production = "非公開"
+audition = ["https://soundcloud.com/feng-yin-253959803/q2qvr5v2iwcf"]
+comment_updated = "2026年10月31日 21:34"
 comment = """
-吹着舒适的风，站立在太阳下，一切如往常一样，一切又珍贵难得，这一切如同蒲公英版脆弱，一旦那舒适的风变得暴戾，这一切的美好都会烟消云散，但幸好，那样的事没有发生。。。——————真的吗？
-Special Thanks：
-GolDenSiR
-雨瞳Ⅸ
-baka3b
-棱狸Lengli"""
+(2026年10月31日 21:34 更新)
+感受舒适的微风，站在阳光下，一切都如常，珍贵而稀有。就像蒲公英版的脆弱——一旦那舒适的风变得狂暴，所有的美丽都会消失。幸运的是，那从未发生过...... ——————真的吗？
+特别感谢：
+天哪
+玉彤九
+Baka3b
+冷丽"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/18 23:37"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "添加了SPH8,添加曲目封面,BG&#22270;像,POOR&#22270;像,添加preview片段"
 
 [[details]]
 num = "317"

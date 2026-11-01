@@ -731,10 +731,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/umeboz/bof22-36-8"]
-comment_updated = "2026年10月12日 21:39"
+comment_updated = "2026年11月01日 10:19"
 comment = """
-(2026年10月12日 21:39 更新)
-(2026年10月07日 12:45 更新)
+(2026年11月01日 10:19 更新)
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 魂を動かす 温度に触れた
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
@@ -782,8 +781,13 @@ Nice to meet you! I’m AparallelX! Hope you enjoy the warmth of the song, from 
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:04"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を修正"
 
 [[details]]
 num = "17"
@@ -4429,9 +4433,12 @@ tags = [
 ]
 production = "呪術廻戦カグラバチBLEACH"
 audition = ["https://soundcloud.com/umeboz/bof22-rust"]
-comment_updated = "2026年10月29日 00:05"
+comment_updated = "2026年11月01日 10:21"
 comment = """
-(2026年10月29日 00:05 更新)
+(2026年11月01日 10:21 更新)
+pms譜面3種類を追加しました！
+下記PMS譜面のみのファイルです。体には同梱済です。よろしくお願いします！
+https://drive.google.com/file/d/1jwwFy8cHnZsd2cRzfwhdo1j-pD4CY-U6/view?usp=sharing
 (2026年10月28日 23:58 更新)
 【お知らせ】
 譜面情報にミスが見つかったため、譜面の修正を行いました。

@@ -22165,25 +22165,32 @@ genre = "Experimental"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGI only・Other"
-charts = "CHART_2 (★x4～★x7)"
+charts = "CHART_2 (★x4～★x10)"
 bpm = "112.25 ～ 155"
 tags = [
     "7Keys",
     "Lang-US",
     "Audition-Sound",
     "Use-BGI",
+    "Gimmick-LongNote",
     "Gimmick-Soflan",
     "Difficulty-beginner",
+    "Difficulty-intermediate",
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/levenhuk/witch-witch-witch-witch-witch"]
-comment_updated = "2026年11月01日 02:05"
+comment_updated = "2026年11月01日 22:40"
 comment = """
-(2026年11月01日 02:05 更新)
-(2026年11月01日 01:20 更新)
-squeezed this in with like 5 minutes remaining :sob:
-will add hyper and another soon as well as an ogg download!
+(2026年11月01日 22:40 更新)
+(2026年11月01日 18:57 更新)
+this was squeezed in 30 seconds before the deadline :sob:
+will add another soon as well as an ogg download!
 tysm sorcelleri for bgi!"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/11/01 02:05"
+note = "作品を修正"
 
 [[details.revisions]]
 ver = "2"
@@ -22196,9 +22203,9 @@ date = "2026/10/19 23:59"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "作品を修正"
+note = "added hyper"
 
 [[details]]
 num = "475"

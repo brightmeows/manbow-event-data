@@ -4273,13 +4273,13 @@ addr = [
     "https://drive.google.com/file/d/1ogkOaeAH3tWQeimGT52XKiDoA8L01tb_/view?usp=sharing",
 ]
 genre = "DIARY"
-impr = "2"
-total = "3088"
-total_n = "1930"
-median = "965"
-avg = "965"
+impr = "3"
+total = "4400"
+total_n = "2750"
+median = "950"
+avg = "916.66"
 regist = "2026/10/15 20:11"
-update = "2026/11/01 20:34"
+update = "2026/11/02 06:24"
 
 [[entries]]
 no = "236"
@@ -4894,13 +4894,13 @@ addr = [
     "※ファイルサイズはすべて解凍後の容量です。",
 ]
 genre = "NEO HYPERTRANCE"
-impr = "10"
-total = "17064"
-total_n = "9480"
-median = "988"
-avg = "948"
+impr = "11"
+total = "18855"
+total_n = "10475"
+median = "995"
+avg = "952.27"
 regist = "2026/10/16 18:52"
-update = "2026/11/01 16:12"
+update = "2026/11/02 06:30"
 
 [[entries]]
 no = "271"
@@ -5862,13 +5862,13 @@ title = "The God Who Betrays The Divine"
 size = "45288 KB"
 addr = ["https://drive.google.com/uc?export=download&id=1zhBIcbrkFmMuNxWAS2SZs8fdo0tAlvzd"]
 genre = "BLACKENED DIGITAL HARDCORE"
-impr = "1"
-total = "1305"
-total_n = "725"
-median = "725"
-avg = "725"
+impr = "2"
+total = "2727"
+total_n = "1515"
+median = "757.5"
+avg = "757.5"
 regist = "2026/10/19 02:11"
-update = "2026/10/28 21:47"
+update = "2026/11/02 06:11"
 
 [[entries]]
 no = "326"
@@ -6764,13 +6764,13 @@ title = "孤独の花束"
 size = "17700 KB"
 addr = ["https://drive.google.com/file/d/14JxQ8RZ7LQP-mFKvqcDHeFFSmqjX85ET/view?usp=sharing"]
 genre = "vexatio"
-impr = "1"
-total = "828"
-total_n = "720"
-median = "720"
-avg = "720"
+impr = "2"
+total = "1736.5"
+total_n = "1510"
+median = "755"
+avg = "755"
 regist = "2026/10/19 19:56"
-update = "2026/10/28 21:49"
+update = "2026/11/02 06:06"
 
 [[entries]]
 no = "376"
@@ -7762,13 +7762,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/1vfv970gx8sgdx85b82r7/_BGA.avi?rlkey=mcv6zxh6v0g5junco4ucbbkxw&st=baeb3kfn&dl=1",
 ]
 genre = "HARDSTYLE"
-impr = "8"
-total = "12350.4"
-total_n = "7719"
-median = "987.5"
-avg = "964.87"
+impr = "9"
+total = "13902.4"
+total_n = "8689"
+median = "985"
+avg = "965.44"
 regist = "2026/10/19 23:24"
-update = "2026/11/01 21:59"
+update = "2026/11/02 06:18"
 
 [[entries]]
 no = "432"
@@ -8394,13 +8394,13 @@ addr = [
     "https://drive.google.com/file/d/1CyjZtbEEJvs0t1CDj2dgjr9KNNMomdK5/view?usp=sharing",
 ]
 genre = "Dramatical"
-impr = "13"
-total = "14747.08"
-total_n = "12713"
-median = "988"
-avg = "977.92"
+impr = "14"
+total = "15878.08"
+total_n = "13688"
+median = "984"
+avg = "977.71"
 regist = "2026/10/19 23:56"
-update = "2026/10/31 14:49"
+update = "2026/11/02 06:37"
 
 [[entries]]
 no = "466"

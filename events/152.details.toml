@@ -11405,8 +11405,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-958114835/be-like-thunder"]
-comment_updated = "2026年11月03日 04:58"
+comment_updated = "2026年11月03日 17:21"
 comment = """
+(2026年11月03日 17:21 更新)
 (2026年11月03日 04:58 更新)
 (2026年10月19日 17:54 更新)
 「THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -」
@@ -11419,8 +11420,23 @@ NM(Nornal) ★6
 HD(Hyper) ★10
 MX(Another) ★12
 *DPなどの他のpatternは、11月05日以降に追加される予定です。
-*DP등의 추가 보면은 10월 05일 이후 추가될 예정입니다.
+*DP등의 추가 패턴은 11월 05일 이후 추가될 예정입니다.
 *Other patterns such as DP(Double Play) will be added after 11.05.
+****
+Update log(26.11.03)
+keyのバランスを調整しました。
+更新しやすいように、 keyとbgaのダウンロードリンクを追加しました。
+patternの変更点はないvisualのアップデートです。
+新しいkeyとbgaファイルを既存のフォルダーに貼り付けても正常に動作します。
+Changed balances between each key sound.
+The link has been added, downloading key sounds or BGA only for easier updates.
+This is a visual update with no changes to the pattern.
+It works fine even if you paste the new key and BGA files into the existing folder.
+키음 간 밸런스를 조정했습니다.
+업데이트에 용이하도록 키음과 BGA만 다운로드할 수 있는 링크를 추가했습니다.
+패턴 변경 사항은 없는 비주얼 업데이트입니다.
+새 키음과 BGA 파일을 기존 폴더에 붙여 넣으셔도 정상 작동합니다.
+****
 <Lyrics>
 I'm looking on the ride
 Try tear leaking dried
@@ -11455,14 +11471,19 @@ But feeling fulfill,
 willing to overcome depression."""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/11/03 04:58"
+note = "BGAを追加"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/13 22:31"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを追加"
+note = "keyのバランスを調整しました。keyとbgaのダウンロードリンクを追加しました。"
 
 [[details]]
 num = "223"
@@ -12752,8 +12773,9 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月31日 11:53"
+comment_updated = "2026年11月03日 13:02"
 comment = """
+(2026年11月03日 13:02 更新)
 (2026年10月31日 11:53 更新)
 後ほど記載します"""
 
@@ -12894,8 +12916,9 @@ tags = [
     "Lang-JP",
     "Lang-US",
     "Audition-Sound",
+    "Video-sharing",
     "Format-bms62",
-    "Use-BGI",
+    "Use-BGA",
     "Use-ogg",
     "Use-mp4_movie",
     "Gimmick-LongNote",
@@ -12906,8 +12929,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "Cubase"
-comment_updated = "2026年10月20日 06:32"
+comment_updated = "2026年11月03日 13:04"
 comment = """
+(2026年11月03日 13:04 更新)
 (2026年10月20日 06:32 更新)
 思い付きで発した飲み会での言葉がこのような形で現実となり大変感慨深いなと同時に多くの反省点も見つけたためここに懺悔したいと思います。南無
 それはそうとイラスト担当の最強にかわいいしゅーとんさんの絵を添えてお送りする「J@ck b()x aiR⇔Line」ぜひお楽しみください。"""
@@ -18032,10 +18056,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/coredepaint/a_c_c_i_a_l_g_s_f_t_s"]
-comment_updated = "2026年11月01日 17:06"
+comment_updated = "2026年11月03日 14:45"
 comment = """
-(2026年11月01日 17:06 更新)
-(2026年10月23日 18:07 更新)
+(2026年11月03日 14:45 更新)
 A Cozy Cottage In A Little Glade Sheltered From The Storm / INDIE POP / Koto Spirit
 BMS & music by Koto Spirit
 BG image & video by mitaiiii
@@ -18051,14 +18074,19 @@ Cryo-Myosotis / https://twitter.com/yoyupond
 AZVW_2 / https://twitter.com/AZVW_2"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/23 18:07"
+note = "新しいA Cozy Cottage back.pngに置き換え"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 19:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "新しいA Cozy Cottage back.pngに置き換え"
+note = "UPDATED BACKGROUND VIDEO, please re download since 3 November 2026"
 
 [[details]]
 num = "371"
@@ -19463,8 +19491,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月21日 14:41"
+comment_updated = "2026年11月03日 15:12"
 comment = """
+(2026年11月03日 15:12 更新)
 (2026年10月21日 14:41 更新)
 (2026年10月21日 14:32 更新)
 Beware of the seventh beat.
@@ -19473,14 +19502,19 @@ I hope you guys can survive the charts,
 Zenokwei, also known as ILuvGemz"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/21 14:32"
+note = "BGAを公開"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 22:01"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを公開"
+note = "登録時、NORMALの譜面は誤ってINSANEに設定したので、11月3月、当譜面の難易度はNORMAL（★x4）に変更した。"
 
 [[details]]
 num = "406"

@@ -731,8 +731,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/umeboz/bof22-36-8"]
-comment_updated = "2026年11月02日 22:16"
+comment_updated = "2026年11月03日 19:50"
 comment = """
+(2026年11月03日 19:50 更新)
 (2026年11月02日 22:16 更新)
 (2026年11月01日 10:19 更新)
 PMS譜面三種類とBluvelさん制作のDP譜面３種類を追加しました！
@@ -10407,8 +10408,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/saminun/adiantum-2026_vivid_bms_edit"]
-comment_updated = "2026年10月16日 00:23"
+comment_updated = "2026年11月04日 00:31"
 comment = """
+(2026年11月04日 00:31 更新)
 (2026年10月16日 00:23 更新)
 あさりです。いつもお世話になっております。
 今回の曲は10年前（2016年秋）に制作した1stEPのタイトル曲をBMS向けにアレンジしたもので、
@@ -10426,8 +10428,13 @@ dandelionのときのように実物を見ることは適わなかったんで�
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/12 00:19"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "SP INSANEの譜面を一部修正しました。"
 
 [[details]]
 num = "204"
@@ -22243,7 +22250,7 @@ genre = "Experimental"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGI only・Other"
-charts = "CHART_2 (★x4～★x10)"
+charts = "CHART_3 (★x4～★x10)"
 bpm = "112.25 ～ 155"
 tags = [
     "7Keys",
@@ -22257,13 +22264,19 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/levenhuk/witch-witch-witch-witch-witch"]
-comment_updated = "2026年11月01日 22:40"
+comment_updated = "2026年11月04日 03:03"
 comment = """
+(2026年11月04日 03:03 更新)
 (2026年11月01日 22:40 更新)
 (2026年11月01日 18:57 更新)
 this was squeezed in 30 seconds before the deadline :sob:
 will add another soon as well as an ogg download!
 tysm sorcelleri for bgi!"""
+
+[[details.revisions]]
+ver = "4"
+date = "2026/11/01 18:57"
+note = "added hyper"
 
 [[details.revisions]]
 ver = "3"
@@ -22281,9 +22294,9 @@ date = "2026/10/19 23:59"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "5"
 date = ""
-note = "added hyper"
+note = "作品を修正"
 
 [[details]]
 num = "475"

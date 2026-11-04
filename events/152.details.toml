@@ -679,8 +679,10 @@ tags = [
     "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月29日 01:19"
+comment_updated = "2026年11月04日 22:49"
 comment = """
+(2026年11月04日 22:49 更新)
+9K N,DP N/H譜面を追加しました。
 (2026年10月29日 01:19 更新)
 (2026年10月01日 23:14 更新)
 「今夜、あなたのハートも頂きます♪」
@@ -696,18 +698,23 @@ INSANE ★10(sl6)
 INSANE2 ★16(sl10)
 怪盗からの挑戦状 ★23(st3) obj:kurekoduki
 DP
-NORMAL 後日追加するかも
-HYPER 後日追加するかも
+NORMAL ☆5
+HYPER ☆10
 ANOTHER ☆11
 9K
-NORMAL 後日追加するかも
+NORMAL ☆34
 HYPER ☆44
 EX ☆48"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:04"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "9K N,DP N/H譜面を追加"
 
 [[details]]
 num = "16"
@@ -1896,9 +1903,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/lalotofficial/red_bof22"]
-comment_updated = "2026年10月28日 10:57"
+comment_updated = "2026年11月04日 21:01"
 comment = """
-(2026年10月28日 10:57 更新)
+(2026年11月04日 21:01 更新)
+2026/11/04：Bemuse対応
 「何度でも染め上げろ、焦熱の紅。」
 ・Lalot.(BMS etc.)
 個性が評価される今だからこそ、王道の音ゲーコアを。やることだらけでネガりがちな今だからこそ、心を燃やす「赤い」音楽を。
@@ -4670,9 +4678,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/tendoncutter/bof22"]
-comment_updated = "2026年10月23日 20:05"
+comment_updated = "2026年11月04日 21:02"
 comment = """
-(2026年10月23日 20:05 更新)
+(2026年11月04日 21:02 更新)
+2026年11月04日 Bemuse対応
 [music]
 TendonCutter - https://x.com/TendonCutter0
 [Vocal]
@@ -12694,10 +12703,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月23日 20:24"
+comment_updated = "2026年11月04日 21:03"
 comment = """
-(2026年10月23日 20:24 更新)
-(2026年10月16日 23:30 更新)
+(2026年11月04日 21:03 更新)
+2026/11/04 Bemuse対応
 [music]
 Connexio - https://x.com/connexio_c
 ***
@@ -13181,10 +13190,13 @@ tags = [
     "Lang-US",
     "Lang-SCN",
     "Lang-TCN",
+    "File-Modify",
+    "File-Append",
     "Audition-Sound",
     "Video-sharing",
     "Use-BGA",
     "Use-ogg",
+    "Use-wmv_movie",
     "Gimmick-LongNote",
     "Difficulty-beginner",
     "Difficulty-intermediate",
@@ -13193,12 +13205,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/serita-plagman/dnb-mix-feat?si=dcd49ea31cb249b78bce25b5fc90efdd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年10月19日 21:00"
+comment_updated = "2026年11月04日 22:15"
 comment = """
-(2026年10月19日 21:00 更新)
-(2026年10月19日 20:47 更新)
-(2026年10月19日 20:41 更新)
-(2026年10月19日 20:28 更新)
+(2026年11月04日 22:15 更新)
+时隔一年后，第四次来到了bof会场，正在努力尝试带来新的曲风，感谢大家的喜欢。
 日本語の歌詞
 【intro】
 砕け こびりつく過去
@@ -13266,14 +13276,19 @@ comment = """
 進むよ"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/19 20:28"
+note = "BGAを追加"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/16 00:45"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを追加"
+note = "修正7k A+，并添加14key低&#38590;度"
 
 [[details]]
 num = "261"
@@ -13647,8 +13662,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月17日 18:15"
+audition = ["https://soundcloud.com/hurobe/rupture-retake"]
+comment_updated = "2026年11月05日 00:18"
 comment = """
+(2026年11月05日 00:18 更新)
 (2026年10月17日 18:15 更新)
 (2026年10月16日 15:20 更新)
 低音の効いたテクノ～ハードスタイル。
@@ -16136,8 +16153,10 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 07:59"
+audition = ["https://soundcloud.com/hurobe/clear-ish-world"]
+comment_updated = "2026年11月05日 00:14"
 comment = """
+(2026年11月05日 00:14 更新)
 (2026年10月19日 07:59 更新)
 エレクトロ主体のJ-coreで、もしかすると曲調はhappy hardcoreに近いかも？
 ピアノとリードが主役で、途中からぐっと感情が動く展開になっています。
@@ -21141,8 +21160,11 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 23:58"
+audition = ["https://soundcloud.com/hurobe/departed-ark"]
+comment_updated = "2026年11月05日 00:22"
 comment = """
+(2026年11月05日 00:22 更新)
+(2026年11月05日 00:21 更新)
 (2026年10月19日 23:58 更新)
 (2026年10月19日 23:55 更新)
 Artcore。3譜面とも同じ音源・同じBGAで、難易度だけが違います。

@@ -6030,9 +6030,10 @@ tags = [
 ]
 production = "俺のパソコン"
 audition = ["https://soundcloud.com/lalotofficial/never-say-never"]
-comment_updated = "2026年11月01日 02:17"
+comment_updated = "2026年11月05日 18:20"
 comment = """
-(2026年11月01日 02:17 更新)
+(2026年11月05日 18:20 更新)
+2026/11/05 Bemuse対応
 Impossible? No.
 "I'm possible.""""
 
@@ -11524,8 +11525,10 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
-comment_updated = "2026年10月18日 17:35"
+audition = ["https://soundcloud.com/pooh5821/xvii-star"]
+comment_updated = "2026年11月05日 18:11"
 comment = """
+(2026年11月05日 18:11 更新)
 (2026年10月18日 17:35 更新)
 (2026年10月18日 17:33 更新)
 The Star - A representation of hopes and dreams
@@ -13114,7 +13117,7 @@ artist = "DJ TerraBilly_∇_727  (movie : HMAJ & .xan) URL"
 genre = "melancholic hardcore"
 genre_sub = "Original・Self"
 source = "-----"
-bga = "BGI(BGA) under construction・Unit"
+bga = "BGA separate・Unit"
 charts = "CHART_3 (★x4～★x99)"
 bpm = "200"
 tags = [
@@ -13134,8 +13137,9 @@ tags = [
 ]
 production = "befriend (completely used befriend for this, but i made the song in fl studio)"
 audition = ["https://soundcloud.com/user-147879028/erhytemaabigne"]
-comment_updated = "2026年10月19日 20:20"
+comment_updated = "2026年11月05日 14:01"
 comment = """
+(2026年11月05日 14:01 更新)
 (2026年10月19日 20:20 更新)
 (2026年10月18日 02:47 更新)
 (2026年10月16日 04:45 更新)
@@ -13149,6 +13153,11 @@ thanks for 1/8th for making the stop motion edit.
 the mv is a WIP, me and .xan are working on it right now.
 the stop motion edit truly is a work of art, thanks 1/8!
 TBN727"""
+
+[[details.revisions]]
+ver = "5"
+date = "2026/10/19 20:20"
+note = "trying to fix these soundcloud links!!!"
 
 [[details.revisions]]
 ver = "4"
@@ -13171,9 +13180,9 @@ date = "2026/10/16 00:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "5"
+ver = "6"
 date = ""
-note = "trying to fix these soundcloud links!!!"
+note = "BGA is complete, thanks."
 
 [[details]]
 num = "260"
@@ -17902,8 +17911,9 @@ tags = [
 ]
 production = "3DのBGA作りたくて先輩に組んでもらった他作PC"
 audition = ["https://soundcloud.com/kalse/elyth"]
-comment_updated = "2026年10月19日 18:50"
+comment_updated = "2026年11月05日 18:33"
 comment = """
+(2026年11月05日 18:33 更新)
 (2026年10月19日 18:50 更新)
 こんにちは。初めましての方は初めまして、そうでない方はお久しぶりです！Kalse(カルス)と申します。
 春の無名戦＆A-1に続いて、今回も合成音声(ボカロ)×Gothic Hardcoreで制作いたしました。
@@ -17918,14 +17928,19 @@ niconico : https://www.nicovideo.jp/watch/sm46943718
 Soundcloud : https://soundcloud.com/kalse/elyth"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/19 18:50"
+note = "Youtube , niconico , Soundcloudによる試聴音源,動画の公開を行いました。"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 18:17"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "Youtube , niconico , Soundcloudによる試聴音源,動画の公開を行いました。"
+note = "Bemuseを追加いたしました。"
 
 [[details]]
 num = "367"

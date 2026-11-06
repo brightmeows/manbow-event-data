@@ -1493,8 +1493,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年11月05日 23:43"
+comment_updated = "2026年11月06日 11:15"
 comment = """
+(2026年11月06日 11:15 更新)
 (2026年11月05日 23:43 更新)
 (2026年10月02日 00:05 更新)
 いつもお世話になっております。椿.です
@@ -4270,8 +4271,9 @@ tags = [
     "-----",
 ]
 production = "非公開"
-comment_updated = "2026年10月10日 23:05"
+comment_updated = "2026年11月06日 14:46"
 comment = """
+(2026年11月06日 14:46 更新)
 (2026年10月10日 23:05 更新)
 (2026年10月01日 23:16 更新)
 [BOF22] 帰墟一葉
@@ -4292,8 +4294,13 @@ URL: https://manbow.nothing.sh/event/event_teamprofile.cgi?event=152&team=46
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/01 23:11"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を追加修正"
 
 [[details]]
 num = "79"

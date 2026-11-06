@@ -487,7 +487,7 @@ total_n = "22666"
 median = "950"
 avg = "944.41"
 regist = "2026/10/01 23:06"
-update = "2026/11/05 23:43"
+update = "2026/11/06 11:15"
 
 [[entries]]
 no = "28"
@@ -1424,12 +1424,16 @@ team = "絶 狂乱木曜日のスーパーブラスト ~霸道上校が私に恋
 title = "帰墟一葉"
 size = "600000 KB"
 addr = [
-    "10/10 BGA fix/SPL chart BGA fix link:",
+    "new link:",
+    "https://drive.google.com/file/d/18j4gjaQwbPzGR4lnKpuTis8Vm6GPuRic/view?usp=sharing",
+    "(not recommended)10/10 BGA fix/SPL chart BGA fix link:",
     "https://drive.google.com/file/d/1_J3Omo3x2YwSJ59n003LtT-pJgkHZ62o/view?usp=sharing",
     "(not recommended)10/02 original link:",
     "https://drive.google.com/file/d/1gWCFYXCnL8OA6-XVtAcqaQyIpuzn2BE_/view?usp=sharing",
     "(for 10/02 pack)BGA fix/SPL BGA patch:",
     "https://drive.google.com/drive/folders/1l4KoGz67tk-8kja47QV9C0MO1GALp1TG?usp=drive_link",
+    "11/06 kiitsu chart append:",
+    "https://drive.google.com/file/d/13cLCVUGEsKbksjoZ95Xjdj3TMloPwcx9/view?usp=drive_link",
 ]
 genre = "OrientStep"
 impr = "27"
@@ -1438,7 +1442,7 @@ total_n = "25630"
 median = "970"
 avg = "949.25"
 regist = "2026/10/01 23:11"
-update = "2026/11/05 20:07"
+update = "2026/11/06 14:46"
 
 [[entries]]
 no = "79"
@@ -3063,13 +3067,13 @@ addr = [
     "https://drive.google.com/file/d/1fBSxHu987NpkpVREdvPUZ4u26r9BGwK8/view?usp=drive_link",
 ]
 genre = "ACID FUSION"
-impr = "9"
-total = "8640.5"
-total_n = "7855"
-median = "950"
-avg = "872.77"
+impr = "10"
+total = "9737.2"
+total_n = "8852"
+median = "952.5"
+avg = "885.2"
 regist = "2026/10/08 01:19"
-update = "2026/11/03 20:55"
+update = "2026/11/06 13:12"
 
 [[entries]]
 no = "169"
@@ -3695,13 +3699,13 @@ addr = [
     "https://drive.google.com/file/d/1IjQgUFkO6-cK5rhKXz5X4rV3MBXUZCXx/view?usp=sharing",
 ]
 genre = "HYPERBIGBANDBAILE"
-impr = "8"
-total = "12385.6"
-total_n = "7741"
-median = "985.5"
-avg = "967.62"
+impr = "9"
+total = "13979.2"
+total_n = "8737"
+median = "990"
+avg = "970.77"
 regist = "2026/10/11 23:24"
-update = "2026/11/05 07:35"
+update = "2026/11/06 13:06"
 
 [[entries]]
 no = "203"
@@ -5625,13 +5629,13 @@ addr = [
     "https://drive.google.com/file/d/1rUE-JVoyo4h6dqBYcmLZA25IBqt9P05o/view?usp=drive_link",
 ]
 genre = "TETO-TECH"
-impr = "9"
-total = "10097.1"
-total_n = "8630"
-median = "980"
-avg = "958.88"
+impr = "10"
+total = "11184.03"
+total_n = "9559"
+median = "965"
+avg = "955.9"
 regist = "2026/10/18 20:22"
-update = "2026/11/03 20:10"
+update = "2026/11/06 09:58"
 
 [[entries]]
 no = "311"
@@ -5881,13 +5885,13 @@ title = "The God Who Betrays The Divine"
 size = "45288 KB"
 addr = ["https://drive.google.com/uc?export=download&id=1zhBIcbrkFmMuNxWAS2SZs8fdo0tAlvzd"]
 genre = "BLACKENED DIGITAL HARDCORE"
-impr = "5"
-total = "7759.8"
-total_n = "4311"
-median = "854"
-avg = "862.2"
+impr = "6"
+total = "9523.8"
+total_n = "5291"
+median = "912"
+avg = "881.83"
 regist = "2026/10/19 02:11"
-update = "2026/11/06 08:29"
+update = "2026/11/06 14:19"
 
 [[entries]]
 no = "326"
@@ -6783,13 +6787,13 @@ title = "孤独の花束"
 size = "17700 KB"
 addr = ["https://drive.google.com/file/d/14JxQ8RZ7LQP-mFKvqcDHeFFSmqjX85ET/view?usp=sharing"]
 genre = "vexatio"
-impr = "4"
-total = "3980.15"
-total_n = "3461"
-median = "880.5"
-avg = "865.25"
+impr = "5"
+total = "5015.15"
+total_n = "4361"
+median = "900"
+avg = "872.2"
 regist = "2026/10/19 19:56"
-update = "2026/11/04 20:25"
+update = "2026/11/06 14:24"
 
 [[entries]]
 no = "376"
@@ -7309,13 +7313,13 @@ title = "F∀ГГ"
 size = "31898 KB"
 addr = ["https://drive.google.com/file/d/1jgJcfG7EPzT1nKAA43SKpn4DRlPjdWW6/view?usp=drive_link"]
 genre = "Techno"
-impr = "8"
-total = "8773.08"
-total_n = "7563"
-median = "962.5"
-avg = "945.37"
+impr = "9"
+total = "9862.32"
+total_n = "8502"
+median = "950"
+avg = "944.66"
 regist = "2026/10/19 22:05"
-update = "2026/11/04 20:56"
+update = "2026/11/06 09:28"
 
 [[entries]]
 no = "407"
@@ -7462,13 +7466,13 @@ addr = [
     "https://drive.google.com/file/d/1gIkuSF-iKVmF9-bbFfMMR3WBuQlp5jaB/view?usp=sharing",
 ]
 genre = "Racing Nu Jazz"
-impr = "4"
-total = "6200"
-total_n = "3875"
-median = "987.5"
-avg = "968.75"
+impr = "5"
+total = "7688"
+total_n = "4805"
+median = "985"
+avg = "961"
 regist = "2026/10/19 22:31"
-update = "2026/11/04 20:46"
+update = "2026/11/06 10:04"
 
 [[entries]]
 no = "415"
@@ -7478,13 +7482,13 @@ title = "Lost Without You"
 size = "80281 KB"
 addr = ["https://drive.google.com/file/d/1Kdq67b1YRH5S2k7rgfP5x0c2AiXBQ4V2/view?usp=sharing"]
 genre = "VOCALOID"
-impr = "8"
-total = "9251"
-total_n = "7975"
-median = "999.5"
-avg = "996.87"
+impr = "9"
+total = "10411"
+total_n = "8975"
+median = "1000"
+avg = "997.22"
 regist = "2026/10/19 22:41"
-update = "2026/11/06 01:29"
+update = "2026/11/06 16:05"
 
 [[entries]]
 no = "416"
@@ -8413,13 +8417,13 @@ addr = [
     "https://drive.google.com/file/d/1CyjZtbEEJvs0t1CDj2dgjr9KNNMomdK5/view?usp=sharing",
 ]
 genre = "Dramatical"
-impr = "14"
-total = "15879.24"
-total_n = "13689"
-median = "984"
-avg = "977.78"
+impr = "15"
+total = "17014.88"
+total_n = "14668"
+median = "980"
+avg = "977.86"
 regist = "2026/10/19 23:56"
-update = "2026/11/05 20:42"
+update = "2026/11/06 09:36"
 
 [[entries]]
 no = "466"

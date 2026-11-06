@@ -1309,8 +1309,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月09日 17:38"
+comment_updated = "2026年11月06日 21:43"
 comment = """
+(2026年11月06日 21:43 更新)
 (2026年10月09日 17:38 更新)
 10/09 17:38
 映像及び画像の仮のものを別のものに更新いたしました。引き続き、本データの追加はしばらくお待ちください。
@@ -1327,6 +1328,7 @@ Music:Tiv【X(Twitter):@tivmusic_chp】
 Vocal:ギャンブルアイドル☆ななりん(CV:はらもりよしな【X:@HaramoriYoshina】)
 BGA:ひきにく【X:@hikinikukamkam】
 Illust:よまお【X:@4mayoigoto】
+Chart:nor【X:@Bluvel】(DP)
 ※Lunatic Rave2、beatorajaで正常に動作されていることを確認しています。
 ※BGAについては、後日追加いたします。
 譜面一覧
@@ -1400,6 +1402,11 @@ Illust:よまお
 今回も作品に関われたことを嬉しく思います、ありがとうございます！"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/10/09 17:38"
+note = "BGAを追加"
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/09 03:31"
 note = "BGAを追加"
@@ -1410,9 +1417,9 @@ date = "2026/10/01 23:06"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "BGAを追加"
+note = "DP譜面(制作：nor)を3つ追加しました。　2026/11/06 21:43以前にDLされた方は、お手数ですが差分のDLもお願い致します。"
 
 [[details]]
 num = "26"
@@ -13229,8 +13236,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/serita-plagman/dnb-mix-feat?si=dcd49ea31cb249b78bce25b5fc90efdd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"]
-comment_updated = "2026年11月04日 22:15"
+comment_updated = "2026年11月06日 23:57"
 comment = """
+(2026年11月06日 23:57 更新)
 (2026年11月04日 22:15 更新)
 时隔一年后，第四次来到了bof会场，正在努力尝试带来新的曲风，感谢大家的喜欢。
 日本語の歌詞
@@ -13300,6 +13308,11 @@ comment = """
 進むよ"""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/11/04 22:15"
+note = "修正7k A+，并添加14key低难度"
+
+[[details.revisions]]
 ver = "2"
 date = "2026/10/19 20:28"
 note = "BGAを追加"
@@ -13310,9 +13323,9 @@ date = "2026/10/16 00:45"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "修正7k A+，并添加14key低&#38590;度"
+note = "增加7k INSANE&#38590;度"
 
 [[details]]
 num = "261"
@@ -16354,14 +16367,16 @@ charts = "CHART_3 (★x1～★x12)"
 bpm = "195"
 tags = [
     "7Keys",
+    "File-Append",
     "Use-BGI",
     "Difficulty-beginner",
     "Difficulty-gimmick",
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年10月21日 21:02"
+comment_updated = "2026年11月06日 22:31"
 comment = """
+(2026年11月06日 22:31 更新)
 (2026年10月21日 21:02 更新)
 (2026年10月19日 13:51 更新)
 感谢您能查看我的留言！
@@ -16399,8 +16414,13 @@ Rain_Light 2026.10.19
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 02:20"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "作品を追加修正"
 
 [[details]]
 num = "328"
@@ -20188,11 +20208,62 @@ tags = [
     "Difficulty-intermediate",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 22:58"
+comment_updated = "2026年11月06日 19:23"
 comment = """
-(2026年10月19日 22:58 更新)
-(2026年10月19日 22:57 更新)
-(更新予定です)"""
+(2026年11月06日 19:23 更新)
+(2026年11月06日 19:21 更新)
+みなさん、いらっしゃい
+お菓子な迷宮
+ようこそ、デリシャスラビリンス！
+La La La La La La！
+La La La La La
+La La La La La
+La La La La La
+ナイス
+ライス
+カレーにとろけるミルクチョコレート
+生クリームまみれで
+みるみるみるみるイイ気分
+すごい
+おいしい
+オムライスはとろけるミルクティー
+かき氷はお抹茶
+ねぇ
+おかわりをくれないか?
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+ミルフィーユ
+マカロンもシュークリームも
+エクレアもタルトも
+イチゴもぶどうもデリシャス
+フルーツパフェもデリシャス
+みんなもデリシャス
+一緒に召し上がれ！
+お菓子の中身
+生クリームと
+カスタードクリームと
+カラメルソースと
+ストロベリーソースと
+チョコレートソース
+全部デリシャス
+さぁ いっしょに
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+デリシャス
+La La La La La
+La La La La La
+La La La La La
+もう〜まだ足りないよ！"""
 
 [[details.revisions]]
 ver = "1"

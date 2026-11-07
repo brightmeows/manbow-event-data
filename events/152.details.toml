@@ -4698,10 +4698,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/tendoncutter/bof22"]
-comment_updated = "2026年11月04日 21:02"
+comment_updated = "2026年11月07日 17:36"
 comment = """
-(2026年11月04日 21:02 更新)
-2026年11月04日 Bemuse対応
+(2026年11月07日 17:36 更新)
+2026年11月04日 Bemuse対応 音量を増加させました。
 [music]
 TendonCutter - https://x.com/TendonCutter0
 [Vocal]
@@ -18316,8 +18316,9 @@ tags = [
 ]
 production = "性癖"
 audition = ["https://soundcloud.com/oratoruk/in-top-form"]
-comment_updated = "2026年10月31日 16:51"
+comment_updated = "2026年11月07日 23:00"
 comment = """
+(2026年11月07日 23:00 更新)
 (2026年10月31日 16:51 更新)
 Event : BOF:22 [THE BMS OF FIGHTERS 22 - GO 2 YOUR EVOLUTION -]
 Title : In Top Form
@@ -18332,7 +18333,13 @@ SP ANOTHER  : ☆12(★4程度)
 やればわかる
 コードワーク気になる人はBGAみてね
 (2026/10/31追記) 動画内のコードに1箇所ミスがありますが、面倒なので修正しません 見つけたあなたはラッキー☆彡
+(2026/11/07追記) 更に追加で4箇所コードネームミスってました 突貫工事は良くないね 気が向いたら修正版出すかも
 LR2、beatoraja、KalaidBeatで動作確認済"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/31 16:51"
+note = "コメント追加"
 
 [[details.revisions]]
 ver = "1"
@@ -18340,7 +18347,7 @@ date = "2026/10/19 19:55"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
 note = "コメント追加"
 

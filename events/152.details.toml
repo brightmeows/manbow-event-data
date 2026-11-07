@@ -13159,8 +13159,9 @@ tags = [
 ]
 production = "befriend (completely used befriend for this, but i made the song in fl studio)"
 audition = ["https://soundcloud.com/user-147879028/erhytemaabigne"]
-comment_updated = "2026年11月05日 14:01"
+comment_updated = "2026年11月07日 08:55"
 comment = """
+(2026年11月07日 08:55 更新)
 (2026年11月05日 14:01 更新)
 (2026年10月19日 20:20 更新)
 (2026年10月18日 02:47 更新)
@@ -13175,6 +13176,11 @@ thanks for 1/8th for making the stop motion edit.
 the mv is a WIP, me and .xan are working on it right now.
 the stop motion edit truly is a work of art, thanks 1/8!
 TBN727"""
+
+[[details.revisions]]
+ver = "6"
+date = "2026/11/05 14:01"
+note = "BGA is complete, thanks."
 
 [[details.revisions]]
 ver = "5"
@@ -13202,9 +13208,9 @@ date = "2026/10/16 00:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "6"
+ver = "7"
 date = ""
-note = "BGA is complete, thanks."
+note = "BGA on YouTube now"
 
 [[details]]
 num = "260"

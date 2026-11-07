@@ -1176,13 +1176,13 @@ addr = [
     "https://drive.google.com/file/d/1X1UtPp-sxH0uoCyy2wVvELl7pCaBQlJE/view?usp=sharing",
 ]
 genre = "CHRONICLE"
-impr = "32"
-total = "35208.81"
-total_n = "30093"
-median = "982.5"
-avg = "940.4"
+impr = "33"
+total = "36377.64"
+total_n = "31092"
+median = "985"
+avg = "942.18"
 regist = "2026/10/01 23:10"
-update = "2026/11/07 10:39"
+update = "2026/11/08 06:52"
 
 [[entries]]
 no = "65"
@@ -2383,13 +2383,13 @@ title = "虹色プリズム"
 size = "84872 KB"
 addr = ["https://drive.google.com/file/d/18HLrLToAE9QI4vBk6_a0Zh1uCPT5ASFZ/view?usp=drive_link"]
 genre = "J-Kawaii Core"
-impr = "13"
-total = "14654.28"
-total_n = "12633"
+impr = "14"
+total = "15737.72"
+total_n = "13567"
 median = "986"
-avg = "971.76"
+avg = "969.07"
 regist = "2026/10/02 00:17"
-update = "2026/11/07 11:15"
+update = "2026/11/08 06:05"
 
 [[entries]]
 no = "133"
@@ -2822,13 +2822,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/ft900telpuh5dnz42no4b/legend_g-fs_append_movie_20261016.zip?rlkey=di01lkfvg3509onx74hzcqlf4&st=y8472jit&dl=0",
 ]
 genre = "Doujin Trance"
-impr = "10"
-total = "15164.8"
-total_n = "9478"
-median = "946.5"
-avg = "947.8"
+impr = "11"
+total = "16406.4"
+total_n = "10254"
+median = "925"
+avg = "932.18"
 regist = "2026/10/04 18:04"
-update = "2026/11/07 23:33"
+update = "2026/11/08 06:37"
 
 [[entries]]
 no = "156"
@@ -4161,13 +4161,13 @@ title = "AKASHIC DESIRE"
 size = "43000 KB"
 addr = ["https://drive.google.com/file/d/1mlP4GLAw76JoxeSR-PV5BOXLJFOdi2R2/view?usp=sharing"]
 genre = "RECKLESS CROSSOVER"
-impr = "15"
-total = "26076.6"
-total_n = "14487"
-median = "985"
-avg = "965.8"
+impr = "16"
+total = "27822.6"
+total_n = "15457"
+median = "981.5"
+avg = "966.06"
 regist = "2026/10/14 03:14"
-update = "2026/11/07 12:02"
+update = "2026/11/08 07:26"
 
 [[entries]]
 no = "228"
@@ -4357,13 +4357,13 @@ addr = [
     "https://drive.google.com/file/d/1u0v5vqKhOAmQnquyRS-aqGjc0VIoBCaa/view?usp=drive_link",
 ]
 genre = "Shoegaze Chiptune"
-impr = "15"
-total = "26227.8"
-total_n = "14571"
-median = "982"
-avg = "971.4"
+impr = "16"
+total = "28026"
+total_n = "15570"
+median = "983.5"
+avg = "973.12"
 regist = "2026/10/15 21:49"
-update = "2026/11/07 12:08"
+update = "2026/11/08 06:41"
 
 [[entries]]
 no = "239"
@@ -4508,7 +4508,7 @@ total_n = "6759"
 median = "979"
 avg = "965.57"
 regist = "2026/10/15 23:37"
-update = "2026/11/07 12:11"
+update = "2026/11/08 07:02"
 
 [[entries]]
 no = "247"
@@ -4638,13 +4638,13 @@ addr = [
     "https://drive.google.com/file/d/1eDXzfetqDnzFsUkoFhgY9NrtiZOVvA6f/view?usp=sharing",
 ]
 genre = "Abysselachic Recode"
-impr = "5"
-total = "7750.4"
-total_n = "4844"
-median = "990"
-avg = "968.8"
+impr = "6"
+total = "9316.8"
+total_n = "5823"
+median = "987"
+avg = "970.5"
 regist = "2026/10/16 00:02"
-update = "2026/11/07 12:17"
+update = "2026/11/08 05:56"
 
 [[entries]]
 no = "255"
@@ -5272,13 +5272,13 @@ addr = [
     "//beatoraja用に高画質BGA(mp4)を同梱しています。お好きな方をお選びください！",
 ]
 genre = "Happy Hardcore"
-impr = "29"
-total = "45435.2"
-total_n = "28397"
+impr = "30"
+total = "47030.4"
+total_n = "29394"
 median = "990"
-avg = "979.2"
+avg = "979.8"
 regist = "2026/10/17 19:55"
-update = "2026/11/07 15:46"
+update = "2026/11/08 07:19"
 
 [[entries]]
 no = "290"
@@ -7945,13 +7945,13 @@ addr = [
     "https://yellowmapleleaf.com/bms/ym68_cider_ogg_oraja.zip",
 ]
 genre = "J-Pop"
-impr = "5"
-total = "5752.89"
-total_n = "4917"
-median = "990"
-avg = "983.4"
+impr = "6"
+total = "6913.53"
+total_n = "5909"
+median = "991"
+avg = "984.83"
 regist = "2026/10/19 23:39"
-update = "2026/11/07 15:05"
+update = "2026/11/08 06:27"
 
 [[entries]]
 no = "440"

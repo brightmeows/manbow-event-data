@@ -1373,13 +1373,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/kqouxagp8o6c4aaovfgie/KaKi-ABLD_ogg.zip?rlkey=tb8mxv3hf4po01exyshd6ko89&st=kjdnw19v&dl=1",
 ]
 genre = "Acid / Hard Techno"
-impr = "24"
-total = "41302.8"
-total_n = "22946"
-median = "967.5"
-avg = "956.08"
+impr = "25"
+total = "43102.8"
+total_n = "23946"
+median = "975"
+avg = "957.84"
 regist = "2026/10/01 23:10"
-update = "2026/11/08 16:48"
+update = "2026/11/09 04:32"
 
 [[entries]]
 no = "76"
@@ -3722,13 +3722,13 @@ addr = [
     "https://drive.google.com/file/d/1y0kTrFwbEWgNGDDIWV_LP1QvpvdIrtDC/view?usp=drive_link",
 ]
 genre = "テクノポップ"
-impr = "8"
-total = "14239.8"
-total_n = "7911"
-median = "997"
-avg = "988.87"
+impr = "9"
+total = "16039.8"
+total_n = "8911"
+median = "999"
+avg = "990.11"
 regist = "2026/10/12 00:19"
-update = "2026/11/07 11:52"
+update = "2026/11/09 04:35"
 
 [[entries]]
 no = "204"
@@ -4720,6 +4720,7 @@ team = "HardCrashOnNervousSystem"
 title = "erythema ab igne"
 size = "11400 KB"
 addr = [
+    "update: there was a problem loading bga but that has been fixed.",
     "BMS:",
     "google:",
     "https://drive.google.com/file/d/1bPLbCx0pyNX5abmzEB9BoMrQWO2dAq0M/view?usp=drivesdk",
@@ -4738,7 +4739,7 @@ total_n = "5512"
 median = "923.5"
 avg = "918.66"
 regist = "2026/10/16 00:33"
-update = "2026/11/07 12:19"
+update = "2026/11/09 05:37"
 
 [[entries]]
 no = "260"
@@ -8617,13 +8618,13 @@ addr = [
     "https://drive.google.com/file/d/1PCexEooPSl4nsP7KYIQkWW09ehq2ri_C/view?usp=sharing",
 ]
 genre = "FOUR ON THE FLOOR"
-impr = "17"
-total = "28036.8"
-total_n = "15576"
-median = "950"
-avg = "916.23"
+impr = "18"
+total = "29836.8"
+total_n = "16576"
+median = "955"
+avg = "920.88"
 regist = "2026/10/20 00:07"
-update = "2026/11/07 18:34"
+update = "2026/11/09 04:08"
 
 [[teams]]
 no = "175"

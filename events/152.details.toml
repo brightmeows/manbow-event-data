@@ -8926,6 +8926,7 @@ bpm = "260"
 tags = [
     "7Keys",
     "Lang-JP",
+    "File-Append",
     "Video-sharing",
     "Use-BGA",
     "Use-ogg",
@@ -8940,13 +8941,15 @@ tags = [
 ]
 production = "exploitative company"
 audition = ["https://soundcloud.com/uramp/w0rk4h0l1c"]
-comment_updated = "2026年10月09日 22:01"
+comment_updated = "2026年11月09日 01:37"
 comment = """
-(2026年10月09日 22:01 更新)
-(2026年10月08日 23:28 更新)
-(2026年10月08日 22:55 更新)
-(2026年10月08日 22:47 更新)
+(2026年11月09日 01:37 更新)
 仕事辞めよう！"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/08 23:28"
+note = "BGAを追加"
 
 [[details.revisions]]
 ver = "1"
@@ -8954,9 +8957,9 @@ date = "2026/10/08 22:27"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを追加"
+note = "INSANE譜面追加"
 
 [[details]]
 num = "175"
@@ -11444,8 +11447,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-958114835/be-like-thunder"]
-comment_updated = "2026年11月03日 17:21"
+comment_updated = "2026年11月09日 01:51"
 comment = """
+(2026年11月09日 01:51 更新)
 (2026年11月03日 17:21 更新)
 (2026年11月03日 04:58 更新)
 (2026年10月19日 17:54 更新)
@@ -11454,13 +11458,16 @@ comment = """
 ・Title : Be Like Thunder
 ・BPM : 252(126)
 ・Genre : Rainy Day
+=SP(7k)=
 EZ(Beginner) ★3
 NM(Nornal) ★6
 HD(Hyper) ★10
 MX(Another) ★12
-*DPなどの他のpatternは、11月05日以降に追加される予定です。
-*DP등의 추가 패턴은 11월 05일 이후 추가될 예정입니다.
-*Other patterns such as DP(Double Play) will be added after 11.05.
+=DP(14k)=
+EZ(Beginner) ★3
+NM(Nornal) ★6
+HD(Hyper) ★10
+MX(Another) ★12
 ****
 Update log(26.11.03)
 keyのバランスを調整しました。
@@ -11475,6 +11482,15 @@ It works fine even if you paste the new key and BGA files into the existing fold
 업데이트에 용이하도록 키음과 BGA만 다운로드할 수 있는 링크를 추가했습니다.
 패턴 변경 사항은 없는 비주얼 업데이트입니다.
 새 키음과 BGA 파일을 기존 폴더에 붙여 넣으셔도 정상 작동합니다.
+每个按键之间的平衡已被更改。
+已添加链接；并为了方便起见，已包含主要的音效或背景音乐（BGA）。
+这是图案的视觉更新，设计保持不变。
+****
+Update log(26.11.08)
+DPを追加しました。
+DP pattern added.
+DP 패턴을 추가했습니다.
+已添加DP。
 ****
 <Lyrics>
 I'm looking on the ride
@@ -11510,6 +11526,11 @@ But feeling fulfill,
 willing to overcome depression."""
 
 [[details.revisions]]
+ver = "3"
+date = "2026/11/03 17:21"
+note = "keyのバランスを調整しました。keyとbgaのダウンロードリンクを追加しました。"
+
+[[details.revisions]]
 ver = "2"
 date = "2026/11/03 04:58"
 note = "BGAを追加"
@@ -11520,9 +11541,9 @@ date = "2026/10/13 22:31"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "keyのバランスを調整しました。keyとbgaのダウンロードリンクを追加しました。"
+note = "DPを追加しました。"
 
 [[details]]
 num = "223"
@@ -11907,7 +11928,10 @@ tags = [
     "Use-mp4_movie",
 ]
 production = "非公開"
+audition = ["https://soundcloud.com/qfdyh54mdzgv/bof22-pgiiviagy-7"]
+comment_updated = "2026年11月08日 20:25"
 comment = """
+(2026年11月08日 20:25 更新)
 初めまして、クレオパトラ7世です。
 今回は世界の美人であるクレオパトラがどうして生まれたのか、その起源、過程についての
 プライマリーを、
@@ -11915,7 +11939,11 @@ comment = """
 表して、
 いません。
 とりあえず超カオスなフリップをつくりました！！！！！！
-曲も映像も暴れてみましたので、ぜひ楽しんでいただければ幸いです。どうぞクレオパトラをよろしくお願いいたします。"""
+曲も映像も暴れてみましたので、ぜひ楽しんでいただければ幸いです。どうぞクレオパトラをよろしくお願いいたします。
+バレバレだったかもね
+好きで、楽しく、はちゃめちゃで。そんな楽曲です。
+創作の初心に帰ろうと、楽曲名はプライマリーとつけました。
+作曲っていいね"""
 
 [[details.revisions]]
 ver = "1"

@@ -11432,6 +11432,7 @@ charts = "CHART_3 (★x3～★x12)"
 bpm = "252"
 tags = [
     "7Keys",
+    "14Keys",
     "Lang-JP",
     "Lang-US",
     "Lang-KR",
@@ -11447,8 +11448,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/user-958114835/be-like-thunder"]
-comment_updated = "2026年11月09日 01:51"
+comment_updated = "2026年11月09日 10:20"
 comment = """
+(2026年11月09日 10:20 更新)
 (2026年11月09日 01:51 更新)
 (2026年11月03日 17:21 更新)
 (2026年11月03日 04:58 更新)
@@ -11457,7 +11459,7 @@ comment = """
 ・Team : 二十四節気四六時中
 ・Title : Be Like Thunder
 ・BPM : 252(126)
-・Genre : Rainy Day
+・Genre : Rainy Day 2
 =SP(7k)=
 EZ(Beginner) ★3
 NM(Nornal) ★6
@@ -11526,6 +11528,11 @@ But feeling fulfill,
 willing to overcome depression."""
 
 [[details.revisions]]
+ver = "4"
+date = "2026/11/09 01:51"
+note = "DPを追加しました。"
+
+[[details.revisions]]
 ver = "3"
 date = "2026/11/03 17:21"
 note = "keyのバランスを調整しました。keyとbgaのダウンロードリンクを追加しました。"
@@ -11541,9 +11548,9 @@ date = "2026/10/13 22:31"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "5"
 date = ""
-note = "DPを追加しました。"
+note = "登録ページのタグを修正しました。（14k楽譜を追加）"
 
 [[details]]
 num = "223"

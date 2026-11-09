@@ -8941,9 +8941,9 @@ tags = [
 ]
 production = "exploitative company"
 audition = ["https://soundcloud.com/uramp/w0rk4h0l1c"]
-comment_updated = "2026年11月09日 01:37"
+comment_updated = "2026年11月09日 18:57"
 comment = """
-(2026年11月09日 01:37 更新)
+(2026年11月09日 18:57 更新)
 仕事辞めよう！"""
 
 [[details.revisions]]
@@ -16656,9 +16656,9 @@ tags = [
     "Difficulty-craziness",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 13:05"
+comment_updated = "2026年11月09日 17:50"
 comment = """
-(2026年10月19日 13:05 更新)
+(2026年11月09日 17:50 更新)
 Opaque Lives / ART CORE / noyrfa feat. tanP
 BMS & music by noyrfa
 lyrics & vocal by tanP
@@ -16670,8 +16670,13 @@ SP STYLISH COLOUR by AZVW_2"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 04:10"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "FIXED BGM KEY SOUND, please re download since 9 November 2026"
 
 [[details]]
 num = "333"
@@ -18734,7 +18739,7 @@ genre = "Shoegaze"
 genre_sub = "Arrange・Self"
 source = "-----"
 bga = "BGA include・Other"
-charts = "CHART_2 (★x11～★x12)"
+charts = "CHART_3 (★x11～★x12)"
 bpm = "95"
 tags = [
     "7Keys",
@@ -18748,8 +18753,9 @@ tags = [
     "Difficulty-senior",
 ]
 production = "非公開"
-comment_updated = "2026年10月19日 21:26"
+comment_updated = "2026年11月09日 17:29"
 comment = """
+(2026年11月09日 17:29 更新)
 (2026年10月19日 21:26 更新)
 吉他如火车般的轰鸣声，留下了迟缓的挫败感。 当噪音消退，世界变得轻盈时，只有潮水退去后扭曲的回声留在耳中。
 列車のようなギターの轟音が、淀んだ苦悶を置き去りにしていく。ノイズが消え、世界が軽くなったあと、耳元には歪みが引いたあとの残響だけが残る。
@@ -18757,8 +18763,13 @@ comment = """
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 20:54"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "譜面を追加"
 
 [[details]]
 num = "384"
@@ -19530,15 +19541,16 @@ tags = [
     "Player-beatoraja",
 ]
 production = "Cubase 14"
-comment_updated = "2026年11月05日 07:59"
+comment_updated = "2026年11月09日 18:58"
 comment = """
+(2026年11月09日 18:58 更新)
 (2026年11月05日 07:59 更新)
 (2026年11月05日 07:46 更新)
 (2026年10月24日 12:54 更新)
 正直、異例で馴染みのないジャンルではありますが、だからこそ面白いのではないでしょうか？ボンゴのリズム感を感じていただけたらと思います！
 To be honest, it’s an unusual and unfamiliar genre—but isn’t that exactly what makes it fun? I hope you’ll enjoy the rhythmic feel of the bongo!
 SoundCloudのリンクはこちらです
-ㅅhttps://on.soundcloud.com/TrW0GWyW428oIQRtnK"""
+https://on.soundcloud.com/TrW0GWyW428oIQRtnK"""
 
 [[details.revisions]]
 ver = "3"

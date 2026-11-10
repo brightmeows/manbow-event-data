@@ -12796,16 +12796,20 @@ bpm = "240"
 tags = [
     "7Keys",
     "Audition-Sound",
+    "Use-BGA",
     "Use-BGI",
     "Use-ogg",
+    "Use-mpeg_movie",
+    "Use-mp4_movie",
     "Difficulty-beginner",
     "Difficulty-intermediate",
     "Difficulty-senior",
 ]
 production = "公開"
 audition = ["https://soundcloud.com/pinkdama/ywvhrakscz"]
-comment_updated = "2026年10月26日 07:37"
+comment_updated = "2026年11月11日 00:31"
 comment = """
+(2026年11月11日 00:31 更新)
 (2026年10月26日 07:37 更新)
 あらすじ
 こんばんばん。ピンクだまです。
@@ -12818,8 +12822,13 @@ SP ANOTHER: ☆12"""
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/15 23:49"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "動画の公開およびBGAの追加を行いました。"
 
 [[details]]
 num = "252"
@@ -13106,17 +13115,21 @@ tags = [
     "Lang-JP",
     "Lang-US",
     "Lang-SCN",
+    "File-Append",
+    "Difficulty-craziness",
+    "Difficulty-gorilla",
 ]
 production = "非公開"
-comment_updated = "2026年10月28日 05:03"
+comment_updated = "2026年11月11日 00:15"
 comment = """
-(2026年10月28日 05:03 更新)
-(2026年10月28日 05:02 更新)
-(2026年10月28日 00:13 更新)
+(2026年11月11日 00:15 更新)
+(2026年11月11日 00:15 更新)
 「娘よ、覚えておいて。
 過去の脆さを振り返るのは、より勇敢に明日へ歩いていくためなんだよ。」
 SPb譜面1枚とSPn New ver.譜面1枚を追加更新しました。
-それ以外にも、「定義されない明日」の到来をぜひお楽しみに。
+「母よ、どうか私が進む姿を見送ってください。
+かつての痛みや憎しみが、私の明日を定義することはありません。」
+「定義されない明日」の譜面を追加更新しました。彼女はやがて新しい一日の薄明かり（「Usuakari」）へと歩み出す。
 さらさらと鳴る夜風が、故郷の黄砂を巻き上げ、荒野の上空をさまよっている。灯りが点々と瞬く避難所の外では、民衆で編成された哨戒班が、また交代の番を巡らせた。
 深い空には、百年前からこの砂漠の上空を旋回し続けている巡航ミサイル群がある。
 何世代もの子どもたちが願いを託してきた星の光に代わって。
@@ -13159,14 +13172,19 @@ Qamar - 星咲Suzumi
 ▇▇▇ - 星咲Suzumi -the CrƔwnskald-"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/28 00:13"
+note = "One SPb chart and one SPn New ver. chart have been updated."
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/16 00:21"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "One SPb chart and one SPn New ver. chart have been updated."
+note = "[Updated: 「定義されない明日」]"
 
 [[details]]
 num = "259"

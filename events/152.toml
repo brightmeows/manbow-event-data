@@ -425,13 +425,13 @@ addr = [
     "https://drive.google.com/file/d/1qSmj3ThADgsi3PntqPFT82sTrPRgvoC4/view?usp=drive_link",
 ]
 genre = "Mirage"
-impr = "31"
-total = "33118.85"
-total_n = "28799"
-median = "950"
-avg = "929"
+impr = "32"
+total = "34229.75"
+total_n = "29765"
+median = "951.5"
+avg = "930.15"
 regist = "2026/10/01 23:06"
-update = "2026/11/10 23:03"
+update = "2026/11/12 02:14"
 
 [[entries]]
 no = "25"
@@ -614,13 +614,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/tkb82bdpddszxdvsqlqo6/Crim-Nanakusa-_wav.7z?rlkey=5ppr0nxj8w5q06v55oyuygdgt&st=u765t8pf&dl=1",
 ]
 genre = "Protean"
-impr = "28"
-total = "47345.4"
-total_n = "26303"
-median = "975"
-avg = "939.39"
+impr = "29"
+total = "49039.2"
+total_n = "27244"
+median = "972"
+avg = "939.44"
 regist = "2026/10/01 23:07"
-update = "2026/11/10 23:24"
+update = "2026/11/12 01:43"
 
 [[entries]]
 no = "35"
@@ -1078,7 +1078,12 @@ name = "万響Bankyo"
 team = "T-BMS Recording"
 title = "Breather"
 size = "132198 KB"
-addr = ["https://drive.google.com/file/d/1BJleehPQ_fgiJD8qnyn3Bsb8nbR6nMFi/view?usp=sharing"]
+addr = [
+    "Original:",
+    "https://drive.google.com/file/d/1BJleehPQ_fgiJD8qnyn3Bsb8nbR6nMFi/view?usp=sharing",
+    "【PMS差分追加】【45★ PMS [Good Old Days] by 9RAN】",
+    "https://drive.google.com/file/d/14KvZY3tSZXus2vCoW54Iows-uruyH6tP/view?usp=sharing",
+]
 genre = "Bota-House"
 impr = "28"
 total = "30803.9"
@@ -1086,7 +1091,7 @@ total_n = "26786"
 median = "975"
 avg = "956.64"
 regist = "2026/10/01 23:10"
-update = "2026/11/09 18:10"
+update = "2026/11/12 01:05"
 
 [[entries]]
 no = "61"
@@ -1438,13 +1443,13 @@ addr = [
     "https://drive.google.com/file/d/13cLCVUGEsKbksjoZ95Xjdj3TMloPwcx9/view?usp=drive_link",
 ]
 genre = "OrientStep"
-impr = "33"
-total = "36041"
-total_n = "31340"
-median = "965"
-avg = "949.69"
+impr = "34"
+total = "37177.2"
+total_n = "32328"
+median = "967.5"
+avg = "950.82"
 regist = "2026/10/01 23:11"
-update = "2026/11/10 01:26"
+update = "2026/11/12 01:49"
 
 [[entries]]
 no = "79"
@@ -1939,13 +1944,13 @@ title = "心終"
 size = "76245 KB"
 addr = ["https://drive.google.com/file/d/1B-WMbWiGvYgAI6PiuUTtD5olpAQ7gB9e/view?usp=sharing"]
 genre = "Chillstep"
-impr = "16"
-total = "24980.8"
-total_n = "15613"
+impr = "17"
+total = "26564.8"
+total_n = "16603"
 median = "990"
-avg = "975.81"
+avg = "976.64"
 regist = "2026/10/01 23:14"
-update = "2026/11/11 12:50"
+update = "2026/11/12 01:33"
 
 [[entries]]
 no = "107"
@@ -2113,13 +2118,13 @@ title = "SYNC"
 size = "57969 KB"
 addr = ["https://drive.google.com/uc?export=download&id=1FRoNFL9I6ZchQkLt9ANl-ba5ay1sZuzd"]
 genre = "Artcore / Trance"
-impr = "13"
-total = "13752.2"
-total_n = "12502"
-median = "980"
-avg = "961.69"
+impr = "14"
+total = "14764.2"
+total_n = "13422"
+median = "975"
+avg = "958.71"
 regist = "2026/10/01 23:18"
-update = "2026/11/11 22:36"
+update = "2026/11/12 02:36"
 
 [[entries]]
 no = "117"
@@ -4133,13 +4138,13 @@ addr = [
     "https://drive.google.com/file/d/1u5VUCXAevsoBF2jZG3_ItY5jHjwYdi0k/view?usp=sharing",
 ]
 genre = "Translation"
-impr = "8"
-total = "8829.7"
-total_n = "7678"
-median = "970.5"
-avg = "959.75"
+impr = "9"
+total = "9979.7"
+total_n = "8678"
+median = "971"
+avg = "964.22"
 regist = "2026/10/14 02:28"
-update = "2026/11/11 11:14"
+update = "2026/11/12 01:57"
 
 [[entries]]
 no = "226"
@@ -4495,13 +4500,13 @@ title = "tryTrytryTry"
 size = "69000 KB"
 addr = ["https://drive.google.com/file/d/1O74aHX_UrJstUSRBHJuuYWWo2GdOPXWi/view?usp=sharing"]
 genre = "UK Garage"
-impr = "20"
-total = "35368.2"
-total_n = "19649"
+impr = "21"
+total = "37162.8"
+total_n = "20646"
 median = "990"
-avg = "982.45"
+avg = "983.14"
 regist = "2026/10/15 23:30"
-update = "2026/11/08 11:39"
+update = "2026/11/12 02:18"
 
 [[entries]]
 no = "246"
@@ -4600,13 +4605,13 @@ addr = [
     "https://drive.usercontent.google.com/download?id=1bKiiEVogq7TkvjuSuJpMGwOpwq26AaEk&export=download",
 ]
 genre = "ywvhraksir / Nostalgia(progressive)"
-impr = "10"
-total = "14806.4"
-total_n = "9254"
-median = "959.5"
-avg = "925.4"
+impr = "11"
+total = "16307.2"
+total_n = "10192"
+median = "951"
+avg = "926.54"
 regist = "2026/10/15 23:49"
-update = "2026/11/11 14:53"
+update = "2026/11/12 01:05"
 
 [[entries]]
 no = "252"
@@ -4974,13 +4979,13 @@ addr = [
     "https://drive.google.com/file/d/19ao5cBzIHWpWklk90-JK_voKQShozTQj/view?usp=drive_link",
 ]
 genre = "ORGANIC HARDCORE"
-impr = "6"
-total = "6791.9"
-total_n = "5906"
-median = "985.5"
-avg = "984.33"
+impr = "7"
+total = "7825.75"
+total_n = "6805"
+median = "976"
+avg = "972.14"
 regist = "2026/10/16 20:54"
-update = "2026/11/08 14:49"
+update = "2026/11/12 01:11"
 
 [[entries]]
 no = "273"
@@ -5430,13 +5435,13 @@ addr = [
     "https://drive.google.com/file/d/1X8m0AJxYwEEttlBILc-GZNlx22JUyXPU/view?usp=sharing",
 ]
 genre = "ORIENTAL CORE"
-impr = "8"
-total = "8394.09"
-total_n = "7701"
-median = "978"
-avg = "962.62"
+impr = "9"
+total = "9384.9"
+total_n = "8610"
+median = "976"
+avg = "956.66"
 regist = "2026/10/18 09:29"
-update = "2026/11/07 12:35"
+update = "2026/11/12 01:21"
 
 [[entries]]
 no = "298"
@@ -5667,13 +5672,13 @@ title = "ラブラドレッセンス(RadioEdit)"
 size = "77987 KB"
 addr = ["https://www.dropbox.com/scl/fi/79rmoviippiy876qht50a/HyperHybrid-RadioEdit.zip?rlkey=yjr4aad6rizgwalh4f1pnle1a&st=ywnjg2a6&dl=1"]
 genre = "Hyper J-Ani Trance Pop"
-impr = "8"
-total = "12516.8"
-total_n = "7823"
-median = "979"
-avg = "977.87"
+impr = "9"
+total = "14067.2"
+total_n = "8792"
+median = "978"
+avg = "976.88"
 regist = "2026/10/18 20:39"
-update = "2026/11/09 17:08"
+update = "2026/11/12 02:10"
 
 [[entries]]
 no = "312"
@@ -5985,13 +5990,13 @@ title = "Trigintet Force"
 size = "166000 KB"
 addr = ["https://drive.google.com/file/d/1Lx7S0V4eg6jFVIqh23AJJfY82pYMArCt/view?usp=sharing"]
 genre = 'Full Flavor "MEGAMIX"'
-impr = "11"
-total = "12081.42"
-total_n = "10326"
-median = "960"
-avg = "938.72"
+impr = "12"
+total = "13235.04"
+total_n = "11312"
+median = "972.5"
+avg = "942.66"
 regist = "2026/10/19 02:58"
-update = "2026/11/10 21:57"
+update = "2026/11/12 02:26"
 
 [[entries]]
 no = "330"
@@ -6896,13 +6901,13 @@ title = "Amethyst"
 size = "127897 KB"
 addr = ["https://drive.google.com/file/d/15gXme6JufZQtm6Z-raT0whX3i9bzc1dc/view?usp=sharing"]
 genre = "Mirai"
-impr = "5"
-total = "5556.33"
-total_n = "4749"
-median = "979"
-avg = "949.8"
+impr = "6"
+total = "6609.33"
+total_n = "5649"
+median = "957"
+avg = "941.5"
 regist = "2026/10/19 20:27"
-update = "2026/11/11 20:51"
+update = "2026/11/12 00:47"
 
 [[entries]]
 no = "381"
@@ -7616,13 +7621,13 @@ title = "恋"
 size = "38500 KB"
 addr = ["https://www.dropbox.com/scl/fi/4fh1ow0v2yjqp8d4962jp/yuta_2026_noid.zip?rlkey=pszpvi1qvyyti782bndk43fn4&dl=1"]
 genre = "Happy Hardcore"
-impr = "11"
-total = "12490.92"
-total_n = "10676"
-median = "982"
-avg = "970.54"
+impr = "12"
+total = "13637.52"
+total_n = "11656"
+median = "981"
+avg = "971.33"
 regist = "2026/10/19 22:53"
-update = "2026/11/10 22:11"
+update = "2026/11/12 01:26"
 
 [[entries]]
 no = "422"
@@ -7944,13 +7949,13 @@ addr = [
     "https://drive.google.com/file/d/1I_dGqNtqHVuDLySWykvBCHJFPaAmbKu0/view?usp=sharing",
 ]
 genre = "MINIMAL TECHNO"
-impr = "4"
-total = "4529.85"
-total_n = "3939"
-median = "982.5"
-avg = "984.75"
+impr = "5"
+total = "5659.15"
+total_n = "4921"
+median = "982"
+avg = "984.2"
 regist = "2026/10/19 23:36"
-update = "2026/11/07 15:02"
+update = "2026/11/12 02:03"
 
 [[entries]]
 no = "439"

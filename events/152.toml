@@ -317,13 +317,13 @@ title = "複合魔法「硬核破壊暗黒魔炎」"
 size = "494000 KB"
 addr = ["https://www.dropbox.com/scl/fi/5a0u2u8rcukd1pewr4kbo/ogg.zip?rlkey=j83e9gwczz1tanftwlmsaagri&st=j1ul6gws&dl=0"]
 genre = "Hardcore"
-impr = "26"
-total = "23777.4"
-total_n = "20676"
-median = "840.5"
-avg = "795.23"
+impr = "27"
+total = "24697.4"
+total_n = "21476"
+median = "831"
+avg = "795.4"
 regist = "2026/10/01 23:05"
-update = "2026/11/09 17:48"
+update = "2026/11/14 02:01"
 
 [[entries]]
 no = "19"
@@ -672,13 +672,13 @@ title = "晨光溢るる、黄金の揺曳"
 size = "79000 KB"
 addr = ["https://www.dropbox.com/scl/fi/wh8wm7y9dornpffup8eu1/sinkouahururu_koganenoyouei.zip?rlkey=pscq1h1juklwj2p70bk7ow7c1&st=ap1lz47t&dl=0"]
 genre = "Celtic Pop"
-impr = "26"
-total = "27529.85"
-total_n = "23939"
+impr = "27"
+total = "28633.85"
+total_n = "24899"
 median = "950"
-avg = "920.73"
+avg = "922.18"
 regist = "2026/10/01 23:08"
-update = "2026/11/09 17:58"
+update = "2026/11/14 02:48"
 
 [[entries]]
 no = "38"
@@ -4729,13 +4729,13 @@ addr = [
     "https://drive.google.com/file/d/1lGhqW31b3So0l5_9UjHBJ9vTNoeDMtF1/view?usp=share_link",
 ]
 genre = "Still burning, still brilliant."
-impr = "14"
-total = "23722.2"
-total_n = "13179"
-median = "979"
-avg = "941.35"
+impr = "15"
+total = "25362"
+total_n = "14090"
+median = "978"
+avg = "939.33"
 regist = "2026/10/16 00:21"
-update = "2026/11/12 22:21"
+update = "2026/11/14 01:54"
 
 [[entries]]
 no = "259"
@@ -4757,13 +4757,13 @@ addr = [
     "https://mega.nz/file/aiYEECKR#QR0eZEPnS5WyZcdM0puAtw5MUqOhJwxYSHf8kFGlTAQ",
 ]
 genre = "melancholic hardcore"
-impr = "7"
-total = "10243.2"
-total_n = "6402"
-median = "910"
-avg = "914.57"
+impr = "8"
+total = "11763.2"
+total_n = "7352"
+median = "923.5"
+avg = "919"
 regist = "2026/10/16 00:33"
-update = "2026/11/12 22:25"
+update = "2026/11/14 02:30"
 
 [[entries]]
 no = "260"

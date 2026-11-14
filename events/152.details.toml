@@ -6657,8 +6657,10 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/minh-qu-n-gwds/mischievous-memories"]
-comment_updated = "2026年10月30日 17:38"
+comment_updated = "2026年11月14日 23:05"
 comment = """
+(2026年11月14日 23:05 更新)
+(2026年11月14日 22:58 更新)
 (2026年10月30日 17:38 更新)
 (2026年10月30日 17:34 更新)
 (2026年10月19日 21:27 更新)
@@ -6692,6 +6694,16 @@ Some free materials were used to make BGA:
 15. https://pixabay.com/videos/number-glitch-optical-digital-44361/"""
 
 [[details.revisions]]
+ver = "8"
+date = "2026/11/14 22:58"
+note = "作品を修正"
+
+[[details.revisions]]
+ver = "7"
+date = "2026/10/30 17:34"
+note = "adding SPH chart,fixing some problems of charts and compressing the BGA"
+
+[[details.revisions]]
 ver = "6"
 date = "2026/10/19 21:27"
 note = "作品を修正"
@@ -6722,9 +6734,9 @@ date = "2026/10/01 23:43"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "7"
+ver = "9"
 date = ""
-note = "adding SPH chart,fixing some problems of charts and compressing the BGA"
+note = "作品を修正"
 
 [[details]]
 num = "130"
@@ -14807,12 +14819,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/l-winter/bof22-scar-interlude-first"]
-comment_updated = "2026年10月25日 03:06"
+comment_updated = "2026年11月14日 23:43"
 comment = """
-(2026年10月25日 03:06 更新)
-FIXED / BOOSTED KEY SOUND VOLUME, please re download since 25 October 2026
-(2026年10月22日 00:10 更新)
-FIXED VOCAL SAMPLE IN BGM, please re download since 22 October 2026
+(2026年11月14日 23:43 更新)
 1 — First Iteration
 A promise, made where it all began.
 はじまりの場所で、交わした約束。

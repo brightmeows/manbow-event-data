@@ -32,13 +32,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/l8p13xrd9uylvpysqiexq/_ALYA_-_compact_.zip?rlkey=gmbn01213cl7th45a48efcr79&st=sumj9dyg&dl=1",
 ]
 genre = "Botanical Hi-Tech"
-impr = "52"
-total = "57453.6"
-total_n = "47878"
-median = "940"
-avg = "920.73"
+impr = "53"
+total = "58629.6"
+total_n = "48858"
+median = "942.5"
+avg = "921.84"
 regist = "2026/10/01 23:01"
-update = "2026/11/14 17:27"
+update = "2026/11/15 04:42"
 
 [[entries]]
 no = "2"
@@ -864,13 +864,13 @@ title = "I:O:IX"
 size = "25000 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQA0N5b3KMhBQpuPJGdOyIXTAejwNJKw_kS6pEIgvsOFz90?e=9GUCX7"]
 genre = "Giltch Hop/Neuro Hop/Speedcore"
-impr = "35"
-total = "38675.65"
-total_n = "33631"
+impr = "36"
+total = "39785.4"
+total_n = "34596"
 median = "970"
-avg = "960.88"
+avg = "961"
 regist = "2026/10/01 23:09"
-update = "2026/11/15 00:52"
+update = "2026/11/15 04:51"
 
 [[entries]]
 no = "50"
@@ -4371,13 +4371,13 @@ addr = [
     "https://drive.google.com/file/d/1u0v5vqKhOAmQnquyRS-aqGjc0VIoBCaa/view?usp=drive_link",
 ]
 genre = "Shoegaze Chiptune"
-impr = "20"
-total = "35001"
-total_n = "19445"
-median = "983.5"
-avg = "972.25"
+impr = "21"
+total = "36743.4"
+total_n = "20413"
+median = "982"
+avg = "972.04"
 regist = "2026/10/15 21:49"
-update = "2026/11/14 01:21"
+update = "2026/11/15 04:58"
 
 [[entries]]
 no = "239"
@@ -6402,13 +6402,13 @@ title = "僕と君と、天気雨"
 size = "237875 KB"
 addr = ["https://drive.google.com/file/d/13R0uc0d_tGnWjvnI3MeT263R-ilXzUUA/view?usp=sharing"]
 genre = "レイニーポップ"
-impr = "11"
-total = "17489.6"
-total_n = "10931"
-median = "995"
-avg = "993.72"
+impr = "12"
+total = "19049.6"
+total_n = "11906"
+median = "994.5"
+avg = "992.16"
 regist = "2026/10/19 14:52"
-update = "2026/11/14 17:23"
+update = "2026/11/15 02:27"
 
 [[entries]]
 no = "353"
@@ -6975,13 +6975,13 @@ addr = [
     "https://drive.google.com/file/d/1VzG8VLQ1cQ-yByqORqL9CCxlZix1Igvq/view?usp=drive_link",
 ]
 genre = "Pandemixia"
-impr = "21"
-total = "23442.75"
-total_n = "20385"
+impr = "22"
+total = "24569.75"
+total_n = "21365"
 median = "985"
-avg = "970.71"
+avg = "971.13"
 regist = "2026/10/19 20:57"
-update = "2026/11/12 23:16"
+update = "2026/11/15 02:21"
 
 [[entries]]
 no = "385"
@@ -7195,13 +7195,13 @@ title = "GENESIS ~Cycles of Creation~"
 size = "287406 KB"
 addr = ["https://drive.google.com/file/d/1MqqA5T6DkxLunr6lLrHzN4OIRwmw1xbp/view?usp=sharing"]
 genre = "Artcore"
-impr = "5"
-total = "5515.32"
-total_n = "4838"
-median = "970"
-avg = "967.6"
+impr = "6"
+total = "6564.12"
+total_n = "5758"
+median = "960"
+avg = "959.66"
 regist = "2026/10/19 21:48"
-update = "2026/11/07 13:25"
+update = "2026/11/15 02:32"
 
 [[entries]]
 no = "398"

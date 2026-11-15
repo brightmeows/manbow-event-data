@@ -428,7 +428,7 @@ fn cell_no(row: &TableRow, i_no: usize) -> String {
         return text;
     }
 
-    let html = row.htmls.get(i_no).map(String::as_str).unwrap_or_default();
+    let html = row.htmls.get(i_no).map_or_default(String::as_str);
     num.find(html)
         .map(|m| m.as_str().to_string())
         .unwrap_or(text)

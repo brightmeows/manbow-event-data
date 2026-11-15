@@ -18985,14 +18985,18 @@ charts = "CHART_3 (★x4～★x12)"
 bpm = "138"
 tags = [
     "7Keys",
+    "9Keys",
     "Lang-JP",
+    "File-Append",
     "Use-BGI",
     "Use-ogg",
     "Gimmick-LongNote",
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/s_route/needle_and_threads"]
+comment_updated = "2026年11月15日 23:06"
 comment = """
+(2026年11月15日 23:06 更新)
 Team：Imaginery Museum
 Title：Needle and Threads
 Genre：DEATH TECHNO
@@ -19016,8 +19020,13 @@ LNで鍵盤を抑えながら捌く配置がたくさんあるので
 
 [[details.revisions]]
 ver = "1"
-date = ""
+date = "2026/10/19 21:22"
 note = "初版公開"
+
+[[details.revisions]]
+ver = "2"
+date = ""
+note = "PMS譜面追加"
 
 [[details]]
 num = "389"
@@ -22232,12 +22241,15 @@ bpm = "148 ～ 153"
 tags = [
     "7Keys",
     "Lang-JP",
+    "Video-sharing",
     "Use-BGI",
+    "Use-ogg",
     "Gimmick-LongNote",
 ]
 production = "過去か未来か"
-comment_updated = "2026年10月20日 00:29"
+comment_updated = "2026年11月15日 22:33"
 comment = """
+(2026年11月15日 22:33 更新)
 (2026年10月20日 00:29 更新)
 わたしは、回帰する。
 音ゲーの世界が大好きな私に。
@@ -22249,10 +22261,16 @@ comment = """
 制作のコンセプトとしては"イラスト先行で曲を作る"というものでした。なので上のフレーバーテキストとは別に、ジャケットの子のイメージ曲でもあります。設定や印象をイメージしながら、君にはこんな音が似合うかな～というのを詰め込みました。
 2通りの解釈をお楽しみください。これもまた新鮮かな？
 P.S.形式変換が間に合わなかったので後日ogg版を追加します！！！！
+PSのPS.大変遅ればせながらogg版ができたのでそちらのURL公開しました！
 [Tyoukou]
 セケドζ改めsskdです。
 イカした女の子を描きました。
 [sskd]"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/20 00:29"
+note = "BGI担当の人の名義修正"
 
 [[details.revisions]]
 ver = "1"
@@ -22260,9 +22278,9 @@ date = "2026/10/19 23:57"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGI担当の人の名義修正"
+note = "ogg版追加、音源動画公開"
 
 [[details]]
 num = "469"

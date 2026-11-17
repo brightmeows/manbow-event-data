@@ -750,7 +750,14 @@ name = "foonone"
 team = "Imaginery Museum"
 title = "Cosmoplastic"
 size = "315000 KB"
-addr = ["https://drive.google.com/file/d/1YOMH-lgsPrzqGG5LGbNiWJzSXEqXupnT/view?usp=drive_link"]
+addr = [
+    "https://drive.google.com/file/d/1YOMH-lgsPrzqGG5LGbNiWJzSXEqXupnT/view?usp=drive_link",
+    "(2026年11月17日に追加された譜面抜きのリンク)",
+    "https://drive.google.com/file/d/1LBJu7jBqau5Gs3Z-hdXhh1hVgu34O9IG/view?usp=drive_link",
+    "(2026年11月17日に追加された譜面のみのパッケージ)",
+    "https://drive.google.com/file/d/1xgUJJWtUP6_lPhPBWYYPTIW8bZ9j3kVA/view?usp=drive_link",
+    "(2026年11月17日に追加された譜面を含めた全体ファイル)",
+]
 genre = "GUTAI Music"
 impr = "23"
 total = "33128"
@@ -758,7 +765,7 @@ total_n = "20705"
 median = "920"
 avg = "900.21"
 regist = "2026/10/01 23:08"
-update = "2026/11/15 22:53"
+update = "2026/11/17 11:56"
 
 [[entries]]
 no = "43"
@@ -5854,7 +5861,7 @@ total_n = "6869"
 median = "985"
 avg = "981.28"
 regist = "2026/10/19 01:13"
-update = "2026/11/16 12:06"
+update = "2026/11/17 12:40"
 
 [[entries]]
 no = "322"

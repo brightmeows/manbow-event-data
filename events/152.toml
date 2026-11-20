@@ -1972,13 +1972,13 @@ addr = [
     "https://drive.google.com/uc?export=download&id=1NLOVVpuNlxMX6wDyvF0-Ru4dkS5OhJsc",
 ]
 genre = "GOTHIC MYTHOS"
-impr = "27"
-total = "46684.8"
-total_n = "25936"
-median = "975"
-avg = "960.59"
+impr = "28"
+total = "48412.8"
+total_n = "26896"
+median = "972.5"
+avg = "960.57"
 regist = "2026/10/01 23:14"
-update = "2026/11/18 21:11"
+update = "2026/11/21 06:09"
 
 [[entries]]
 no = "108"
@@ -3839,13 +3839,13 @@ addr = [
     "https://bms.donbra-co.ltd/blob/bof2026/%5BDONBRA_CO.LTD%5Dnox_mpeg_ver1.0.1.zip",
 ]
 genre = "Drum'n'Bass"
-impr = "15"
-total = "15973.2"
-total_n = "13770"
-median = "940"
-avg = "918"
+impr = "16"
+total = "17036.92"
+total_n = "14687"
+median = "930"
+avg = "917.93"
 regist = "2026/10/12 01:03"
-update = "2026/11/20 05:25"
+update = "2026/11/21 05:09"
 
 [[entries]]
 no = "209"
@@ -3876,13 +3876,13 @@ addr = [
     "https://drive.google.com/uc?export=download&id=1MEO8-w2W6AXPWxx_LeQxqm1WWWN7HTdN",
 ]
 genre = "Annihilation / Metal"
-impr = "20"
-total = "34648.2"
-total_n = "19249"
+impr = "21"
+total = "36412.2"
+total_n = "20229"
 median = "970"
-avg = "962.45"
+avg = "963.28"
 regist = "2026/10/12 15:47"
-update = "2026/11/16 21:07"
+update = "2026/11/21 06:13"
 
 [[entries]]
 no = "211"
@@ -4555,13 +4555,13 @@ title = "Dustbox Archive"
 size = "275000 KB"
 addr = ["https://drive.google.com/file/d/1Gc9-Fx-15ObqajZgOWjaCAXYhRpxQi52/view?usp=drive_link"]
 genre = "404"
-impr = "9"
-total = "9777.64"
-total_n = "8429"
-median = "940"
-avg = "936.55"
+impr = "10"
+total = "10821.64"
+total_n = "9329"
+median = "935"
+avg = "932.9"
 regist = "2026/10/15 23:43"
-update = "2026/11/19 13:32"
+update = "2026/11/21 05:05"
 
 [[entries]]
 no = "249"
@@ -6961,13 +6961,13 @@ title = "天使が待つ最終列車"
 size = "361564 KB"
 addr = ["https://www.mediafire.com/file/dut2mxmncv9xnk6/%25E5%25A4%25A9%25E4%25BD%25BF%25E3%2581%258C%25E5%25BE%2585%25E3%2581%25A4%25E6%259C%2580%25E7%25B5%2582%25E5%2588%2597%25E8%25BB%258A.zip/file"]
 genre = "Shoegaze"
-impr = "8"
-total = "8669.85"
-total_n = "7539"
+impr = "9"
+total = "9704.85"
+total_n = "8439"
 median = "950"
-avg = "942.37"
+avg = "937.66"
 regist = "2026/10/19 20:54"
-update = "2026/11/16 23:15"
+update = "2026/11/21 06:20"
 
 [[entries]]
 no = "384"
@@ -7170,13 +7170,13 @@ addr = [
     "https://drive.google.com/file/d/12E0jyWwB_H7tY9-hnlSfo3kZYinslSWG/view?usp=sharing",
 ]
 genre = "J-Rock"
-impr = "12"
-total = "12963"
-total_n = "11175"
-median = "929.5"
-avg = "931.25"
+impr = "13"
+total = "14065"
+total_n = "12125"
+median = "939"
+avg = "932.69"
 regist = "2026/10/19 21:39"
-update = "2026/11/11 20:28"
+update = "2026/11/21 05:53"
 
 [[entries]]
 no = "396"

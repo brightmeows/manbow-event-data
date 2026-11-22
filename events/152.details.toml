@@ -15957,15 +15957,21 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/feng-yin-253959803/q2qvr5v2iwcf"]
-comment_updated = "2026年10月31日 21:34"
+comment_updated = "2026年11月22日 21:04"
 comment = """
+(2026年11月22日 21:04 更新)
 (2026年10月31日 21:34 更新)
 感受舒适的微风，站在阳光下，一切都如常，珍贵而稀有。就像蒲公英版的脆弱——一旦那舒适的风变得狂暴，所有的美丽都会消失。幸运的是，那从未发生过...... ——————真的吗？
-特别感谢：
-天哪
-玉彤九
-Baka3b
-冷丽"""
+Special Thanks：
+GolDenSiR
+雨瞳Ⅸ
+baka3b
+棱狸Lengli"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/31 21:34"
+note = "添加了SPH8,添加曲目封面,BG图像,POOR图像,添加preview片段"
 
 [[details.revisions]]
 ver = "1"
@@ -15973,9 +15979,9 @@ date = "2026/10/18 23:37"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "添加了SPH8,添加曲目封面,BG&#22270;像,POOR&#22270;像,添加preview片段"
+note = "修&#22797;机翻内容,total在上一次更新就已&#32463;修&#22797;"
 
 [[details]]
 num = "317"

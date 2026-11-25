@@ -8726,7 +8726,7 @@ note = "Updated Another chart. (Note moved in measure 016)"
 
 [[details]]
 num = "169"
-artist = "ChaozBreaker!(mov:laetzit)   URL"
+artist = "ChaozBreaker!  (movie : laetzit) URL"
 genre = "Emotional Hard Trance"
 genre_sub = "Original・Self"
 source = "-----"
@@ -8743,8 +8743,9 @@ tags = [
 ]
 production = "非公開"
 audition = ["https://soundcloud.com/chaozbreaker/retrieve-the-fragments"]
-comment_updated = "2026年10月28日 04:40"
+comment_updated = "2026年11月26日 00:02"
 comment = """
+(2026年11月26日 00:02 更新)
 (2026年10月28日 04:40 更新)
 (2026年10月12日 11:59 更新)
 (2026年10月09日 15:31 更新)
@@ -8757,6 +8758,11 @@ Compose & BMS & Chart // ChaozBreaker!
 何卒よろしくお願いいたします！
 Illustration & BGA // laetzit
 初めてBGAを製作してみました！ よろしくお願いします！"""
+
+[[details.revisions]]
+ver = "4"
+date = "2026/10/28 04:40"
+note = "Added new download link for chart with higher quality of BGA"
 
 [[details.revisions]]
 ver = "3"
@@ -8774,9 +8780,9 @@ date = "2026/10/08 01:57"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "4"
+ver = "5"
 date = ""
-note = "Added new download link for chart with higher quality of BGA"
+note = "Revised the wrong statement of composer and BGA editor."
 
 [[details]]
 num = "170"

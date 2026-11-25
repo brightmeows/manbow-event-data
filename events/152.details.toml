@@ -15356,13 +15356,19 @@ tags = [
     "Difficulty-kusofumen",
 ]
 production = "Reaper, EastWest Composer Cloud, Sylenth 1, Addictive Drums, Gamelan Banjar, 声はサンプル"
-comment_updated = "2026年10月21日 20:27"
+comment_updated = "2026年11月25日 07:48"
 comment = """
+(2026年11月25日 07:48 更新)
 (2026年10月21日 20:27 更新)
 (2026年10月19日 16:27 更新)
 チョウの標本、というか古のBMSみたいなやつを、現代の科学力で作りました。
 老害のみなさまには現場に戻って応援いただきたいし、若者にも応援されたいです。
 2026/10/19 16:20 JST に、ゲーム内楽曲選択時の視聴音源（#PREVIEW 命令用音源）を追加しました！"""
+
+[[details.revisions]]
+ver = "3"
+date = "2026/10/21 20:27"
+note = "BMS内に1行不要な行が混入してしまっていたことで、特定環境でプレイが不可能になるバグが発見されたため、本点を修正しました。 楽曲や譜面に変化はございません。"
 
 [[details.revisions]]
 ver = "2"
@@ -15375,9 +15381,9 @@ date = "2026/10/18 16:36"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "3"
+ver = "4"
 date = ""
-note = "BMS内に1行不要な行が混入してしまっていたことで、特定環境でプレイが不可&#x80FD;になるバグが発見されたため、本点を修正しました。 楽曲や譜面に変化はございません。"
+note = "Bemuseにあっぷしたよー！"
 
 [[details]]
 num = "301"
@@ -15399,12 +15405,18 @@ tags = [
     "Difficulty-beginner",
 ]
 production = "Reaper, EastWest Composer Cloud, Sylenth 1, Addictive Drums, ACE Studio"
-comment_updated = "2026年10月19日 16:25"
+comment_updated = "2026年11月25日 07:49"
 comment = """
+(2026年11月25日 07:49 更新)
 (2026年10月19日 16:25 更新)
 初代IIdxみたいな、あのころの青春の１ページを、現代の科学力で作りました。
 老害のみなさまにはあの頃の青春に戻って応援いただきたいし、若者にも応援されたいです。
 2026/10/19 16:20 JST に、ゲーム内楽曲選択時の視聴音源（#PREVIEW 命令用音源）を追加しました！"""
+
+[[details.revisions]]
+ver = "2"
+date = "2026/10/19 16:25"
+note = "ゲーム内楽曲選択時の視聴音源（#PREVIEW 命令用音源）の追加。"
 
 [[details.revisions]]
 ver = "1"
@@ -15412,9 +15424,9 @@ date = "2026/10/18 16:39"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "ゲーム内楽曲選択時の視聴音源（#PREVIEW 命令用音源）の追加。"
+note = "Bemuseにあっぷしたよー！"
 
 [[details]]
 num = "302"

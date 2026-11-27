@@ -635,13 +635,13 @@ addr = [
     "https://drive.google.com/uc?export=download&id=1hwGygDhgFFDF_BPzIGLOJvcBQipF0lOB",
 ]
 genre = "Arcade Dye"
-impr = "38"
-total = "50280.48"
-total_n = "34917"
-median = "942.5"
-avg = "918.86"
+impr = "39"
+total = "51720.48"
+total_n = "35917"
+median = "945"
+avg = "920.94"
 regist = "2026/10/01 23:07"
-update = "2026/11/25 18:14"
+update = "2026/11/27 01:17"
 
 [[entries]]
 no = "36"
@@ -1193,13 +1193,13 @@ addr = [
     "https://drive.google.com/file/d/1X1UtPp-sxH0uoCyy2wVvELl7pCaBQlJE/view?usp=sharing",
 ]
 genre = "CHRONICLE"
-impr = "51"
-total = "56960.28"
-total_n = "48684"
+impr = "52"
+total = "58096.35"
+total_n = "49655"
 median = "985"
-avg = "954.58"
+avg = "954.9"
 regist = "2026/10/01 23:10"
-update = "2026/11/26 23:15"
+update = "2026/11/27 07:32"
 
 [[entries]]
 no = "65"
@@ -1490,13 +1490,13 @@ addr = [
     "https://drive.google.com/file/d/1-2hLZpQYK20SxZs955LI-Jy1yRgLnLQb/view?usp=sharing",
 ]
 genre = "SOFT -LAND-ING BREAK CORE"
-impr = "23"
-total = "23160.24"
-total_n = "20316"
-median = "925"
-avg = "883.3"
+impr = "24"
+total = "24300.24"
+total_n = "21316"
+median = "927.5"
+avg = "888.16"
 regist = "2026/10/01 23:11"
-update = "2026/11/26 01:23"
+update = "2026/11/27 01:06"
 
 [[entries]]
 no = "81"
@@ -2057,13 +2057,13 @@ title = "秋黴雨"
 size = "122969 KB"
 addr = ["https://drive.google.com/file/d/1svgbzMMKJAr2o5lciXDIi0WiHooLn07G/view?usp=sharing"]
 genre = "和Bass"
-impr = "16"
-total = "17305.2"
-total_n = "15048"
-median = "955"
-avg = "940.5"
+impr = "17"
+total = "18455.2"
+total_n = "16048"
+median = "960"
+avg = "944"
 regist = "2026/10/01 23:15"
-update = "2026/11/19 00:43"
+update = "2026/11/27 01:25"
 
 [[entries]]
 no = "113"
@@ -2852,8 +2852,15 @@ no = "156"
 name = "Towa Hisanaga"
 team = "ンジャメナ国際空港ラウンジ"
 title = "#BEATZ_RIGHT_NOW"
-size = "452000 KB"
-addr = ["https://drive.google.com/file/d/1Ptm8xrYuOnp1M1ANUoFJdoBSdTVqkhUm/view?usp=sharing"]
+size = "3584000 KB"
+addr = [
+    "2026/11/27の更新以降にダウンロードする方 (本体ファイル) [200.7MB]",
+    "https://drive.google.com/file/d/1M7CWC5Ed47S1x3-4kpqvsMeNECGfbOGZ/view?usp=sharing",
+    "2026/11/27の更新以前にダウンロードしていただいている方 (上書き用ファイル)[157.7MB]",
+    "https://drive.google.com/file/d/1BLaozyML4k8Xk6R7YNK7upoHWPWz-R5C/view?usp=sharing",
+    "解凍後、中身を全選択して既存のフォルダ内に「すべて上書きする」でぶち込んでください。",
+    "※BMSデータに更新をかけているのでプレイデータが引き継げません！申し訳ありませんがご了承ください。",
+]
 genre = "HARDSTYLE"
 impr = "21"
 total = "24290.4"
@@ -2861,7 +2868,7 @@ total_n = "20242"
 median = "975"
 avg = "963.9"
 regist = "2026/10/04 20:01"
-update = "2026/11/24 22:10"
+update = "2026/11/27 00:49"
 
 [[entries]]
 no = "157"
@@ -4126,13 +4133,13 @@ addr = [
     "※どちらにも高画質BGA(mp4)が同梱されています。不要な場合は削除して下さい。",
 ]
 genre = "SUSPENSEFUL"
-impr = "28"
-total = "31751.52"
-total_n = "27372"
-median = "992.5"
-avg = "977.57"
+impr = "29"
+total = "32875.56"
+total_n = "28341"
+median = "990"
+avg = "977.27"
 regist = "2026/10/14 01:31"
-update = "2026/11/25 08:20"
+update = "2026/11/27 07:28"
 
 [[entries]]
 no = "225"
@@ -7058,13 +7065,13 @@ title = "Needle and Threads"
 size = "6887 KB"
 addr = ["https://drive.google.com/file/d/1FZkiMz8EHsYZ3kFGMKxgaYRICfUuttsf/view?usp=sharing"]
 genre = "DEATH TECHNO"
-impr = "14"
-total = "15002.28"
-total_n = "12933"
+impr = "15"
+total = "16162.28"
+total_n = "13933"
 median = "920"
-avg = "923.78"
+avg = "928.86"
 regist = "2026/10/19 21:22"
-update = "2026/11/25 21:56"
+update = "2026/11/27 01:31"
 
 [[entries]]
 no = "389"
@@ -7514,13 +7521,13 @@ addr = [
     "https://drive.google.com/file/d/1gIkuSF-iKVmF9-bbFfMMR3WBuQlp5jaB/view?usp=sharing",
 ]
 genre = "Racing Nu Jazz"
-impr = "18"
-total = "27292.8"
-total_n = "17058"
+impr = "19"
+total = "28892.8"
+total_n = "18058"
 median = "985"
-avg = "947.66"
+avg = "950.42"
 regist = "2026/10/19 22:31"
-update = "2026/11/26 16:31"
+update = "2026/11/27 01:46"
 
 [[entries]]
 no = "415"
@@ -7567,6 +7574,8 @@ addr = [
     "(mp4)",
     "https://www.dropbox.com/scl/fi/o3kahjz4x47ytdew54s9w/miraishojo_wmv.zip?rlkey=9t4ertt3iid7ciyy608b8gq30&dl=1",
     "(wmv)",
+    "https://www.dropbox.com/scl/fi/l44ud4ogkr6c9cjuy9amj/miraishojo_dp.zip?rlkey=zgwrgcjlwcnhc58doxacf4bah&dl=1",
+    "(11/27 追加譜面(DP) / Readme追記)",
 ]
 genre = "novel"
 impr = "17"
@@ -7575,7 +7584,7 @@ total_n = "16648"
 median = "995"
 avg = "979.29"
 regist = "2026/10/19 22:44"
-update = "2026/11/25 22:11"
+update = "2026/11/27 08:24"
 
 [[entries]]
 no = "418"

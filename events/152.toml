@@ -32,13 +32,13 @@ addr = [
     "https://www.dropbox.com/scl/fi/l8p13xrd9uylvpysqiexq/_ALYA_-_compact_.zip?rlkey=gmbn01213cl7th45a48efcr79&st=sumj9dyg&dl=1",
 ]
 genre = "Botanical Hi-Tech"
-impr = "64"
-total = "71300.4"
-total_n = "59417"
-median = "947"
-avg = "928.39"
+impr = "63"
+total = "70110"
+total_n = "58425"
+median = "949"
+avg = "927.38"
 regist = "2026/10/01 23:01"
-update = "2026/11/27 22:45"
+update = "2026/11/28 05:20"
 
 [[entries]]
 no = "2"
@@ -144,13 +144,13 @@ title = "クレオメ"
 size = "100123 KB"
 addr = ["https://drive.google.com/file/d/13w8ZBHwd8cNgQjrAu-DdslOY1mDw2YKZ/view?usp=sharing"]
 genre = "objet a"
-impr = "83"
-total = "93887.82"
-total_n = "80246"
-median = "987"
-avg = "966.81"
+impr = "84"
+total = "94987.62"
+total_n = "81186"
+median = "986"
+avg = "966.5"
 regist = "2026/10/01 23:03"
-update = "2026/11/28 03:03"
+update = "2026/11/28 05:29"
 
 [[entries]]
 no = "9"
@@ -285,13 +285,13 @@ title = "36.8℃"
 size = "950000 KB"
 addr = ["https://drive.google.com/file/d/1tIoJfiQPxiL-yw0nQ0V_SA3C9eIrVGmV/view?usp=sharing"]
 genre = "alternative electro pop"
-impr = "64"
-total = "70572.05"
-total_n = "61367"
-median = "980.5"
-avg = "958.85"
+impr = "65"
+total = "71722.05"
+total_n = "62367"
+median = "981"
+avg = "959.49"
 regist = "2026/10/01 23:04"
-update = "2026/11/28 03:05"
+update = "2026/11/28 05:25"
 
 [[entries]]
 no = "17"
@@ -860,13 +860,13 @@ title = "RIDE ON"
 size = "53244 KB"
 addr = ["https://drive.google.com/file/d/1OEPJiwsJnjEnzs70srnVWFDZw8NM5mLj/view?usp=sharing"]
 genre = "Rally House"
-impr = "39"
-total = "42601"
-total_n = "36725"
+impr = "40"
+total = "43685.6"
+total_n = "37660"
 median = "950"
-avg = "941.66"
+avg = "941.5"
 regist = "2026/10/01 23:09"
-update = "2026/11/28 03:08"
+update = "2026/11/28 05:47"
 
 [[entries]]
 no = "49"
@@ -876,13 +876,13 @@ title = "I:O:IX"
 size = "25000 KB"
 addr = ["https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQA0N5b3KMhBQpuPJGdOyIXTAejwNJKw_kS6pEIgvsOFz90?e=9GUCX7"]
 genre = "Giltch Hop/Neuro Hop/Speedcore"
-impr = "46"
-total = "51032.4"
-total_n = "44376"
-median = "974"
-avg = "964.69"
+impr = "47"
+total = "52067.4"
+total_n = "45276"
+median = "973"
+avg = "963.31"
 regist = "2026/10/01 23:09"
-update = "2026/11/26 12:25"
+update = "2026/11/28 05:43"
 
 [[entries]]
 no = "50"
@@ -1250,13 +1250,13 @@ addr = [
     "https://drive.google.com/file/d/17UPXb_0g9spKrvHl0OekICCo4audxiox/view?usp=sharing",
 ]
 genre = "Artstep"
-impr = "64"
-total = "70572.05"
-total_n = "61367"
+impr = "65"
+total = "71722.05"
+total_n = "62367"
 median = "970"
-avg = "958.85"
+avg = "959.49"
 regist = "2026/10/01 23:10"
-update = "2026/11/28 01:14"
+update = "2026/11/28 05:34"
 
 [[entries]]
 no = "68"
@@ -4390,13 +4390,13 @@ addr = [
     "https://drive.google.com/file/d/1u0v5vqKhOAmQnquyRS-aqGjc0VIoBCaa/view?usp=drive_link",
 ]
 genre = "Shoegaze Chiptune"
-impr = "29"
-total = "50554.8"
-total_n = "28086"
-median = "980"
-avg = "968.48"
+impr = "30"
+total = "52345.8"
+total_n = "29081"
+median = "981"
+avg = "969.36"
 regist = "2026/10/15 21:49"
-update = "2026/11/27 20:07"
+update = "2026/11/28 05:51"
 
 [[entries]]
 no = "239"
@@ -6139,13 +6139,13 @@ addr = [
     "https://drive.google.com/file/d/1-c4uyklaPJqzLEOEsPwVu81h6BV_kH6h/view?usp=drive_link",
 ]
 genre = "heaven"
-impr = "22"
-total = "24420.32"
-total_n = "21052"
-median = "988.5"
-avg = "956.9"
+impr = "23"
+total = "25579.16"
+total_n = "22051"
+median = "990"
+avg = "958.73"
 regist = "2026/10/19 06:06"
-update = "2026/11/27 13:51"
+update = "2026/11/28 05:38"
 
 [[entries]]
 no = "337"

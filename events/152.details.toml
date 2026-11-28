@@ -18119,7 +18119,7 @@ genre = "when you hear…"
 genre_sub = "Original・Self"
 source = "-----"
 bga = "BGA include・Unit"
-charts = "CHART_2 (★x8～★x8)"
+charts = "CHART_2 (★x4～★x8)"
 bpm = "140"
 tags = [
     "7Keys",
@@ -18134,8 +18134,9 @@ tags = [
     "Player-beatoraja",
 ]
 production = "非公開"
-comment_updated = "2026年11月26日 08:06"
+comment_updated = "2026年11月28日 18:11"
 comment = """
+(2026年11月28日 18:11 更新)
 (2026年11月26日 08:06 更新)
 (2026年10月23日 11:36 更新)
 (2026年10月23日 11:28 更新)
@@ -18145,14 +18146,19 @@ i saw billions of passer-by who are fully ignorant of you and i didn‘t meant t
 so close your eyes then we could meet each other in a better place where stored up your essence"""
 
 [[details.revisions]]
+ver = "2"
+date = "2026/10/23 11:28"
+note = "BGAを追加し、譜面の内容は変更していない。"
+
+[[details.revisions]]
 ver = "1"
 date = "2026/10/19 18:56"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "2"
+ver = "3"
 date = ""
-note = "BGAを追加し、譜面の内容は変更していない。"
+note = "chart added"
 
 [[details]]
 num = "369"
@@ -18289,8 +18295,10 @@ tags = [
 ]
 production = "FL Studio"
 audition = ["https://soundcloud.com/liaoxingyao/frostlight"]
-comment_updated = "2026年10月22日 16:24"
+comment_updated = "2026年11月28日 20:05"
 comment = """
+(2026年11月28日 20:05 更新)
+(2026年11月28日 20:04 更新)
 (2026年10月22日 16:24 更新)
 (2026年10月20日 22:44 更新)
 (2026年10月20日 14:57 更新)
@@ -18300,9 +18308,15 @@ Star*
 SP NORMAL by Cryo-Myosotis
 SP HYPER by Star*
 SP ANOTHER by Star*
+SP AZOTHER by AZVW_2
 【Website】
 Star* / https://twitter.com/starxh_
 Cryo-Myosotis / https://twitter.com/yoyupond"""
+
+[[details.revisions]]
+ver = "5"
+date = "2026/10/22 16:24"
+note = "新しいFrostlight backbmp.pngに置き換え"
 
 [[details.revisions]]
 ver = "4"
@@ -18325,9 +18339,9 @@ date = "2026/10/19 19:33"
 note = "初版公開"
 
 [[details.revisions]]
-ver = "5"
+ver = "6"
 date = ""
-note = "新しいFrostlight backbmp.pngに置き換え"
+note = "作品を追加修正"
 
 [[details]]
 num = "372"
